@@ -1,9 +1,16 @@
+print("=" * 60)
+print("📚 SEED_DATA.PY IS BEING LOADED!")
+print("=" * 60)
+
 import json
 import os
+import sys
 from app import app
-from models import db  # Import db from models package
+from models import db
 from models.test import Test, Question
 from models.result import TestResult
+
+print(f"📁 Python path: {sys.path}")
 
 def seed_data():
     """Main function to seed the database with all JSON files"""
@@ -12,7 +19,11 @@ def seed_data():
         print("🚀 Starting database seeding process...")
         print("=" * 50)
         
-        # Create tables if they don't exist (don't drop them!)
+        # Get database path for logging
+        db_path = app.config['SQLALCHEMY_DATABASE_URI'].replace('sqlite:///', '')
+        print(f"📁 Using database at: {db_path}")
+        
+        # Create tables if they don't exist
         print("🔄 Ensuring database schema exists...")
         db.create_all()
         print("✅ Database schema ready!")
@@ -23,11 +34,12 @@ def seed_data():
         data_dir = os.path.join(script_dir, 'data')
         
         print(f"📁 Looking for data in: {data_dir}")
+        print(f"📁 Data directory exists: {os.path.exists(data_dir)}")
         
         if not os.path.exists(data_dir):
             print(f"❌ Data directory not found: {data_dir}")
             print("Creating data directory...")
-            os.makedirs(data_dir)
+            os.makedirs(data_dir, exist_ok=True)
             print(f"✅ Created {data_dir}")
             print("Please add your JSON files to this directory and redeploy.")
             return
@@ -47,34 +59,46 @@ def seed_data():
         print("\n📂 Scanning for JSON files...")
         
         json_files_found = False
+        all_files = []
         
         for root, dirs, files in os.walk(data_dir):
             for file in files:
                 if file.endswith('.json'):
                     json_files_found = True
                     file_path = os.path.join(root, file)
-                    relative_path = os.path.relpath(file_path, data_dir)
-                    print(f"\n📄 Processing: {relative_path}")
-                    
-                    success = process_json_file(file_path, stats)
-                    
-                    if success:
-                        stats['files_processed'] += 1
-                    else:
-                        stats['files_failed'] += 1
+                    all_files.append(file_path)
+        
+        print(f"📊 Found {len(all_files)} JSON files total")
+        
+        for file_path in all_files:
+            relative_path = os.path.relpath(file_path, data_dir)
+            print(f"\n📄 Processing: {relative_path}")
+            
+            success = process_json_file(file_path, stats)
+            
+            if success:
+                stats['files_processed'] += 1
+                # Commit after each successful file to save progress
+                try:
+                    db.session.commit()
+                    print(f"  ✅ Committed {relative_path}")
+                except Exception as e:
+                    print(f"  ❌ Error committing: {e}")
+                    db.session.rollback()
+            else:
+                stats['files_failed'] += 1
         
         if not json_files_found:
             print(f"\n❌ No JSON files found in {data_dir}")
-            print("Please add your JSON files to this directory.")
             return
         
-        # Commit all changes to database
+        # Final commit for any remaining changes
         try:
             db.session.commit()
             print(f"\n✅ Successfully committed all changes to database!")
         except Exception as e:
             db.session.rollback()
-            print(f"❌ Error committing to database: {e}")
+            print(f"❌ Error in final commit: {e}")
             return
         
         # Print summary
@@ -153,6 +177,7 @@ def process_json_file(file_path, stats):
             for q_data in paper_data['questions']:
                 # Validate question fields
                 if not all(k in q_data for k in ['question', 'options', 'answer']):
+                    print(f"    ⚠️  Skipping question missing required fields")
                     continue
                 
                 question = Question(
@@ -178,6 +203,8 @@ def process_json_file(file_path, stats):
         return False
     except Exception as e:
         print(f"  ❌ Error processing file {os.path.basename(file_path)}: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 def print_summary(stats):
@@ -203,6 +230,7 @@ def print_summary(stats):
         print(f"\n📋 Sections ({len(stats['sections'])}):")
         for section in sorted(stats['sections']):
             print(f"   • {section}")
+
 def verify_database():
     """Verify that data was loaded correctly"""
     
@@ -214,15 +242,13 @@ def verify_database():
     test_count = Test.query.count()
     question_count = Question.query.count()
     
-    # Safely check for users (User might not be imported)
+    # Safely check for users
     try:
-        # Try to import User inside the function
         from models.user import User
         user_count = User.query.count()
-        print(f"📊 Users in database: {user_count}")
+        print(f"👤 Users in database: {user_count}")
     except (ImportError, AttributeError):
-        # User model doesn't exist or isn't available
-        print(f"📊 Users in database: Not available")
+        print(f"👤 Users in database: Not available")
     
     print(f"📊 Tests in database: {test_count}")
     print(f"📊 Questions in database: {question_count}")
@@ -267,6 +293,10 @@ def seed_users():
         print("✅ Users seeded successfully!")
     except ImportError:
         print("⚠️ User model not available, skipping user seed")
+    except Exception as e:
+        print(f"❌ Error seeding users: {e}")
+        db.session.rollback()
+
 if __name__ == '__main__':
     # Run the full seed
     with app.app_context():

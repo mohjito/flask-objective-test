@@ -1,6 +1,7 @@
 import json
 import os
-from app import app, db
+from app import app
+from models import db  # Import db from models package
 from models.test import Test, Question
 from models.result import TestResult
 
@@ -11,18 +12,24 @@ def seed_data():
         print("🚀 Starting database seeding process...")
         print("=" * 50)
         
-        # Drop and recreate all tables
-        print("🔄 Recreating database schema...")
-        db.drop_all()
+        # Create tables if they don't exist (don't drop them!)
+        print("🔄 Ensuring database schema exists...")
         db.create_all()
-        print("✅ Database schema recreated successfully!")
+        print("✅ Database schema ready!")
         
-        # Set your data directory path
-        data_dir = r'D:\my testbook\flask_objective_test\data'
+        # Get the directory where this script is located
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        # Construct path to data folder relative to script
+        data_dir = os.path.join(script_dir, 'data')
+        
+        print(f"📁 Looking for data in: {data_dir}")
         
         if not os.path.exists(data_dir):
             print(f"❌ Data directory not found: {data_dir}")
-            print("Please create the directory and add JSON files first.")
+            print("Creating data directory...")
+            os.makedirs(data_dir)
+            print(f"✅ Created {data_dir}")
+            print("Please add your JSON files to this directory and redeploy.")
             return
         
         # Statistics
@@ -58,7 +65,7 @@ def seed_data():
         
         if not json_files_found:
             print(f"\n❌ No JSON files found in {data_dir}")
-            print("Please add some JSON files first.")
+            print("Please add your JSON files to this directory.")
             return
         
         # Commit all changes to database
@@ -184,22 +191,18 @@ def print_summary(stats):
     print(f"📝 Total tests created: {stats['total_tests']}")
     print(f"❓ Total questions created: {stats['total_questions']}")
     
-    print(f"\n📚 Categories ({len(stats['categories'])}):")
-    for category in sorted(stats['categories']):
-        test_count = Test.query.filter_by(category=category).count()
-        question_count = db.session.query(Question).join(Test).filter(Test.category == category).count()
-        print(f"   • {category}: {test_count} tests, {question_count} questions")
-    
-    print(f"\n📅 Years ({len(stats['years'])}):")
-    for year in sorted(stats['years']):
-        test_count = Test.query.filter_by(year=year).count()
-        print(f"   • {year}: {test_count} tests")
-    
-    print(f"\n📋 Sections ({len(stats['sections'])}):")
-    for section in sorted(stats['sections']):
-        test_count = Test.query.filter_by(section=section).count()
-        print(f"   • {section}: {test_count} tests")
-
+    if stats['total_tests'] > 0:
+        print(f"\n📚 Categories ({len(stats['categories'])}):")
+        for category in sorted(stats['categories']):
+            print(f"   • {category}")
+        
+        print(f"\n📅 Years ({len(stats['years'])}):")
+        for year in sorted(stats['years']):
+            print(f"   • {year}")
+        
+        print(f"\n📋 Sections ({len(stats['sections'])}):")
+        for section in sorted(stats['sections']):
+            print(f"   • {section}")
 def verify_database():
     """Verify that data was loaded correctly"""
     
@@ -211,15 +214,21 @@ def verify_database():
     test_count = Test.query.count()
     question_count = Question.query.count()
     
-    print(f"📊 Total tests in database: {test_count}")
-    print(f"📊 Total questions in database: {question_count}")
+    # Safely check for users (User might not be imported)
+    try:
+        # Try to import User inside the function
+        from models.user import User
+        user_count = User.query.count()
+        print(f"📊 Users in database: {user_count}")
+    except (ImportError, AttributeError):
+        # User model doesn't exist or isn't available
+        print(f"📊 Users in database: Not available")
+    
+    print(f"📊 Tests in database: {test_count}")
+    print(f"📊 Questions in database: {question_count}")
     
     if test_count == 0:
         print("❌ No tests found in database!")
-        return
-    
-    if question_count == 0:
-        print("❌ No questions found in database!")
         return
     
     # Sample a few tests
@@ -227,47 +236,39 @@ def verify_database():
     tests = Test.query.limit(3).all()
     for test in tests:
         q_count = len(test.questions)
-        print(f"   • {test.name}: {q_count} questions")
-    
-    # Check bilingual data
-    hindi_questions = Question.query.filter(Question.question_hindi.isnot(None)).count()
-    hindi_options = Question.query.filter(Question.options_hindi.isnot(None)).count()
-    
-    print(f"\n🌐 Bilingual Data:")
-    print(f"   • Questions with Hindi: {hindi_questions}/{question_count} ({hindi_questions/question_count*100:.1f}%)")
-    print(f"   • Options with Hindi: {hindi_options}/{question_count} ({hindi_options/question_count*100:.1f}%)")
-    
-    # Check category distribution
-    print("\n📊 Category Distribution:")
-    categories = db.session.query(Test.category).distinct().all()
-    for cat in categories:
-        if cat[0]:
-            count = Test.query.filter_by(category=cat[0]).count()
-            print(f"   • {cat[0]}: {count} tests")
+        print(f"   • {test.name} ({test.category} - {test.year}): {q_count} questions")
 
-def clear_database():
-    """Clear all data from database (optional helper function)"""
-    
-    with app.app_context():
-        confirm = input("⚠️  This will delete ALL data. Are you sure? (yes/no): ")
-        if confirm.lower() == 'yes':
-            db.drop_all()
-            db.create_all()
-            print("✅ Database cleared successfully!")
-        else:
-            print("❌ Operation cancelled.")
+def seed_users():
+    """Seed users if needed"""
+    try:
+        from models.user import User
+        
+        # Check if users already exist
+        if User.query.count() > 0:
+            print("👤 Users already exist, skipping user seed")
+            return
+        
+        print("👤 Seeding users...")
+        
+        # Add test users
+        user1 = User(username='testuser1', email='test1@example.com')
+        user1.set_password('password123')
 
+        user2 = User(username='testuser2', email='test2@example.com')
+        user2.set_password('password456')
+
+        user3 = User(username='admin', email='admin@example.com')
+        user3.set_password('adminpassword')
+
+        db.session.add(user1)
+        db.session.add(user2)
+        db.session.add(user3)
+        db.session.commit()
+        print("✅ Users seeded successfully!")
+    except ImportError:
+        print("⚠️ User model not available, skipping user seed")
 if __name__ == '__main__':
-    # You can add command line arguments if needed
-    import sys
-    
-    if len(sys.argv) > 1:
-        if sys.argv[1] == '--clear':
-            clear_database()
-        elif sys.argv[1] == '--verify':
-            with app.app_context():
-                verify_database()
-        else:
-            print("Usage: python seed_data.py [--clear|--verify]")
-    else:
+    # Run the full seed
+    with app.app_context():
         seed_data()
+        seed_users()

@@ -1,0 +1,281 @@
+{
+    "part2_english": {
+        "name": "English (Part-II)",
+        "category": "TGT",
+        "year": 2023,
+        "section": "PART-II : English (Questions 46-60)",
+        "duration": 15,
+        "questions": [
+            {
+                "serial_no": 46,
+                "question": "Choose the correct option that gives the correct passive voice of the given sentence: Have they done the work?",
+                "question_hindi": "",
+                "options": [
+                    "Have the work been done?",
+                    "Has the work been done?",
+                    "Had the work been done?",
+                    "Will the work be done?"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "Has the work been done?"
+            },
+            {
+                "serial_no": 47,
+                "question": "Choose the option that gives the correct meaning of the phrasal verb: Turn out",
+                "question_hindi": "",
+                "options": [
+                    "to evict someone",
+                    "to kill someone",
+                    "to ridicule someone",
+                    "to give legal notice to someone"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "to evict someone"
+            },
+            {
+                "serial_no": 48,
+                "question": "Fill in the blank with the most appropriate modal auxiliary: Your mother is seriously ill. You ______ leave for home at once. (obligation)",
+                "question_hindi": "",
+                "options": [
+                    "needs",
+                    "might",
+                    "could",
+                    "must"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "must"
+            },
+            {
+                "serial_no": 49,
+                "question": "Choose the option that gives the correct meaning of the given phrasal verb: Send for",
+                "question_hindi": "",
+                "options": [
+                    "start on a journey",
+                    "reach to a decision",
+                    "call someone in",
+                    "improve"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "call someone in"
+            },
+            {
+                "serial_no": 50,
+                "question": "Change the narration to Reported speech and choose the right option: I said to him, \"Do you know when she will go home?\"",
+                "question_hindi": "",
+                "options": [
+                    "I told him if he knew when she will go home?",
+                    "I said to him that did he knew when she would go home.",
+                    "I asked him if he knew when she would go home.",
+                    "I said to him that did he know when will she go home?"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "I asked him if he knew when she would go home."
+            },
+            {
+                "serial_no": 51,
+                "question": "Choose the part of sentence which is incorrect: Has Sachin / not breaked / the record held / by Bradman who made 10,000 runs in his career?",
+                "question_hindi": "",
+                "options": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "B"
+            },
+            {
+                "serial_no": 52,
+                "question": "Choose the correct option for the given one word: Sincere",
+                "question_hindi": "",
+                "options": [
+                    "one who lives by himself",
+                    "an office with no work but high pay",
+                    "surgery without anesthesia",
+                    "cure by naturopathy"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "an office with no work but high pay"
+            },
+            {
+                "serial_no": 53,
+                "question": "Fill in the blank with the most appropriate meaning of the underlined idiom: Rakesh had to deal with all his problems by himself, because he didn't want to depend on his fair weather friends.",
+                "question_hindi": "",
+                "options": [
+                    "Friends who come from rich family.",
+                    "Friends who are loyal only during a time of success.",
+                    "Friends with whom one lived in one's college time.",
+                    "Friends who no longer live with you."
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "Friends who are loyal only during a time of success."
+            },
+            {
+                "serial_no": 54,
+                "question": "Choose the correct tense form to fill in the blank: She jumped off the train while it ______",
+                "question_hindi": "",
+                "options": [
+                    "moved",
+                    "had moved",
+                    "has moved",
+                    "was moving"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "was moving"
+            },
+            {
+                "serial_no": 55,
+                "question": "Choose the correct tense form to fill in the blank: The Headmaster ______ to meet you.",
+                "question_hindi": "",
+                "options": [
+                    "want",
+                    "wants",
+                    "is wanting",
+                    "was wanting"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "wants"
+            },
+            {
+                "serial_no": 56,
+                "question": "Choose the correct option to fill in the blank: ______ had the police reached than the thieves fled.",
+                "question_hindi": "",
+                "options": [
+                    "As soon as",
+                    "No sooner",
+                    "Scarcely",
+                    "As well"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "No sooner"
+            },
+            {
+                "serial_no": 57,
+                "question": "Choose the correct preposition to fill in the blank: He told ______ all the incident.",
+                "question_hindi": "",
+                "options": [
+                    "between",
+                    "among",
+                    "beside",
+                    "about"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "about"
+            },
+            {
+                "serial_no": 58,
+                "question": "Choose the most appropriate preposition to fill in the blank: I am going home ______ the day tomorrow.",
+                "question_hindi": "",
+                "options": [
+                    "in",
+                    "on",
+                    "after",
+                    "at"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "after"
+            },
+            {
+                "serial_no": 59,
+                "question": "Choose the most appropriate preposition to fill in the blank: Mohan gazed ______ the sky in the hope of rain.",
+                "question_hindi": "",
+                "options": [
+                    "at",
+                    "unto",
+                    "besides",
+                    "into"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "at"
+            },
+            {
+                "serial_no": 60,
+                "question": "Choose the option that gives the correct meaning of the given phrasal verb: Give in",
+                "question_hindi": "",
+                "options": [
+                    "distribute",
+                    "deposit",
+                    "donate",
+                    "surrender"
+                ],
+                "options_hindi": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "answer": "surrender"
+            }
+        ]
+    }
+}

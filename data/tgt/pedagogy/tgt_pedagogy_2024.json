@@ -1,0 +1,551 @@
+{
+  "part1": {
+    "name": "Child Development and Pedagogy",
+    "category": "TGT",
+    "year": 2024,
+    "section": "PART-I : Child Development and Pedagogy",
+    "duration": 30,
+    "questions": [
+      {
+        "serial_no": 1,
+        "question": "Which out of the following is the process of arousing, sustaining and regulating activity?",
+        "question_hindi": "निम्नलिखित में से क्रिया को आरम्भ करने, जारी रखने और नियमित करने की प्रक्रिया कौन-सी है ?",
+        "options": [
+          "Interest",
+          "Opinion",
+          "Attitude",
+          "Motivation"
+        ],
+        "options_hindi": [
+          "अभिरुचि",
+          "अभिधारणा",
+          "अभिवृत्ति",
+          "अभिप्रेरणा"
+        ],
+        "answer": "Motivation"
+      },
+      {
+        "serial_no": 2,
+        "question": "Which is not an appropriate statement regarding learning?",
+        "question_hindi": "अधिगम (सीखना) के संबंध में कौन-सा उपयुक्त कथन नहीं है ?",
+        "options": [
+          "Learning is universal process.",
+          "Learning is not the change in behaviour.",
+          "Learning helps in adjustment.",
+          "Learning is transferable from one situation to another."
+        ],
+        "options_hindi": [
+          "सीखना एक सार्वभौमिक प्रक्रिया है।",
+          "सीखना व्यवहार में परिवर्तन नहीं है।",
+          "सीखना समायोजन में सहायक है।",
+          "सीखना एक स्थिति से दूसरी स्थिति में स्थानांतरित किया जा सकता है।"
+        ],
+        "answer": "Learning is not the change in behaviour."
+      },
+      {
+        "serial_no": 3,
+        "question": "'The development of child starts from the head and moves towards the feet.' The given statement is related to which theory of development?",
+        "question_hindi": "बालक का विकास सिर से आरम्भ होकर पैर की दिशा में होता है। प्रस्तुत कथन विकास के किस सिद्धांत से सम्बन्धित है ?",
+        "options": [
+          "Principle of Development Direction",
+          "Principle of Development Sequence",
+          "Principle of Continuous Development",
+          "Principle of Interrelation"
+        ],
+        "options_hindi": [
+          "विकास दिशा का सिद्धांत",
+          "विकास क्रम का सिद्धांत",
+          "निरन्तर विकास का सिद्धांत",
+          "परस्पर सम्बन्ध का सिद्धांत"
+        ],
+        "answer": "Principle of Development Direction"
+      },
+      {
+        "serial_no": 4,
+        "question": "In the following who is related to modeling concept?",
+        "question_hindi": "निम्न में से कौन मॉडलिंग सम्प्रत्यय से सम्बन्धित है ?",
+        "options": [
+          "Sigmund Freud",
+          "Thorndike",
+          "Albert Bandura",
+          "Guilford"
+        ],
+        "options_hindi": [
+          "सिगमण्ड फ्रायड",
+          "थॉर्नडाइक",
+          "अल्बर्ट बण्डुरा",
+          "गिलफोर्ड"
+        ],
+        "answer": "Albert Bandura"
+      },
+      {
+        "serial_no": 5,
+        "question": "Agraphia is:",
+        "question_hindi": "एग्राफिया कहते हैं :",
+        "options": [
+          "In this the patient loses the ability to read.",
+          "In this the patient does not have the ability to express his thoughts in writing.",
+          "In this the patient does not have the ability to do simple addition and subtraction.",
+          "In this the patient is found to be unable to name the objects."
+        ],
+        "options_hindi": [
+          "इसमें रोगी में पढ़ने की क्षमता समाप्त हो जाती है।",
+          "इसमें रोगी में अपने विचारों को लिखकर अभिव्यक्त करने की क्षमता नहीं होती है।",
+          "इसमें रोगी में साधारण जोड़-घटाव करने की क्षमता नहीं होती है।",
+          "इसमें रोगी में वस्तुओं का नाम लेने में अक्षमता पाई जाती है।"
+        ],
+        "answer": "In this the patient does not have the ability to express his thoughts in writing."
+      },
+      {
+        "serial_no": 6,
+        "question": "According to a traditional saying, 'when the fox could not reach the grapes despite all it's efforts, it said that the grapes are sour.' This is an example of:",
+        "question_hindi": "एक पारम्परिक कहावत के अनुसार, 'जब लोमड़ी सभी प्रयास करने के बाद भी अंगूरों तक नहीं पहुँच सकी, तो उसने कहा, 'अंगूर खट्टे हैं।' यह उदाहरण है :",
+        "options": [
+          "Withdrawal",
+          "Rationalization",
+          "Projection",
+          "Regression"
+        ],
+        "options_hindi": [
+          "प्रत्याहार का",
+          "यौक्तिकीकरण का",
+          "प्रक्षेपण का",
+          "प्रतिगमन का"
+        ],
+        "answer": "Rationalization"
+      },
+      {
+        "serial_no": 7,
+        "question": "According to the need hierarchy theory of Maslow, basic need at bottom level is considered:",
+        "question_hindi": "मैस्लो के आवश्यकता पदानुक्रम सिद्धांत के अनुसार, निचले स्तर की प्रथम आधारभूत आवश्यकता मानी गयी है :",
+        "options": [
+          "Belongingness",
+          "Physiological Need",
+          "Self-Actualization",
+          "Security"
+        ],
+        "options_hindi": [
+          "संबद्धता",
+          "दैहिक आवश्यकता",
+          "आत्म-सिद्धि",
+          "सुरक्षा"
+        ],
+        "answer": "Physiological Need"
+      },
+      {
+        "serial_no": 8,
+        "question": "'You can make a student to sit in the class but can't force him to acquire knowledge.' This statement is confirmed by which law of learning?",
+        "question_hindi": "आप छात्र को कक्षा में बैठा सकते हो किन्तु ज्ञान ग्रहण के लिए बाध्य नहीं कर सकते। इस कथन की पुष्टि सीखने के किस नियम से होती है ?",
+        "options": [
+          "by the law of Readiness",
+          "by the law of Exercise",
+          "by the law of Disuse",
+          "by the law of Effect"
+        ],
+        "options_hindi": [
+          "तत्परता के नियम से",
+          "अभ्यास के नियम से",
+          "अनभ्यास के नियम से",
+          "प्रभाव के नियम से"
+        ],
+        "answer": "by the law of Readiness"
+      },
+      {
+        "serial_no": 9,
+        "question": "The concept of reformatory school is:",
+        "question_hindi": "सुधार विद्यालयों का सम्प्रत्यय है :",
+        "options": [
+          "for mentally retarded children",
+          "for gifted children",
+          "for juvenile delinquent children",
+          "for normal children"
+        ],
+        "options_hindi": [
+          "मानसिक मन्द बालकों के लिए",
+          "प्रतिभाशाली बालकों के लिए",
+          "विशेष अपराधी बालकों के लिए",
+          "सामान्य बालकों के लिए"
+        ],
+        "answer": "for juvenile delinquent children"
+      },
+      {
+        "serial_no": 10,
+        "question": "Tolman's theory related to:",
+        "question_hindi": "टॉलमैन के सिद्धांत का संबंध है :",
+        "options": [
+          "Energy system",
+          "Cathexes",
+          "Topology",
+          "Development stages"
+        ],
+        "options_hindi": [
+          "ऊर्जा शक्ति से",
+          "कैथेक्सेज से",
+          "टोपोलॉजी से",
+          "विकास की अवस्थाओं से"
+        ],
+        "answer": "Topology"
+      },
+      {
+        "serial_no": 11,
+        "question": "In which of the following, instinct does not match with related emotion?",
+        "question_hindi": "निम्नलिखित में से किसमें, मूल प्रवृत्ति संबद्ध संवेग से मेल नहीं खाती ?",
+        "options": [
+          "Laughter – Amusement",
+          "Self-Abasement - Feeling of superiority",
+          "Gregariousness – Feeling of loneliness",
+          "Repulsion – Disgust"
+        ],
+        "options_hindi": [
+          "हास्य – आमोद",
+          "आत्महीनता – श्रेष्ठता की भावना",
+          "सामूहिकता – एकाकीपन",
+          "निवृत्ति – घृणा"
+        ],
+        "answer": "Self-Abasement - Feeling of superiority"
+      },
+      {
+        "serial_no": 12,
+        "question": "According to Piaget, concrete operational stage is:",
+        "question_hindi": "पियाजे के अनुसार, मूर्त संक्रियात्मक अवस्था है :",
+        "options": [
+          "0 to 2 years",
+          "7 to 11 years",
+          "11 to 12 years",
+          "above 12 years"
+        ],
+        "options_hindi": [
+          "0 से 2 वर्ष तक",
+          "7 से 11 वर्ष तक",
+          "11 से 12 वर्ष तक",
+          "12 वर्ष से आगे तक"
+        ],
+        "answer": "7 to 11 years"
+      },
+      {
+        "serial_no": 13,
+        "question": "Kohler proved that learning is:",
+        "question_hindi": "कोहलर ने सिद्ध किया कि अधिगम :",
+        "options": [
+          "bonding of stimulus and responses.",
+          "the perception of different part of situation.",
+          "an autonomous random activity.",
+          "the whole situation perception."
+        ],
+        "options_hindi": [
+          "उद्दीपन एवं प्रतिक्रियाओं का संबंध है।",
+          "परिस्थिति के विभिन्न भागों का प्रत्यक्षीकरण है।",
+          "एक स्वायत्त यादृच्छिक गतिविधि है।",
+          "सम्पूर्ण परिस्थिति का प्रत्यक्षीकरण है।"
+        ],
+        "answer": "the whole situation perception."
+      },
+      {
+        "serial_no": 14,
+        "question": "Conditioned Response Theory is given by:",
+        "question_hindi": "सम्बद्ध प्रतिक्रिया सिद्धांत किसने दिया है ?",
+        "options": [
+          "Pavlov",
+          "Skinner",
+          "Thorndike",
+          "Kohler"
+        ],
+        "options_hindi": [
+          "पावलोव",
+          "स्किनर",
+          "थॉर्नडाइक",
+          "कोहलर"
+        ],
+        "answer": "Pavlov"
+      },
+      {
+        "serial_no": 15,
+        "question": "The mental age of a 6 (six) years old girl is 7.5 (seven years six months) years, her I. Q. will be:",
+        "question_hindi": "एक छः साल की बालिका की मानसिक आयु 7.5 वर्ष (7 वर्ष 6 माह) है। उसकी बुद्धि लब्धि होगी :",
+        "options": [
+          "125",
+          "90",
+          "75",
+          "140"
+        ],
+        "options_hindi": [
+          "125",
+          "90",
+          "75",
+          "140"
+        ],
+        "answer": "125"
+      },
+      {
+        "serial_no": 16,
+        "question": "Following are the stages of Kohlberg's theory except ______.",
+        "question_hindi": "................ के अलावा निम्नलिखित कोहलबर्ग के नैतिक विकास के सिद्धांत की अवस्थाएँ हैं।",
+        "options": [
+          "Conventional",
+          "Pre-conventional",
+          "Sensori Motor",
+          "Post-conventional"
+        ],
+        "options_hindi": [
+          "रूढ़िगत",
+          "प्राक्रूढ़िगत",
+          "संवेदी गामक",
+          "पश्चात् रूढ़िगत"
+        ],
+        "answer": "Sensori Motor"
+      },
+      {
+        "serial_no": 17,
+        "question": "Plateau in the learning curve indicates:",
+        "question_hindi": "सीखने के वक्र में पठार इंगित करता है :",
+        "options": [
+          "Working conditions are favourable",
+          "No fatigue",
+          "Task is simple",
+          "Loss of interest"
+        ],
+        "options_hindi": [
+          "कामकाजी परिस्थितियाँ अनुकूल हैं",
+          "कोई थकान नहीं है",
+          "कार्य सरल है",
+          "रुचि की हानि (कमी)"
+        ],
+        "answer": "Loss of interest"
+      },
+      {
+        "serial_no": 18,
+        "question": "'Learning takes place through a process of need reduction.' The learning theory related to the statement is:",
+        "question_hindi": "सीखना, आवश्यकता की पूर्ति की प्रक्रिया के द्वारा होता है। कथन से सम्बन्धित अधिगम सिद्धांत है :",
+        "options": [
+          "Insight theory",
+          "Operant conditioned theory",
+          "Conditioned response theory",
+          "Reinforcement theory"
+        ],
+        "options_hindi": [
+          "अन्तर्दृष्टि सिद्धांत",
+          "क्रियाप्रसूत अधिगम सिद्धांत",
+          "सम्बद्ध प्रतिक्रिया सिद्धांत",
+          "प्रबलन सिद्धांत"
+        ],
+        "answer": "Reinforcement theory"
+      },
+      {
+        "serial_no": 19,
+        "question": "Who postulated the Brain Storming Method for fostering and boosting creativity?",
+        "question_hindi": "सर्जनशीलता के पोषण एवं संवर्धन हेतु मस्तिष्क उद्वेलन विधि का प्रतिपादन किसने किया ?",
+        "options": [
+          "Myres",
+          "Torrance",
+          "Osborn",
+          "Gordon"
+        ],
+        "options_hindi": [
+          "मायर्स ने",
+          "टॉरेन्स ने",
+          "ऑसबर्न ने",
+          "गॉर्डन ने"
+        ],
+        "answer": "Osborn"
+      },
+      {
+        "serial_no": 20,
+        "question": "The concept of 'emotional intelligence' was first given by:",
+        "question_hindi": "सांवेगिक बुद्धि का सम्प्रत्यय सर्वप्रथम दिया गया :",
+        "options": [
+          "Daniel Goleman",
+          "John Mayer and Peter Salovey",
+          "Tolman",
+          "Terman"
+        ],
+        "options_hindi": [
+          "डैन गोलमैन द्वारा",
+          "जॉन मेयर तथा पीटर सेलोवे द्वारा",
+          "टॉलमैन द्वारा",
+          "टर्मन द्वारा"
+        ],
+        "answer": "John Mayer and Peter Salovey"
+      },
+      {
+        "serial_no": 21,
+        "question": "Which of the following is not necessary for the education of visually impaired students?",
+        "question_hindi": "दृष्टिबाधित विद्यार्थियों की शिक्षा के लिए आवश्यक नहीं है।",
+        "options": [
+          "Books printed in small letters",
+          "Audio cassettes",
+          "Braille text material on paper",
+          "Abacus for teaching mathematics"
+        ],
+        "options_hindi": [
+          "छोटे अक्षरों में छपी पुस्तकें",
+          "श्रव्य कैसेट",
+          "कागज पर ब्रेल पाठ्यसामग्री",
+          "गणित पढ़ाने के लिए अबेकस"
+        ],
+        "answer": "Books printed in small letters"
+      },
+      {
+        "serial_no": 22,
+        "question": "In the context of adolescent boys and girls, the most appropriate group of characteristics is:",
+        "question_hindi": "किशोर बालक एवं बालिकाओं के सन्दर्भ में सबसे उपयुक्त समूह है :",
+        "options": [
+          "Idealistic, Superior adjustment, Self-respect",
+          "Abstract thinking, Rationality, Decision making power",
+          "Observation, Feeling of rebellion, Tendency to repeat",
+          "Philosophy, Good adjustment, Feeling of social service"
+        ],
+        "options_hindi": [
+          "आदर्शवादी, श्रेष्ठ समायोजन, आत्मसम्मान",
+          "अमूर्त चिन्तन, तार्किकता, निर्णय शक्ति",
+          "निरीक्षण, विद्रोह की भावना, दोहराने की प्रवृत्ति",
+          "दर्शन, सुसमायोजन, समाज-सेवा की भावना"
+        ],
+        "answer": "Abstract thinking, Rationality, Decision making power"
+      },
+      {
+        "serial_no": 23,
+        "question": "Heredity plays the greatest role in the:",
+        "question_hindi": "आनुवंशिकता बड़ी भूमिका निभाती है :",
+        "options": [
+          "Social Development",
+          "Spiritual Development",
+          "Physical Development",
+          "Cultural Development"
+        ],
+        "options_hindi": [
+          "सामाजिक विकास में",
+          "आध्यात्मिक विकास में",
+          "शारीरिक विकास में",
+          "सांस्कृतिक विकास में"
+        ],
+        "answer": "Physical Development"
+      },
+      {
+        "serial_no": 24,
+        "question": "Who was the exponent of the method of Insight learning?",
+        "question_hindi": "अन्तर्दृष्टि अधिगम पद्धति के प्रतिपादक कौन थे ?",
+        "options": [
+          "Thorndike",
+          "Kohler",
+          "Davis",
+          "Skinner"
+        ],
+        "options_hindi": [
+          "थॉर्नडाइक",
+          "कोहलर",
+          "डेविस",
+          "स्किनर"
+        ],
+        "answer": "Kohler"
+      },
+      {
+        "serial_no": 25,
+        "question": "Theory of Intelligence given by Spearman is:",
+        "question_hindi": "स्पीयरमैन का बुद्धि सम्बन्धी सिद्धांत है :",
+        "options": [
+          "One factor theory",
+          "Two factor theory",
+          "Three factor theory",
+          "Multi-factor theory"
+        ],
+        "options_hindi": [
+          "एक-तत्त्व सिद्धांत",
+          "द्वि-तत्त्व सिद्धांत",
+          "त्रि-आयामी सिद्धांत",
+          "बहुतत्त्व सिद्धांत"
+        ],
+        "answer": "Two factor theory"
+      },
+      {
+        "serial_no": 26,
+        "question": "Teacher needs to create an inclusive environment in the classroom:",
+        "question_hindi": "अध्यापक को कक्षा में समावेशी वातावरण का सृजन करने के लिए :",
+        "options": [
+          "special children should be kept away from educational activities.",
+          "the rights and dignity of special children should be protected.",
+          "special children should be considered as inferior to normal children.",
+          "special children should be looked down upon among normal students."
+        ],
+        "options_hindi": [
+          "विशिष्ट बालकों को शैक्षिक क्रियाकलापों से दूर रखना चाहिए।",
+          "विशिष्ट बालकों के अधिकार एवं सम्मान को सुरक्षित रखना चाहिए।",
+          "विशिष्ट बालकों को सामान्य बालकों से हीन समझना चाहिए।",
+          "सामान्य छात्रों के मध्य विशिष्ट बालकों को नीचा दिखाना चाहिए।"
+        ],
+        "answer": "the rights and dignity of special children should be protected."
+      },
+      {
+        "serial_no": 27,
+        "question": "In continuous and comprehensive evaluation, 'comprehensive' means:",
+        "question_hindi": "सतत एवं व्यापक मूल्यांकन में 'व्यापक' से तात्पर्य है :",
+        "options": [
+          "by evaluation of all subjects",
+          "by evaluation of only educational field",
+          "by homework evaluation",
+          "by evaluating the development of educational and co-educational field"
+        ],
+        "options_hindi": [
+          "सभी विषयों के मूल्यांकन से",
+          "केवल शैक्षिक क्षेत्र के मूल्यांकन से",
+          "गृहकार्य के मूल्यांकन से",
+          "शैक्षिक व सहशैक्षिक क्षेत्र के विकास के मूल्यांकन से"
+        ],
+        "answer": "by evaluating the development of educational and co-educational field"
+      },
+      {
+        "serial_no": 28,
+        "question": "'Anything can be taught at any stage of development.' Expressed by:",
+        "question_hindi": "विकास के किसी भी पड़ाव पर कोई भी वस्तु सिखाई जा सकती है। अभिव्यक्ति है :",
+        "options": [
+          "Ausubel",
+          "Bruner",
+          "Piaget",
+          "Gagne"
+        ],
+        "options_hindi": [
+          "आसुबेल की",
+          "ब्रूनर की",
+          "पियाजे की",
+          "गेने की"
+        ],
+        "answer": "Bruner"
+      },
+      {
+        "serial_no": 29,
+        "question": "Who experimented on 'cat' with reference to trial and error theory of learning?",
+        "question_hindi": "किसने अधिगम के प्रयास एवं त्रुटि सिद्धांत के संदर्भ में 'बिल्ली' पर प्रयोग किया ?",
+        "options": [
+          "Pavlov",
+          "Skinner",
+          "Thorndike",
+          "Guilford"
+        ],
+        "options_hindi": [
+          "पावलोव ने",
+          "स्किनर ने",
+          "थॉर्नडाइक ने",
+          "गिलफोर्ड ने"
+        ],
+        "answer": "Thorndike"
+      },
+      {
+        "serial_no": 30,
+        "question": "Which of the following is not a projective method of personality measurement?",
+        "question_hindi": "निम्न में से कौन-सी व्यक्तित्व मापन की प्रक्षेपी विधि नहीं है ?",
+        "options": [
+          "Association technique",
+          "Construction technique",
+          "Case study",
+          "Completion technique"
+        ],
+        "options_hindi": [
+          "साहचर्य तकनीकी",
+          "रचना तकनीकी",
+          "जीवन इतिहास",
+          "पूर्ति तकनीकी"
+        ],
+        "answer": "Case study"
+      }
+    ]
+  }
+}

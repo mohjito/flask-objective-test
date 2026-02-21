@@ -1,0 +1,1091 @@
+{
+    "part4_science": {
+        "name": "विज्ञान (भाग-IV)",
+        "category": "TGT",
+        "year": 2023,
+        "section": "PART-IV : Science (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "If the amplitude of loudness of sound becomes twice, then loudness increases by a factor of:",
+                "question_hindi": "यदि ध्वनि तरंग का आयाम दुगुना हो जाये, तो ध्वनि की प्रबलता किस गुणक में बढ़ जाती है?",
+                "options": [
+                    "2",
+                    "4",
+                    "8",
+                    "16"
+                ],
+                "options_hindi": [
+                    "2",
+                    "4",
+                    "8",
+                    "16"
+                ],
+                "answer": "4"
+            },
+            {
+                "serial_no": 92,
+                "question": "The range of gravitational force is:",
+                "question_hindi": "गुरुत्वाकर्षण बल की परास होती है:",
+                "options": [
+                    "10-14 m",
+                    "Infinite",
+                    "10-15 m",
+                    "1 m"
+                ],
+                "options_hindi": [
+                    "10-14 मीटर",
+                    "अनन्त",
+                    "10-15 मीटर",
+                    "1 मीटर"
+                ],
+                "answer": "Infinite"
+            },
+            {
+                "serial_no": 93,
+                "question": "Bioluminescence occurs in:",
+                "question_hindi": "जैवप्रदीप्ति पायी जाती है:",
+                "options": [
+                    "Coelenterata and Ctenophora",
+                    "Ctenophora and Porifera",
+                    "Porifera and Coelenterata",
+                    "All options are right"
+                ],
+                "options_hindi": [
+                    "सीलेन्ट्रेटा तथा टीनोफोरा में",
+                    "टीनोफोरा तथा पोरीफेरा में",
+                    "पोरीफेरा तथा सीलेन्ट्रेटा में",
+                    "सभी विकल्प सही हैं"
+                ],
+                "answer": "Coelenterata and Ctenophora"
+            },
+            {
+                "serial_no": 94,
+                "question": "A force F = 2i + 3j + 6k Newton acts on a 5 kg object for 10 second, then the change in velocity of object will be:",
+                "question_hindi": "एक 5 किग्रा द्रव्यमान की वस्तु पर एक बल F = 2i + 3j + 6k न्यूटन, 10 सेकण्ड समय तक कार्य करता है, तब वस्तु के वेग में परिवर्तन होगा:",
+                "options": [
+                    "12 m/s",
+                    "14 m/s",
+                    "24 m/s",
+                    "36 m/s"
+                ],
+                "options_hindi": [
+                    "12 मीटर/सेकण्ड",
+                    "14 मीटर/सेकण्ड",
+                    "24 मीटर/सेकण्ड",
+                    "36 मीटर/सेकण्ड"
+                ],
+                "answer": "14 m/s"
+            },
+            {
+                "serial_no": 95,
+                "question": "Lichens are very good pollution indicators. They are made up of:",
+                "question_hindi": "लाइकेन बहुत अच्छे प्रदूषण सूचक हैं। ये किनसे बने हुए हैं?",
+                "options": [
+                    "Prions and Algae",
+                    "Fungi and Prions",
+                    "Phycobiont and Mycobiont",
+                    "Prions and Euglenoids"
+                ],
+                "options_hindi": [
+                    "प्रायोन तथा शैवाल",
+                    "कवक तथा प्रायोन",
+                    "शैवालांश तथा कवकांश",
+                    "प्रायोन तथा युग्लनॉइड"
+                ],
+                "answer": "Phycobiont and Mycobiont"
+            },
+            {
+                "serial_no": 96,
+                "question": "Which of the following is not appropriate to understand science at upper primary stage?",
+                "question_hindi": "उच्च प्राथमिक स्तर पर विज्ञान को समझने के लिए निम्नलिखित में से कौन-सा उपयुक्त नहीं है?",
+                "options": [
+                    "Observing things and recordings",
+                    "Plotting graphs",
+                    "Hands on experience",
+                    "Learn the subject through abstraction"
+                ],
+                "options_hindi": [
+                    "वस्तुओं का प्रेक्षण तथा रिकॉर्ड करना",
+                    "ग्राफ बनाना",
+                    "स्वयं करने का अनुभव",
+                    "विषय को अमूर्तन के द्वारा समझना"
+                ],
+                "answer": "Learn the subject through abstraction"
+            },
+            {
+                "serial_no": 97,
+                "question": "Gibbons, proboscis monkeys and Rhinoceros found in which of the following subregion of oriental Zoogeographical region?",
+                "question_hindi": "गिब्बन, सूंडवाला बंदर तथा राइनोसेरस किस ओरिएन्टल प्राणी भौगोलिक क्षेत्र के उपक्षेत्र में पाये जाते हैं?",
+                "options": [
+                    "Indian subregion",
+                    "Ceylonian subregion",
+                    "Indo-China subregion",
+                    "Indo-Malayan subregion"
+                ],
+                "options_hindi": [
+                    "इण्डियन उपक्षेत्र",
+                    "सीलोनियन उपक्षेत्र",
+                    "इंडो-चाइना उपक्षेत्र",
+                    "इंडो-मलायन उपक्षेत्र"
+                ],
+                "answer": "Indo-Malayan subregion"
+            },
+            {
+                "serial_no": 98,
+                "question": "The chief producers in oceans are:",
+                "question_hindi": "महासागर में मुख्य उत्पादक हैं:",
+                "options": [
+                    "Dinoflagellates",
+                    "Diatoms",
+                    "Euglenoids",
+                    "Planktons"
+                ],
+                "options_hindi": [
+                    "डाइनोफ्लैजिलेट्स",
+                    "डाइएटम्स",
+                    "युग्लिनॉइड्स",
+                    "प्लवक"
+                ],
+                "answer": "Diatoms"
+            },
+            {
+                "serial_no": 99,
+                "question": "In following which is element of physical science lesson?",
+                "question_hindi": "निम्न में से कौन-सा भौतिक विज्ञान पाठ का आधारभूत घटक है?",
+                "options": [
+                    "Title of lesson",
+                    "Introduction",
+                    "Presentation",
+                    "All options are right"
+                ],
+                "options_hindi": [
+                    "पाठ का शीर्षक",
+                    "परिचय",
+                    "प्रस्तुति",
+                    "सभी विकल्प सही हैं"
+                ],
+                "answer": "All options are right"
+            },
+            {
+                "serial_no": 100,
+                "question": "Which of the following represents the correct number of moles of each element in 40 g of Ferric sulphate? [Atomic mass Fe = 56 u, S = 32 u, O = 16 u]",
+                "question_hindi": "निम्नलिखित में से कौन-सा 40 g फेरिक सल्फेट में प्रत्येक तत्व के मोलों की सही संख्या को प्रदर्शित करता है? [परमाण्वीय द्रव्यमान Fe = 56 u, S = 32 u, O = 16 u]",
+                "options": [
+                    "Fe 2, S 3, O 12",
+                    "Fe 1, S 1, O 4",
+                    "Fe 0.2, S 0.3, O 1.2",
+                    "Fe 0.1, S 0.1, O 0.4"
+                ],
+                "options_hindi": [
+                    "Fe 2, S 3, O 12",
+                    "Fe 1, S 1, O 4",
+                    "Fe 0.2, S 0.3, O 1.2",
+                    "Fe 0.1, S 0.1, O 0.4"
+                ],
+                "answer": "Fe 0.2, S 0.3, O 1.2"
+            },
+            {
+                "serial_no": 101,
+                "question": "The wall of alimentary canal possess four layer's. Which of the following is the correct sequence from outside to inside?",
+                "question_hindi": "आहारनाल की दीवार चार परतों की बनी होती है। निम्न में से कौन-सा क्रम बाहर से अन्दर की ओर सही है?",
+                "options": [
+                    "Mucosa → Muscularis → Submucosa → Serosa",
+                    "Serosa → Muscularis → Submucosa → Mucosa",
+                    "Submucosa → Mucosa → Muscularis → Serosa",
+                    "Mucosa → Submucosa → Muscularis → Serosa"
+                ],
+                "options_hindi": [
+                    "म्यूकोसा → मस्कुलरिस → सब्म्यूकोसा → सीरोसा",
+                    "सीरोसा → मस्कुलरिस → सब्म्यूकोसा → म्यूकोसा",
+                    "सब्म्यूकोसा → म्यूकोसा → मस्कुलरिस → सीरोसा",
+                    "म्यूकोसा → सब्म्यूकोसा → मस्कुलरिस → सीरोसा"
+                ],
+                "answer": "Serosa → Muscularis → Submucosa → Mucosa"
+            },
+            {
+                "serial_no": 102,
+                "question": "A light is refracted through a prism. The angle of deviation is:",
+                "question_hindi": "एक प्रकाश किसी एक प्रिज्म से अपवर्तित होता है। प्रिज्म का विचलन कोण है:",
+                "options": [
+                    "The angle between incident ray and emergent ray",
+                    "The angle between incident ray and refracted ray",
+                    "The angle between refracted ray and emergent ray",
+                    "The angle of prism"
+                ],
+                "options_hindi": [
+                    "आपतित किरण तथा निर्गत किरण के मध्य का कोण",
+                    "आपतित किरण तथा अपवर्तित किरण के मध्य का कोण",
+                    "अपवर्तित किरण एवं निर्गत किरण के मध्य का कोण",
+                    "प्रिज्म कोण"
+                ],
+                "answer": "The angle between incident ray and emergent ray"
+            },
+            {
+                "serial_no": 103,
+                "question": "In which of the following is developing stage of process of action research?",
+                "question_hindi": "निम्न में से कौन-सी कार्यगत शोध संचालित करने की विकासशील अवस्था है?",
+                "options": [
+                    "Developing an action plan",
+                    "Implementation plan and collecting data",
+                    "Identified and limiting the topic",
+                    "Sharing and communicating the results"
+                ],
+                "options_hindi": [
+                    "कार्यगत योजना विकसित करना",
+                    "योजना कार्यान्वित कर व आंकड़े एकत्र करना",
+                    "प्रकरण की पहचान एवं इसका परिसीमन करना",
+                    "परिणामों पर चर्चा एवं उनका संप्रेषण करना"
+                ],
+                "answer": "Developing an action plan"
+            },
+            {
+                "serial_no": 104,
+                "question": "Match the Column-I with Column-II: Column-I: (a) Photochemical decomposition, (b) Thermal decomposition, (c) Electrolysis, (d) Displacement reaction; Column-II: (i) 2KClO3(s) → 2KCl(s) + 3O2(g), (ii) 2Al2O3(m) → 4Al(s) + 3O2(g), (iii) Mg(s) + CuSO4(aq) → MgSO4(aq) + Cu(s), (iv) 2AgBr(s) → 2Ag(s) + Br2(g)",
+                "question_hindi": "कॉलम-I का मिलान कॉलम-II से कीजिए: कॉलम-I: (a) प्रकाश रासायनिक अपघटन, (b) ऊष्मीय अपघटन, (c) विद्युत अपघटन, (d) विस्थापन अभिक्रिया; कॉलम-II: (i) 2KClO3(s) → 2KCl(s) + 3O2(g), (ii) 2Al2O3(m) → 4Al(s) + 3O2(g), (iii) Mg(s) + CuSO4(aq) → MgSO4(aq) + Cu(s), (iv) 2AgBr(s) → 2Ag(s) + Br2(g)",
+                "options": [
+                    "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+                    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+                    "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+                    "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+                ],
+                "options_hindi": [
+                    "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+                    "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+                    "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+                    "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+                ],
+                "answer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+            },
+            {
+                "serial_no": 105,
+                "question": "If an object is moving with constant acceleration along one direction only, then the distance travelled in the nth second is: [Take U = Initial Velocity, a = Acceleration]",
+                "question_hindi": "यदि एक वस्तु नियत त्वरण से केवल एक दिशा में गति कर रही हो, तब वस्तु के द्वारा nवें सेकण्ड में तय की गई दूरी है: [U = प्रारंभिक वेग, a = त्वरण लीजिए]",
+                "options": [
+                    "U + a (1 + n²)",
+                    "U + (a/2)(2n - 1)",
+                    "U + (a/2)(2n + 1)",
+                    "U + (a/2)(2n + 1)²"
+                ],
+                "options_hindi": [
+                    "U + a (1 + n²)",
+                    "U + (a/2)(2n - 1)",
+                    "U + (a/2)(2n + 1)",
+                    "U + (a/2)(2n + 1)²"
+                ],
+                "answer": "U + (a/2)(2n - 1)"
+            },
+            {
+                "serial_no": 106,
+                "question": "When an electron is passing through magnetic field, then:",
+                "question_hindi": "जब एक इलेक्ट्रॉन किसी चुम्बकीय क्षेत्र से होकर गुजरता है, तब:",
+                "options": [
+                    "Its velocity is increased",
+                    "Its energy is increased",
+                    "Both velocity and energy are increased",
+                    "Velocity and energy of electron remain constant"
+                ],
+                "options_hindi": [
+                    "इसका वेग बढ़ जाता है",
+                    "इसकी ऊर्जा बढ़ जाती है",
+                    "वेग एवं ऊर्जा दोनों बढ़ जाते हैं",
+                    "इसका वेग एवं ऊर्जा नियत रहते हैं"
+                ],
+                "answer": "Velocity and energy of electron remain constant"
+            },
+            {
+                "serial_no": 107,
+                "question": "Study the given Venn diagram carefully. Which of the following colloidal systems correctly represent points A, B and C?",
+                "question_hindi": "निम्नलिखित में से कौन-से कोलाइडी तंत्र A, B तथा C को सही प्रदर्शित करते हैं?",
+                "options": [
+                    "A: Mist, B: Whipped cream, C: Dust fumes",
+                    "A: Milk, B: Hair cream, C: Pumice stone",
+                    "A: Paints, B: Smoke, C: Cloud",
+                    "A: Coloured glasses, B: Wings of butterflies, C: Butter"
+                ],
+                "options_hindi": [
+                    "A: कुहासा, B: फेंटी हुई मलाई, C: धूल कण",
+                    "A: दूध, B: बालों की क्रीम, C: झांवा पत्थर",
+                    "A: पेंट, B: धुआँ, C: बादल",
+                    "A: रंगीन काँच, B: तितली के पंख, C: मक्खन"
+                ],
+                "answer": "A: Mist, B: Whipped cream, C: Dust fumes"
+            },
+            {
+                "serial_no": 108,
+                "question": "The minimum distance of distinct vision for young adult with normal vision is about:",
+                "question_hindi": "सामान्य दृष्टि के वयस्क के लिए सुस्पष्ट दर्शन की अल्पतम दूरी होती है, लगभग:",
+                "options": [
+                    "2.5 m",
+                    "25 cm",
+                    "2.5 cm",
+                    "25 m"
+                ],
+                "options_hindi": [
+                    "2.5 मीटर",
+                    "25 सेमी",
+                    "2.5 सेमी",
+                    "25 मीटर"
+                ],
+                "answer": "25 cm"
+            },
+            {
+                "serial_no": 109,
+                "question": "The distance (s) travelled by a particle varies with time (t) as: s = 1.2 t² meter. The average speed during time interval 0 to 10 second is:",
+                "question_hindi": "एक कण द्वारा तय की गई दूरी समय के साथ निम्न प्रकार परिवर्तित होती है: दूरी (s) = 1.2 t² मीटर। इसके लिए समय अंतराल 0 से 10 सेकण्ड के मध्य औसत चाल है:",
+                "options": [
+                    "6 m/s",
+                    "24 m/s",
+                    "36 m/s",
+                    "12 m/s"
+                ],
+                "options_hindi": [
+                    "6 मीटर/सेकण्ड",
+                    "24 मीटर/सेकण्ड",
+                    "36 मीटर/सेकण्ड",
+                    "12 मीटर/सेकण्ड"
+                ],
+                "answer": "12 m/s"
+            },
+            {
+                "serial_no": 110,
+                "question": "Which one of the following is co-curricular activity in science teaching?",
+                "question_hindi": "निम्नलिखित में से कौन-सी विज्ञान शिक्षण में सह-शैक्षिक गतिविधि है?",
+                "options": [
+                    "Science club",
+                    "Audio-visual aids",
+                    "Text-book",
+                    "Blackboard"
+                ],
+                "options_hindi": [
+                    "विज्ञान क्लब",
+                    "श्रव्य-दृश्य सहायता",
+                    "पाठ्य-पुस्तक",
+                    "श्यामपट्ट"
+                ],
+                "answer": "Science club"
+            },
+            {
+                "serial_no": 111,
+                "question": "Match the Column-I with Column-II: Column-I: (a) 28 g He, (b) 0.5 mole of O₂, (c) Molecular mass of common salt, (d) 1.5 mole of calcium; Column-II: (i) 58.5 u, (ii) 7 mole, (iii) 60 g, (iv) 16 g",
+                "question_hindi": "कॉलम-I का मिलान कॉलम-II से कीजिए: कॉलम-I: (a) 28 g He, (b) 0.5 मोल O₂, (c) सामान्य नमक का अणुभार, (d) कैल्सियम के 1.5 मोल; कॉलम-II: (i) 58.5 u, (ii) 7 मोल, (iii) 60 g, (iv) 16 g",
+                "options": [
+                    "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+                    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+                    "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+                    "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+                ],
+                "options_hindi": [
+                    "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+                    "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+                    "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+                    "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+                ],
+                "answer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+            },
+            {
+                "serial_no": 112,
+                "question": "206 g of molten sodium bromide is electrolysed. The maximum mass of sodium obtained will be: [Atomic mass Na = 23 u, Br = 80 u]",
+                "question_hindi": "206 g पिघले हुए सोडियम ब्रोमाइड को विद्युत अपघटन किया जाता है, तो सोडियम का प्राप्त अधिकतम द्रव्यमान होगा: [परमाण्वीय द्रव्यमान Na = 23 u, Br = 80 u]",
+                "options": [
+                    "40 g",
+                    "46 g",
+                    "52 g",
+                    "23 g"
+                ],
+                "options_hindi": [
+                    "40 g",
+                    "46 g",
+                    "52 g",
+                    "23 g"
+                ],
+                "answer": "46 g"
+            },
+            {
+                "serial_no": 113,
+                "question": "In the entire process of glycolysis, 4 phosphorylation occurs in two of the following steps: I. 1-3 Diphosphoglyceric acid → 3-phosphoglyceric acid, II. Phosphoenol Pyruvic acid → Pyruvic acid, III. 2-phosphoglyceric acid → phosphoenol pyruvic acid, IV. 3-phosphoglyceric acid → 2-phosphoglyceric acid",
+                "question_hindi": "ग्लाइकोलिसिस की संपूर्ण प्रक्रिया में किन्हीं दो में चार फास्फोरीकरण होता है: I. 1-3 डाइफॉस्फोग्लिसरिक अम्ल → 3-फॉस्फोग्लिसरिक अम्ल, II. फॉस्फोइनॉल पाइरुविक अम्ल → पाइरुविक अम्ल, III. 2-फॉस्फोग्लिसरिक अम्ल → फॉस्फोइनॉल पाइरुविक अम्ल, IV. 3-फॉस्फोग्लिसरिक अम्ल → 2-फॉस्फोग्लिसरिक अम्ल",
+                "options": [
+                    "Only I and II",
+                    "Only II and III",
+                    "Only III and IV",
+                    "Only I and IV"
+                ],
+                "options_hindi": [
+                    "केवल I तथा II",
+                    "केवल II तथा III",
+                    "केवल III तथा IV",
+                    "केवल I तथा IV"
+                ],
+                "answer": "Only I and II"
+            },
+            {
+                "serial_no": 114,
+                "question": "Match the mixture given in Column-I with their method of separation given in Column-II: Column-I: (a) Oil mixed with water, (b) Iron powder mixed with flour, (c) Salt mixed with water, (d) Kidney beans mixed with rice flour; Column-II: (i) Sieving, (ii) Decantation, (iii) Magnet, (iv) Evaporation",
+                "question_hindi": "कॉलम-I में दिए गए मिश्रण का मिलान कॉलम-II में दिए गए उनके पृथक्करण की विधि से कीजिए: कॉलम-I: (a) जल में तेल का मिश्रण, (b) आटे में मिला हुआ लोहे का चूर्ण, (c) जल में नमक का मिश्रण, (d) चावल के आटे में राजमा मिला हुआ; कॉलम-II: (i) छानना, (ii) निथारना, (iii) चुम्बक, (iv) वाष्पन",
+                "options": [
+                    "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+                    "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+                    "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+                    "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+                ],
+                "options_hindi": [
+                    "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+                    "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+                    "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+                    "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+                ],
+                "answer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+            },
+            {
+                "serial_no": 115,
+                "question": "A bulb of 210 W will produce heat in calorie within 5 minutes? [Take 4.2 J = 1 cal.]",
+                "question_hindi": "एक 210 वॉट का बल्ब 5 मिनट में कितनी कैलोरी ऊष्मा उत्पन्न करेगा? [4.2 जूल = 1 कैलोरी लीजिए]",
+                "options": [
+                    "63,000 cal",
+                    "80,000 cal",
+                    "15,000 cal",
+                    "10,500 cal"
+                ],
+                "options_hindi": [
+                    "63,000 कैलोरी",
+                    "80,000 कैलोरी",
+                    "15,000 कैलोरी",
+                    "10,500 कैलोरी"
+                ],
+                "answer": "15,000 cal"
+            },
+            {
+                "serial_no": 116,
+                "question": "The scientist who first explained that cells divide and new cells are formed from pre existing cells is:",
+                "question_hindi": "किस वैज्ञानिक ने सर्वप्रथम समझाया कि कोशिकाएँ विभाजित होती हैं तथा नई कोशिकाओं का सृजन पूर्व कोशिकाओं से ही होता है?",
+                "options": [
+                    "Walther Flemming",
+                    "Rudolf Virchow",
+                    "Robert Hooke",
+                    "Schleiden and Schwann"
+                ],
+                "options_hindi": [
+                    "वाल्थर फ्लेमिंग",
+                    "रुडोल्फ विरचो",
+                    "रॉबर्ट हुक",
+                    "श्लाइडेन तथा श्वान"
+                ],
+                "answer": "Rudolf Virchow"
+            },
+            {
+                "serial_no": 117,
+                "question": "Which of the following are exothermic processes? (i) Reaction of water with quick lime, (ii) Dilution of an acid, (iii) Evaporation of water, (iv) Sublimation of camphor (crystals)",
+                "question_hindi": "निम्नलिखित में से कौन-से ऊष्माक्षेपी प्रक्रम हैं? (i) बिना बुझे चूने की जल से अभिक्रिया, (ii) अम्ल का तनुकरण, (iii) जल का वाष्पन, (iv) कपूर (क्रिस्टल) का ऊर्ध्वपातन",
+                "options": [
+                    "(i) and (ii)",
+                    "(ii) and (iii)",
+                    "(i) and (iv)",
+                    "(ii) and (iv)"
+                ],
+                "options_hindi": [
+                    "(i) और (ii)",
+                    "(ii) और (iii)",
+                    "(i) और (iv)",
+                    "(ii) और (iv)"
+                ],
+                "answer": "(i) and (ii)"
+            },
+            {
+                "serial_no": 118,
+                "question": "Which is correct option in following?",
+                "question_hindi": "निम्न में से सही विकल्प कौन-सा है?",
+                "options": [
+                    "Sliding friction > Rolling friction > Static friction",
+                    "Rolling friction > Sliding friction > Static friction",
+                    "Rolling friction > Static friction > Sliding friction",
+                    "Static friction > Sliding friction > Rolling friction"
+                ],
+                "options_hindi": [
+                    "सर्पी घर्षण > लोटनिक घर्षण > स्थैतिक घर्षण",
+                    "लोटनिक घर्षण > सर्पी घर्षण > स्थैतिक घर्षण",
+                    "लोटनिक घर्षण > स्थैतिक घर्षण > सर्पी घर्षण",
+                    "स्थैतिक घर्षण > सर्पी घर्षण > लोटनिक घर्षण"
+                ],
+                "answer": "Static friction > Sliding friction > Rolling friction"
+            },
+            {
+                "serial_no": 119,
+                "question": "The chemical formula of cryolite is:",
+                "question_hindi": "क्रायोलाइट का रासायनिक सूत्र है:",
+                "options": [
+                    "Al₂O₃·2H₂O",
+                    "Na₃AlF₆",
+                    "Na₂AlF₆",
+                    "NaAlF₃"
+                ],
+                "options_hindi": [
+                    "Al₂O₃·2H₂O",
+                    "Na₃AlF₆",
+                    "Na₂AlF₆",
+                    "NaAlF₃"
+                ],
+                "answer": "Na₃AlF₆"
+            },
+            {
+                "serial_no": 120,
+                "question": "Which one of these phylum possess closed circulatory system?",
+                "question_hindi": "इनमें से किस संघ में बंद परिसंचरण तंत्र पाया जाता है?",
+                "options": [
+                    "Annelida",
+                    "Arthropoda",
+                    "Mollusca",
+                    "Echinodermata"
+                ],
+                "options_hindi": [
+                    "एनेलिडा",
+                    "आर्थोपोडा",
+                    "मोलस्का",
+                    "इकाइनोडर्मेटा"
+                ],
+                "answer": "Annelida"
+            },
+            {
+                "serial_no": 121,
+                "question": "A porter lifts a luggage of 15 kg from ground and puts it on his head 2.0 m above the ground. The work done by porter on the luggage is: [Take g = 10 m/s²]",
+                "question_hindi": "एक कुली 15 किलोग्राम का वजन धरती से 2.0 मीटर ऊपर उठाकर अपने सिर पर रखता है। कुली द्वारा वजन पर किया गया कार्य है: [g = 10 m/s² लीजिए]",
+                "options": [
+                    "300 Nm",
+                    "30 Nm",
+                    "600 Nm",
+                    "3 Nm"
+                ],
+                "options_hindi": [
+                    "300 न्यूटन मीटर",
+                    "30 न्यूटन मीटर",
+                    "600 न्यूटन मीटर",
+                    "3 न्यूटन मीटर"
+                ],
+                "answer": "300 Nm"
+            },
+            {
+                "serial_no": 122,
+                "question": "Which of the following set of fishes are edible?",
+                "question_hindi": "निम्न में से किस सेट की मछलियाँ खाने योग्य हैं?",
+                "options": [
+                    "Catla, Rohu, Hilsa and Pomfret",
+                    "Prawn, Sardines, Lobsters and Rohu",
+                    "Prawn, Lobsters, Crab and Oysters",
+                    "Rohu, Mackerel, Lobsters and Crab"
+                ],
+                "options_hindi": [
+                    "कटला, रोहू, हिल्सा तथा पॉमफ्रेट",
+                    "झींगा, सार्डाइन्स, झींगा मछली तथा रोहू",
+                    "झींगा, झींगा मछली, केकड़ा तथा सीप",
+                    "रोहू, मैकेरल, झींगा मछली तथा केकड़ा"
+                ],
+                "answer": "Catla, Rohu, Hilsa and Pomfret"
+            },
+            {
+                "serial_no": 123,
+                "question": "What are the primary lymphoid organs in the body?",
+                "question_hindi": "प्राथमिक लसीकाभ अंग कौन-से हैं?",
+                "options": [
+                    "Spleen and lymph nodes",
+                    "Tonsils and payer's patches",
+                    "Bone marrow and thymus",
+                    "Thymus and appendix"
+                ],
+                "options_hindi": [
+                    "प्लीहा तथा लसीका ग्रन्थियाँ",
+                    "टॉन्सिल तथा पेयर्स पैचेज",
+                    "अस्थि मज्जा तथा थाइमस",
+                    "थाइमस तथा परिशेषिका"
+                ],
+                "answer": "Bone marrow and thymus"
+            },
+            {
+                "serial_no": 124,
+                "question": "Which of the following statement is not true?",
+                "question_hindi": "निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+                "options": [
+                    "When a candle burns, both physical and chemical changes take place.",
+                    "Anaerobic bacteria digest animal waste and produce biogas.",
+                    "Depositing a layer of iron on zinc is called galvanization.",
+                    "Stretching of rubber band is a physical change."
+                ],
+                "options_hindi": [
+                    "जब एक मोमबत्ती जलती है, तो भौतिक तथा रासायनिक परिवर्तन दोनों होते हैं।",
+                    "अवायवीय जीवाणु पशुओं के अपशिष्ट को पचाते हैं तथा बायोगैस उत्पन्न करते हैं।",
+                    "जिंक के ऊपर लोहे की एक परत का निक्षेपण गैल्वनीकरण कहलाता है।",
+                    "रबर बैण्ड को खींचना एक भौतिक परिवर्तन है।"
+                ],
+                "answer": "Depositing a layer of iron on zinc is called galvanization."
+            },
+            {
+                "serial_no": 125,
+                "question": "When glomerular filtration rate falls which of the following hormone is released to stimulate glomerular blood flow?",
+                "question_hindi": "जब ग्लोमेरुलर निस्यंदन दर कम हो जाती है, तब कौन-सा हॉर्मोन वृक्क गुच्छ में रक्त प्रवाह को बढ़ाता है?",
+                "options": [
+                    "ADH (Antidiuretic hormone)",
+                    "Renin",
+                    "Angiotensin",
+                    "Aldosterone"
+                ],
+                "options_hindi": [
+                    "एंटीडाइयूरेटिक हॉर्मोन (एडीएच)",
+                    "रेनिन",
+                    "एंजियोटेन्सिन",
+                    "एल्डोस्टेरॉन"
+                ],
+                "answer": "Renin"
+            },
+            {
+                "serial_no": 126,
+                "question": "Which of the following species is critically endangered reptile in India?",
+                "question_hindi": "निम्न में से भारत में कौन-सी सरीसृप प्रजाति गंभीर रूप से लुप्तप्राय है?",
+                "options": [
+                    "Gharial",
+                    "Bengal Monitor",
+                    "Common Skink",
+                    "Green Turtle"
+                ],
+                "options_hindi": [
+                    "घड़ियाल",
+                    "बंगाल मॉनिटर गोह",
+                    "साँप की मौसी",
+                    "हरा कछुआ"
+                ],
+                "answer": "Gharial"
+            },
+            {
+                "serial_no": 127,
+                "question": "A convex mirror has a radius of curvature of 3.0 m. If a object is located at 5 m from the mirror, then position of image is:",
+                "question_hindi": "एक उत्तल दर्पण की वक्रता त्रिज्या 3.0 मीटर है। यदि एक वस्तु इस दर्पण से 5.0 मीटर दूरी पर स्थित है, तो प्रतिबिम्ब की स्थिति होगी:",
+                "options": [
+                    "+2.14 m",
+                    "-1.15 m",
+                    "-2.14 m",
+                    "+1.15 m"
+                ],
+                "options_hindi": [
+                    "+2.14 मीटर",
+                    "-1.15 मीटर",
+                    "-2.14 मीटर",
+                    "+1.15 मीटर"
+                ],
+                "answer": "+1.15 m"
+            },
+            {
+                "serial_no": 128,
+                "question": "The kinetic energy of an object of mass m moving with velocity 5 m/s is 25 J. If velocity of this object increased by three times, then kinetic energy will be:",
+                "question_hindi": "कोई वस्तु जिसका द्रव्यमान m किलोग्राम है, 5 मीटर/सेकण्ड वेग से गतिशील है तथा वस्तु की गतिज ऊर्जा 25 जूल है। यदि वस्तु के वेग को तीन गुना बढ़ा दिया जाये, तो इसकी गतिज ऊर्जा होगी:",
+                "options": [
+                    "225 J",
+                    "75 J",
+                    "450 J",
+                    "375 J"
+                ],
+                "options_hindi": [
+                    "225 जूल",
+                    "75 जूल",
+                    "450 जूल",
+                    "375 जूल"
+                ],
+                "answer": "225 J"
+            },
+            {
+                "serial_no": 129,
+                "question": "Which one of these is a excitatory neurotransmitter?",
+                "question_hindi": "निम्न में से कौन-सा उत्तेजनात्मक न्यूरोट्रांसमीटर है?",
+                "options": [
+                    "Glycine",
+                    "Dopamine",
+                    "Acetylcholine",
+                    "GABA (Gamma Aminobutyric Acid)"
+                ],
+                "options_hindi": [
+                    "ग्लाइसीन",
+                    "डोपामीन",
+                    "ऐसिटिलकोलिन",
+                    "गाबा (गामा एमिनोब्यूटाइरिक एसिड)"
+                ],
+                "answer": "Acetylcholine"
+            },
+            {
+                "serial_no": 130,
+                "question": "Which of the following is the correct sequence of succession in plants?",
+                "question_hindi": "निम्न में से कौन-सा पादप पारिस्थितिकी अनुक्रमण का सही क्रम है?",
+                "options": [
+                    "Xerarch → Hydrarch → Mesic",
+                    "Xerarch → Mesic → Hydrarch",
+                    "Mesic → Xerarch → Hydrarch",
+                    "Hydrarch → Mesic → Xerarch"
+                ],
+                "options_hindi": [
+                    "मरूक्रमक → जलक्रमक → मध्यवर्ती क्रमक",
+                    "मरूक्रमक → मध्यवर्ती क्रमक → जलक्रमक",
+                    "मध्यवर्ती क्रमक → मरूक्रमक → जलक्रमक",
+                    "जलक्रमक → मध्यवर्ती क्रमक → मरूक्रमक"
+                ],
+                "answer": "Hydrarch → Mesic → Xerarch"
+            },
+            {
+                "serial_no": 131,
+                "question": "In which the following mirror is used as rear view in vehicle?",
+                "question_hindi": "वाहनों में पश्च-दृश्य दर्पणों के रूप में कौन-सा दर्पण उपयोग में लिया जाता है?",
+                "options": [
+                    "Convex mirror",
+                    "Concave mirror",
+                    "Both convex and concave mirror together",
+                    "None of these"
+                ],
+                "options_hindi": [
+                    "उत्तल दर्पण",
+                    "अवतल दर्पण",
+                    "उत्तल एवं अवतल दोनों एक-साथ",
+                    "इनमें से कोई नहीं"
+                ],
+                "answer": "Convex mirror"
+            },
+            {
+                "serial_no": 132,
+                "question": "The hydrophilic end of a synthetic detergent is:",
+                "question_hindi": "एक संश्लेषित अपमार्जक का जलस्नेही सिरा है:",
+                "options": [
+                    "CH₃ – (CH₂)₁₀ – CH₂ –",
+                    "CO₃⁻ Na⁺",
+                    "SO₃⁻ Na⁺",
+                    "COO⁻ Na⁺"
+                ],
+                "options_hindi": [
+                    "CH₃ – (CH₂)₁₀ – CH₂ –",
+                    "CO₃⁻ Na⁺",
+                    "SO₃⁻ Na⁺",
+                    "COO⁻ Na⁺"
+                ],
+                "answer": "SO₃⁻ Na⁺"
+            },
+            {
+                "serial_no": 133,
+                "question": "One of the following is hormone secreted from Heart:",
+                "question_hindi": "निम्न में से कौन-सा हॉर्मोन हृदय द्वारा स्रावित किया जाता है?",
+                "options": [
+                    "Atrial Natriuretic Factor",
+                    "Noradrenaline",
+                    "Vasopressin",
+                    "Adrenaline"
+                ],
+                "options_hindi": [
+                    "एट्रियल नैट्रियूरेटिक फैक्टर",
+                    "नॉरएड्रीनेलिन",
+                    "वैसोप्रेसिन",
+                    "एड्रीनेलीन"
+                ],
+                "answer": "Atrial Natriuretic Factor"
+            },
+            {
+                "serial_no": 134,
+                "question": "How many facial bones are there in the skull of human?",
+                "question_hindi": "मनुष्य के कपाल में कितनी चेहरे की अस्थियाँ पाई जाती हैं?",
+                "options": [
+                    "8",
+                    "14",
+                    "22",
+                    "2"
+                ],
+                "options_hindi": [
+                    "8",
+                    "14",
+                    "22",
+                    "2"
+                ],
+                "answer": "14"
+            },
+            {
+                "serial_no": 135,
+                "question": "The apparatus given below is used to study the diffusion of a number of gases at the same temperature and pressure. Which of the following pairs of gases would diffuse into vacuum at the same speed? (Given atomic mass of H = 1 u, C = 12 u, N = 14 u, O = 16 u)",
+                "question_hindi": "नीचे दिए गए उपकरण समान ताप एवं दाब पर विभिन्न गैसों के विसरण का अध्ययन करने के लिए उपयोग में आता है। निम्नलिखित में से गैसों का कौन-सा युग्म समान गति से निर्वात में विसरित होगा? (दिया गया परमाण्वीय द्रव्यमान H = 1 u, C = 12 u, N = 14 u, O = 16 u)",
+                "options": [
+                    "NH₃ and H₂",
+                    "CO and SO₂",
+                    "CO and N₂",
+                    "NH₃ and N₂"
+                ],
+                "options_hindi": [
+                    "NH₃ तथा H₂",
+                    "CO तथा SO₂",
+                    "CO तथा N₂",
+                    "NH₃ तथा N₂"
+                ],
+                "answer": "CO and N₂"
+            },
+            {
+                "serial_no": 136,
+                "question": "Which of the following is the correct arrangement of the given metals in descending order of their reactivity? Zinc, Iron, Magnesium, Sodium",
+                "question_hindi": "नीचे दी गई धातुओं की अभिक्रियाशीलता के घटते हुए क्रम में निम्नलिखित से कौन-सी सही व्यवस्था है? जिंक, आयरन, मैग्नीशियम, सोडियम",
+                "options": [
+                    "Zinc > Iron > Magnesium > Sodium",
+                    "Sodium > Magnesium > Iron > Zinc",
+                    "Sodium > Zinc > Magnesium > Iron",
+                    "Sodium > Magnesium > Zinc > Iron"
+                ],
+                "options_hindi": [
+                    "जिंक > आयरन > मैग्नीशियम > सोडियम",
+                    "सोडियम > मैग्नीशियम > आयरन > जिंक",
+                    "सोडियम > जिंक > मैग्नीशियम > आयरन",
+                    "सोडियम > मैग्नीशियम > जिंक > आयरन"
+                ],
+                "answer": "Sodium > Magnesium > Zinc > Iron"
+            },
+            {
+                "serial_no": 137,
+                "question": "The process of release of sperm from seminiferous tubule is known as:",
+                "question_hindi": "शुक्राणु का शुक्रजनक नलिकाओं से निकलना कहलाता है:",
+                "options": [
+                    "Ejaculation",
+                    "Spermatogenesis",
+                    "Spermiogenesis",
+                    "Spermiation"
+                ],
+                "options_hindi": [
+                    "स्खलन",
+                    "शुक्राणुजनन",
+                    "शुक्राणुकायान्तरण",
+                    "स्पर्मिएशन"
+                ],
+                "answer": "Spermiation"
+            },
+            {
+                "serial_no": 138,
+                "question": "Which of the following statement is correct with respect to flame?",
+                "question_hindi": "ज्वाला के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+                "options": [
+                    "Outer zone of the flame is its hottest part where complete combustion takes place.",
+                    "Middle zone of the flame is of red coloured.",
+                    "Innermost zone of the flame is moderately hot.",
+                    "Innermost zone of the flame is of blue coloured."
+                ],
+                "options_hindi": [
+                    "ज्वाला का बाहरी क्षेत्र सबसे गर्म होता है जहाँ पूर्ण दहन होता है।",
+                    "ज्वाला का मध्य क्षेत्र लाल रंग का होता है।",
+                    "ज्वाला का अंतरतम क्षेत्र मध्यम गर्म होता है।",
+                    "ज्वाला का अंतरतम क्षेत्र नीले रंग का होता है।"
+                ],
+                "answer": "Outer zone of the flame is its hottest part where complete combustion takes place."
+            },
+            {
+                "serial_no": 139,
+                "question": "At a height h above the earth's surface the fractional change in the value of acceleration due to gravity is: [Given R - Radius of earth]",
+                "question_hindi": "पृथ्वी की सतह से ऊपर h ऊँचाई पर पृथ्वी के गुरुत्वीय प्रभाव के कारण त्वरण के मान में आंशिक परिवर्तन होगा: [दिया है R - पृथ्वी की त्रिज्या]",
+                "options": [
+                    "h/R",
+                    "1 - 2h/R",
+                    "2h/R",
+                    "1 + 2h/R"
+                ],
+                "options_hindi": [
+                    "h/R",
+                    "1 - 2h/R",
+                    "2h/R",
+                    "1 + 2h/R"
+                ],
+                "answer": "2h/R"
+            },
+            {
+                "serial_no": 140,
+                "question": "In which of the following media speed of sound wave is greater?",
+                "question_hindi": "निम्न में से किस माध्यम में ध्वनि तरंग की चाल अधिक है?",
+                "options": [
+                    "Air",
+                    "Glass (Flint)",
+                    "Water",
+                    "Vacuum"
+                ],
+                "options_hindi": [
+                    "हवा",
+                    "काँच",
+                    "पानी",
+                    "निर्वात"
+                ],
+                "answer": "Glass (Flint)"
+            },
+            {
+                "serial_no": 141,
+                "question": "A block of mass 5 kg is kept on a tabletop. If block have length 10 cm, breadth 20 cm and height 40 cm, then pressure exerted by block of mass 5 kg on the tabletop is: [Take g = 9.8 m/s²]",
+                "question_hindi": "5 किलोग्राम का एक ब्लॉक किसी एक टेबल के ऊपर रखा हुआ है। यदि ब्लॉक की लम्बाई 10 सेमी, चौड़ाई 20 सेमी एवं ऊँचाई 40 सेमी हो, तब ब्लॉक के द्वारा टेबल पर लगने वाला दाब है: [g = 9.8 m/s² लीजिए]",
+                "options": [
+                    "612.5 N/m²",
+                    "2450 N/m²",
+                    "1225 N/m²",
+                    "6125 N/m²"
+                ],
+                "options_hindi": [
+                    "612.5 न्यूटन/मी²",
+                    "2450 न्यूटन/मी²",
+                    "1225 न्यूटन/मी²",
+                    "6125 न्यूटन/मी²"
+                ],
+                "answer": "2450 N/m²"
+            },
+            {
+                "serial_no": 142,
+                "question": "Which of the following statement is true?",
+                "question_hindi": "निम्न में से कौन-सा कथन सत्य है?",
+                "options": [
+                    "Southern blotting technique is developed by Alvine et.al. (1979).",
+                    "Northern blotting technique is developed by Broome and Gilbert (1978).",
+                    "Western blotting technique is developed by Towbin et.al. (1979).",
+                    "E. M. Southern (1975) purified IgG."
+                ],
+                "options_hindi": [
+                    "सदर्न ब्लॉटिंग तकनीक एल्वाइन एट. आल. (1979) द्वारा विकसित की गई।",
+                    "नॉर्दर्न ब्लॉटिंग तकनीक ब्रूम तथा गिल्बर्ट (1978) द्वारा विकसित की गई।",
+                    "वेस्टर्न ब्लॉटिंग तकनीक टोबिन एट. आल. (1979) द्वारा विकसित की गई।",
+                    "ई. एम. सदर्न (1975) ने IgG को शुद्ध किया।"
+                ],
+                "answer": "Western blotting technique is developed by Towbin et.al. (1979)."
+            },
+            {
+                "serial_no": 143,
+                "question": "Light enters from air to glass having refractive index 1.50. If the speed of light in vacuum is 3 × 10⁸ m/s, then speed of light in the glass is:",
+                "question_hindi": "प्रकाश वायु से काँच की प्लेट में प्रवेश करता है जिसका अपवर्तनांक 1.50 है। यदि प्रकाश की चाल निर्वात में 3 × 10⁸ मीटर/सेकण्ड है, तब काँच में प्रकाश की चाल होगी:",
+                "options": [
+                    "0.5 × 10⁸ m/s",
+                    "1 × 10⁸ m/s",
+                    "3 × 10⁸ m/s",
+                    "1.5 × 10⁸ m/s"
+                ],
+                "options_hindi": [
+                    "0.5 × 10⁸ मीटर/सेकण्ड",
+                    "1 × 10⁸ मीटर/सेकण्ड",
+                    "3 × 10⁸ मीटर/सेकण्ड",
+                    "1.5 × 10⁸ मीटर/सेकण्ड"
+                ],
+                "answer": "2 × 10⁸ m/s"
+            },
+            {
+                "serial_no": 144,
+                "question": "Which of the following is an acid-base indicator?",
+                "question_hindi": "निम्नलिखित में से कौन-सा अम्ल-क्षार सूचक है?",
+                "options": [
+                    "Vinegar",
+                    "Lime water",
+                    "Turmeric",
+                    "Baking soda"
+                ],
+                "options_hindi": [
+                    "सिरका",
+                    "चूने का पानी",
+                    "हल्दी",
+                    "बेकिंग सोडा"
+                ],
+                "answer": "Turmeric"
+            },
+            {
+                "serial_no": 145,
+                "question": "Which of the following statement best describes the nature of science?",
+                "question_hindi": "निम्नलिखित में से कौन-सा कथन विज्ञान की प्रकृति की सबसे उपयुक्त व्याख्या करता है?",
+                "options": [
+                    "Scientists are totally objective in their work.",
+                    "The scientific method is the only guide for conducting research.",
+                    "Science is a system of beliefs.",
+                    "Science is social in nature."
+                ],
+                "options_hindi": [
+                    "वैज्ञानिक अपने कार्यों में पूर्णतः उद्देश्यपरक होते हैं।",
+                    "शोध कार्य संचालन के लिए वैज्ञानिक विधि ही केवल एकमात्र निर्देशिका है।",
+                    "विज्ञान विश्वासों की प्रणाली है।",
+                    "विज्ञान प्रकृति में सामाजिक है।"
+                ],
+                "answer": "Science is social in nature."
+            },
+            {
+                "serial_no": 146,
+                "question": "The offsprings produced after asexual reproduction are:",
+                "question_hindi": "अलैंगिक जनन से उत्पन्न संतति होती है:",
+                "options": [
+                    "Only morphologically same",
+                    "Only genetically same",
+                    "Morphologically and genetically same",
+                    "Morphologically and genetically different"
+                ],
+                "options_hindi": [
+                    "केवल आकारिकी में समान",
+                    "केवल आनुवंशिकी में समान",
+                    "आकारिकी व आनुवंशिकी में समान",
+                    "आकारिकी व आनुवंशिकी में भिन्न"
+                ],
+                "answer": "Morphologically and genetically same"
+            },
+            {
+                "serial_no": 147,
+                "question": "Which of these is used in extraction of metals?",
+                "question_hindi": "धातुओं के निष्कर्षण में निम्नलिखित में से कौन-सा उपयोग में आता है?",
+                "options": [
+                    "Coke",
+                    "Coal gas",
+                    "Coaltar",
+                    "Petroleum"
+                ],
+                "options_hindi": [
+                    "कोक",
+                    "कोल गैस",
+                    "कोलतार",
+                    "पेट्रोलियम"
+                ],
+                "answer": "Coke"
+            },
+            {
+                "serial_no": 148,
+                "question": "Which of the following statements are correct? I. Housefly have sponging type of mouthparts. II. Honey-bee have biting and chewing type of mouthparts. III. Butterflies have siphoning type of mouthparts. IV. Cockroaches have chewing and lapping type of mouthparts.",
+                "question_hindi": "निम्नलिखित में कौन-से कथन सत्य हैं? I. घरेलू मक्खी में शोषक (स्पंजी) प्रकार के मुखांग पाये जाते हैं। II. मधुमक्खी में कुतरक तथा चर्वणक प्रकार के मुखांग पाये जाते हैं। III. तितली में नलिकीय प्रकार के मुखांग पाये जाते हैं। IV. कॉकरोच में चर्वण तथा लेहनकारी मुखांग पाये जाते हैं।",
+                "options": [
+                    "Only II and III",
+                    "Only I and III",
+                    "Only I and II",
+                    "Only II and IV"
+                ],
+                "options_hindi": [
+                    "केवल II तथा III",
+                    "केवल I तथा III",
+                    "केवल I तथा II",
+                    "केवल II तथा IV"
+                ],
+                "answer": "Only I and III"
+            },
+            {
+                "serial_no": 149,
+                "question": "A brown coal, low in carbon content (60-70%), high in moisture content and generally used in power plants to produce electricity is:",
+                "question_hindi": "भूरा कोयला, जिसमें कार्बन अवयव (60-70%) कम, उच्च नमी तथा विद्युत उत्पन्न करने के लिए शक्ति संयंत्रों में काम आता है, वह है:",
+                "options": [
+                    "Peat",
+                    "Lignite",
+                    "Bituminous",
+                    "Anthracite"
+                ],
+                "options_hindi": [
+                    "पीट",
+                    "लिग्नाइट",
+                    "बिटुमिनस",
+                    "एन्थ्रेसाइट"
+                ],
+                "answer": "Lignite"
+            },
+            {
+                "serial_no": 150,
+                "question": "Which of the following statements are correct? (i) Temperature changes during the change of a state. (ii) Dry ice gets converted directly into gaseous state under normal atmospheric conditions. (iii) Higher boiling points of liquid indicates weaker intermolecular forces. (iv) Latent heat of vaporization is generally higher than the latent heat of fusion for a substance.",
+                "question_hindi": "निम्नलिखित में से कौन-से कथन सही हैं? (i) अवस्था परिवर्तन के दौरान ताप परिवर्तित होता है। (ii) सामान्य वायुमण्डलीय परिस्थितियों में शुष्क बर्फ सीधे गैसीय अवस्था में परिवर्तित हो जाती है। (iii) द्रव का उच्च क्वथनांक, दुर्बल अन्तराण्विक बलों को दर्शाता है। (iv) किसी पदार्थ के लिए गलन की गुप्त ऊष्मा की तुलना में वाष्पन की गुप्त ऊष्मा अधिक होती है।",
+                "options": [
+                    "(i) and (iv)",
+                    "(ii) and (iv)",
+                    "(ii) and (iii)",
+                    "(iii) and (iv)"
+                ],
+                "options_hindi": [
+                    "(i) तथा (iv)",
+                    "(ii) तथा (iv)",
+                    "(ii) तथा (iii)",
+                    "(iii) तथा (iv)"
+                ],
+                "answer": "(ii) and (iv)"
+            }
+        ]
+    }
+}

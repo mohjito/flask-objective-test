@@ -1,0 +1,1091 @@
+{
+    "part4_mathematics_2024": {
+        "name": "गणित (भाग-IV)",
+        "category": "TGT",
+        "year": 2023,
+        "section": "PART-IV : Mathematics (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "The value of √(43-12√7) - 2√(16+6√7) is:",
+                "question_hindi": "√(43-12√7) - 2√(16+6√7) का मान है:",
+                "options": [
+                    "1",
+                    "3",
+                    "5",
+                    "6"
+                ],
+                "options_hindi": [
+                    "1",
+                    "3",
+                    "5",
+                    "6"
+                ],
+                "answer": "1"
+            },
+            {
+                "serial_no": 92,
+                "question": "If the sum of two numbers is 40 and their product is 375, then those numbers are:",
+                "question_hindi": "यदि दो संख्याओं का योग 40 है तथा उनका गुणनफल 375 है, तो वे संख्याएँ हैं:",
+                "options": [
+                    "16, 24",
+                    "20, 20",
+                    "25, 15",
+                    "30, 10"
+                ],
+                "options_hindi": [
+                    "16, 24",
+                    "20, 20",
+                    "25, 15",
+                    "30, 10"
+                ],
+                "answer": "25, 15"
+            },
+            {
+                "serial_no": 93,
+                "question": "If the area of the base of a cuboid is 80 square cm, the area of the other two adjacent faces are 72 square cm and 40 square cm, then the volume of that cuboid is:",
+                "question_hindi": "यदि एक घनाभ के आधार का क्षेत्रफल 80 वर्ग सेमी, अन्य दो आसन्न पृष्ठों का क्षेत्रफल 72 वर्ग सेमी तथा 40 वर्ग सेमी है, तो उस घनाभ का आयतन है:",
+                "options": [
+                    "480 cm³",
+                    "360 cm³",
+                    "240 cm³",
+                    "80 cm³"
+                ],
+                "options_hindi": [
+                    "480 घन सेमी",
+                    "360 घन सेमी",
+                    "240 घन सेमी",
+                    "80 घन सेमी"
+                ],
+                "answer": "480 cm³"
+            },
+            {
+                "serial_no": 94,
+                "question": "If √(3ⁿ) = 729, then the value of n is:",
+                "question_hindi": "यदि √(3ⁿ) = 729, तब n का मान है:",
+                "options": [
+                    "6",
+                    "8",
+                    "10",
+                    "12"
+                ],
+                "options_hindi": [
+                    "6",
+                    "8",
+                    "10",
+                    "12"
+                ],
+                "answer": "12"
+            },
+            {
+                "serial_no": 95,
+                "question": "If the length of the diagonal of a cube is 17.32 cm, then the volume of the cube is:",
+                "question_hindi": "यदि एक घन के विकर्ण की लम्बाई 17.32 सेमी है, तो घन का आयतन है:",
+                "options": [
+                    "10 cm³",
+                    "100 cm³",
+                    "1000 cm³",
+                    "10000 cm³"
+                ],
+                "options_hindi": [
+                    "10 घन सेमी",
+                    "100 घन सेमी",
+                    "1000 घन सेमी",
+                    "10000 घन सेमी"
+                ],
+                "answer": "1000 cm³"
+            },
+            {
+                "serial_no": 96,
+                "question": "The median of the following data is: 25, 34, 31, 23, 22, 26, 35, 29, 18, 32",
+                "question_hindi": "निम्नलिखित आंकड़ों की माध्यिका है: 25, 34, 31, 23, 22, 26, 35, 29, 18, 32",
+                "options": [
+                    "26",
+                    "27",
+                    "27.5",
+                    "28.5"
+                ],
+                "options_hindi": [
+                    "26",
+                    "27",
+                    "27.5",
+                    "28.5"
+                ],
+                "answer": "27.5"
+            },
+            {
+                "serial_no": 97,
+                "question": "A garden is 84 meters long and 64 meters wide. There is a path all around inside it whose area is 1632 square meters. The width of that path is:",
+                "question_hindi": "एक बगीचा 84 मीटर लम्बा तथा 64 मीटर चौड़ा है। इसके अन्दर चारों ओर एक रास्ता है जिसका क्षेत्रफल 1632 वर्ग मीटर है। उस रास्ते की चौड़ाई है:",
+                "options": [
+                    "5 meters",
+                    "6 meters",
+                    "8 meters",
+                    "10 meters"
+                ],
+                "options_hindi": [
+                    "5 मीटर",
+                    "6 मीटर",
+                    "8 मीटर",
+                    "10 मीटर"
+                ],
+                "answer": "6 meters"
+            },
+            {
+                "serial_no": 98,
+                "question": "If the height of an equilateral triangle is 18 cm, then its area is:",
+                "question_hindi": "यदि एक समबाहु त्रिभुज की ऊँचाई 18 सेमी है, तो उसका क्षेत्रफल है:",
+                "options": [
+                    "36√3 cm²",
+                    "72√3 cm²",
+                    "96√3 cm²",
+                    "108√3 cm²"
+                ],
+                "options_hindi": [
+                    "36√3 सेमी²",
+                    "72√3 सेमी²",
+                    "96√3 सेमी²",
+                    "108√3 सेमी²"
+                ],
+                "answer": "108√3 cm²"
+            },
+            {
+                "serial_no": 99,
+                "question": "If n is a natural number other than a perfect square, then the number √n is:",
+                "question_hindi": "यदि n एक पूर्ण वर्ग के अलावा एक प्राकृत संख्या है, तो संख्या √n है:",
+                "options": [
+                    "Rational",
+                    "Irrational",
+                    "Integer",
+                    "Natural"
+                ],
+                "options_hindi": [
+                    "परिमेय",
+                    "अपरिमेय",
+                    "पूर्णांक",
+                    "प्राकृत"
+                ],
+                "answer": "Irrational"
+            },
+            {
+                "serial_no": 100,
+                "question": "If α and β are the roots of the equation x² - 2x - 1 = 0, then the value of (α²β + αβ²) is:",
+                "question_hindi": "यदि α तथा β, समीकरण x² - 2x - 1 = 0 के मूल हैं, तब (α²β + αβ²) का मान है:",
+                "options": [
+                    "-2",
+                    "3",
+                    "2",
+                    "1"
+                ],
+                "options_hindi": [
+                    "-2",
+                    "3",
+                    "2",
+                    "1"
+                ],
+                "answer": "-2"
+            },
+            {
+                "serial_no": 101,
+                "question": "The radius of a wire has been reduced to one-third. If its volume remains the same, then the increase in its length is:",
+                "question_hindi": "एक तार की त्रिज्या को घटाकर एक-तिहाई कर दिया गया है। यदि उसका आयतन पहले जितना ही है, तो उसकी लम्बाई में वृद्धि है:",
+                "options": [
+                    "2 times",
+                    "3 times",
+                    "6 times",
+                    "9 times"
+                ],
+                "options_hindi": [
+                    "2 गुना",
+                    "3 गुना",
+                    "6 गुना",
+                    "9 गुना"
+                ],
+                "answer": "9 times"
+            },
+            {
+                "serial_no": 102,
+                "question": "If sin θ + cosec θ = 2, then the value of (sin¹¹ θ + cosec¹¹ θ) is:",
+                "question_hindi": "यदि sin θ + cosec θ = 2, तब (sin¹¹ θ + cosec¹¹ θ) का मान है:",
+                "options": [
+                    "3",
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "options_hindi": [
+                    "3",
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 103,
+                "question": "If tan 2θ · tan 4θ = 1, then the value of tan 3θ is:",
+                "question_hindi": "यदि tan 2θ · tan 4θ = 1, तब tan 3θ का मान है:",
+                "options": [
+                    "0",
+                    "1",
+                    "√3",
+                    "∞"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1",
+                    "√3",
+                    "∞"
+                ],
+                "answer": "1"
+            },
+            {
+                "serial_no": 104,
+                "question": "The mode of the following data is: 4, 6, 5, 7, 9, 8, 10, 4, 7, 6, 6, 8, 8, 7, 7",
+                "question_hindi": "निम्नलिखित आंकड़ों का बहुलक है: 4, 6, 5, 7, 9, 8, 10, 4, 7, 6, 6, 8, 8, 7, 7",
+                "options": [
+                    "6",
+                    "7",
+                    "8",
+                    "9"
+                ],
+                "options_hindi": [
+                    "6",
+                    "7",
+                    "8",
+                    "9"
+                ],
+                "answer": "7"
+            },
+            {
+                "serial_no": 105,
+                "question": "The decimal representation of -16/45 is:",
+                "question_hindi": "संख्या -16/45 का दशमलव रूप है:",
+                "options": [
+                    "0.35",
+                    "1.35",
+                    "-1.35",
+                    "-0.35"
+                ],
+                "options_hindi": [
+                    "0.35",
+                    "1.35",
+                    "-1.35",
+                    "-0.35"
+                ],
+                "answer": "-0.35"
+            },
+            {
+                "serial_no": 106,
+                "question": "If the length of the shadow of a vertical tower is 1/√3 times its height, then the angle of elevation of the sun is:",
+                "question_hindi": "यदि एक ऊर्ध्वाधर मीनार की छाया की लम्बाई, उसकी ऊँचाई का 1/√3 गुना है, तो सूर्य का उन्नयन कोण है:",
+                "options": [
+                    "30°",
+                    "45°",
+                    "60°",
+                    "90°"
+                ],
+                "options_hindi": [
+                    "30°",
+                    "45°",
+                    "60°",
+                    "90°"
+                ],
+                "answer": "60°"
+            },
+            {
+                "serial_no": 107,
+                "question": "The value of √(4+√(4+√(4+......))) is:",
+                "question_hindi": "√(4+√(4+√(4+......))) का मान है:",
+                "options": [
+                    "1",
+                    "(1+√17)/2",
+                    "(1-√17)/2",
+                    "4"
+                ],
+                "options_hindi": [
+                    "1",
+                    "(1+√17)/2",
+                    "(1-√17)/2",
+                    "4"
+                ],
+                "answer": "(1+√17)/2"
+            },
+            {
+                "serial_no": 108,
+                "question": "Minimum value of (3 sin² θ + 4 cos² θ) is:",
+                "question_hindi": "(3 sin² θ + 4 cos² θ) का न्यूनतम मान है:",
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "answer": "3"
+            },
+            {
+                "serial_no": 109,
+                "question": "If the sum of two numbers is 352 and their H.C.F. is 32, then the possible pairs of such numbers are:",
+                "question_hindi": "यदि दो संख्याओं का योग 352 है तथा उनका म०स०प० 32 है, तो ऐसी संख्याओं के सम्भव जोड़े हैं:",
+                "options": [
+                    "Five",
+                    "Six",
+                    "Four",
+                    "Three"
+                ],
+                "options_hindi": [
+                    "पाँच",
+                    "छः",
+                    "चार",
+                    "तीन"
+                ],
+                "answer": "Four"
+            },
+            {
+                "serial_no": 110,
+                "question": "The average of n numbers is m and the average of m numbers is n. Taking all the numbers together the average is:",
+                "question_hindi": "n संख्याओं का औसत m है तथा m संख्याओं का औसत n है। सभी संख्याओं को एक साथ लेने पर औसत है:",
+                "options": [
+                    "m + n",
+                    "mn",
+                    "mn/(m+n)",
+                    "2mn/(m+n)"
+                ],
+                "options_hindi": [
+                    "m + n",
+                    "mn",
+                    "mn/(m+n)",
+                    "2mn/(m+n)"
+                ],
+                "answer": "2mn/(m+n)"
+            },
+            {
+                "serial_no": 111,
+                "question": "The mean of 8 numbers is 22. If one number is excluded, then their mean is 16. The excluded number is:",
+                "question_hindi": "8 संख्याओं का माध्य 22 है। यदि एक संख्या हटा दी जाए, तो उनका माध्य 16 है। निकाली गई संख्या है:",
+                "options": [
+                    "16",
+                    "22",
+                    "32",
+                    "64"
+                ],
+                "options_hindi": [
+                    "16",
+                    "22",
+                    "32",
+                    "64"
+                ],
+                "answer": "64"
+            },
+            {
+                "serial_no": 112,
+                "question": "The mean of the following distribution is: x: 4,6,9,10,15 and f: 5,10,10,7,8",
+                "question_hindi": "निम्नलिखित बंटन का माध्य है: x: 4,6,9,10,15 और f: 5,10,10,7,8",
+                "options": [
+                    "8",
+                    "9",
+                    "10",
+                    "12"
+                ],
+                "options_hindi": [
+                    "8",
+                    "9",
+                    "10",
+                    "12"
+                ],
+                "answer": "9"
+            },
+            {
+                "serial_no": 113,
+                "question": "The radius of the base of a right circular cone and its height are in the ratio 5 : 12. If the volume of the cone is 2512 cm³, then its slant height is:",
+                "question_hindi": "एक लम्ब वृत्तीय शंकु के आधार की त्रिज्या तथा उसकी ऊँचाई 5 : 12 के अनुपात में है। यदि शंकु का आयतन 2512 घन सेमी हो, तो उसकी तिर्यक ऊँचाई है:",
+                "options": [
+                    "22 cm",
+                    "24 cm",
+                    "26 cm",
+                    "28 cm"
+                ],
+                "options_hindi": [
+                    "22 सेमी",
+                    "24 सेमी",
+                    "26 सेमी",
+                    "28 सेमी"
+                ],
+                "answer": "26 cm"
+            },
+            {
+                "serial_no": 114,
+                "question": "The average of n numbers a₁, a₂, …, aₙ is a. The value of Σ(aᵢ − a) is:",
+                "question_hindi": "n संख्याओं a₁, a₂, …., aₙ का औसत a है। Σ(aᵢ − a) का मान है:",
+                "options": [
+                    "0",
+                    "1",
+                    "n",
+                    "a"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1",
+                    "n",
+                    "a"
+                ],
+                "answer": "0"
+            },
+            {
+                "serial_no": 115,
+                "question": "When seen from the top of a 90 meter high rock, the angles of depression of the top and bottom of a tower are 30° and 60°, respectively, then the height of that tower is:",
+                "question_hindi": "90 मीटर ऊँची एक चट्टान के शिखर से देखने पर, एक मीनार के शिखर तथा तल के अवनमन कोण क्रमशः 30° तथा 60° हैं, तो उस मीनार की ऊँचाई है:",
+                "options": [
+                    "45 meter",
+                    "60 meter",
+                    "75 meter",
+                    "30 meter"
+                ],
+                "options_hindi": [
+                    "45 मीटर",
+                    "60 मीटर",
+                    "75 मीटर",
+                    "30 मीटर"
+                ],
+                "answer": "60 meter"
+            },
+            {
+                "serial_no": 116,
+                "question": "A cylindrical tank of diameter 35 cm is completely filled with water. If 11 liters of water is taken out from the tank, then how much will the level of the tank decrease?",
+                "question_hindi": "35 सेमी व्यास वाली एक बेलनाकार टंकी पानी से पूरी भरी हुई है। यदि टंकी में से 11 लीटर पानी निकाल लिया जाए, तो टंकी का स्तर कितना कम हो जायेगा?",
+                "options": [
+                    "9.428 cm",
+                    "10.428 cm",
+                    "11.428 cm",
+                    "12.428 cm"
+                ],
+                "options_hindi": [
+                    "9.428 सेमी",
+                    "10.428 सेमी",
+                    "11.428 सेमी",
+                    "12.428 सेमी"
+                ],
+                "answer": "11.428 cm"
+            },
+            {
+                "serial_no": 117,
+                "question": "For an asymmetrical distribution, if the median is 7 and the mean is 10, then the mode is:",
+                "question_hindi": "एक असममित बंटन के लिए, यदि माध्यिका 7 है और माध्य 10 है, तो बहुलक है:",
+                "options": [
+                    "11",
+                    "4",
+                    "3",
+                    "1"
+                ],
+                "options_hindi": [
+                    "11",
+                    "4",
+                    "3",
+                    "1"
+                ],
+                "answer": "1"
+            },
+            {
+                "serial_no": 118,
+                "question": "The value of √(1+√(3/343)) is:",
+                "question_hindi": "√(1+√(3/343)) का मान है:",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "7"
+                ],
+                "options_hindi": [
+                    "1",
+                    "2",
+                    "3",
+                    "7"
+                ],
+                "answer": "1"
+            },
+            {
+                "serial_no": 119,
+                "question": "If 1² + 2² + 3² + …… + x² = x(x+1)(2x+1)/6, then the value of (1² + 3² + 5² + …… + 19²) is:",
+                "question_hindi": "यदि 1² + 2² + 3² + …… + x² = x(x+1)(2x+1)/6, तो (1² + 3² + 5² + …… + 19²) का मान है:",
+                "options": [
+                    "2500",
+                    "2485",
+                    "2100",
+                    "1330"
+                ],
+                "options_hindi": [
+                    "2500",
+                    "2485",
+                    "2100",
+                    "1330"
+                ],
+                "answer": "1330"
+            },
+            {
+                "serial_no": 120,
+                "question": "A hollow cylindrical tube of 20 cm long is made of iron. If its outer and inner diameters are 8 cm and 6 cm respectively, then the volume of iron used in making the tube is:",
+                "question_hindi": "20 सेमी लम्बी एक खोखली बेलनाकार ट्यूब लोहे की बनी है। यदि उसका बाहरी तथा आन्तरिक व्यास क्रमशः 8 सेमी तथा 6 सेमी है, तो ट्यूब बनाने में प्रयुक्त लोहे का आयतन है:",
+                "options": [
+                    "440 cm³",
+                    "880 cm³",
+                    "1760 cm³",
+                    "240 cm³"
+                ],
+                "options_hindi": [
+                    "440 घन सेमी",
+                    "880 घन सेमी",
+                    "1760 घन सेमी",
+                    "240 घन सेमी"
+                ],
+                "answer": "440 cm³"
+            },
+            {
+                "serial_no": 121,
+                "question": "A is twice as good a workman as B and together they complete a work in 26 days. In how much time will A alone complete the same work?",
+                "question_hindi": "A, B से दोगुना अच्छा कारीगर है तथा एक साथ मिलकर वे किसी कार्य को 26 दिन में पूरा करते हैं। उसी कार्य को A अकेला कितने समय में पूरा करेगा?",
+                "options": [
+                    "33 days",
+                    "35 days",
+                    "37 days",
+                    "39 days"
+                ],
+                "options_hindi": [
+                    "33 दिन",
+                    "35 दिन",
+                    "37 दिन",
+                    "39 दिन"
+                ],
+                "answer": "39 days"
+            },
+            {
+                "serial_no": 122,
+                "question": "If the area of a plot is 212 square yards, then the area in square feet is:",
+                "question_hindi": "यदि एक भूखण्ड का क्षेत्रफल 212 वर्ग गज है, तो वर्ग फुट में वह क्षेत्रफल है:",
+                "options": [
+                    "636",
+                    "1272",
+                    "1908",
+                    "2120"
+                ],
+                "options_hindi": [
+                    "636",
+                    "1272",
+                    "1908",
+                    "2120"
+                ],
+                "answer": "1908"
+            },
+            {
+                "serial_no": 123,
+                "question": "The value of (1−1/2)(1−1/3)(1−1/4)……(1−1/n) is:",
+                "question_hindi": "(1−1/2)(1−1/3)(1−1/4)……(1−1/n) का मान है:",
+                "options": [
+                    "1/n",
+                    "2/n",
+                    "2(n−1)/n",
+                    "2/n(n+1)"
+                ],
+                "options_hindi": [
+                    "1/n",
+                    "2/n",
+                    "2(n−1)/n",
+                    "2/n(n+1)"
+                ],
+                "answer": "1/n"
+            },
+            {
+                "serial_no": 124,
+                "question": "There are 9 red, 7 white and 4 black balls in a bag. If 2 balls are drawn randomly, then the probability that both balls are of the same colour is:",
+                "question_hindi": "एक थैले में 9 लाल, 7 सफेद तथा 4 काली गेंद हैं। यदि 2 गेंदें यादृच्छया निकाली जाती हैं, तो दोनों गेंदों के समान रंग के होने की प्रायिकता है:",
+                "options": [
+                    "36/190",
+                    "57/190",
+                    "63/190",
+                    "81/190"
+                ],
+                "options_hindi": [
+                    "36/190",
+                    "57/190",
+                    "63/190",
+                    "81/190"
+                ],
+                "answer": "63/190"
+            },
+            {
+                "serial_no": 125,
+                "question": "If the sum of the radius and height of a solid cylinder is 20 cm and its total surface area is 880 square cm, then its volume is:",
+                "question_hindi": "यदि किसी ठोस बेलन की त्रिज्या एवं ऊँचाई का योगफल 20 सेमी है तथा उसका कुल पृष्ठीय क्षेत्रफल 880 वर्ग सेमी है, तो उसका आयतन है:",
+                "options": [
+                    "1760 cm³",
+                    "8800 cm³",
+                    "2002 cm³",
+                    "4804 cm³"
+                ],
+                "options_hindi": [
+                    "1760 घन सेमी",
+                    "8800 घन सेमी",
+                    "2002 घन सेमी",
+                    "4804 घन सेमी"
+                ],
+                "answer": "2002 cm³"
+            },
+            {
+                "serial_no": 126,
+                "question": "If a child has a mental age of 6 years and a chronological age of 5 years, then the Intelligent Quotient (IQ) of the child is:",
+                "question_hindi": "यदि एक बच्चे की मानसिक आयु 6 वर्ष तथा कालानुक्रमिक आयु 5 वर्ष है, तो उस बच्चे की बौद्धिक-लब्धि (IQ) है:",
+                "options": [
+                    "80",
+                    "100",
+                    "120",
+                    "140"
+                ],
+                "options_hindi": [
+                    "80",
+                    "100",
+                    "120",
+                    "140"
+                ],
+                "answer": "120"
+            },
+            {
+                "serial_no": 127,
+                "question": "A watch was sold at a profit of 20%. If it had been sold for ₹ 400 less, there would have been a loss of 20%. The cost price of the watch is:",
+                "question_hindi": "एक घड़ी 20% के लाभ पर बेची गई। यदि वह ₹ 400 कम में बेची जाती, तो 20% की हानि होती। घड़ी का क्रय-मूल्य है:",
+                "options": [
+                    "₹ 1000",
+                    "₹ 2000",
+                    "₹ 3000",
+                    "₹ 4000"
+                ],
+                "options_hindi": [
+                    "₹ 1000",
+                    "₹ 2000",
+                    "₹ 3000",
+                    "₹ 4000"
+                ],
+                "answer": "₹ 1000"
+            },
+            {
+                "serial_no": 128,
+                "question": "Two numbers are respectively 30% and 44% less than a third number. By what percent is the second number less than the first number?",
+                "question_hindi": "दो संख्याएँ एक तीसरी संख्या से क्रमशः 30% तथा 44% कम हैं। दूसरी संख्या पहली संख्या से कितने प्रतिशत कम है?",
+                "options": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%"
+                ],
+                "options_hindi": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%"
+                ],
+                "answer": "20%"
+            },
+            {
+                "serial_no": 129,
+                "question": "The branch of philosophy that focuses on the nature of reality is:",
+                "question_hindi": "दर्शनशास्त्र की वह शाखा जो वास्तविकता की प्रकृति पर ध्यान केन्द्रित करती है, है:",
+                "options": [
+                    "Connectionism",
+                    "Epistemology",
+                    "Metaphysics",
+                    "Pedagogy"
+                ],
+                "options_hindi": [
+                    "सम्बन्धवाद",
+                    "ज्ञानमीमांसा",
+                    "तत्त्वमीमांसा",
+                    "शिक्षाशास्त्र"
+                ],
+                "answer": "Metaphysics"
+            },
+            {
+                "serial_no": 130,
+                "question": "The three sides of a triangle are 10 meter, 12 meter and 14 meter. The area of the incircle of that triangle is:",
+                "question_hindi": "एक त्रिभुज की तीन भुजाएँ 10 मीटर, 12 मीटर तथा 14 मीटर हैं। उस त्रिभुज के अन्तःवृत्त का क्षेत्रफल है:",
+                "options": [
+                    "33π/11 square meter",
+                    "22π/11 square meter",
+                    "11π/11 square meter",
+                    "9π/11 square meter"
+                ],
+                "options_hindi": [
+                    "33π/11 वर्ग मीटर",
+                    "22π/11 वर्ग मीटर",
+                    "11π/11 वर्ग मीटर",
+                    "9π/11 वर्ग मीटर"
+                ],
+                "answer": "33π/11 square meter"
+            },
+            {
+                "serial_no": 131,
+                "question": "If the cost price of 24 articles is equal to the selling price of 18 articles, then the percentage profit is:",
+                "question_hindi": "यदि 24 वस्तुओं का क्रय मूल्य 18 वस्तुओं के विक्रय मूल्य के बराबर है, तब प्रतिशत लाभ है:",
+                "options": [
+                    "25 1/3%",
+                    "31 1/3%",
+                    "16 2/3%",
+                    "33 1/3%"
+                ],
+                "options_hindi": [
+                    "25 1/3%",
+                    "31 1/3%",
+                    "16 2/3%",
+                    "33 1/3%"
+                ],
+                "answer": "33 1/3%"
+            },
+            {
+                "serial_no": 132,
+                "question": "Two equal circles pass through the center of each other. If the radius of each circle is 5 cm, then the length of their common chord is:",
+                "question_hindi": "दो बराबर के वृत्त एक-दूसरे के केन्द्र से गुजरते हैं। यदि उनमें प्रत्येक वृत्त की त्रिज्या 5 सेमी है, तो उनकी उभयनिष्ठ जीवा की लम्बाई है:",
+                "options": [
+                    "5",
+                    "5√3",
+                    "10√3",
+                    "5√3/2"
+                ],
+                "options_hindi": [
+                    "5",
+                    "5√3",
+                    "10√3",
+                    "5√3/2"
+                ],
+                "answer": "5√3"
+            },
+            {
+                "serial_no": 133,
+                "question": "According to John Dewey, schools must prepare students for:",
+                "question_hindi": "जॉन डीवी के अनुसार, स्कूलों को छात्रों को तैयार करना चाहिए:",
+                "options": [
+                    "Research",
+                    "Future life",
+                    "Entrepreneurship",
+                    "Present life"
+                ],
+                "options_hindi": [
+                    "शोध के लिए",
+                    "भविष्य के जीवन के लिए",
+                    "उद्यमशीलता के लिए",
+                    "वर्तमान जीवन के लिए"
+                ],
+                "answer": "Present life"
+            },
+            {
+                "serial_no": 134,
+                "question": "If (x + 1/x) = 2, then the value of (√x + 1/√x) is:",
+                "question_hindi": "यदि (x + 1/x) = 2, तो (√x + 1/√x) का मान है:",
+                "options": [
+                    "√2",
+                    "2",
+                    "1",
+                    "1+√2"
+                ],
+                "options_hindi": [
+                    "√2",
+                    "2",
+                    "1",
+                    "1+√2"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 135,
+                "question": "If the sum of n terms of an arithmetic progression is (3n² + 5n), then 158 is:",
+                "question_hindi": "यदि एक समान्तर श्रेणी के n पदों का योगफल (3n² + 5n) है, तब 158 है:",
+                "options": [
+                    "26th term",
+                    "27th term",
+                    "28th term",
+                    "29th term"
+                ],
+                "options_hindi": [
+                    "26वाँ पद",
+                    "27वाँ पद",
+                    "28वाँ पद",
+                    "29वाँ पद"
+                ],
+                "answer": "26th term"
+            },
+            {
+                "serial_no": 136,
+                "question": "If (x⁴ + 1/x⁴) = 119 and x > 1, then the value of (x³ - 1/x³) is:",
+                "question_hindi": "यदि (x⁴ + 1/x⁴) = 119 तथा x > 1, तब (x³ - 1/x³) का मान है:",
+                "options": [
+                    "18",
+                    "36",
+                    "54",
+                    "72"
+                ],
+                "options_hindi": [
+                    "18",
+                    "36",
+                    "54",
+                    "72"
+                ],
+                "answer": "36"
+            },
+            {
+                "serial_no": 137,
+                "question": "If S is the incentre of triangle ABC and ∠A = 30°, then the value of ∠BSC is:",
+                "question_hindi": "यदि S, त्रिभुज ABC का अन्तःकेन्द्र है तथा ∠A = 30°, तब ∠BSC का मान है:",
+                "options": [
+                    "90°",
+                    "100°",
+                    "105°",
+                    "110°"
+                ],
+                "options_hindi": [
+                    "90°",
+                    "100°",
+                    "105°",
+                    "110°"
+                ],
+                "answer": "105°"
+            },
+            {
+                "serial_no": 138,
+                "question": "If a = (√5+1)/(√5-1) and b = (√5-1)/(√5+1), then the value of (a² + ab + b²)/(a² - ab + b²) is:",
+                "question_hindi": "यदि a = (√5+1)/(√5-1) तथा b = (√5-1)/(√5+1), तब (a² + ab + b²)/(a² - ab + b²) का मान है:",
+                "options": [
+                    "1/3",
+                    "2/3",
+                    "1",
+                    "4/3"
+                ],
+                "options_hindi": [
+                    "1/3",
+                    "2/3",
+                    "1",
+                    "4/3"
+                ],
+                "answer": "4/3"
+            },
+            {
+                "serial_no": 139,
+                "question": "Which number is to be subtracted from each of the numbers 3, 5, 6, 7 so that the four numbers obtained become proportional?",
+                "question_hindi": "3, 5, 6, 7 प्रत्येक संख्या में से कौन-सी संख्या घटाई जाए, ताकि प्राप्त चारों संख्याएँ समानुपाती हो जाएँ?",
+                "options": [
+                    "5",
+                    "7",
+                    "9",
+                    "11"
+                ],
+                "options_hindi": [
+                    "5",
+                    "7",
+                    "9",
+                    "11"
+                ],
+                "answer": "9"
+            },
+            {
+                "serial_no": 140,
+                "question": "The population of a city 3 years ago was 40960. If the present population of that city is 49130, then the percentage annual increase is:",
+                "question_hindi": "किसी नगर की जनसंख्या 3 वर्ष पूर्व 40960 थी। यदि उस नगर की वर्तमान जनसंख्या 49130 हो, तो प्रतिशत वार्षिक वृद्धि है:",
+                "options": [
+                    "2 1/4%",
+                    "5 1/4%",
+                    "6 1/4%",
+                    "7 1/4%"
+                ],
+                "options_hindi": [
+                    "2 1/4%",
+                    "5 1/4%",
+                    "6 1/4%",
+                    "7 1/4%"
+                ],
+                "answer": "6 1/4%"
+            },
+            {
+                "serial_no": 141,
+                "question": "If 12 men do a piece of work in 20 days, then in how many days will 60 men do the same work?",
+                "question_hindi": "यदि 12 आदमी किसी काम को 20 दिन में करते हैं, तब 60 आदमी उसी काम को कितने दिन में करेंगे?",
+                "options": [
+                    "4",
+                    "3",
+                    "2",
+                    "6"
+                ],
+                "options_hindi": [
+                    "4",
+                    "3",
+                    "2",
+                    "6"
+                ],
+                "answer": "4"
+            },
+            {
+                "serial_no": 142,
+                "question": "Progressive education emphasizes learning by:",
+                "question_hindi": "प्रगतिशील शिक्षा सीखने पर जोर देती है:",
+                "options": [
+                    "Reading",
+                    "Writing",
+                    "Doing",
+                    "Enjoying"
+                ],
+                "options_hindi": [
+                    "पढ़कर",
+                    "लिखकर",
+                    "कार्य करके",
+                    "आनन्द लेकर"
+                ],
+                "answer": "Doing"
+            },
+            {
+                "serial_no": 143,
+                "question": "The marked price of a fan is ₹ 1500 and a discount of 20% is given on the marked price. Now, the additional discount given to a customer to keep the net price of that fan at ₹ 1116 is:",
+                "question_hindi": "एक पंखे का अंकित मूल्य ₹ 1500 है तथा अंकित मूल्य पर 20% की छूट दी जाती है। अब, किसी ग्राहक को उस पंखे का शुद्ध मूल्य ₹ 1116 रखने के लिए दिया गया अतिरिक्त बट्टा है:",
+                "options": [
+                    "5%",
+                    "6%",
+                    "7%",
+                    "8%"
+                ],
+                "options_hindi": [
+                    "5%",
+                    "6%",
+                    "7%",
+                    "8%"
+                ],
+                "answer": "7%"
+            },
+            {
+                "serial_no": 144,
+                "question": "If 2 letters are chosen from the English alphabet, then the probability of both the letters being vowels is:",
+                "question_hindi": "यदि अंग्रेजी वर्णमाला में से 2 अक्षर चुने जाते हैं, तो दोनों अक्षरों के स्वर होने की प्रायिकता है:",
+                "options": [
+                    "1/65",
+                    "2/65",
+                    "3/65",
+                    "4/65"
+                ],
+                "options_hindi": [
+                    "1/65",
+                    "2/65",
+                    "3/65",
+                    "4/65"
+                ],
+                "answer": "3/65"
+            },
+            {
+                "serial_no": 145,
+                "question": "If 1/(x+1) + 1/(y+2) + 1/(z+1009) = 1, then the value of x + y + z is:",
+                "question_hindi": "यदि 1/(x+1) + 1/(y+2) + 1/(z+1009) = 1, तब x + y + z का मान है:",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "6"
+                ],
+                "options_hindi": [
+                    "1",
+                    "2",
+                    "3",
+                    "6"
+                ],
+                "answer": "6"
+            },
+            {
+                "serial_no": 146,
+                "question": "If S is the circumcenter of triangle ABC and ∠A = 50°, then the value of ∠BCS is:",
+                "question_hindi": "यदि S, त्रिभुज ABC का परिकेन्द्र है तथा ∠A = 50°, तब ∠BCS का मान है:",
+                "options": [
+                    "30°",
+                    "40°",
+                    "50°",
+                    "60°"
+                ],
+                "options_hindi": [
+                    "30°",
+                    "40°",
+                    "50°",
+                    "60°"
+                ],
+                "answer": "40°"
+            },
+            {
+                "serial_no": 147,
+                "question": "If (3x - y) : (x + 5y) = 5 : 7, then the value of (x + y) : (x - y) is:",
+                "question_hindi": "यदि (3x - y) : (x + 5y) = 5 : 7, तब (x + y) : (x - y) का मान है:",
+                "options": [
+                    "1 : 2",
+                    "2 : 1",
+                    "3 : 1",
+                    "1 : 3"
+                ],
+                "options_hindi": [
+                    "1 : 2",
+                    "2 : 1",
+                    "3 : 1",
+                    "1 : 3"
+                ],
+                "answer": "3 : 1"
+            },
+            {
+                "serial_no": 148,
+                "question": "Special Education is related to:",
+                "question_hindi": "विशेष शिक्षा का सम्बन्ध है:",
+                "options": [
+                    "Talented students",
+                    "Education for disabled",
+                    "Teachers",
+                    "Weak students"
+                ],
+                "options_hindi": [
+                    "प्रतिभाशाली छात्रों से",
+                    "दिव्यांगों के लिए शिक्षा से",
+                    "अध्यापकों से",
+                    "कमजोर छात्रों से"
+                ],
+                "answer": "Education for disabled"
+            },
+            {
+                "serial_no": 149,
+                "question": "If (x + 1/x) = 5, then the value of (x³ + 1/x³) is:",
+                "question_hindi": "यदि (x + 1/x) = 5, तो (x³ + 1/x³) का मान है:",
+                "options": [
+                    "125",
+                    "110",
+                    "25",
+                    "5"
+                ],
+                "options_hindi": [
+                    "125",
+                    "110",
+                    "25",
+                    "5"
+                ],
+                "answer": "110"
+            },
+            {
+                "serial_no": 150,
+                "question": "The sum of all three digit numbers divisible by 5 is:",
+                "question_hindi": "5 से विभाज्य सभी तीन अंकों वाली संख्याओं का योग है:",
+                "options": [
+                    "98560",
+                    "98540",
+                    "98520",
+                    "98550"
+                ],
+                "options_hindi": [
+                    "98560",
+                    "98540",
+                    "98520",
+                    "98550"
+                ],
+                "answer": "98550"
+            }
+        ]
+    }
+}

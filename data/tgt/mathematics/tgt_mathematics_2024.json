@@ -1,0 +1,1091 @@
+{
+    "part4_mathematics": {
+        "name": "Mathematics Subject(Part-IV)",
+        "category": "TGT",
+        "year": 2024,
+        "section": "PART-IV : Mathematics (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "The least common multiple of 18, 24, 60 will be:",
+                "question_hindi": "18, 24 व 60 का लघुतम समापवर्त्य (ल० स०) होगा:",
+                "options": [
+                    "120",
+                    "240",
+                    "360",
+                    "480"
+                ],
+                "options_hindi": [
+                    "120",
+                    "240",
+                    "360",
+                    "480"
+                ],
+                "answer": "360"
+            },
+            {
+                "serial_no": 92,
+                "question": "1/2 × 1/5 × 1/6 × 1/7 × 1/100 is equal to:",
+                "question_hindi": "1/2 × 1/5 × 1/6 × 1/7 × 1/100 बराबर है:",
+                "options": [
+                    "0",
+                    "1/125",
+                    "1/25",
+                    "1/50"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1/125",
+                    "1/25",
+                    "1/50"
+                ],
+                "answer": "0"
+            },
+            {
+                "serial_no": 93,
+                "question": "If the mean of 6, 4, 7, P and 10 is 8, what is the value of P?",
+                "question_hindi": "यदि 6, 4, 7, P और 10 का माध्य 8 है, तो P का मान क्या है?",
+                "options": [
+                    "11",
+                    "12",
+                    "13",
+                    "14"
+                ],
+                "options_hindi": [
+                    "11",
+                    "12",
+                    "13",
+                    "14"
+                ],
+                "answer": "13"
+            },
+            {
+                "serial_no": 94,
+                "question": "What is the median of following data? 25, 34, 31, 23, 22, 26, 35, 28, 20, 32",
+                "question_hindi": "निम्नलिखित आंकड़ों की माध्यिका क्या है? 25, 34, 31, 23, 22, 26, 35, 28, 20, 32",
+                "options": [
+                    "22",
+                    "27",
+                    "25",
+                    "20"
+                ],
+                "options_hindi": [
+                    "22",
+                    "27",
+                    "25",
+                    "20"
+                ],
+                "answer": "27"
+            },
+            {
+                "serial_no": 95,
+                "question": "(x - y)(x + y)(x² + y²)(x⁴ + y⁴) is equal to:",
+                "question_hindi": "(x - y)(x + y)(x² + y²)(x⁴ + y⁴) बराबर है:",
+                "options": [
+                    "x¹⁶ - y¹⁶",
+                    "x⁸ + y⁸",
+                    "x⁸ - y⁸",
+                    "x¹⁶ + y¹⁶"
+                ],
+                "options_hindi": [
+                    "x¹⁶ - y¹⁶",
+                    "x⁸ + y⁸",
+                    "x⁸ - y⁸",
+                    "x¹⁶ + y¹⁶"
+                ],
+                "answer": "x⁸ - y⁸"
+            },
+            {
+                "serial_no": 96,
+                "question": "The area of the base of a right circular cylinder is 154 cm² and its height is 15 cm. What is the volume of cylinder?",
+                "question_hindi": "एक लंब वृत्ताकार बेलन के आधार का क्षेत्रफल 154 सेमी² और ऊँचाई 15 सेमी है। बेलन का आयतन क्या है?",
+                "options": [
+                    "2310 cm³",
+                    "5720 cm³",
+                    "1780 cm³",
+                    "3803 cm³"
+                ],
+                "options_hindi": [
+                    "2310 सेमी³",
+                    "5720 सेमी³",
+                    "1780 सेमी³",
+                    "3803 सेमी³"
+                ],
+                "answer": "2310 cm³"
+            },
+            {
+                "serial_no": 97,
+                "question": "If sec θ – cosec θ = 0, then the value of (sec θ + cosec θ) will be:",
+                "question_hindi": "यदि sec θ – cosec θ = 0 हो, तो (sec θ + cosec θ) का मान कितना होगा?",
+                "options": [
+                    "3/2",
+                    "2/3",
+                    "0",
+                    "2√2"
+                ],
+                "options_hindi": [
+                    "3/2",
+                    "2/3",
+                    "0",
+                    "2√2"
+                ],
+                "answer": "2√2"
+            },
+            {
+                "serial_no": 98,
+                "question": "How many spherical bullets can be made out of solid cube of lead whose edge measures 44 cm, each bullet being 4 cm in diameter?",
+                "question_hindi": "44 सेमी भुजा वाले सीसे के ठोस घन से 4 सेमी व्यास वाली कितनी गोलियाँ बनाई जा सकती हैं?",
+                "options": [
+                    "1500",
+                    "2541",
+                    "1161",
+                    "2270"
+                ],
+                "options_hindi": [
+                    "1500",
+                    "2541",
+                    "1161",
+                    "2270"
+                ],
+                "answer": "2541"
+            },
+            {
+                "serial_no": 99,
+                "question": "In a cricket match, a batsman hits a boundary 8 times out of 40 balls he plays. What is the probability that he didn't hit a boundary?",
+                "question_hindi": "एक क्रिकेट मैच में, एक बल्लेबाज 40 गेंदों में से 8 बार बाउंड्री लगाता है। उसके द्वारा बाउंड्री न लगाने की प्रायिकता क्या है?",
+                "options": [
+                    "0.2",
+                    "0.3",
+                    "0.6",
+                    "0.8"
+                ],
+                "options_hindi": [
+                    "0.2",
+                    "0.3",
+                    "0.6",
+                    "0.8"
+                ],
+                "answer": "0.8"
+            },
+            {
+                "serial_no": 100,
+                "question": "For numbers 2, 2, 4, 5 and 12. Which of the following statement is true?",
+                "question_hindi": "संख्याओं 2, 2, 4, 5 और 12 के लिये निम्नलिखित में से कौन-सा कथन सत्य है?",
+                "options": [
+                    "Mean = Median",
+                    "Mean < Mode",
+                    "Mean > Mode",
+                    "Mode = Median"
+                ],
+                "options_hindi": [
+                    "माध्य = माध्यक",
+                    "माध्य < बहुलक",
+                    "माध्य > बहुलक",
+                    "बहुलक = माध्यक"
+                ],
+                "answer": "Mean < Mode"
+            },
+            {
+                "serial_no": 101,
+                "question": "The value of (√5+√3)/(√5-√3) + (√5+√3) is:",
+                "question_hindi": "(√5+√3)/(√5-√3) + (√5+√3) का मान है:",
+                "options": [
+                    "4",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "options_hindi": [
+                    "4",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "answer": "8"
+            },
+            {
+                "serial_no": 102,
+                "question": "The radius and slant height of a cone are in the ratio of 4 : 7. If its curved surface area is 792 cm². What is its radius?",
+                "question_hindi": "एक शंकु की त्रिज्या और तिर्यक ऊँचाई का अनुपात 4 : 7 है। यदि इसका वक्र सतह क्षेत्रफल 792 सेमी² है, तो इसकी त्रिज्या क्या है?",
+                "options": [
+                    "2 cm",
+                    "5 cm",
+                    "11 cm",
+                    "12 cm"
+                ],
+                "options_hindi": [
+                    "2 सेमी",
+                    "5 सेमी",
+                    "11 सेमी",
+                    "12 सेमी"
+                ],
+                "answer": "12 cm"
+            },
+            {
+                "serial_no": 103,
+                "question": "√2 is:",
+                "question_hindi": "√2 है:",
+                "options": [
+                    "Rational Number",
+                    "Natural Number",
+                    "Irrational Number",
+                    "Integer Number"
+                ],
+                "options_hindi": [
+                    "परिमेय संख्या",
+                    "प्राकृत संख्या",
+                    "अपरिमेय संख्या",
+                    "पूर्णांक संख्या"
+                ],
+                "answer": "Irrational Number"
+            },
+            {
+                "serial_no": 104,
+                "question": "P, Q and R together can complete a work in 30 days. If the ratio of efficiency of P, Q and R is 20 : 15 : 12 respectively, then in how many days R can alone complete the same work?",
+                "question_hindi": "P, Q और R मिलकर एक कार्य को 30 दिनों में पूरा कर सकते हैं। यदि P, Q और R की दक्षता का अनुपात क्रमशः 20 : 15 : 12 है, तो R अकेले उसी कार्य को कितने दिनों में पूरा कर सकता है?",
+                "options": [
+                    "195/2",
+                    "235/2",
+                    "225/2",
+                    "215/2"
+                ],
+                "options_hindi": [
+                    "195/2",
+                    "235/2",
+                    "225/2",
+                    "215/2"
+                ],
+                "answer": "225/2"
+            },
+            {
+                "serial_no": 105,
+                "question": "If a = 4 and b = 6, then the value of a√(4b² - a²) will be:",
+                "question_hindi": "यदि a = 4 तथा b = 6 हो, तो a√(4b² - a²) का मान होगा:",
+                "options": [
+                    "8√2",
+                    "28",
+                    "12",
+                    "3"
+                ],
+                "options_hindi": [
+                    "8√2",
+                    "28",
+                    "12",
+                    "3"
+                ],
+                "answer": "8√2"
+            },
+            {
+                "serial_no": 106,
+                "question": "The volume of a solid cylinder is 448π cm³ and height 7 cm. What is its lateral surface area?",
+                "question_hindi": "एक ठोस बेलन का आयतन 448π सेमी³ और ऊँचाई 7 सेमी है। इसका पार्श्व पृष्ठीय क्षेत्रफल क्या है?",
+                "options": [
+                    "754 cm²",
+                    "866 cm²",
+                    "539 cm²",
+                    "352 cm²"
+                ],
+                "options_hindi": [
+                    "754 सेमी²",
+                    "866 सेमी²",
+                    "539 सेमी²",
+                    "352 सेमी²"
+                ],
+                "answer": "352 cm²"
+            },
+            {
+                "serial_no": 107,
+                "question": "The sum of consecutive numbers from 1 to 50 is:",
+                "question_hindi": "1 से 50 तक की लगातार संख्याओं का योगफल है:",
+                "options": [
+                    "1250",
+                    "1275",
+                    "1225",
+                    "1255"
+                ],
+                "options_hindi": [
+                    "1250",
+                    "1275",
+                    "1225",
+                    "1255"
+                ],
+                "answer": "1275"
+            },
+            {
+                "serial_no": 108,
+                "question": "A shopkeeper marks a product at ₹3750. He sells it at a 20% discount and still makes a profit of ₹250. What is the difference between the marked price and the cost price of the product?",
+                "question_hindi": "एक दुकानदार एक उत्पाद पर ₹3750 अंकित करता है। वह इसे 20% छूट पर बेचता है और फिर भी ₹250 का लाभ कमाता है। उत्पाद के अंकित मूल्य और लागत मूल्य के बीच अंतर है:",
+                "options": [
+                    "750",
+                    "500",
+                    "1000",
+                    "1050"
+                ],
+                "options_hindi": [
+                    "750",
+                    "500",
+                    "1000",
+                    "1050"
+                ],
+                "answer": "1000"
+            },
+            {
+                "serial_no": 109,
+                "question": "In a circle of radius 21 cm, an arc subtends an angle of 60° at the centre. The length of the arc is:",
+                "question_hindi": "21 सेमी त्रिज्या वाले वृत्त में, एक चाप केंद्र पर 60° का कोण बनाता है, चाप की लंबाई है:",
+                "options": [
+                    "20 cm",
+                    "21 cm",
+                    "22 cm",
+                    "25 cm"
+                ],
+                "options_hindi": [
+                    "20 सेमी",
+                    "21 सेमी",
+                    "22 सेमी",
+                    "25 सेमी"
+                ],
+                "answer": "22 cm"
+            },
+            {
+                "serial_no": 110,
+                "question": "The Highest Common Factor (HCF) of 24, 30, 54 will be:",
+                "question_hindi": "24, 30 व 54 का महत्तम समापवर्तक (म० स०) होगा:",
+                "options": [
+                    "2",
+                    "3",
+                    "5",
+                    "6"
+                ],
+                "options_hindi": [
+                    "2",
+                    "3",
+                    "5",
+                    "6"
+                ],
+                "answer": "6"
+            },
+            {
+                "serial_no": 111,
+                "question": "The diameter of a right circular cone is 8 cm and its volume is 48π cm³. What is its height?",
+                "question_hindi": "एक लंब वृत्तीय शंकु का व्यास 8 सेमी है तथा आयतन 48π सेमी³ है, तो इसकी ऊँचाई है:",
+                "options": [
+                    "25 cm",
+                    "21 cm",
+                    "9 cm",
+                    "15 cm"
+                ],
+                "options_hindi": [
+                    "25 सेमी",
+                    "21 सेमी",
+                    "9 सेमी",
+                    "15 सेमी"
+                ],
+                "answer": "9 cm"
+            },
+            {
+                "serial_no": 112,
+                "question": "The value of √2 upto 3 decimal places is:",
+                "question_hindi": "√2 का मान दशमलव के 3 स्थानों तक है:",
+                "options": [
+                    "1.410",
+                    "1.412",
+                    "1.414",
+                    "1.413"
+                ],
+                "options_hindi": [
+                    "1.410",
+                    "1.412",
+                    "1.414",
+                    "1.413"
+                ],
+                "answer": "1.414"
+            },
+            {
+                "serial_no": 113,
+                "question": "The measure of the angle between the coordinate axes is:",
+                "question_hindi": "निर्देशांक अक्षों के बीच के कोण की माप है:",
+                "options": [
+                    "0°",
+                    "90°",
+                    "180°",
+                    "360°"
+                ],
+                "options_hindi": [
+                    "0°",
+                    "90°",
+                    "180°",
+                    "360°"
+                ],
+                "answer": "90°"
+            },
+            {
+                "serial_no": 114,
+                "question": "Two numbers are chosen from the first 50 natural numbers. What is the probability of both the numbers being prime?",
+                "question_hindi": "प्रथम 50 प्राकृत संख्याओं में से दो संख्याएँ चुनी जाती हैं। दोनों संख्याओं के अभाज्य होने की प्रायिकता है:",
+                "options": [
+                    "17/245",
+                    "19/245",
+                    "21/245",
+                    "23/245"
+                ],
+                "options_hindi": [
+                    "17/245",
+                    "19/245",
+                    "21/245",
+                    "23/245"
+                ],
+                "answer": "19/245"
+            },
+            {
+                "serial_no": 115,
+                "question": "If θ is an acute angle and tan θ + cot θ = 2, then the value of tan⁵θ + cot¹⁰θ is:",
+                "question_hindi": "यदि θ न्यूनकोण हो और tan θ + cot θ = 2 हो, तो tan⁵θ + cot¹⁰θ का मान कितना होगा?",
+                "options": [
+                    "1",
+                    "2",
+                    "4",
+                    "1/2"
+                ],
+                "options_hindi": [
+                    "1",
+                    "2",
+                    "4",
+                    "1/2"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 116,
+                "question": "The factors of x³ - 7x + 6 are:",
+                "question_hindi": "x³ - 7x + 6 के गुणनखंड हैं:",
+                "options": [
+                    "x(x-6)(x-1)",
+                    "(x²-6)(x-1)",
+                    "(x+1)(x+2)(x-3)",
+                    "(x-1)(x+3)(x-2)"
+                ],
+                "options_hindi": [
+                    "x(x-6)(x-1)",
+                    "(x²-6)(x-1)",
+                    "(x+1)(x+2)(x-3)",
+                    "(x-1)(x+3)(x-2)"
+                ],
+                "answer": "(x-1)(x+3)(x-2)"
+            },
+            {
+                "serial_no": 117,
+                "question": "Neha's father bought 3 dozen pencils for ₹360. What is the cost of 7 pencils?",
+                "question_hindi": "नेहा के पिता ने ₹360 में 3 दर्जन पेंसिलें खरीदीं। 7 पेंसिलों की कीमत क्या है?",
+                "options": [
+                    "₹70",
+                    "₹80",
+                    "₹75",
+                    "₹60"
+                ],
+                "options_hindi": [
+                    "₹70",
+                    "₹80",
+                    "₹75",
+                    "₹60"
+                ],
+                "answer": "₹70"
+            },
+            {
+                "serial_no": 118,
+                "question": "If (x - 3) is a factor of x² - ax - 15, then a = ?",
+                "question_hindi": "यदि (x - 3) एक गुणनखंड है x² - ax - 15 का, तो a = ?",
+                "options": [
+                    "-2",
+                    "5",
+                    "-5",
+                    "3"
+                ],
+                "options_hindi": [
+                    "-2",
+                    "5",
+                    "-5",
+                    "3"
+                ],
+                "answer": "-2"
+            },
+            {
+                "serial_no": 119,
+                "question": "A village having a population of 4000 requires 150 liters of water per day. It has a tank measuring 20 m × 15 m × 6 m. For how many days will the water of this tank last?",
+                "question_hindi": "4000 की आबादी वाले एक गांव में प्रतिदिन 150 लीटर पानी की आवश्यकता होती है। इसमें 20 मी × 15 मी × 6 मी माप की एक टंकी है। इस टंकी का पानी कितने दिनों तक चलेगा?",
+                "options": [
+                    "10 days",
+                    "7 days",
+                    "3 days",
+                    "1 day"
+                ],
+                "options_hindi": [
+                    "10 दिन",
+                    "7 दिन",
+                    "3 दिन",
+                    "1 दिन"
+                ],
+                "answer": "3 days"
+            },
+            {
+                "serial_no": 120,
+                "question": "If 1³ + 2³ + 3³ + 4³ + 5³ + 6³ = 441, then the value of 2³ + 4³ + 6³ + 8³ + 10³ + 12³ is:",
+                "question_hindi": "यदि 1³ + 2³ + 3³ + 4³ + 5³ + 6³ = 441 हो, तो 2³ + 4³ + 6³ + 8³ + 10³ + 12³ का मान है:",
+                "options": [
+                    "3528",
+                    "3529",
+                    "3600",
+                    "3728"
+                ],
+                "options_hindi": [
+                    "3528",
+                    "3529",
+                    "3600",
+                    "3728"
+                ],
+                "answer": "3528"
+            },
+            {
+                "serial_no": 121,
+                "question": "If (x + 1) and (x - 2) are factors of x³ + ax² - bx - 6, then find the values of a and b respectively:",
+                "question_hindi": "यदि (x + 1) और (x - 2), x³ + ax² - bx - 6 के गुणनखंड हैं, तो क्रमशः a और b का मान ज्ञात कीजिए:",
+                "options": [
+                    "2, 3",
+                    "3, 5",
+                    "5, 3",
+                    "2, 5"
+                ],
+                "options_hindi": [
+                    "2, 3",
+                    "3, 5",
+                    "5, 3",
+                    "2, 5"
+                ],
+                "answer": "2, 3"
+            },
+            {
+                "serial_no": 122,
+                "question": "The radius of the top and bottom of a bucket of slant height 35 cm are 25 cm and 8 cm. The curved surface of the bucket is:",
+                "question_hindi": "35 सेमी तिर्यक ऊँचाई वाली बाल्टी के ऊपर और नीचे की त्रिज्याएँ 25 सेमी और 8 सेमी हैं। बाल्टी का वक्र सतह क्षेत्रफल है:",
+                "options": [
+                    "3630 cm²",
+                    "3500 cm²",
+                    "3750 cm²",
+                    "4000 cm²"
+                ],
+                "options_hindi": [
+                    "3630 सेमी²",
+                    "3500 सेमी²",
+                    "3750 सेमी²",
+                    "4000 सेमी²"
+                ],
+                "answer": "3630 cm²"
+            },
+            {
+                "serial_no": 123,
+                "question": "A solid cube is cut into two cuboids of equal volumes. What is the ratio of total surface area of the given cube and that of one of the cuboids?",
+                "question_hindi": "एक ठोस घन को समान आयतन वाले दो घनाभों में काटा जाता है। दिये गये घन और एक घनाभ के कुल सतह क्षेत्रफल का अनुपात क्या है?",
+                "options": [
+                    "1 : 2",
+                    "3 : 2",
+                    "3 : 5",
+                    "4 : 1"
+                ],
+                "options_hindi": [
+                    "1 : 2",
+                    "3 : 2",
+                    "3 : 5",
+                    "4 : 1"
+                ],
+                "answer": "3 : 2"
+            },
+            {
+                "serial_no": 124,
+                "question": "If √2 = 1.414, then the value of √3 ÷ √6 upto three places of decimal is:",
+                "question_hindi": "यदि √2 = 1.414 हो, तो दशमलव के 3 स्थानों तक √3 ÷ √6 का मान है:",
+                "options": [
+                    "0.414",
+                    "0.702",
+                    "0.413",
+                    "0.707"
+                ],
+                "options_hindi": [
+                    "0.414",
+                    "0.702",
+                    "0.413",
+                    "0.707"
+                ],
+                "answer": "0.707"
+            },
+            {
+                "serial_no": 125,
+                "question": "If (2K - 1, K) is a solution of the equation 10x - 9y = 12, then K = ?",
+                "question_hindi": "यदि समीकरण 10x - 9y = 12 का हल (2K - 1, K) है, तो K = ?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "options_hindi": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 126,
+                "question": "If expression x + (1/4)√x + a² is a perfect square, then what is the value of 'a'?",
+                "question_hindi": "यदि व्यंजक x + (1/4)√x + a² एक पूर्ण वर्ग है, तो 'a' का मान है:",
+                "options": [
+                    "± 1/18",
+                    "± 1/8",
+                    "- 1/5",
+                    "1/4"
+                ],
+                "options_hindi": [
+                    "± 1/18",
+                    "± 1/8",
+                    "- 1/5",
+                    "1/4"
+                ],
+                "answer": "± 1/8"
+            },
+            {
+                "serial_no": 127,
+                "question": "The value of (38×38×38+34×34×34)/(38×38+34×34-38×34) + (28×28×28-38×34×84)/(-38×34-34×28-38×28) is:",
+                "question_hindi": "(38×38×38+34×34×34)/(38×38+34×34-38×34) + (28×28×28-38×34×84)/(-38×34-34×28-38×28) का मान है:",
+                "options": [
+                    "200",
+                    "100",
+                    "150",
+                    "110"
+                ],
+                "options_hindi": [
+                    "200",
+                    "100",
+                    "150",
+                    "110"
+                ],
+                "answer": "100"
+            },
+            {
+                "serial_no": 128,
+                "question": "If (x-3)² + (y-5)² + (z-4)² = 0, then the value of (x²/9 + y²/25 + z²/16) will be:",
+                "question_hindi": "यदि (x-3)² + (y-5)² + (z-4)² = 0, तो (x²/9 + y²/25 + z²/16) का मान होगा:",
+                "options": [
+                    "12",
+                    "9",
+                    "3",
+                    "1"
+                ],
+                "options_hindi": [
+                    "12",
+                    "9",
+                    "3",
+                    "1"
+                ],
+                "answer": "3"
+            },
+            {
+                "serial_no": 129,
+                "question": "A bag contain 1 rupee coins, 50 paise coins and 10 paise coins. The number of coins are in the ratio of 3 : 4 : 5. If the total amount is ₹187, the number of 50 paise coins is:",
+                "question_hindi": "एक बैग में 1 रुपया, 50 पैसे तथा 10 पैसे के सिक्के हैं। सिक्कों की संख्या 3 : 4 : 5 के अनुपात में है। यदि कुल राशि ₹187 है, 50 पैसे के सिक्कों की संख्या है:",
+                "options": [
+                    "136",
+                    "170",
+                    "180",
+                    "200"
+                ],
+                "options_hindi": [
+                    "136",
+                    "170",
+                    "180",
+                    "200"
+                ],
+                "answer": "170"
+            },
+            {
+                "serial_no": 130,
+                "question": "If 2x = 3y = -6z, then the value of (1/x + 1/y + 1/z) will be:",
+                "question_hindi": "यदि 2x = 3y = -6z हो, तो (1/x + 1/y + 1/z) का मान होगा:",
+                "options": [
+                    "0",
+                    "1",
+                    "3/2",
+                    "-1/2"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1",
+                    "3/2",
+                    "-1/2"
+                ],
+                "answer": "0"
+            },
+            {
+                "serial_no": 131,
+                "question": "The value of (125)^(-2/3) will be:",
+                "question_hindi": "(125)^(-2/3) का मान होगा:",
+                "options": [
+                    "1/25",
+                    "1/125",
+                    "1/625",
+                    "1/3125"
+                ],
+                "options_hindi": [
+                    "1/25",
+                    "1/125",
+                    "1/625",
+                    "1/3125"
+                ],
+                "answer": "1/25"
+            },
+            {
+                "serial_no": 132,
+                "question": "Solve: 9 – 8.5 × 0.6 ÷ 5 + 1 = ?",
+                "question_hindi": "हल कीजिए: 9 – 8.5 × 0.6 ÷ 5 + 1 = ?",
+                "options": [
+                    "9.99",
+                    "8.89",
+                    "9.88",
+                    "8.98"
+                ],
+                "options_hindi": [
+                    "9.99",
+                    "8.89",
+                    "9.88",
+                    "8.98"
+                ],
+                "answer": "8.98"
+            },
+            {
+                "serial_no": 133,
+                "question": "The value of (5^(5/3) × 5^(2/3)) ÷ 5^(-1) will be:",
+                "question_hindi": "(5^(5/3) × 5^(2/3)) ÷ 5^(-1) का मान होगा:",
+                "options": [
+                    "0",
+                    "1",
+                    "5",
+                    "10"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1",
+                    "5",
+                    "10"
+                ],
+                "answer": "5"
+            },
+            {
+                "serial_no": 134,
+                "question": "Which term of the Arithmetic Progression 3, 8, 13, 18, .... is 78?",
+                "question_hindi": "समांतर श्रेणी 3, 8, 13, 18, .... का कौन-सा पद 78 है?",
+                "options": [
+                    "16th",
+                    "13th",
+                    "12th",
+                    "10th"
+                ],
+                "options_hindi": [
+                    "16वाँ",
+                    "13वाँ",
+                    "12वाँ",
+                    "10वाँ"
+                ],
+                "answer": "16th"
+            },
+            {
+                "serial_no": 135,
+                "question": "If a - b = a where a ≠ 0, b ≠ 0, then the value of a³ + b³ is:",
+                "question_hindi": "यदि a - b = a, a ≠ 0, b ≠ 0, तो a³ + b³ का मान है:",
+                "options": [
+                    "-2",
+                    "-1",
+                    "1",
+                    "0"
+                ],
+                "options_hindi": [
+                    "-2",
+                    "-1",
+                    "1",
+                    "0"
+                ],
+                "answer": "-2"
+            },
+            {
+                "serial_no": 136,
+                "question": "The value of √(2√(2√(2√(2.....)))) is:",
+                "question_hindi": "√(2√(2√(2√(2.....)))) का मान है:",
+                "options": [
+                    "1",
+                    "3",
+                    "2",
+                    "5"
+                ],
+                "options_hindi": [
+                    "1",
+                    "3",
+                    "2",
+                    "5"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 137,
+                "question": "What will be the area of a triangle, two sides of which are 8 cm and 11 cm and the perimeter is 32 cm?",
+                "question_hindi": "एक त्रिभुज की दो भुजाएँ 8 सेमी और 11 सेमी हैं तथा परिमाप 32 सेमी है, तो त्रिभुज का क्षेत्रफल क्या होगा?",
+                "options": [
+                    "84 cm²",
+                    "9√15 cm²",
+                    "8√30 cm²",
+                    "(√3/4) cm²"
+                ],
+                "options_hindi": [
+                    "84 सेमी²",
+                    "9√15 सेमी²",
+                    "8√30 सेमी²",
+                    "(√3/4) सेमी²"
+                ],
+                "answer": "8√30 cm²"
+            },
+            {
+                "serial_no": 138,
+                "question": "A boy travels 24 km towards east from his house, then he turned his left and covers another 10 km. What is his total displacement?",
+                "question_hindi": "एक लड़का अपने घर से पूर्व की ओर 24 किमी की यात्रा करता है, फिर वह बायीं ओर मुड़ता है और 10 किमी की दूरी तय करता है, उसका कुल विस्थापन है:",
+                "options": [
+                    "22 km",
+                    "23 km",
+                    "25 km",
+                    "26 km"
+                ],
+                "options_hindi": [
+                    "22 किमी",
+                    "23 किमी",
+                    "25 किमी",
+                    "26 किमी"
+                ],
+                "answer": "26 km"
+            },
+            {
+                "serial_no": 139,
+                "question": "The angles of quadrilateral ABCD, taken in order, are in the ratio 3 : 7 : 6 : 4, then ABCD is a:",
+                "question_hindi": "यदि चतुर्भुज ABCD के कोण A, B, C और D का अनुपात 3 : 7 : 6 : 4 है, तो ABCD एक है:",
+                "options": [
+                    "Isosceles triangle",
+                    "Rhombus",
+                    "Parallelogram",
+                    "Trapezium"
+                ],
+                "options_hindi": [
+                    "समद्विबाहु त्रिभुज",
+                    "समचतुर्भुज",
+                    "समांतर चतुर्भुज",
+                    "समलंब चतुर्भुज"
+                ],
+                "answer": "Trapezium"
+            },
+            {
+                "serial_no": 140,
+                "question": "Which of the following fractions are in ascending order?",
+                "question_hindi": "निम्नलिखित में से कौन-सी भिन्नें आरोही क्रम में हैं?",
+                "options": [
+                    "7/9, 8/11, 11/14, 13/15",
+                    "9/11, 7/8, 14/15, 13/13",
+                    "8/7, 9/11, 13/11, 14/15",
+                    "7/8, 11/9, 11/13, 15/14"
+                ],
+                "options_hindi": [
+                    "7/9, 8/11, 11/14, 13/15",
+                    "9/11, 7/8, 14/15, 13/13",
+                    "8/7, 9/11, 13/11, 14/15",
+                    "7/8, 11/9, 11/13, 15/14"
+                ],
+                "answer": "7/9, 8/11, 11/14, 13/15"
+            },
+            {
+                "serial_no": 141,
+                "question": "What will be the exterior angles of a hexagon?",
+                "question_hindi": "षट्भुज के बाह्य कोण क्या होंगे?",
+                "options": [
+                    "7.2°",
+                    "60°",
+                    "54°",
+                    "108°"
+                ],
+                "options_hindi": [
+                    "7.2°",
+                    "60°",
+                    "54°",
+                    "108°"
+                ],
+                "answer": "60°"
+            },
+            {
+                "serial_no": 142,
+                "question": "A, B & C are the three angles of a triangle. If A – B = 15°, B – C = 30°, then ∠A, ∠B and ∠C = ?",
+                "question_hindi": "A, B और C एक त्रिभुज के तीन कोण हैं। यदि A – B = 15°, B – C = 30° हो, तो ∠A, ∠B और ∠C = ?",
+                "options": [
+                    "∠A = 80°, ∠B = 65°, ∠C = 35°",
+                    "∠A = 30°, ∠B = 60°, ∠C = 90°",
+                    "∠A = 40°, ∠B = 60°, ∠C = 80°",
+                    "∠A = 90°, ∠B = 40°, ∠C = 50°"
+                ],
+                "options_hindi": [
+                    "∠A = 80°, ∠B = 65°, ∠C = 35°",
+                    "∠A = 30°, ∠B = 60°, ∠C = 90°",
+                    "∠A = 40°, ∠B = 60°, ∠C = 80°",
+                    "∠A = 90°, ∠B = 40°, ∠C = 50°"
+                ],
+                "answer": "∠A = 80°, ∠B = 65°, ∠C = 35°"
+            },
+            {
+                "serial_no": 143,
+                "question": "What will be the compound proportion of (2 : 3), (5 : 6) and (8 : 9)?",
+                "question_hindi": "(2 : 3), (5 : 6) तथा (8 : 9) का मिश्रित अनुपात क्या होगा?",
+                "options": [
+                    "1 : 2",
+                    "20 : 27",
+                    "15 : 9",
+                    "40 : 81"
+                ],
+                "options_hindi": [
+                    "1 : 2",
+                    "20 : 27",
+                    "15 : 9",
+                    "40 : 81"
+                ],
+                "answer": "40 : 81"
+            },
+            {
+                "serial_no": 144,
+                "question": "If x is a real number, then the minimum value of x² - x + 1 will be:",
+                "question_hindi": "यदि x एक वास्तविक संख्या है, तो x² - x + 1 का न्यूनतम मान होगा:",
+                "options": [
+                    "0",
+                    "3/4",
+                    "1",
+                    "1/4"
+                ],
+                "options_hindi": [
+                    "0",
+                    "3/4",
+                    "1",
+                    "1/4"
+                ],
+                "answer": "3/4"
+            },
+            {
+                "serial_no": 145,
+                "question": "If (x + y) : (x - y) = 7 : 3, then ratio of (x² + y²) : (x² - y²) will be:",
+                "question_hindi": "यदि (x + y) : (x - y) = 7 : 3 हो, तो (x² + y²) : (x² - y²) का अनुपात होगा:",
+                "options": [
+                    "19 : 20",
+                    "29 : 21",
+                    "39 : 29",
+                    "40 : 21"
+                ],
+                "options_hindi": [
+                    "19 : 20",
+                    "29 : 21",
+                    "39 : 29",
+                    "40 : 21"
+                ],
+                "answer": "29 : 21"
+            },
+            {
+                "serial_no": 146,
+                "question": "The dimensions of a cuboid are in the ratio of 1 : 2 : 3 and its total surface area is 88 m². What are the dimensions?",
+                "question_hindi": "एक घनाभ के आयाम 1 : 2 : 3 के अनुपात में हैं और इसका कुल सतह क्षेत्रफल 88 वर्ग मीटर है, तो आयाम क्या हैं?",
+                "options": [
+                    "2 m, 4 m, and 6 m",
+                    "3 m, 6 m and 9 m",
+                    "2 m, 3 m and 6 m",
+                    "6 m, 8 m and 10 m"
+                ],
+                "options_hindi": [
+                    "2 मी, 4 मी और 6 मी",
+                    "3 मी, 6 मी और 9 मी",
+                    "2 मी, 3 मी और 6 मी",
+                    "6 मी, 8 मी और 10 मी"
+                ],
+                "answer": "2 m, 4 m, and 6 m"
+            },
+            {
+                "serial_no": 147,
+                "question": "If (x + 1/x)² = 3, then the value of (x⁷² + x⁶⁶ + x⁵⁴ + x³⁶ + x²⁴ + x⁶ + 1) is:",
+                "question_hindi": "यदि (x + 1/x)² = 3 हो, तो (x⁷² + x⁶⁶ + x⁵⁴ + x³⁶ + x²⁴ + x⁶ + 1) का मान है:",
+                "options": [
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "options_hindi": [
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "answer": "0"
+            },
+            {
+                "serial_no": 148,
+                "question": "Given ∠POR = 3x and ∠QOR = 2x + 10°. If POQ is a straight line, then the value of x is:",
+                "question_hindi": "दिया गया है ∠POR = 3x और ∠QOR = 2x + 10°. यदि POQ एक सरल रेखा है, तो x का मान है:",
+                "options": [
+                    "30°",
+                    "36°",
+                    "17°",
+                    "34°"
+                ],
+                "options_hindi": [
+                    "30°",
+                    "36°",
+                    "17°",
+                    "34°"
+                ],
+                "answer": "34°"
+            },
+            {
+                "serial_no": 149,
+                "question": "If O(p/3, 4) is the midpoint of the line segment joining the points P(-6, 5) and Q(-2, 3), then the value of p is:",
+                "question_hindi": "यदि O(p/3, 4) बिंदु P(-6, 5) और Q(-2, 3) को जोड़ने वाले रेखाखंड का मध्य बिंदु है, तो p का मान है:",
+                "options": [
+                    "7/2",
+                    "-12",
+                    "4",
+                    "-4"
+                ],
+                "options_hindi": [
+                    "7/2",
+                    "-12",
+                    "4",
+                    "-4"
+                ],
+                "answer": "-12"
+            },
+            {
+                "serial_no": 150,
+                "question": "△ABC is a right-angled triangle, right angled at B. If AB = 5 cm and BC = 5 cm, then AC will be:",
+                "question_hindi": "△ABC एक समकोण त्रिभुज है, जिसका कोण B समकोण है। यदि AB = 5 सेमी और BC = 5 सेमी है, तो AC क्या होगा?",
+                "options": [
+                    "6.171 cm",
+                    "7.171 cm",
+                    "6.071 cm",
+                    "7.071 cm"
+                ],
+                "options_hindi": [
+                    "6.171 सेमी",
+                    "7.171 सेमी",
+                    "6.071 सेमी",
+                    "7.071 सेमी"
+                ],
+                "answer": "7.071 cm"
+            }
+        ]
+    }
+}

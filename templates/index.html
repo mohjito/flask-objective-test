@@ -1,0 +1,211 @@
+{% extends "base.html" %}
+
+{% block title %}Welcome - QuizLearn{% endblock %}
+
+{% block content %}
+<style>
+    .hero-premium-wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 80vh;
+        gap: 60px;
+    }
+
+    .hero-glass-card {
+        background: white;
+        padding: 80px 40px;
+        max-width: 900px;
+        text-align: center;
+        border-radius: 40px;
+        box-shadow: 0 40px 100px -20px rgba(0, 0, 0, 0.05);
+        border: 1px solid #f1f5f9;
+    }
+
+    .hero-badge {
+        background: #eef2ff;
+        color: #6366f1;
+        padding: 8px 18px;
+        border-radius: 999px;
+        font-size: 0.85rem;
+        font-weight: 800;
+        margin-bottom: 25px;
+        display: inline-block;
+    }
+
+    .hero-title {
+        font-size: 3.5rem;
+        font-weight: 900;
+        line-height: 1.1;
+        margin-bottom: 25px;
+        color: #1e293b;
+    }
+
+    .text-gradient {
+        background: linear-gradient(135deg, #6366f1 10%, #a855f7 90%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .hero-subtitle {
+        font-size: 1.25rem;
+        color: #64748b;
+        max-width: 650px;
+        margin: 0 auto 48px;
+        line-height: 1.6;
+    }
+
+    .hero-actions {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .btn-hero-primary {
+        background: #6366f1;
+        color: white;
+        padding: 18px 48px;
+        border-radius: 16px;
+        font-size: 1.2rem;
+        font-weight: 800;
+        text-decoration: none;
+        box-shadow: 0 15px 30px rgba(99, 102, 241, 0.2);
+        transition: transform 0.2s;
+    }
+
+    .btn-hero-primary:hover {
+        transform: translateY(-3px);
+    }
+
+    .secondary-actions {
+        display: flex;
+        gap: 16px;
+    }
+
+    .btn-hero-outline {
+        background: white;
+        color: #64748b;
+        padding: 12px 32px;
+        border-radius: 12px;
+        font-weight: 700;
+        text-decoration: none;
+        border: 2px solid #f1f5f9;
+        transition: 0.2s;
+    }
+
+    .btn-hero-outline:hover {
+        color: #6366f1;
+        border-color: #6366f1;
+        background: #fdfdff;
+    }
+
+    .hero-foot-note {
+        margin-top: 30px;
+        font-size: 0.85rem;
+        color: #94a3b8;
+        font-weight: 600;
+    }
+
+    /* Features Row */
+    .features-row {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 30px;
+        width: 100%;
+        max-width: 1000px;
+    }
+
+    .feature-item-glass {
+        background: white;
+        padding: 35px;
+        border-radius: 28px;
+        text-align: center;
+        border: 1px solid #f1f5f9;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
+    }
+
+    .feat-icon {
+        font-size: 2.2rem;
+        margin-bottom: 15px;
+        display: block;
+    }
+
+    .feature-item-glass h4 {
+        font-size: 1.1rem;
+        font-weight: 850;
+        margin-bottom: 10px;
+        color: #1e293b;
+    }
+
+    .feature-item-glass p {
+        color: #94a3b8;
+        font-size: 0.9rem;
+        line-height: 1.5;
+    }
+
+    @media (max-width: 768px) {
+        .hero-title {
+            font-size: 2.5rem;
+        }
+
+        .hero-subtitle {
+            font-size: 1.1rem;
+        }
+
+        .secondary-actions {
+            flex-direction: column;
+            width: 100%;
+            gap: 10px;
+        }
+
+        .btn-hero-outline {
+            width: 100%;
+            text-align: center;
+        }
+    }
+</style>
+<div class="hero-premium-wrapper">
+    <div class="hero-glass-card anim-fade-up">
+        <div class="hero-badge">Next Gen Testing</div>
+        <h1 class="hero-title">Master Your Knowledge with <span class="text-gradient">QuizLearn</span></h1>
+        <p class="hero-subtitle">
+            Experience the most smooth and user-friendly computer-based testing platform.
+            Challenge yourself with premium mock tests designed for your success.
+        </p>
+
+        <div class="hero-actions">
+            <a href="{{ url_for('test_routes.dashboard') }}" class="btn-hero-primary">
+                🚀 Experience as Guest
+            </a>
+            <div class="secondary-actions">
+                <a href="{{ url_for('auth.login') }}" class="btn-hero-outline">Login</a>
+                <a href="{{ url_for('auth.register') }}" class="btn-hero-outline">Register</a>
+            </div>
+        </div>
+        <p class="hero-foot-note">Login is optional. Only required to save your performance history.</p>
+    </div>
+
+    <!-- Features Section -->
+    <div class="features-row anim-fade-up-delay">
+        <div class="feature-item-glass">
+            <div class="feat-icon">⚡</div>
+            <h4>Lightning Fast</h4>
+            <p>Smooth transitions and instant results.</p>
+        </div>
+        <div class="feature-item-glass">
+            <div class="feat-icon">🌐</div>
+            <h4>Bilingual</h4>
+            <p>Available in both English and Hindi.</p>
+        </div>
+        <div class="feature-item-glass">
+            <div class="feat-icon">📊</div>
+            <h4>Analytics</h4>
+            <p>Detailed performance insights for members.</p>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

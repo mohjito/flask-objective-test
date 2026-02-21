@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}QuizLearn - Premium Mock Tests{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="navbar-premium">
+        <div class="container nav-flex">
+            <a href="{{ url_for('test_routes.dashboard') }}" class="brand-logo">
+                <span class="logo-icon">✨</span> QuizLearn
+            </a>
+
+            <!-- Mobile Menu Toggle -->
+            <button class="mobile-menu-btn" id="mobile-toggle" aria-label="Toggle Menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+
+            <ul class="nav-links-premium" id="nav-menu">
+                {% if current_user.is_authenticated %}
+                <li><a href="{{ url_for('test_routes.dashboard') }}" class="nav-item">Dashboard</a></li>
+                <li><a href="{{ url_for('test_routes.profile') }}" class="nav-item">My Analytics</a></li>
+                <li><a href="{{ url_for('test_routes.donate') }}" class="nav-item">Support Us</a></li>
+                <li><a href="{{ url_for('auth.logout') }}" class="btn-nav-outline">Logout</a></li>
+                {% else %}
+                <li><a href="{{ url_for('test_routes.dashboard') }}" class="nav-item">Guest Dashboard</a></li>
+                <li><a href="{{ url_for('test_routes.donate') }}" class="nav-item">Support Us</a></li>
+                <li><a href="{{ url_for('auth.login') }}" class="nav-item">Login</a></li>
+                <li><a href="{{ url_for('auth.register') }}" class="btn-nav-primary">Join Now</a></li>
+                {% endif %}
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container main-push">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+        <div class="flash-stack">
+            {% for category, message in messages %}
+            <div class="flash-pill {{ category }}">{{ message }}</div>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% endwith %}
+
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="footer-premium">
+        <div class="container footer-content">
+            <p>&copy; 2026 QuizLearn. The ultimate computer-based testing platform.</p>
+            <div class="footer-links">
+                <a href="#">Terms</a>
+                <a href="#">Privacy</a>
+                <a href="#">Support</a>
+            </div>
+        </div>
+    </footer>
+
+    <style>
+        .navbar-premium {
+            background: rgba(255, 255, 255, 0.82);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid #f1f5f9;
+            padding: 1.2rem 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-flex {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .brand-logo {
+            font-size: 1.5rem;
+            font-weight: 850;
+            color: #1e293b;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .logo-icon {
+            font-size: 1.8rem;
+        }
+
+        .nav-links-premium {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            gap: 32px;
+            margin: 0;
+            padding: 0;
+        }
+
+        .nav-item {
+            color: #64748b;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.2s;
+        }
+
+        .nav-item:hover {
+            color: var(--primary-color);
+        }
+
+        .btn-nav-primary {
+            background: var(--primary-color);
+            color: white;
+            padding: 10px 24px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 700;
+            box-shadow: 0 4px 6px -1px rgba(99, 102, 241, 0.2);
+            transition: transform 0.2s;
+        }
+
+        .btn-nav-primary:hover {
+            transform: translateY(-2px);
+            background: var(--primary-hover);
+        }
+
+        .btn-nav-outline {
+            border: 2px solid #e2e8f0;
+            padding: 8px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: #64748b;
+            font-weight: 600;
+        }
+
+        .main-push {
+            padding-top: 60px;
+            padding-bottom: 80px;
+            min-height: 70vh;
+        }
+
+        .flash-stack {
+            margin-bottom: 30px;
+        }
+
+        .flash-pill {
+            padding: 14px 20px;
+            border-radius: 12px;
+            margin-bottom: 10px;
+            font-weight: 600;
+            animation: slideIn 0.3s ease-out;
+        }
+
+        .flash-pill.success {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .flash-pill.error {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .footer-premium {
+            background: #f8fafc;
+            border-top: 1px solid #e2e8f0;
+            padding: 40px 0;
+            margin-top: auto;
+            color: #94a3b8;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 24px;
+        }
+
+        .footer-links a {
+            color: #94a3b8;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+
+        .footer-links a:hover {
+            color: var(--primary-color);
+        }
+
+        @media (max-width: 1024px) {
+            .navbar-premium {
+                padding: 1rem 0;
+            }
+
+            .mobile-menu-btn {
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+                background: none;
+                border: none;
+                cursor: pointer;
+                z-index: 1001;
+            }
+
+            .mobile-menu-btn .bar {
+                width: 25px;
+                height: 3px;
+                background-color: var(--text-color);
+                border-radius: 2px;
+                transition: 0.3s;
+            }
+
+            .nav-links-premium {
+                position: fixed;
+                top: 0;
+                right: -100%;
+                height: 100vh;
+                width: 280px;
+                background: white;
+                flex-direction: column;
+                padding: 100px 30px;
+                box-shadow: -10px 0 30px rgba(0, 0, 0, 0.1);
+                transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+                z-index: 1000;
+            }
+
+            .nav-links-premium.active {
+                right: 0;
+            }
+
+            .nav-links-premium li {
+                width: 100%;
+            }
+
+            .nav-item {
+                font-size: 1.1rem;
+                padding: 10px 0;
+                display: block;
+            }
+
+            .btn-nav-primary,
+            .btn-nav-outline {
+                display: block;
+                text-align: center;
+                margin-top: 10px;
+            }
+
+            .nav-flex {
+                flex-direction: row;
+                /* Keep logo and hamburger horizontal */
+                gap: 0;
+            }
+        }
+
+        @media (min-width: 1025px) {
+            .mobile-menu-btn {
+                display: none;
+            }
+        }
+    </style>
+
+
+    <script>
+        document.getElementById('mobile-toggle').addEventListener('click', function () {
+            document.getElementById('nav-menu').classList.toggle('active');
+            this.classList.toggle('active');
+        });
+
+        // Close menu on link click
+        document.querySelectorAll('.nav-item').forEach(link => {
+            link.addEventListener('click', () => {
+                document.getElementById('nav-menu').classList.remove('active');
+                document.getElementById('mobile-toggle').classList.remove('active');
+            });
+        });
+    </script>
+</body>
+
+</html>

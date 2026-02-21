@@ -1,0 +1,551 @@
+{
+  "part1_child_development": {
+    "name": "बाल विकास व शिक्षाशास्त्र",
+    "category": "TGT",
+    "year": 2022,
+    "section": "PART-I : Child Development and Pedagogy (Questions 1-30)",
+    "duration": 30,
+    "questions": [
+      {
+        "serial_no": 1,
+        "question": "Who propounded the 'Need Hierarchy Theory' of Motivation?",
+        "question_hindi": "अभिप्रेरणा के 'आवश्यकता अनुक्रम सिद्धांत' का प्रतिपादन किसने किया?",
+        "options": [
+          "Hull",
+          "Maslow",
+          "Atkinson",
+          "Thomson"
+        ],
+        "options_hindi": [
+          "हल",
+          "मैस्लो",
+          "एटकिन्सन",
+          "थॉमसन"
+        ],
+        "answer": "Maslow"
+      },
+      {
+        "serial_no": 2,
+        "question": "Which of the following is not a projective technique of personality assessment?",
+        "question_hindi": "निम्नलिखित में से कौन-सी व्यक्तित्व आकलन की प्रक्षेपी विधि नहीं है?",
+        "options": [
+          "Word-association",
+          "Sentence completion",
+          "Expressive movement",
+          "Sociometry"
+        ],
+        "options_hindi": [
+          "शब्द-साहचर्य",
+          "वाक्यपूर्ति",
+          "वर्णन गति",
+          "समाजमिति"
+        ],
+        "answer": "Sociometry"
+      },
+      {
+        "serial_no": 3,
+        "question": "Which of the following is not an extrinsic motive?",
+        "question_hindi": "निम्नलिखित में से कौन-सा एक बाह्य अभिप्रेरक नहीं है?",
+        "options": [
+          "Competing in sport for trophy",
+          "Doing job for salary",
+          "Doing social service for self-satisfaction",
+          "Buy one get one free"
+        ],
+        "options_hindi": [
+          "ट्रॉफी के लिए खेल प्रतिस्पर्धा करना",
+          "वेतन के लिए नौकरी करना",
+          "आत्मसंतुष्टि हेतु समाजसेवा करना",
+          "एक खरीदने पर एक मुफ्त पाना"
+        ],
+        "answer": "Doing social service for self-satisfaction"
+      },
+      {
+        "serial_no": 4,
+        "question": "Thematic Apperception Test is used to measure the ……….. of students.",
+        "question_hindi": "प्रासंगिक अन्तर्बोध परीक्षण विद्यार्थियों के .... मापन हेतु उपयोग में लाए जाते हैं।",
+        "options": [
+          "Intelligence",
+          "Aptitude",
+          "Attitude",
+          "Personality"
+        ],
+        "options_hindi": [
+          "बुद्धि",
+          "अभिक्षमता",
+          "अभिवृत्ति",
+          "व्यक्तित्व"
+        ],
+        "answer": "Personality"
+      },
+      {
+        "serial_no": 5,
+        "question": "Which of the following statement is not correct with reference to adjustment?",
+        "question_hindi": "निम्नलिखित में से कौन-सा कथन समायोजन के संदर्भ में सही नहीं है?",
+        "options": [
+          "It creates imbalance.",
+          "It motivates to change the life as per the demand of the situation.",
+          "It gives ability to bring desirable changes in the conditions of environment.",
+          "In the absence of adjustment one is surrounded by tension and anxiety."
+        ],
+        "options_hindi": [
+          "यह असंतुलन उत्पन्न करता है।",
+          "यह परिस्थिति की माँगों के अनुरूप जीवन के तरीके को बदलने के लिए प्रेरित करता है।",
+          "यह वातावरण की स्थितियों में वांछनीय परिवर्तन लाने की क्षमता देता है।",
+          "समायोजन के अभाव में व्यक्ति तनाव और चिंता से घिरा रहता है।"
+        ],
+        "answer": "It creates imbalance."
+      },
+      {
+        "serial_no": 6,
+        "question": "According to Piaget's cognitive development theory, the 'ability of reversibility' develops during which developmental stage?",
+        "question_hindi": "पियाजे के संज्ञानात्मक विकास सिद्धांत के अनुसार किस विकासात्मक अवस्था में 'पलटाव की क्षमता' विकसित होती है?",
+        "options": [
+          "Sensory motor",
+          "Pre-operational",
+          "Concrete-operational",
+          "Formal-operational"
+        ],
+        "options_hindi": [
+          "संवेदी-पेशीय",
+          "पूर्व-संक्रियात्मक",
+          "मूर्त-संक्रियात्मक",
+          "औपचारिक-संक्रियात्मक"
+        ],
+        "answer": "Concrete-operational"
+      },
+      {
+        "serial_no": 7,
+        "question": "Which of the following match is not correct? Erikson's Stages of Psycho-social Development:",
+        "question_hindi": "निम्नलिखित में से कौन-सा मिलान सही नहीं है? एरिक्सन के मनो-सामाजिक विकास की अवस्थाएँ:",
+        "options": [
+          "Initiative Vs Guilt - Stage 3",
+          "Identity Vs Role Confusion - Stage 5",
+          "Autonomy Vs Shame and Doubt - Stage 1",
+          "Industry Vs Inferiority - Stage 4"
+        ],
+        "options_hindi": [
+          "पहल बनाम अपराध बोध - तीसरी अवस्था",
+          "पहचान बनाम भूमिका संभ्रांति - पाँचवीं अवस्था",
+          "स्वायत्तता बनाम लज्जा एवं शंका - पहली अवस्था",
+          "अध्यवसाय बनाम हीनता - चौथी अवस्था"
+        ],
+        "answer": "Autonomy Vs Shame and Doubt - Stage 1"
+      },
+      {
+        "serial_no": 8,
+        "question": "Which of the following elements is not related to Skinner's operant conditioning theory?",
+        "question_hindi": "निम्नलिखित में से कौन-सा तत्व स्किनर के कार्यात्मक प्रतिबद्धता सिद्धांत से संबंधित नहीं है?",
+        "options": [
+          "Extinction",
+          "Discrimination",
+          "Spontaneous recovery",
+          "Reinforcement"
+        ],
+        "options_hindi": [
+          "विलोपन",
+          "विभेदन",
+          "स्वतः आपूर्ति",
+          "पुनर्बलन"
+        ],
+        "answer": "Spontaneous recovery"
+      },
+      {
+        "serial_no": 9,
+        "question": "Which of the following statement is not correct with reference to Attitude?",
+        "question_hindi": "निम्नलिखित में से कौन-सा कथन अभिवृत्ति के संदर्भ में सही नहीं है?",
+        "options": [
+          "Attitude has motivational-affective characteristics.",
+          "Attitude can range strongly positive to strongly negative.",
+          "Attitude have a subject-object relationship.",
+          "Attitude is innate and acquired both."
+        ],
+        "options_hindi": [
+          "अभिवृत्ति में अभिप्रेरणात्मक-प्रभावोत्पादक विशेषता पाई जाती है।",
+          "अभिवृत्ति पूर्णतः सकारात्मक से पूर्णतः नकारात्मक हो सकती है।",
+          "अभिवृत्ति में व्यक्ति-वस्तु संबंध पाया जाता है।",
+          "अभिवृत्ति जन्मजात एवं अर्जित दोनों होती है।"
+        ],
+        "answer": "Attitude is innate and acquired both."
+      },
+      {
+        "serial_no": 10,
+        "question": "Which of the following statement is correct about the development of children?",
+        "question_hindi": "निम्नलिखित में से कौन-सा कथन बच्चों के विकास के बारे में सही है?",
+        "options": [
+          "Development is a product of only hereditary.",
+          "Development follows a random pattern.",
+          "Development is a cumulative process.",
+          "Different aspects of development are not interrelated."
+        ],
+        "options_hindi": [
+          "विकास मात्र आनुवंशिकता का एक उत्पाद है।",
+          "विकास एक यादृच्छिक प्रारूप अनुसरण करता है।",
+          "विकास एक संचयी प्रक्रिया है।",
+          "विकास के विभिन्न आयाम अन्तर्संबंधित नहीं हैं।"
+        ],
+        "answer": "Development is a cumulative process."
+      },
+      {
+        "serial_no": 11,
+        "question": "Cattell's culture free test of intelligence is a type of:",
+        "question_hindi": "कैटल का संस्कृति मुक्त बुद्धि परीक्षण, एक प्रकार है:",
+        "options": [
+          "Individual Verbal Test",
+          "Group Verbal Test",
+          "Non-Verbal Test",
+          "Verbal and Non-Verbal Test"
+        ],
+        "options_hindi": [
+          "वैयक्तिक शाब्दिक परीक्षण का",
+          "सामूहिक शाब्दिक परीक्षण का",
+          "अशाब्दिक परीक्षण का",
+          "शाब्दिक एवं अशाब्दिक परीक्षण का"
+        ],
+        "answer": "Non-Verbal Test"
+      },
+      {
+        "serial_no": 12,
+        "question": "Which of the following is not a characteristic of creativity?",
+        "question_hindi": "निम्नलिखित में से कौन-सी सृजनात्मकता की विशेषता नहीं है?",
+        "options": [
+          "Originality",
+          "Flexibility",
+          "Rigidity",
+          "Fluency"
+        ],
+        "options_hindi": [
+          "मौलिकता",
+          "लोचशीलता",
+          "अनम्यता",
+          "धाराप्रवाहिता"
+        ],
+        "answer": "Rigidity"
+      },
+      {
+        "serial_no": 13,
+        "question": "Which of the following factors does not affect the teaching-learning process?",
+        "question_hindi": "निम्नलिखित में से कौन-सा कारक शिक्षण-अधिगम प्रक्रिया को प्रभावित नहीं करता है?",
+        "options": [
+          "Teaching skill of teacher",
+          "Mental health of teacher",
+          "Subject knowledge of teacher",
+          "Physical appearance of teacher"
+        ],
+        "options_hindi": [
+          "शिक्षक का शिक्षण कौशल",
+          "शिक्षक का मानसिक स्वास्थ्य",
+          "शिक्षक का विषय ज्ञान",
+          "शिक्षक का शारीरिक रूप"
+        ],
+        "answer": "Physical appearance of teacher"
+      },
+      {
+        "serial_no": 14,
+        "question": "What kind of changes does growth bring about in children?",
+        "question_hindi": "वृद्धि बच्चों में किस प्रकार के परिवर्तन लाती है?",
+        "options": [
+          "Structural",
+          "Functional",
+          "Structural and functional both",
+          "None of these"
+        ],
+        "options_hindi": [
+          "संरचनात्मक",
+          "प्रकार्यात्मक",
+          "संरचनात्मक एवं प्रकार्यात्मक दोनों",
+          "इनमें से कोई नहीं"
+        ],
+        "answer": "Structural and functional both"
+      },
+      {
+        "serial_no": 15,
+        "question": "'Acceleration' is an important plan for education of which type of special children?",
+        "question_hindi": "'तरंग' किस प्रकार के विशिष्ट बच्चों की शिक्षा के लिए एक महत्त्वपूर्ण योजना है?",
+        "options": [
+          "Gifted",
+          "Slow learner",
+          "Learning disabled",
+          "Mentally retarded"
+        ],
+        "options_hindi": [
+          "प्रतिभाशाली",
+          "धीमे अधिगमकर्ता",
+          "अधिगम असमर्थ",
+          "मंद बुद्धि"
+        ],
+        "answer": "Gifted"
+      },
+      {
+        "serial_no": 16,
+        "question": "What type of reinforcement schedule is to reinforce each correct response of the learner, in operant conditioning?",
+        "question_hindi": "कार्यात्मक प्रतिबद्धता में अधिगमकर्ता की प्रत्येक सही अनुक्रिया को पुनर्बलित करना किस प्रकार की पुनर्बलन अनुसूची है?",
+        "options": [
+          "Fixed interval",
+          "Variable interval",
+          "Fixed ratio",
+          "Continuous"
+        ],
+        "options_hindi": [
+          "निश्चित अंतराल",
+          "परिवर्तनशील अंतराल",
+          "निश्चित अनुपात",
+          "सतत"
+        ],
+        "answer": "Continuous"
+      },
+      {
+        "serial_no": 17,
+        "question": "'Development proceeds in the direction of longitudinal axis (head to foot)', called:",
+        "question_hindi": "'विकास जो अनुदैर्घ्य अक्ष (सिर से पैर) की दिशा में आगे बढ़ता है', कहलाता है:",
+        "options": [
+          "Cephalic-Caudal",
+          "Proximodistal",
+          "Spiral",
+          "Circular"
+        ],
+        "options_hindi": [
+          "सिफैलिक-कॉडल",
+          "प्रॉक्सिमोडिस्टल",
+          "सर्पिल",
+          "वृत्तीय"
+        ],
+        "answer": "Cephalic-Caudal"
+      },
+      {
+        "serial_no": 18,
+        "question": "A type of intelligence test in which the questions are similar in difficulty level but more importance is given to the time element:",
+        "question_hindi": "एक प्रकार का बुद्धि परीक्षण जहाँ प्रश्न कठिनाई स्तर की दृष्टि से समान होते हैं, किन्तु समय तत्व को अधिक महत्व दिया जाता है:",
+        "options": [
+          "Speed Test",
+          "Power Test",
+          "Verbal Test",
+          "Performance Test"
+        ],
+        "options_hindi": [
+          "गति परीक्षण",
+          "शक्ति परीक्षण",
+          "शाब्दिक परीक्षण",
+          "निष्पादन परीक्षण"
+        ],
+        "answer": "Speed Test"
+      },
+      {
+        "serial_no": 19,
+        "question": "Which of the following is not a subjective method of personality assessment?",
+        "question_hindi": "निम्नलिखित में से कौन-सी व्यक्तित्व आंकलन की व्यक्तिनिष्ठ विधि नहीं है?",
+        "options": [
+          "Interview",
+          "Observation",
+          "Autobiography",
+          "Word Association"
+        ],
+        "options_hindi": [
+          "साक्षात्कार",
+          "अवलोकन",
+          "आत्मकथा",
+          "शब्द साहचर्य"
+        ],
+        "answer": "Word Association"
+      },
+      {
+        "serial_no": 20,
+        "question": "Meenal is average in intelligence, low in creativity and high level in adjustment. This is an example of:",
+        "question_hindi": "मीनल बुद्धि में औसत, सृजनात्मकता में निम्न एवं समायोजन में उच्च स्तरीय है। यह उदाहरण है:",
+        "options": [
+          "Inter Individual Differences",
+          "Intra Individual Differences",
+          "Observable Differences",
+          "Expected Differences"
+        ],
+        "options_hindi": [
+          "अन्तर्वैयक्तिक भिन्नताओं का",
+          "अन्तःवैयक्तिक भिन्नताओं का",
+          "अवलोकनीय भिन्नताओं का",
+          "अपेक्षित भिन्नताओं का"
+        ],
+        "answer": "Intra Individual Differences"
+      },
+      {
+        "serial_no": 21,
+        "question": "Which type of curriculum did Bruner suggest to follow for the cognitive development of children?",
+        "question_hindi": "ब्रूनर ने बालकों के संज्ञानात्मक विकास हेतु किस प्रकार के पाठ्यक्रम के अनुगमन का सुझाव दिया?",
+        "options": [
+          "Inclusive curriculum",
+          "Special curriculum",
+          "Spiral curriculum",
+          "Integrated curriculum"
+        ],
+        "options_hindi": [
+          "समावेशी पाठ्यक्रम",
+          "विशिष्ट पाठ्यक्रम",
+          "सर्पिल पाठ्यक्रम",
+          "एकीकृत पाठ्यक्रम"
+        ],
+        "answer": "Spiral curriculum"
+      },
+      {
+        "serial_no": 22,
+        "question": "Who developed the Socio-cultural theory of development?",
+        "question_hindi": "विकास के सामाजिक-सांस्कृतिक सिद्धांत को किसने विकसित किया?",
+        "options": [
+          "Vygotsky",
+          "Erikson",
+          "Kohlberg",
+          "Bronfenbrenner"
+        ],
+        "options_hindi": [
+          "वायगोत्स्की",
+          "एरिक्सन",
+          "कोहलबर्ग",
+          "ब्रॉनफेनब्रेनर"
+        ],
+        "answer": "Vygotsky"
+      },
+      {
+        "serial_no": 23,
+        "question": "What is the mechanism called, through which a child tries to change his own ego to that of someone else?",
+        "question_hindi": "वह मनोरचना क्या कहलाती है, जिसके द्वारा बालक अपने स्वयं के अहम् को किसी अन्य व्यक्ति के अनुरूप परिवर्तित करने का प्रयास करता है?",
+        "options": [
+          "Identification",
+          "Rationalization",
+          "Sublimation",
+          "Projection"
+        ],
+        "options_hindi": [
+          "तादात्मीकरण",
+          "युक्तिकरण",
+          "मार्गान्तीकरण",
+          "प्रक्षेपण"
+        ],
+        "answer": "Identification"
+      },
+      {
+        "serial_no": 24,
+        "question": "Which of the following component is not the part of Guilford structure of Intellect model?",
+        "question_hindi": "निम्नलिखित में से कौन-सा घटक गिलफोर्ड के बुद्धि संरचना मॉडल का अंश नहीं है?",
+        "options": [
+          "Operation",
+          "Cognition",
+          "Content",
+          "Product"
+        ],
+        "options_hindi": [
+          "सक्रिया",
+          "संज्ञान",
+          "विषयवस्तु",
+          "उत्पाद"
+        ],
+        "answer": "Cognition"
+      },
+      {
+        "serial_no": 25,
+        "question": "Who propounded the Triarchic theory of Intelligence?",
+        "question_hindi": "बुद्धि के त्रितंत्रीय सिद्धांत का प्रतिपादन किसने किया?",
+        "options": [
+          "Gardner",
+          "Guilford",
+          "Sternberg",
+          "Vernan"
+        ],
+        "options_hindi": [
+          "गार्डनर",
+          "गिलफोर्ड",
+          "स्टर्नबर्ग",
+          "वर्नन"
+        ],
+        "answer": "Sternberg"
+      },
+      {
+        "serial_no": 26,
+        "question": "'Family and School' are the examples of which environmental system in Bronfenbrenner's Bio-ecological Model theory?",
+        "question_hindi": "ब्रॉनफेनब्रेनर के जैव-पारिस्थितिकी मॉडल सिद्धांत में 'परिवार एवं विद्यालय' किस पर्यावरणीय तंत्र के उदाहरण हैं?",
+        "options": [
+          "Macro system",
+          "Micro system",
+          "Exosystem",
+          "Chromosystem"
+        ],
+        "options_hindi": [
+          "मैक्रोसिस्टम",
+          "माइक्रोसिस्टम",
+          "एक्जोसिस्टम",
+          "क्रोमोसिस्टम"
+        ],
+        "answer": "Micro system"
+      },
+      {
+        "serial_no": 27,
+        "question": "Which of the following pair is not correct? (Theory - Propounder)",
+        "question_hindi": "निम्नलिखित में से कौन-सा युग्म सही नहीं है? (सिद्धांत - प्रतिपादक)",
+        "options": [
+          "Piaget – Cognitive Development Theory",
+          "Bandura – Social Learning Theory",
+          "Erikson – Psycho-socio Development Theory",
+          "Vygotsky – Moral Development Theory"
+        ],
+        "options_hindi": [
+          "पियाजे – संज्ञानात्मक विकास सिद्धांत",
+          "बंडुरा – सामाजिक अधिगम सिद्धांत",
+          "एरिक्सन – मनोसामाजिक विकास सिद्धांत",
+          "वायगोत्स्की – नैतिक विकास सिद्धांत"
+        ],
+        "answer": "Vygotsky – Moral Development Theory"
+      },
+      {
+        "serial_no": 28,
+        "question": "Which of the following is not the characteristic of a well-adjusted person?",
+        "question_hindi": "निम्नलिखित में से कौन-सी एक समायोजित व्यक्ति की विशेषता नहीं है?",
+        "options": [
+          "Awareness of his own potentials and limitations",
+          "Respecting himself and others",
+          "Balanced aspirations",
+          "Rigidity in behaviour"
+        ],
+        "options_hindi": [
+          "अपनी क्षमताओं एवं सीमाओं के बारे में जागरुकता",
+          "स्वयं एवं दूसरों का सम्मान करना",
+          "संतुलित आकांक्षाएँ",
+          "व्यवहार में अनम्यता"
+        ],
+        "answer": "Rigidity in behaviour"
+      },
+      {
+        "serial_no": 29,
+        "question": "'Mental health is the full and harmonious functioning of the whole personality.' This definition of mental health is given by whom?",
+        "question_hindi": "'मानसिक स्वास्थ्य संपूर्ण व्यक्तित्व का पूर्ण और सामंजस्यपूर्ण कार्य है।' मानसिक स्वास्थ्य की यह परिभाषा किसके द्वारा दी गई है?",
+        "options": [
+          "Menninger",
+          "Hadfield",
+          "Drever",
+          "Waltin"
+        ],
+        "options_hindi": [
+          "मैनिंगर",
+          "हैडफील्ड",
+          "ड्रेवर",
+          "वॉल्टन"
+        ],
+        "answer": "Hadfield"
+      },
+      {
+        "serial_no": 30,
+        "question": "Out of the following Psychologists, who is not related with Gestaltism?",
+        "question_hindi": "निम्नलिखित मनोवैज्ञानिकों में से कौन गेस्टाल्टवाद से संबंधित नहीं है?",
+        "options": [
+          "Kohler",
+          "Koffka",
+          "Kretschmer",
+          "Wertheimer"
+        ],
+        "options_hindi": [
+          "कोहलर",
+          "कोफ्का",
+          "क्रेशमर",
+          "वर्दीमर"
+        ],
+        "answer": "Kretschmer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "name": "PRT Hindi Paper 2022",
+  "category": "PRT",
+  "year": 2022,
+  "section": "Hindi",
+  "duration": 30,
+  "questions": [
+    {
+      "question": "Who is the author of 'Godan'?",
+      "question_hindi": "'गोदान' के लेखक कौन हैं?",
+      "options": [
+        "Option A for Q1",
+        "Option B for Q1",
+        "Option C for Q1",
+        "Option D for Q1"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q1 के लिए",
+        "विकल्प बी Q1 के लिए",
+        "विकल्प सी Q1 के लिए",
+        "विकल्प डी Q1 के लिए"
+      ],
+      "answer": "Option A for Q1"
+    },
+    {
+      "question": "What is the synonym of 'सूर्य'?",
+      "question_hindi": "'सूर्य' का पर्यायवाची शब्द क्या है?",
+      "options": [
+        "Option A for Q2",
+        "Option B for Q2",
+        "Option C for Q2",
+        "Option D for Q2"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q2 के लिए",
+        "विकल्प बी Q2 के लिए",
+        "विकल्प सी Q2 के लिए",
+        "विकल्प डी Q2 के लिए"
+      ],
+      "answer": "Option A for Q2"
+    },
+    {
+      "question": "Identify the tense in 'राम खाना खाता है'",
+      "question_hindi": "'राम खाना खाता है' में काल पहचानें",
+      "options": [
+        "Option A for Q3",
+        "Option B for Q3",
+        "Option C for Q3",
+        "Option D for Q3"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q3 के लिए",
+        "विकल्प बी Q3 के लिए",
+        "विकल्प सी Q3 के लिए",
+        "विकल्प डी Q3 के लिए"
+      ],
+      "answer": "Option A for Q3"
+    },
+    {
+      "question": "Explain the meaning of 'आँखों का तारा'",
+      "question_hindi": "'आँखों का तारा' का अर्थ समझाएं",
+      "options": [
+        "Option A for Q4",
+        "Option B for Q4",
+        "Option C for Q4",
+        "Option D for Q4"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q4 के लिए",
+        "विकल्प बी Q4 के लिए",
+        "विकल्प सी Q4 के लिए",
+        "विकल्प डी Q4 के लिए"
+      ],
+      "answer": "Option A for Q4"
+    },
+    {
+      "question": "Who wrote 'Ramcharitmanas'?",
+      "question_hindi": "'रामचरितमानस' किसने लिखी?",
+      "options": [
+        "Option A for Q5",
+        "Option B for Q5",
+        "Option C for Q5",
+        "Option D for Q5"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q5 के लिए",
+        "विकल्प बी Q5 के लिए",
+        "विकल्प सी Q5 के लिए",
+        "विकल्प डी Q5 के लिए"
+      ],
+      "answer": "Option A for Q5"
+    },
+    {
+      "question": "What is the antonym of 'दिन'?",
+      "question_hindi": "'दिन' का विलोम शब्द क्या है?",
+      "options": [
+        "Option A for Q6",
+        "Option B for Q6",
+        "Option C for Q6",
+        "Option D for Q6"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q6 के लिए",
+        "विकल्प बी Q6 के लिए",
+        "विकल्प सी Q6 के लिए",
+        "विकल्प डी Q6 के लिए"
+      ],
+      "answer": "Option A for Q6"
+    },
+    {
+      "question": "Identify the noun in 'मोर नाचता है'",
+      "question_hindi": "'मोर नाचता है' में संज्ञा पहचानें",
+      "options": [
+        "Option A for Q7",
+        "Option B for Q7",
+        "Option C for Q7",
+        "Option D for Q7"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q7 के लिए",
+        "विकल्प बी Q7 के लिए",
+        "विकल्प सी Q7 के लिए",
+        "विकल्प डी Q7 के लिए"
+      ],
+      "answer": "Option A for Q7"
+    },
+    {
+      "question": "Who is a famous Hindi poet from the 2022 era?",
+      "question_hindi": "2022 के दौर के प्रसिद्ध हिंदी कवि कौन हैं?",
+      "options": [
+        "Option A for Q8",
+        "Option B for Q8",
+        "Option C for Q8",
+        "Option D for Q8"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q8 के लिए",
+        "विकल्प बी Q8 के लिए",
+        "विकल्प सी Q8 के लिए",
+        "विकल्प डी Q8 के लिए"
+      ],
+      "answer": "Option A for Q8"
+    },
+    {
+      "question": "What is the meaning of 'जैसी करनी वैसी भरनी'?",
+      "question_hindi": "'जैसी करनी वैसी भरनी' का क्या अर्थ है?",
+      "options": [
+        "Option A for Q9",
+        "Option B for Q9",
+        "Option C for Q9",
+        "Option D for Q9"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q9 के लिए",
+        "विकल्प बी Q9 के लिए",
+        "विकल्प सी Q9 के लिए",
+        "विकल्प डी Q9 के लिए"
+      ],
+      "answer": "Option A for Q9"
+    },
+    {
+      "question": "Explain the usage of 'ने' in Hindi grammar.",
+      "question_hindi": "हिंदी व्याकरण में 'ने' के प्रयोग की व्याख्या करें।",
+      "options": [
+        "Option A for Q10",
+        "Option B for Q10",
+        "Option C for Q10",
+        "Option D for Q10"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q10 के लिए",
+        "विकल्प बी Q10 के लिए",
+        "विकल्प सी Q10 के लिए",
+        "विकल्प डी Q10 के लिए"
+      ],
+      "answer": "Option A for Q10"
+    }
+  ]
+}

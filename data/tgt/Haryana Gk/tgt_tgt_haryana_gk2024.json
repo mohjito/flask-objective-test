@@ -1,0 +1,551 @@
+{
+  "part3": {
+    "name": "General Studies",
+    "category": "TGT",
+    "year": 2024,
+    "section": "PART-III : General Studies (Quantitative Aptitude : 10 Qn, Reasoning Ability : 10 Qn, G. K. & Awareness : 10 Qn.)",
+    "duration": 30,
+    "questions": [
+      {
+        "serial_no": 61,
+        "question": "Find the odd one:",
+        "question_hindi": "असंगत को ज्ञात कीजिये :",
+        "options": [
+          "Rectangle",
+          "Square",
+          "Cube",
+          "Triangle"
+        ],
+        "options_hindi": [
+          "आयत",
+          "वर्ग",
+          "धन",
+          "त्रिभुज"
+        ],
+        "answer": "Cube"
+      },
+      {
+        "serial_no": 62,
+        "question": "By selling an item for Rs. 153, a man gets loss of 10%. For how much should he sell them to get profit of 20%?",
+        "question_hindi": "एक वस्तु को 153 रुपये में बेचने पर एक व्यक्ति को 10% की हानि होती है। 20% लाभ प्राप्त करने के लिये उसे कितनी राशि में बेचना चाहिए ?",
+        "options": [
+          "Rs. 204",
+          "Rs. 214",
+          "Rs. 220",
+          "Rs. 170"
+        ],
+        "options_hindi": [
+          "204 रुपये",
+          "214 रुपये",
+          "220 रुपये",
+          "170 रुपये"
+        ],
+        "answer": "Rs. 204"
+      },
+      {
+        "serial_no": 63,
+        "question": "A, B, C, D and E are sitting around a circular table facing the centre. Only A is between E and B. D is to the immediate left of B. Who is to the immediate left of C?",
+        "question_hindi": "A, B, C, D और E एक वृत्ताकार मेज के चारों ओर केन्द्र की ओर मुँह करके बैठे हुये हैं। E और B के बीच केवल A है। D, B के एकदम बायीं ओर है। C के एकदम बायीं ओर कौन है ?",
+        "options": [
+          "E",
+          "D",
+          "B",
+          "A"
+        ],
+        "options_hindi": [
+          "E",
+          "D",
+          "B",
+          "A"
+        ],
+        "answer": "A"
+      },
+      {
+        "serial_no": 64,
+        "question": "Shekhar walks 10 metres towards North. Then he walks 6 metres towards South. Then he walks 3 metres towards East. How far is he from his starting point?",
+        "question_hindi": "शेखर उत्तर दिशा की ओर 10 मीटर चलता है। फिर वह दक्षिण दिशा की ओर 6 मीटर चलता है। फिर वह पूर्व दिशा की ओर 3 मीटर चलता है। वह अपने प्रारम्भिक बिन्दु से अब कितना दूर है ?",
+        "options": [
+          "7 metres",
+          "6 metres",
+          "5 metres",
+          "4 metres"
+        ],
+        "options_hindi": [
+          "7 मीटर",
+          "6 मीटर",
+          "5 मीटर",
+          "4 मीटर"
+        ],
+        "answer": "5 metres"
+      },
+      {
+        "serial_no": 65,
+        "question": "Next term of the following number series will be: 5, 6, 9, 15, 25, ?",
+        "question_hindi": "निम्न संख्या श्रेणी का अगला पद होगा: 5, 6, 9, 15, 25, ?",
+        "options": [
+          "35",
+          "37",
+          "40",
+          "41"
+        ],
+        "options_hindi": [
+          "35",
+          "37",
+          "40",
+          "41"
+        ],
+        "answer": "40"
+      },
+      {
+        "serial_no": 66,
+        "question": "Sachin is shorter than Kamal, but taller than Ram. Mohan is the tallest. Arun is a little shorter than Kamal and a little taller than Sachin. Who is the second tallest among these five persons?",
+        "question_hindi": "सचिन कमल से ठिगना परन्तु राम से लम्बा है। मोहन सबसे लम्बा है। अरुण, कमल से थोड़ा सा ठिगना और सचिन से थोड़ा लम्बा है। इन पाँच व्यक्तियों में दूसरा सबसे लम्बा कौन है ?",
+        "options": [
+          "Sachin",
+          "Arun",
+          "Ram",
+          "Kamal"
+        ],
+        "options_hindi": [
+          "सचिन",
+          "अरुण",
+          "राम",
+          "कमल"
+        ],
+        "answer": "Kamal"
+      },
+      {
+        "serial_no": 67,
+        "question": "P is Q's sister. R is Q's mother. S is R's father. T is S's mother. How is P related to S?",
+        "question_hindi": "P, Q की बहन है। R, Q की माता है। S, R का पिता है। T, S की माता है। P, S से किस प्रकार सम्बन्धित है ?",
+        "options": [
+          "Daughter",
+          "Sister",
+          "Grandmother",
+          "Granddaughter"
+        ],
+        "options_hindi": [
+          "पुत्री",
+          "बहन",
+          "दादी",
+          "दोहती"
+        ],
+        "answer": "Granddaughter"
+      },
+      {
+        "serial_no": 68,
+        "question": "If ZIP = 300 and ZAN = 400, then ZOO = ?",
+        "question_hindi": "यदि ZIP = 300 और ZAN = 400 हो, तो ZOO = ?",
+        "options": [
+          "250",
+          "350",
+          "200",
+          "500"
+        ],
+        "options_hindi": [
+          "250",
+          "350",
+          "200",
+          "500"
+        ],
+        "answer": "200"
+      },
+      {
+        "serial_no": 69,
+        "question": "Find the missing term in the following letter series: AYD, BVF, DRH, ?, KGL",
+        "question_hindi": "निम्न वर्ण श्रेणी में लुप्त पद ज्ञात कीजिये: AYD, BVF, DRH, ?, KGL",
+        "options": [
+          "FMJ",
+          "GMJ",
+          "GNJ",
+          "FNK"
+        ],
+        "options_hindi": [
+          "FMJ",
+          "GMJ",
+          "GNJ",
+          "FNK"
+        ],
+        "answer": "FMJ"
+      },
+      {
+        "serial_no": 70,
+        "question": "If the letters in the word CYBERNETICS are rearranged in the alphabetical order, which letter will be in the middle in order after rearrangement?",
+        "question_hindi": "यदि शब्द CYBERNETICS के सभी वर्णों को वर्णमाला के क्रम में पुनः व्यवस्थित किया जाता है, तो पुनः व्यवस्थित करने के बाद कौन-सा वर्ण मध्य में होगा ?",
+        "options": [
+          "E",
+          "I",
+          "N",
+          "R"
+        ],
+        "options_hindi": [
+          "E",
+          "I",
+          "N",
+          "R"
+        ],
+        "answer": "N"
+      },
+      {
+        "serial_no": 71,
+        "question": "The diameter of a sphere whose volume is 113 1/7 cubic metres is:",
+        "question_hindi": "113 1/7 घन मीटर आयतन वाले गोले का व्यास है :",
+        "options": [
+          "3 metres",
+          "6 metres",
+          "7 metres",
+          "14 metres"
+        ],
+        "options_hindi": [
+          "3 मीटर",
+          "6 मीटर",
+          "7 मीटर",
+          "14 मीटर"
+        ],
+        "answer": "6 metres"
+      },
+      {
+        "serial_no": 72,
+        "question": "If the diameter of a right circular cylinder is 28 cm and its height is 20 cm, then the total surface area is equal to:",
+        "question_hindi": "यदि समवृत्ताकार बेलन का व्यास 28 सेमी है और इसकी ऊँचाई 20 सेमी है, तो कुल पृष्ठीय क्षेत्रफल बराबर है :",
+        "options": [
+          "1760 cm2",
+          "1232 cm2",
+          "1496 cm2",
+          "2992 cm2"
+        ],
+        "options_hindi": [
+          "1760 सेमी2",
+          "1232 सेमी2",
+          "1496 सेमी2",
+          "2992 सेमी2"
+        ],
+        "answer": "2992 cm2"
+      },
+      {
+        "serial_no": 73,
+        "question": "The perimeter of the rhombus is 52 cm. If one of the diagonal is 24 cm, the area of the rhombus is equal to:",
+        "question_hindi": "एक समचतुर्भुज का परिमाप 52 सेमी है। यदि इसके एक विकर्ण की लम्बाई 24 सेमी है, तो समचतुर्भुज का क्षेत्रफल बराबर है :",
+        "options": [
+          "240 cm2",
+          "120 cm2",
+          "180 cm2",
+          "90 cm2"
+        ],
+        "options_hindi": [
+          "240 सेमी2",
+          "120 सेमी2",
+          "180 सेमी2",
+          "90 सेमी2"
+        ],
+        "answer": "120 cm2"
+      },
+      {
+        "serial_no": 74,
+        "question": "The radius and the height of right circular cone are in the ratio 5 : 12. If its volume is 314 metre3, the diameter of its base is equal to (π = 3.14):",
+        "question_hindi": "एक समवृत्तीय शंकु की त्रिज्या और ऊँचाई में 5 : 12 का अनुपात है। यदि इसका आयतन 314 मीटर3 है, तो इसके आधार का व्यास बराबर है (π = 3.14) :",
+        "options": [
+          "10 metres",
+          "5 metres",
+          "20 metres",
+          "15 metres"
+        ],
+        "options_hindi": [
+          "10 मीटर",
+          "5 मीटर",
+          "20 मीटर",
+          "15 मीटर"
+        ],
+        "answer": "10 metres"
+      },
+      {
+        "serial_no": 75,
+        "question": "The value of [sec(90° – A) – cot A] / [cos (90° – A) tan (90° – A)] is:",
+        "question_hindi": "[sec (90° – A) – cot A] / [cos (90° – A) tan (90° – A)] का मान है :",
+        "options": [
+          "tan A",
+          "cot A",
+          "cos A",
+          "sin A"
+        ],
+        "options_hindi": [
+          "tan A",
+          "cot A",
+          "cos A",
+          "sin A"
+        ],
+        "answer": "tan A"
+      },
+      {
+        "serial_no": 76,
+        "question": "If the height of a tower is 2√3 metres and the length of its shadow is 2 metres, then the angle of elevation of sun is equal to:",
+        "question_hindi": "यदि एक मीनार की ऊँचाई 2√3 मीटर है और इसकी छाया की लम्बाई 2 मीटर है, तो सूर्य का उन्नयन कोण बराबर है :",
+        "options": [
+          "30°",
+          "45°",
+          "60°",
+          "75°"
+        ],
+        "options_hindi": [
+          "30°",
+          "45°",
+          "60°",
+          "75°"
+        ],
+        "answer": "60°"
+      },
+      {
+        "serial_no": 77,
+        "question": "The least number of complete years, in which a sum of money put at 20% compound interest will be more than doubled, is:",
+        "question_hindi": "20% चक्रवृद्धि ब्याज पर एक धनराशि न्यूनतम कितने पूर्ण वर्षों में दुगुना से अधिक हो जायेगी ?",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "options_hindi": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "answer": "4"
+      },
+      {
+        "serial_no": 78,
+        "question": "How many numbers from 11 to 50 are there which are exactly divisible by 7 but not by 3?",
+        "question_hindi": "11 से 50 तक ऐसी कितनी संख्याएँ हैं जो 7 से पूर्णतया विभाजित होती हैं परन्तु 3 से नहीं ?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "7"
+        ],
+        "options_hindi": [
+          "3",
+          "4",
+          "5",
+          "7"
+        ],
+        "answer": "4"
+      },
+      {
+        "serial_no": 79,
+        "question": "The square root of 4 3/4 * 2 2/3 * 1 3/4 + 2 2/3 is equal to:",
+        "question_hindi": "4 3/4 * 2 2/3 * 1 3/4 + 2 2/3 का वर्गमूल बराबर है :",
+        "options": [
+          "2 11/12",
+          "2 1/12",
+          "3 11/12",
+          "3 1/12"
+        ],
+        "options_hindi": [
+          "2 11/12",
+          "2 1/12",
+          "3 11/12",
+          "3 1/12"
+        ],
+        "answer": "2 11/12"
+      },
+      {
+        "serial_no": 80,
+        "question": "X can do a work in 6 days and Y can do same work in 8 days. With the help of Z, all three finished the work in 3 days. If they altogether got Rs. 2000 after completing the work, then Z gets:",
+        "question_hindi": "X एक कार्य को 6 दिन में पूर्ण कर सकता है और Y इसी कार्य को 8 दिन में पूर्ण कर सकता है। Z की सहायता से तीनों मिलकर इस कार्य को 3 दिन में पूर्ण कर देते हैं। यदि तीनों को कुल 2000 रुपये कार्य समाप्ति पर प्राप्त हुये, तो Z का भाग है :",
+        "options": [
+          "Rs. 200",
+          "Rs. 250",
+          "Rs. 400",
+          "Rs. 500"
+        ],
+        "options_hindi": [
+          "200 रुपये",
+          "250 रुपये",
+          "400 रुपये",
+          "500 रुपये"
+        ],
+        "answer": "Rs. 250"
+      },
+      {
+        "serial_no": 81,
+        "question": "Which district of Haryana shares its boundaries with Seven districts of Haryana?",
+        "question_hindi": "हरियाणा का कौन-सा जिला हरियाणा के सात जिलों से अपनी सीमा साझा करता है ?",
+        "options": [
+          "Ambala",
+          "Panchkula",
+          "Kurukshetra",
+          "Jind"
+        ],
+        "options_hindi": [
+          "अंबाला",
+          "पंचकुला",
+          "कुरुक्षेत्र",
+          "जींद"
+        ],
+        "answer": "Jind"
+      },
+      {
+        "serial_no": 82,
+        "question": "As per Mahabharata, who among the following led an expedition to Rohtak?",
+        "question_hindi": "महाभारत के अनुसार निम्नलिखित में से किसने रोहतक पर एक सैन्य अभियान का नेतृत्व किया ?",
+        "options": [
+          "Bhishma",
+          "Arjuna",
+          "Bhim",
+          "Nakul"
+        ],
+        "options_hindi": [
+          "भीष्म",
+          "अर्जुन",
+          "भीम",
+          "नकुल"
+        ],
+        "answer": "Nakul"
+      },
+      {
+        "serial_no": 83,
+        "question": "The Chief Justice of Punjab and Haryana High Court is:",
+        "question_hindi": "पंजाब एवं हरियाणा उच्च न्यायालय के मुख्य न्यायाधीश हैं :",
+        "options": [
+          "Justice Sheel Nagu",
+          "Justice Ravishankar Jha",
+          "Justice Ritu Bahri",
+          "Justice Krishna Murari"
+        ],
+        "options_hindi": [
+          "न्यायमूर्ति शील नागू",
+          "न्यायमूर्ति रविशंकर झा",
+          "न्यायमूर्ति ऋतु बाहरी",
+          "न्यायमूर्ति कृष्ण मुरारी"
+        ],
+        "answer": "Justice Sheel Nagu"
+      },
+      {
+        "serial_no": 84,
+        "question": "Identify the composition of Haryana Public Service Commission:",
+        "question_hindi": "हरियाणा लोक सेवा आयोग के गठन को चिह्नित कीजिए :",
+        "options": [
+          "Chairman and four members",
+          "Chairman and three members",
+          "Chairman and five members",
+          "Chairman and six members"
+        ],
+        "options_hindi": [
+          "अध्यक्ष एवं चार सदस्य",
+          "अध्यक्ष एवं तीन सदस्य",
+          "अध्यक्ष एवं पाँच सदस्य",
+          "अध्यक्ष एवं छः सदस्य"
+        ],
+        "answer": "Chairman and four members"
+      },
+      {
+        "serial_no": 85,
+        "question": "Who among the following received Arjuna Award of 2023?",
+        "question_hindi": "निम्नलिखित में से किसने 2023 का अर्जुन पुरस्कार प्राप्त किया है ?",
+        "options": [
+          "Diksha Dagar",
+          "Vinesh Phogat",
+          "Babita Kumari",
+          "Reetika Hooda"
+        ],
+        "options_hindi": [
+          "दीक्षा डागर",
+          "विनेश फोगाट",
+          "बबीता कुमारी",
+          "रीतिका हूडा"
+        ],
+        "answer": "Diksha Dagar"
+      },
+      {
+        "serial_no": 86,
+        "question": "Which of the following Wild Life Sanctuaries is located in Panchkula?",
+        "question_hindi": "निम्नलिखित में से कौन-सा वन्य जीव अभयारण्य पंचकुला में अवस्थित है ?",
+        "options": [
+          "Chhilchhila Sanctuary",
+          "Bir Shikargah Sanctuary",
+          "Nahar Sanctuary",
+          "Kaparwas Sanctuary"
+        ],
+        "options_hindi": [
+          "छिलछिला अभयारण्य",
+          "बीर शिकारगाह अभयारण्य",
+          "नाहर अभयारण्य",
+          "कापरवास अभयारण्य"
+        ],
+        "answer": "Bir Shikargah Sanctuary"
+      },
+      {
+        "serial_no": 87,
+        "question": "Which of the following districts does not come under the Shivalik Development Agency?",
+        "question_hindi": "निम्नलिखित में से कौन-सा जिला शिवालिक विकास एजेन्सी के अन्तर्गत नहीं आता ?",
+        "options": [
+          "Ambala",
+          "Panchkula",
+          "Yamuna Nagar",
+          "Kurukshetra"
+        ],
+        "options_hindi": [
+          "अंबाला",
+          "पंचकुला",
+          "यमुनानगर",
+          "कुरुक्षेत्र"
+        ],
+        "answer": "Kurukshetra"
+      },
+      {
+        "serial_no": 88,
+        "question": "The Sikh Chieftain of Ladawa who fought against British during the First Anglo-Maratha war:",
+        "question_hindi": "लाडवा का सिख सरदार जो प्रथम आंग्ल-मराठा युद्ध के दौरान अंग्रेजों के विरुद्ध लड़ा :",
+        "options": [
+          "Gurdit Singh",
+          "Lal Singh",
+          "Bhoj Singh",
+          "Manohar Singh"
+        ],
+        "options_hindi": [
+          "गुरुदीत सिंह",
+          "लाल सिंह",
+          "भोज सिंह",
+          "मनोहर सिंह"
+        ],
+        "answer": "Lal Singh"
+      },
+      {
+        "serial_no": 89,
+        "question": "Read the following statements about Bhadanakas: (A) During 12th century they were ruling over the area of Gurugram & Rewari. (B) They defeated Chauhan ruler Prithviraj-III. Choose the correct code:",
+        "question_hindi": "भादानकों के बारे में निम्नलिखित कथनों को पढ़िए : (A) 12वीं सदी के दौरान वे गुरुग्राम एवं रेवाड़ी के क्षेत्रों पर शासन कर रहे थे। (B) उन्होंने चौहान शासक पृथ्वीराज-III को पराजित किया। सही कूट का चयन कीजिए :",
+        "options": [
+          "Only statement (A) is true.",
+          "Only statement (B) is true.",
+          "Neither statement (A) nor statement (B) is true.",
+          "Both the statements are true."
+        ],
+        "options_hindi": [
+          "केवल कथन (A) सत्य है।",
+          "केवल कथन (B) सत्य है।",
+          "न तो कथन (A) न ही कथन (B) सत्य है।",
+          "दोनों कथन सत्य हैं।"
+        ],
+        "answer": "Only statement (A) is true."
+      },
+      {
+        "serial_no": 90,
+        "question": "Per Capita Income of Haryana during 2023-24 on constant prices is:",
+        "question_hindi": "स्थिर मूल्यों पर 2023-24 में हरियाणा की प्रति व्यक्ति आय है :",
+        "options": [
+          "3,25,759/-",
+          "1,85,490/-",
+          "1,63,285/-",
+          "1,04,550/-"
+        ],
+        "options_hindi": [
+          "3,25,759/-",
+          "1,85,490/-",
+          "1,63,285/-",
+          "1,04,550/-"
+        ],
+        "answer": "1,85,490/-"
+      }
+    ]
+  }
+}

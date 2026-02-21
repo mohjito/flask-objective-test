@@ -1,0 +1,551 @@
+{
+  "part1_child_development": {
+    "name": "बाल विकास व शिक्षाशास्त्र",
+    "category": "TGT",
+    "year": 2023,
+    "section": "PART-I : Child Development and Pedagogy (Questions 1-30)",
+    "duration": 30,
+    "questions": [
+      {
+        "serial_no": 1,
+        "question": "Which of the following laws is not related to heredity?",
+        "question_hindi": "निम्नलिखित में से कौन-सा नियम आनुवंशिकता से संबंधित नहीं है?",
+        "options": [
+          "Law of Similarity",
+          "Law of Variation",
+          "Law of Regression",
+          "Law of Progression"
+        ],
+        "options_hindi": [
+          "समानता का नियम",
+          "भिन्नता का नियम",
+          "प्रतिगमन का नियम",
+          "प्रगति का नियम"
+        ],
+        "answer": "Law of Progression"
+      },
+      {
+        "serial_no": 2,
+        "question": "Which of the following is not a performance test of intelligence?",
+        "question_hindi": "निम्नलिखित में से कौन-सा बुद्धि का एक क्रियात्मक परीक्षण नहीं है?",
+        "options": [
+          "Koh's Block Design Test",
+          "Alexander's Pass Along Test",
+          "Segouin Form Board Test",
+          "Stanford-Binet Test"
+        ],
+        "options_hindi": [
+          "कोह का ब्लॉक डिजाइन परीक्षण",
+          "एलेक्जेंडर का पास-एलॉग परीक्षण",
+          "सेगुइन फॉर्म बोर्ड परीक्षण",
+          "स्टैनफोर्ड-बिने परीक्षण"
+        ],
+        "answer": "Stanford-Binet Test"
+      },
+      {
+        "serial_no": 3,
+        "question": "Which of the following is not an objective type question?",
+        "question_hindi": "निम्नलिखित में से कौन-सा वस्तुनिष्ठ प्रकार का प्रश्न नहीं है?",
+        "options": [
+          "Matching questions",
+          "Analytical questions",
+          "Multiple choice questions",
+          "Blank space questions"
+        ],
+        "options_hindi": [
+          "मिलान प्रश्न",
+          "विश्लेषणात्मक प्रश्न",
+          "बहुवैकल्पिक प्रश्न",
+          "रिक्त स्थान प्रश्न"
+        ],
+        "answer": "Analytical questions"
+      },
+      {
+        "serial_no": 4,
+        "question": "According to Moral Development theory of Piaget, adolescent period is:",
+        "question_hindi": "पियाजे के नैतिक विकास सिद्धांत के अनुसार, किशोरावस्था है:",
+        "options": [
+          "Stage of moral realism",
+          "Stage of morality constraint",
+          "Stage of heteronomous morality",
+          "Stage of autonomous morality"
+        ],
+        "options_hindi": [
+          "नैतिक यथार्थवाद की अवस्था",
+          "बाध्यकारी नैतिकता की अवस्था",
+          "परायत्त नैतिकता की अवस्था",
+          "स्वायत्त नैतिकता की अवस्था"
+        ],
+        "answer": "Stage of autonomous morality"
+      },
+      {
+        "serial_no": 5,
+        "question": "Which of the following characteristics is not related to the concrete operational stage of the Cognitive Development theory propounded by Piaget?",
+        "question_hindi": "निम्नलिखित में से कौन-सी विशेषता पियाजे द्वारा प्रतिपादित संज्ञानात्मक विकास सिद्धान्त की मूर्त संक्रियात्मक अवस्था से संबंधित नहीं है?",
+        "options": [
+          "Reversibility",
+          "Serialization",
+          "Animism",
+          "Conservation"
+        ],
+        "options_hindi": [
+          "उत्क्रमणीयता",
+          "क्रमबद्धता",
+          "जीववाद",
+          "संरक्षण"
+        ],
+        "answer": "Animism"
+      },
+      {
+        "serial_no": 6,
+        "question": "Which statement is not correct in context of individual differences?",
+        "question_hindi": "वैयक्तिक भिन्नताओं के सन्दर्भ में कौन-सा कथन सही नहीं है?",
+        "options": [
+          "Two persons are not exactly same.",
+          "Individual differences are deviation in regards to characteristics.",
+          "Individual differences distinguish individuals in their totality.",
+          "Individual differences are the sole result of heredity."
+        ],
+        "options_hindi": [
+          "कोई भी दो व्यक्ति बिल्कुल एक-समान नहीं होते।",
+          "वैयक्तिक भिन्नताएँ विशेषताओं के संबंध में विचलन हैं।",
+          "वैयक्तिक भिन्नताएँ अपनी समग्रता में व्यक्तियों को अलग करती हैं।",
+          "वैयक्तिक भिन्नताएँ केवल आनुवंशिकता का ही परिणाम होती हैं।"
+        ],
+        "answer": "Individual differences are the sole result of heredity."
+      },
+      {
+        "serial_no": 7,
+        "question": "When the lesson to be learned by a child is long and difficult and requires a lot of understanding, then which method of learning will be appropriate?",
+        "question_hindi": "जब एक बच्चे द्वारा सीखा जाने वाला पाठ लंबा और कठिन हो तथा उसमें समझ की जरूरत भी अधिक हो, तो सीखने की कौन-सी विधि उपयुक्त होगी?",
+        "options": [
+          "Spaced method",
+          "Whole method",
+          "Massed method",
+          "Incidental method"
+        ],
+        "options_hindi": [
+          "विराम विधि",
+          "पूर्ण विधि",
+          "अविराम विधि",
+          "प्रासंगिक विधि"
+        ],
+        "answer": "Whole method"
+      },
+      {
+        "serial_no": 8,
+        "question": "Which teaching maxim is not beneficial for the learning disabled children?",
+        "question_hindi": "अधिगम अक्षम बच्चों के लिए कौन-सा शिक्षण सूत्र लाभप्रद नहीं होगा?",
+        "options": [
+          "Simple to complex",
+          "Abstract to concrete",
+          "Direct to indirect",
+          "Known to unknown"
+        ],
+        "options_hindi": [
+          "सरल से जटिल",
+          "अमूर्त से मूर्त",
+          "प्रत्यक्ष से अप्रत्यक्ष",
+          "ज्ञात से अज्ञात"
+        ],
+        "answer": "Abstract to concrete"
+      },
+      {
+        "serial_no": 9,
+        "question": "Which of the following is not a principle of development?",
+        "question_hindi": "निम्नलिखित में से कौन-सा विकास का एक सिद्धांत नहीं है?",
+        "options": [
+          "Development is the product of heredity and environment.",
+          "Developmental pattern is predictable.",
+          "Development follows linear path.",
+          "Development proceeds from general to specific."
+        ],
+        "options_hindi": [
+          "विकास आनुवंशिकता एवं पर्यावरण का उत्पाद है।",
+          "विकासात्मक पैटर्न पूर्वानुमेय होता है।",
+          "विकास रैखिक पथ का अनुसरण करता है।",
+          "विकास सामान्य से विशिष्ट की ओर बढ़ता है।"
+        ],
+        "answer": "Development follows linear path."
+      },
+      {
+        "serial_no": 10,
+        "question": "According to which psychologist, the role of social and cultural factors are important in the cognitive development of children?",
+        "question_hindi": "किस मनोवैज्ञानिक के अनुसार बच्चों के संज्ञानात्मक विकास में सामाजिक एवं सांस्कृतिक कारकों की भूमिका महत्त्वपूर्ण होती है?",
+        "options": [
+          "Vygotsky",
+          "Piaget",
+          "Bruner",
+          "Hull"
+        ],
+        "options_hindi": [
+          "वायगोत्स्की",
+          "पियाजे",
+          "ब्रूनर",
+          "हल"
+        ],
+        "answer": "Vygotsky"
+      },
+      {
+        "serial_no": 11,
+        "question": "Which of the following is not a common characteristic of social development in adolescence?",
+        "question_hindi": "निम्नलिखित में से कौन-सी किशोरावस्था में सामाजिक विकास की एक सामान्य विशेषता नहीं है?",
+        "options": [
+          "Harmonious relationship with parents",
+          "New social grouping",
+          "Search for identity",
+          "Hero-worship"
+        ],
+        "options_hindi": [
+          "माता-पिता के साथ सामंजस्यपूर्ण संबंध",
+          "नया सामाजिक समूहन",
+          "पहचान की खोज",
+          "वीर-पूजा"
+        ],
+        "answer": "Harmonious relationship with parents"
+      },
+      {
+        "serial_no": 12,
+        "question": "Which stages of Kohlberg's Moral Development theory are not related to level of conventional morality? (a) Individualism and exchange (b) Good interpersonal relations (c) Maintaining the social order (d) Social contracts and individual rights",
+        "question_hindi": "कोहलबर्ग के नैतिक विकास सिद्धांत की कौन-सी अवस्थाएँ पारम्परिक नैतिकता के स्तर से संबंधित नहीं हैं? (a) व्यक्तिवाद एवं विनिमय (b) अच्छे अन्तर्वैयक्तिक संबंध (c) सामाजिक व्यवस्था बनाए रखना (d) सामाजिक अनुबंध और वैयक्तिक अधिकार",
+        "options": [
+          "(a) & (b)",
+          "(b) & (c)",
+          "(a) & (d)",
+          "(c) & (d)"
+        ],
+        "options_hindi": [
+          "(a) एवं (b)",
+          "(b) एवं (c)",
+          "(a) एवं (d)",
+          "(c) एवं (d)"
+        ],
+        "answer": "(a) & (d)"
+      },
+      {
+        "serial_no": 13,
+        "question": "Learning through mental processes like attention and reflection is called:",
+        "question_hindi": "अवधान एवं चिंतन जैसी मानसिक प्रक्रियाओं के द्वारा सीखना कहलाता है:",
+        "options": [
+          "Imitative learning",
+          "Motor learning",
+          "Cognitive learning",
+          "Affective learning"
+        ],
+        "options_hindi": [
+          "अनुकरणात्मक सीखना",
+          "गामक सीखना",
+          "संज्ञानात्मक सीखना",
+          "भावात्मक सीखना"
+        ],
+        "answer": "Cognitive learning"
+      },
+      {
+        "serial_no": 14,
+        "question": "Which teaching learning strategy is most useful for students in context of social learning?",
+        "question_hindi": "सामाजिक अधिगम के सन्दर्भ में कौन-सी शिक्षण-अधिगम रणनीति विद्यार्थियों के लिए सर्वाधिक उपयोगी है?",
+        "options": [
+          "Field trip",
+          "Lecture",
+          "Experiment",
+          "Brain storming"
+        ],
+        "options_hindi": [
+          "क्षेत्र भ्रमण",
+          "भाषण",
+          "प्रयोग",
+          "मानसिक उद्देलन"
+        ],
+        "answer": "Field trip"
+      },
+      {
+        "serial_no": 15,
+        "question": "In Pavlov's Conditioning theory, which factor does not positively affect the conditioning between natural and artificial stimuli?",
+        "question_hindi": "पैवलॉव के अनुबंधन सिद्धांत में स्वाभाविक एवं कृत्रिम उद्दीपकों के मध्य अनुबंधन को कौन-सा कारक धनात्मक रूप से प्रभावित नहीं करता है?",
+        "options": [
+          "Appropriate timing of stimuli presentation",
+          "Repetition of stimuli",
+          "Controlled environment",
+          "Lack of motive"
+        ],
+        "options_hindi": [
+          "उद्दीपकों के प्रस्तुतीकरण का उपयुक्त समय",
+          "उद्दीपकों की पुनरावृत्ति",
+          "नियंत्रित वातावरण",
+          "प्रेरक की कमी"
+        ],
+        "answer": "Lack of motive"
+      },
+      {
+        "serial_no": 16,
+        "question": "Which of the following factors does not affect the teaching learning process?",
+        "question_hindi": "निम्नलिखित में से कौन-सा कारक शिक्षण अधिगम प्रक्रिया को प्रभावित नहीं करता है?",
+        "options": [
+          "Physical appearance of teacher",
+          "Mental health of teacher",
+          "Content knowledge of teacher",
+          "Communication skills of teacher"
+        ],
+        "options_hindi": [
+          "शिक्षक का शारीरिक रूप",
+          "शिक्षक का मानसिक स्वास्थ्य",
+          "शिक्षक का विषयवस्तु ज्ञान",
+          "शिक्षक का संप्रेषण कौशल"
+        ],
+        "answer": "Physical appearance of teacher"
+      },
+      {
+        "serial_no": 17,
+        "question": "Which of the following factor does not influence the development of child under environmental factors?",
+        "question_hindi": "निम्नलिखित में से कौन-सा कारक पर्यावरणीय कारकों के अंतर्गत बच्चों के विकास को प्रभावित नहीं करता?",
+        "options": [
+          "Nutrition",
+          "Mental stress of the mother during pregnancy",
+          "Accidents",
+          "Endocrine glands"
+        ],
+        "options_hindi": [
+          "पोषण",
+          "गर्भावस्था के दौरान माँ का मानसिक तनाव",
+          "दुर्घटनाएँ",
+          "अन्तःस्रावी ग्रंथियाँ"
+        ],
+        "answer": "Endocrine glands"
+      },
+      {
+        "serial_no": 18,
+        "question": "'Law of use' and 'Law of disuse' is related with which law of learning according to Thorndike's learning theory?",
+        "question_hindi": "'उपयोग का नियम' एवं 'अनुपयोग का नियम' थॉर्नडाइक के अधिगम सिद्धांत के अनुसार किस सीखने के नियम से संबंधित है?",
+        "options": [
+          "Law of readiness",
+          "Law of exercise",
+          "Law of effect",
+          "Law of multiple response"
+        ],
+        "options_hindi": [
+          "तत्परता का नियम",
+          "अभ्यास का नियम",
+          "प्रभाव का नियम",
+          "बहु प्रतिक्रिया का नियम"
+        ],
+        "answer": "Law of exercise"
+      },
+      {
+        "serial_no": 19,
+        "question": "Which of the following pair is not correct regarding motivational theories and their proponents?",
+        "question_hindi": "निम्नलिखित में से कौन-सा युग्म अभिप्रेरणा के सिद्धांतों एवं उनके प्रतिपादकों के संबंध में सही नहीं है?",
+        "options": [
+          "Instinct theory - Atkinson",
+          "Need Hierarchical theory - Maslow",
+          "Drive theory - Woodworth",
+          "Achievement Motivation theory - Mc'Clelland"
+        ],
+        "options_hindi": [
+          "मूल प्रवृत्ति सिद्धांत - एटकिंसन",
+          "आवश्यकता पदानुक्रम सिद्धांत - मैस्लो",
+          "प्रणोद सिद्धांत - वुडवर्थ",
+          "उपलब्धि अभिप्रेरणा सिद्धांत - मैक्लीलैंड"
+        ],
+        "answer": "Instinct theory - Atkinson"
+      },
+      {
+        "serial_no": 20,
+        "question": "Inclusive Education means:",
+        "question_hindi": "समावेशी शिक्षा से तात्पर्य है:",
+        "options": [
+          "Education for socially deprived children",
+          "Education for disabled children",
+          "Education for normal and disabled children",
+          "Education for all children"
+        ],
+        "options_hindi": [
+          "सामाजिक रूप से वंचित बच्चों के लिए शिक्षा",
+          "दिव्यांग बच्चों के लिए शिक्षा",
+          "सामान्य एवं दिव्यांग बच्चों के लिए शिक्षा",
+          "सभी बच्चों के लिए शिक्षा"
+        ],
+        "answer": "Education for all children"
+      },
+      {
+        "serial_no": 21,
+        "question": "Which of the following is not a principle of effective learning?",
+        "question_hindi": "निम्नलिखित में से कौन-सा प्रभावी अधिगम का एक सिद्धांत नहीं है?",
+        "options": [
+          "Motivation",
+          "Individual approach",
+          "Passive attendance",
+          "Feedback"
+        ],
+        "options_hindi": [
+          "अभिप्रेरणा",
+          "वैयक्तिक पहुँच",
+          "निष्क्रिय उपस्थिति",
+          "प्रतिपुष्टि"
+        ],
+        "answer": "Passive attendance"
+      },
+      {
+        "serial_no": 22,
+        "question": "According to Gagne, to what highest level of learning should a teacher strive to take students?",
+        "question_hindi": "गैने के अनुसार, एक शिक्षक द्वारा विद्यार्थियों को किस उच्चतम स्तर के अधिगम तक ले जाने का प्रयास करना चाहिए?",
+        "options": [
+          "Concept learning",
+          "Problem solving learning",
+          "Rule learning",
+          "Discrimination learning"
+        ],
+        "options_hindi": [
+          "संप्रत्यय अधिगम",
+          "समस्या समाधान अधिगम",
+          "नियम अधिगम",
+          "विभेदन अधिगम"
+        ],
+        "answer": "Problem solving learning"
+      },
+      {
+        "serial_no": 23,
+        "question": "Which three aspects of intelligence are emphasized in the triarchic theory of Sternberg? (a) Componential (b) Experiential (c) Operational (d) Contextual",
+        "question_hindi": "स्टर्नबर्ग के त्रितंत्रीय सिद्धांत में बुद्धि के किन तीन पहलुओं पर बल दिया गया है? (a) घटकीय (b) अनुभवजन्य (c) संक्रियात्मक (d) संदर्भात्मक",
+        "options": [
+          "(a), (b) & (c)",
+          "(b), (c) & (d)",
+          "(a), (b) & (d)",
+          "(a), (c) & (d)"
+        ],
+        "options_hindi": [
+          "(a), (b) एवं (c)",
+          "(b), (c) एवं (d)",
+          "(a), (b) एवं (d)",
+          "(a), (c) एवं (d)"
+        ],
+        "answer": "(a), (b) & (d)"
+      },
+      {
+        "serial_no": 24,
+        "question": "Which educational intervention is not suitable for slow learners?",
+        "question_hindi": "धीमी गति के अधिगमकर्ता के लिए कौन-सा शैक्षिक हस्तक्षेप उपयुक्त नहीं है?",
+        "options": [
+          "Acceleration",
+          "Remedial teaching",
+          "Drill work",
+          "Cooperative teaching method"
+        ],
+        "options_hindi": [
+          "त्वरण",
+          "उपचारात्मक शिक्षण",
+          "अभ्यास कार्य",
+          "सहकारी शिक्षण विधि"
+        ],
+        "answer": "Acceleration"
+      },
+      {
+        "serial_no": 25,
+        "question": "Choose the correct code for the approved social behaviour pattern in adolescence: (a) Leadership skills (b) Empathy (c) Ego-centrism (d) Stereotyping",
+        "question_hindi": "किशोरावस्था में स्वीकृत सामाजिक व्यवहार प्रतिमान के लिए सही कूट का चयन कीजिए: (a) नेतृत्व कुशलता (b) परानुभूति (c) अहं-केन्द्रितता (d) रूढ़िवादिता",
+        "options": [
+          "(a) & (b)",
+          "(b) & (d)",
+          "(a), (b) & (c)",
+          "(a), (c) & (d)"
+        ],
+        "options_hindi": [
+          "(a) एवं (b)",
+          "(b) एवं (d)",
+          "(a), (b) एवं (c)",
+          "(a), (c) एवं (d)"
+        ],
+        "answer": "(a) & (b)"
+      },
+      {
+        "serial_no": 26,
+        "question": "The true meaning of continuous and comprehensive evaluation is: (a) Taking frequent tests (b) Taking continuous tests at appropriate intervals (c) To evaluate scholastic and co-scholastic both aspects (d) Measuring only educational achievements",
+        "question_hindi": "सतत् एवं व्यापक मूल्यांकन का सही अर्थ है: (a) लगातार परीक्षाएँ लेना (b) उपयुक्त अंतराल के बाद निरन्तर परीक्षाएँ लेना (c) शैक्षिक तथा सह-शैक्षिक दोनों पक्षों का मूल्यांकन करना (d) केवल शैक्षिक उपलब्धि मापना",
+        "options": [
+          "(b) & (d)",
+          "(b) & (c)",
+          "(a), (b) & (c)",
+          "(b), (c) & (d)"
+        ],
+        "options_hindi": [
+          "(b) एवं (d)",
+          "(b) एवं (c)",
+          "(a), (b) एवं (c)",
+          "(b), (c) एवं (d)"
+        ],
+        "answer": "(b) & (c)"
+      },
+      {
+        "serial_no": 27,
+        "question": "The education which promotes 'learning by doing' and ensures the student's interaction with their environment to learn, that is known as:",
+        "question_hindi": "वह शिक्षा जो 'करके सीखने' को बढ़ावा देती है और सीखने के लिए विद्यार्थियों की उनके वातावरण के साथ अंतःक्रिया सुनिश्चित करती है, वह कहलाती है:",
+        "options": [
+          "Special education",
+          "Progressive education",
+          "Integrated education",
+          "Inclusive education"
+        ],
+        "options_hindi": [
+          "विशिष्ट शिक्षा",
+          "प्रगतिशील शिक्षा",
+          "एकीकृत शिक्षा",
+          "समावेशी शिक्षा"
+        ],
+        "answer": "Progressive education"
+      },
+      {
+        "serial_no": 28,
+        "question": "Which teaching support material is not useful for visually impaired students?",
+        "question_hindi": "दृष्टिबाधित विद्यार्थियों के लिए कौन-सी शिक्षण सहायक सामग्री उपयोगी नहीं होगी?",
+        "options": [
+          "Braille materials",
+          "Talking books",
+          "Film strips",
+          "Embossed map"
+        ],
+        "options_hindi": [
+          "ब्रेल सामग्री",
+          "बोलती किताबें",
+          "फिल्म स्ट्रिप्स",
+          "उभरे हुए मानचित्र"
+        ],
+        "answer": "Film strips"
+      },
+      {
+        "serial_no": 29,
+        "question": "Choose the correct code of the following factors, which affects learning: (a) Motivation (b) Aptitude (c) Interest (d) Attention",
+        "question_hindi": "अधिगम को प्रभावित करने वाले निम्नलिखित कारकों के सही कूट का चयन कीजिए: (a) अभिप्रेरणा (b) अभिक्षमता (c) अभिरुचि (d) अवधान",
+        "options": [
+          "(c) & (d)",
+          "(a), (b) & (d)",
+          "(a) & (c)",
+          "(a), (b), (c) & (d)"
+        ],
+        "options_hindi": [
+          "(c) एवं (d)",
+          "(a), (b) एवं (d)",
+          "(a) एवं (c)",
+          "(a), (b), (c) एवं (d)"
+        ],
+        "answer": "(a), (b), (c) & (d)"
+      },
+      {
+        "serial_no": 30,
+        "question": "A learning difficulty that create problem for a child to distinguish letters and words is:",
+        "question_hindi": "एक अधिगम कठिनाई जो बच्चे के लिए वर्णों और शब्दों में अंतर करने में समस्या उत्पन्न करती है:",
+        "options": [
+          "Dysplasticia",
+          "Dyslexia",
+          "Dysgraphia",
+          "Dyscalculia"
+        ],
+        "options_hindi": [
+          "डिस्प्लेस्टिसिया",
+          "डिस्लेक्सिया",
+          "डिस्ग्राफिया",
+          "डिस्कैलकुलिया"
+        ],
+        "answer": "Dyslexia"
+      }
+    ]
+  }
+}

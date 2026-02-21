@@ -1,0 +1,162 @@
+{% extends "base.html" %}
+
+{% block title %}Select Paper - {{ category }} {{ year }} - QuizLearn{% endblock %}
+
+{% block content %}
+<style>
+    .dashboard-header-premium {
+        margin-bottom: 40px;
+        animation: slideUp 0.6s ease-out;
+    }
+
+    .sub-text {
+        color: #64748b;
+        font-size: 1.1rem;
+    }
+
+    .premium-card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 25px;
+    }
+
+    .premium-card-glass {
+        background: white;
+        padding: 30px;
+        border-radius: 28px;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+        border: 1px solid #f1f5f9;
+        transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        cursor: pointer;
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+
+    .premium-card-glass:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 20px 50px -15px rgba(0, 0, 0, 0.1);
+        border-color: #6366f1;
+    }
+
+    /* Paper Card Specifics */
+    .paper-card {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+    }
+
+    .paper-badge {
+        background: #f1f5f9;
+        color: #6366f1;
+        padding: 6px 14px;
+        border-radius: 10px;
+        font-size: 0.75rem;
+        font-weight: 850;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+    }
+
+    .paper-title {
+        font-size: 1.25rem;
+        font-weight: 850;
+        margin-bottom: 25px;
+        line-height: 1.3;
+        color: #1e293b;
+    }
+
+    .paper-info-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+        gap: 15px;
+        background: #f8fafc;
+        padding: 15px;
+        border-radius: 18px;
+        margin-bottom: 25px;
+    }
+
+    .info-label {
+        display: block;
+        font-size: 0.7rem;
+        color: #94a3b8;
+        text-transform: uppercase;
+        font-weight: 800;
+        margin-bottom: 4px;
+    }
+
+    .info-val {
+        font-size: 1.1rem;
+        font-weight: 850;
+        color: #1e293b;
+    }
+
+    .btn-link-action {
+        color: #94a3b8;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 0.9rem;
+        transition: color 0.2s;
+    }
+
+    .btn-link-action:hover {
+        color: #6366f1;
+    }
+
+    .mt-40 {
+        margin-top: 40px;
+    }
+
+    @keyframes slideUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+<div class="dashboard-header-premium">
+    <h2 class="text-center">{{ category }} - {{ year }}</h2>
+    <p class="text-center sub-text">Select a paper to begin your mock test</p>
+</div>
+
+{% if tests %}
+<div class="premium-card-grid">
+    {% for test in tests %}
+    <div class="premium-card-glass paper-card">
+        <div class="paper-badge">{{ test.section }}</div>
+        <h3 class="paper-title">{{ test.name }}</h3>
+
+        <div class="paper-info-grid">
+            <div class="info-item">
+                <span class="info-label">Questions</span>
+                <span class="info-val">{{ test.questions|length }}</span>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Duration</span>
+                <span class="info-val">{{ test.duration }}m</span>
+            </div>
+        </div>
+
+        <a href="{{ url_for('test_routes.take_test', test_id=test.id) }}" class="btn btn-primary btn-full">🚀 Start Mock
+            Test</a>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<div class="empty-state-glass">
+    <div class="empty-icon">📭</div>
+    <p>No papers found for this selection.</p>
+</div>
+{% endif %}
+
+<div class="text-center mt-40">
+    <a href="{{ url_for('test_routes.select_year', category=category) }}" class="btn-link-action">← Back to Years</a>
+</div>
+
+{% endblock %}

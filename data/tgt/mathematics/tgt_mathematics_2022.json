@@ -1,0 +1,1091 @@
+{
+    "part4_mathematics_2022": {
+        "name": "गणित (भाग-IV)",
+        "category": "TGT",
+        "year": 2022,
+        "section": "PART-IV : Mathematics (Questions 90-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "If (x² + y² + z² - 64) = -2 and x + y = 3z, then value of z is:",
+                "question_hindi": "यदि (x² + y² + z² - 64) = -2 और x + y = 3z, तो z का मान है:",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "options_hindi": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "answer": "4"
+            },
+            {
+                "serial_no": 92,
+                "question": "The value of √10.0000 + √100.000 - √1000.0000 is:",
+                "question_hindi": "√10.0000 + √100.000 - √1000.0000 का मान है:",
+                "options": [
+                    "0.30644",
+                    "0.3244",
+                    "1.03644",
+                    "0.3644"
+                ],
+                "options_hindi": [
+                    "0.30644",
+                    "0.3244",
+                    "1.03644",
+                    "0.3644"
+                ],
+                "answer": "0.3644"
+            },
+            {
+                "serial_no": 93,
+                "question": "The value of 99 × 98 × 99 is:",
+                "question_hindi": "99 × 98 × 99 का मान है:",
+                "options": [
+                    "9899",
+                    "98999",
+                    "99899",
+                    "99998"
+                ],
+                "options_hindi": [
+                    "9899",
+                    "98999",
+                    "99899",
+                    "99998"
+                ],
+                "answer": "99998"
+            },
+            {
+                "serial_no": 94,
+                "question": "The value of (2.75)³ - (2.25)³ / (2.75)² + 2.75 × 2.25 + (2.25)² is:",
+                "question_hindi": "(2.75)³ - (2.25)³ / (2.75)² + 2.75 × 2.25 + (2.25)² का मान है:",
+                "options": [
+                    "0.3",
+                    "0.5",
+                    "3",
+                    "5"
+                ],
+                "options_hindi": [
+                    "0.3",
+                    "0.5",
+                    "3",
+                    "5"
+                ],
+                "answer": "0.5"
+            },
+            {
+                "serial_no": 95,
+                "question": "Arrange the following fractions in ascending order: 4/5, 7/8, 6/7, 5/6",
+                "question_hindi": "निम्न भिन्नों को आरोही क्रम में लिखिए: 4/5, 7/8, 6/7, 5/6",
+                "options": [
+                    "4/5, 7/8, 6/7, 5/6",
+                    "5/6, 6/7, 7/8, 4/5",
+                    "4/5, 5/6, 6/7, 7/8",
+                    "7/8, 6/7, 5/6, 4/5"
+                ],
+                "options_hindi": [
+                    "4/5, 7/8, 6/7, 5/6",
+                    "5/6, 6/7, 7/8, 4/5",
+                    "4/5, 5/6, 6/7, 7/8",
+                    "7/8, 6/7, 5/6, 4/5"
+                ],
+                "answer": "4/5, 5/6, 6/7, 7/8"
+            },
+            {
+                "serial_no": 96,
+                "question": "The diagonal of a rectangle is 8 cm. The angle between side and diagonal of a rectangle is 30°, then the area of rectangle is:",
+                "question_hindi": "एक आयत का विकर्ण 8 सेमी है तथा उसकी एक भुजा व विकर्ण के बीच का कोण 30° है, तो आयत का क्षेत्रफल है:",
+                "options": [
+                    "16 cm²",
+                    "16√3 cm²",
+                    "8√3 cm²",
+                    "16√3 cm²"
+                ],
+                "options_hindi": [
+                    "16 सेमी²",
+                    "16√3 सेमी²",
+                    "8√3 सेमी²",
+                    "16√3 सेमी²"
+                ],
+                "answer": "16√3 cm²"
+            },
+            {
+                "serial_no": 97,
+                "question": "The ratio of length and perimeter of any rectangle is 5 : 16, then the ratio of its length and breadth is:",
+                "question_hindi": "यदि किसी आयत की लम्बाई तथा उसका परिमाप 5 : 16 के अनुपात में हो, तो उसकी लम्बाई तथा चौड़ाई में अनुपात है:",
+                "options": [
+                    "5 : 11",
+                    "5 : 8",
+                    "5 : 4",
+                    "5 : 3"
+                ],
+                "options_hindi": [
+                    "5 : 11",
+                    "5 : 8",
+                    "5 : 4",
+                    "5 : 3"
+                ],
+                "answer": "5 : 3"
+            },
+            {
+                "serial_no": 98,
+                "question": "Which of the following is the largest number? 0.9, 0.9, 0.09, 0.09",
+                "question_hindi": "नीचे दी गई संख्याओं में सबसे बड़ी संख्या कौन-सी है? 0.9, 0.9, 0.09, 0.09",
+                "options": [
+                    "0.9",
+                    "0.9",
+                    "0.09",
+                    "0.09"
+                ],
+                "options_hindi": [
+                    "0.9",
+                    "0.9",
+                    "0.09",
+                    "0.09"
+                ],
+                "answer": "0.9"
+            },
+            {
+                "serial_no": 99,
+                "question": "The value of √20+√20+√20+......∞ is:",
+                "question_hindi": "√20+√20+√20+......∞ का मान है:",
+                "options": [
+                    "2",
+                    "4",
+                    "5",
+                    "10"
+                ],
+                "options_hindi": [
+                    "2",
+                    "4",
+                    "5",
+                    "10"
+                ],
+                "answer": "5"
+            },
+            {
+                "serial_no": 100,
+                "question": "If x + y = a + b, ax - by = a² - b², then the value of 'x' and 'y' is:",
+                "question_hindi": "यदि x + y = a + b, ax - by = a² - b², तो 'x' और 'y' का मान है:",
+                "options": [
+                    "x = a, y = b",
+                    "x = -a, y = b",
+                    "x = a, y = -b",
+                    "x = -a, y = -b"
+                ],
+                "options_hindi": [
+                    "x = a, y = b",
+                    "x = -a, y = b",
+                    "x = a, y = -b",
+                    "x = -a, y = -b"
+                ],
+                "answer": "x = a, y = b"
+            },
+            {
+                "serial_no": 101,
+                "question": "The roots of the quadratic equation 2x² + kx + 3 = 0 are equal, then value of 'k' is:",
+                "question_hindi": "द्विघात समीकरण 2x² + kx + 3 = 0 के दो समान मूल हैं, तो 'k' का मान है:",
+                "options": [
+                    "±2√6",
+                    "±3√8",
+                    "±5√6",
+                    "±4√3"
+                ],
+                "options_hindi": [
+                    "±2√6",
+                    "±3√8",
+                    "±5√6",
+                    "±4√3"
+                ],
+                "answer": "±2√6"
+            },
+            {
+                "serial_no": 102,
+                "question": "If the average of a, b, c is 'm' and (ab + bc + ca) = 0, then the average value of a² + b² + c² is:",
+                "question_hindi": "यदि a, b, c का औसत 'm' है और (ab + bc + ca) = 0, तो a² + b² + c² का औसत मान है:",
+                "options": [
+                    "m²",
+                    "3m²",
+                    "6m²",
+                    "9m²"
+                ],
+                "options_hindi": [
+                    "m²",
+                    "3m²",
+                    "6m²",
+                    "9m²"
+                ],
+                "answer": "3m²"
+            },
+            {
+                "serial_no": 103,
+                "question": "-5 + (-8) + (-11) + ……… + (-230) is:",
+                "question_hindi": "-5 + (-8) + (-11) + ……… + (-230) का मान है:",
+                "options": [
+                    "-8930",
+                    "8930",
+                    "8989",
+                    "8900"
+                ],
+                "options_hindi": [
+                    "-8930",
+                    "8930",
+                    "8989",
+                    "8900"
+                ],
+                "answer": "-8930"
+            },
+            {
+                "serial_no": 104,
+                "question": "The length of the sides of a triangle is p, q, r respectively. If p² + q² + r² = pq + qr + pr, then triangle is:",
+                "question_hindi": "किसी त्रिभुज की भुजाओं की लम्बाई क्रमशः p, q, r है। यदि p² + q² + r² = pq + qr + pr, तो यह त्रिभुज है:",
+                "options": [
+                    "Isosceles triangle",
+                    "Equilateral triangle",
+                    "Right angle triangle",
+                    "Obtuse angle triangle"
+                ],
+                "options_hindi": [
+                    "समद्विबाहु त्रिभुज",
+                    "समबाहु त्रिभुज",
+                    "समकोण त्रिभुज",
+                    "अधिक कोण त्रिभुज"
+                ],
+                "answer": "Equilateral triangle"
+            },
+            {
+                "serial_no": 105,
+                "question": "Sum of all the prime numbers between 50 to 90 is:",
+                "question_hindi": "50 से 90 के मध्य सभी अभाज्य संख्याओं का योग है:",
+                "options": [
+                    "485",
+                    "572",
+                    "722",
+                    "635"
+                ],
+                "options_hindi": [
+                    "485",
+                    "572",
+                    "722",
+                    "635"
+                ],
+                "answer": "635"
+            },
+            {
+                "serial_no": 106,
+                "question": "What is the unit place number in (2137)⁷⁵³?",
+                "question_hindi": "संख्या (2137)⁷⁵³ में इकाई का अंक क्या है?",
+                "options": [
+                    "1",
+                    "3",
+                    "7",
+                    "9"
+                ],
+                "options_hindi": [
+                    "1",
+                    "3",
+                    "7",
+                    "9"
+                ],
+                "answer": "7"
+            },
+            {
+                "serial_no": 107,
+                "question": "If (x+1)/(x-1) + (x+2)/(x-2) = (22x+30)/(11x-18), then the value of 'x' is:",
+                "question_hindi": "यदि (x+1)/(x-1) + (x+2)/(x-2) = (22x+30)/(11x-18), तो 'x' का मान है:",
+                "options": [
+                    "6",
+                    "-6",
+                    "5",
+                    "-5"
+                ],
+                "options_hindi": [
+                    "6",
+                    "-6",
+                    "5",
+                    "-5"
+                ],
+                "answer": "-5"
+            },
+            {
+                "serial_no": 108,
+                "question": "Find the sum of first 24 terms of the list of numbers whose nth term is a_n = 3 + 2n:",
+                "question_hindi": "संख्याओं की सूची के प्रथम 24 पदों का योग ज्ञात कीजिए, जिसका nवाँ पद a_n = 3 + 2n से दिया जाता है:",
+                "options": [
+                    "680",
+                    "670",
+                    "672",
+                    "675"
+                ],
+                "options_hindi": [
+                    "680",
+                    "670",
+                    "672",
+                    "675"
+                ],
+                "answer": "672"
+            },
+            {
+                "serial_no": 109,
+                "question": "The value of √(0.081×0.484) / √(0.0064×6.25) is:",
+                "question_hindi": "√(0.081×0.484) / √(0.0064×6.25) का मान है:",
+                "options": [
+                    "9",
+                    "0.9",
+                    "99",
+                    "0.99"
+                ],
+                "options_hindi": [
+                    "9",
+                    "0.9",
+                    "99",
+                    "0.99"
+                ],
+                "answer": "0.9"
+            },
+            {
+                "serial_no": 110,
+                "question": "A lot of 20 bulbs contains 4 defective pieces. One bulb is drawn at random from the lot. What is the probability that this bulb is defective?",
+                "question_hindi": "20 बल्बों के एक समूह में 4 बल्ब खराब हैं। इस समूह में से एक बल्ब यादृच्छया निकाला जाता है। इसके खराब होने की क्या प्रायिकता है?",
+                "options": [
+                    "1/2",
+                    "1/4",
+                    "1/5",
+                    "2/5"
+                ],
+                "options_hindi": [
+                    "1/2",
+                    "1/4",
+                    "1/5",
+                    "2/5"
+                ],
+                "answer": "1/5"
+            },
+            {
+                "serial_no": 111,
+                "question": "Express 135° in radians:",
+                "question_hindi": "135° को रेडियन में व्यक्त कीजिए:",
+                "options": [
+                    "2π/3",
+                    "3π/4",
+                    "2π/5",
+                    "3π/5"
+                ],
+                "options_hindi": [
+                    "2π/3",
+                    "3π/4",
+                    "2π/5",
+                    "3π/5"
+                ],
+                "answer": "3π/4"
+            },
+            {
+                "serial_no": 112,
+                "question": "If sin θ = a/b, θ is in first quadrant, then cos θ is equal to:",
+                "question_hindi": "यदि sin θ = a/b, θ प्रथम पाद में है, तो cos θ का मान है:",
+                "options": [
+                    "a/√(b² - a²)",
+                    "b/√(b² - a²)",
+                    "b/a",
+                    "√(b² - a²)/b"
+                ],
+                "options_hindi": [
+                    "a/√(b² - a²)",
+                    "b/√(b² - a²)",
+                    "b/a",
+                    "√(b² - a²)/b"
+                ],
+                "answer": "√(b² - a²)/b"
+            },
+            {
+                "serial_no": 113,
+                "question": "Find the value of 'b' for which (2x + 3) is a factor of 2x³ + 9x² - x - b:",
+                "question_hindi": "व्यंजक 2x³ + 9x² - x - b का गुणनखण्ड (2x + 3) है, तो 'b' का मान ज्ञात कीजिए:",
+                "options": [
+                    "-25",
+                    "15",
+                    "20",
+                    "51"
+                ],
+                "options_hindi": [
+                    "-25",
+                    "15",
+                    "20",
+                    "51"
+                ],
+                "answer": "15"
+            },
+            {
+                "serial_no": 114,
+                "question": "The ratio of incomes of two persons is 9 : 7 and the ratio of their expenditures is 4 : 3. If each of them manages to save Rs. 2,000 per month, then one person monthly income is:",
+                "question_hindi": "दो व्यक्तियों की आय का अनुपात 9 : 7 है और उनके खर्चों का अनुपात 4 : 3 है। यदि प्रत्येक व्यक्ति प्रति माह में 2,000 रु० बचा लेता है, तो किसी एक की मासिक आय है:",
+                "options": [
+                    "18,000",
+                    "16,000",
+                    "9,000",
+                    "20,000"
+                ],
+                "options_hindi": [
+                    "18,000",
+                    "16,000",
+                    "9,000",
+                    "20,000"
+                ],
+                "answer": "18,000"
+            },
+            {
+                "serial_no": 115,
+                "question": "The value of (1 - 1/3)(1 - 3/5)(1 - 5/7).........(1 - 997/999) is:",
+                "question_hindi": "(1 - 1/3)(1 - 3/5)(1 - 5/7).........(1 - 997/999) का मान है:",
+                "options": [
+                    "5/999",
+                    "1001/999",
+                    "1001/3",
+                    "1001/333"
+                ],
+                "options_hindi": [
+                    "5/999",
+                    "1001/999",
+                    "1001/3",
+                    "1001/333"
+                ],
+                "answer": "1001/3"
+            },
+            {
+                "serial_no": 116,
+                "question": "If mean of the following data is 18. Then the missing frequency 'a' is: x: 12, 14, 16, 18, 20, 22, 24; f: 7, 6, 9, 13, a, 5, 4",
+                "question_hindi": "यदि निम्नलिखित आंकड़ों का माध्य 18 है, तो अज्ञात आवृत्ति 'a' है: x: 12, 14, 16, 18, 20, 22, 24; f: 7, 6, 9, 13, a, 5, 4",
+                "options": [
+                    "22",
+                    "20",
+                    "19",
+                    "18"
+                ],
+                "options_hindi": [
+                    "22",
+                    "20",
+                    "19",
+                    "18"
+                ],
+                "answer": "20"
+            },
+            {
+                "serial_no": 117,
+                "question": "In ΔABC, if 3∠A = 4∠B = 6∠C, then ∠A is equal to:",
+                "question_hindi": "किसी ΔABC में यदि 3∠A = 4∠B = 6∠C हो, तो ∠A बराबर है:",
+                "options": [
+                    "60°",
+                    "80°",
+                    "30°",
+                    "40°"
+                ],
+                "options_hindi": [
+                    "60°",
+                    "80°",
+                    "30°",
+                    "40°"
+                ],
+                "answer": "80°"
+            },
+            {
+                "serial_no": 118,
+                "question": "Express 0.23535 …….. in the form of p/q:",
+                "question_hindi": "0.23535 ............ को p/q के रूप में व्यक्त कीजिए:",
+                "options": [
+                    "233/990",
+                    "235/99",
+                    "2.35/9.9",
+                    "235/999"
+                ],
+                "options_hindi": [
+                    "233/990",
+                    "235/99",
+                    "2.35/9.9",
+                    "235/999"
+                ],
+                "answer": "233/990"
+            },
+            {
+                "serial_no": 119,
+                "question": "The radius of a circle is 13 cm and a chord's distance from center is 12 cm, then the length of the chord is equal to:",
+                "question_hindi": "एक वृत्त की त्रिज्या 13 सेमी है और एक जीवा की केन्द्र से दूरी 12 सेमी है, जीवा की लम्बाई ज्ञात कीजिए:",
+                "options": [
+                    "15 cm",
+                    "12 cm",
+                    "10 cm",
+                    "20 cm"
+                ],
+                "options_hindi": [
+                    "15 सेमी",
+                    "12 सेमी",
+                    "10 सेमी",
+                    "20 सेमी"
+                ],
+                "answer": "10 cm"
+            },
+            {
+                "serial_no": 120,
+                "question": "The solution of following system of linear equation is: √7x + √11y = 0, √3x - √5y = 0",
+                "question_hindi": "निम्नलिखित रैखिक समीकरण का हल है: √7x + √11y = 0, √3x - √5y = 0",
+                "options": [
+                    "x = -√11/7, y = -√11/7",
+                    "x = √11/7, y = √11/7",
+                    "x = 0, y = 1",
+                    "x = 0, y = 0"
+                ],
+                "options_hindi": [
+                    "x = -√11/7, y = -√11/7",
+                    "x = √11/7, y = √11/7",
+                    "x = 0, y = 1",
+                    "x = 0, y = 0"
+                ],
+                "answer": "x = 0, y = 0"
+            },
+            {
+                "serial_no": 121,
+                "question": "The difference between compound interest and simple interest is Rs. 620 for 3 years at 10% per year, then what would be principal amount?",
+                "question_hindi": "10% वार्षिक दर से 3 वर्ष के लिए किसी धनराशि के चक्रवृद्धि ब्याज तथा साधारण ब्याज का अन्तर 620 रु० हो, तो मूल धनराशि कितनी होगी?",
+                "options": [
+                    "40,000",
+                    "12,000",
+                    "10,000",
+                    "20,000"
+                ],
+                "options_hindi": [
+                    "40,000",
+                    "12,000",
+                    "10,000",
+                    "20,000"
+                ],
+                "answer": "20,000"
+            },
+            {
+                "serial_no": 122,
+                "question": "The sides of a triangle are 3 cm, 4 cm and 5 cm, then area of triangle is:",
+                "question_hindi": "किसी त्रिभुज की भुजाएँ 3 सेमी, 4 सेमी और 5 सेमी हैं, तो त्रिभुज का क्षेत्रफल है:",
+                "options": [
+                    "6 cm²",
+                    "3 cm²",
+                    "3/2 cm²",
+                    "3/4 cm²"
+                ],
+                "options_hindi": [
+                    "6 सेमी²",
+                    "3 सेमी²",
+                    "3/2 सेमी²",
+                    "3/4 सेमी²"
+                ],
+                "answer": "6 cm²"
+            },
+            {
+                "serial_no": 123,
+                "question": "The length of diagonal of a square is 'a' cm, the area of square is:",
+                "question_hindi": "एक वर्ग के विकर्ण की लम्बाई 'a' सेमी है, तो वर्ग का क्षेत्रफल है:",
+                "options": [
+                    "2a cm²",
+                    "a/√2 cm²",
+                    "a²/2 cm²",
+                    "a²/4 cm²"
+                ],
+                "options_hindi": [
+                    "2a सेमी²",
+                    "a/√2 सेमी²",
+                    "a²/2 सेमी²",
+                    "a²/4 सेमी²"
+                ],
+                "answer": "a²/2 cm²"
+            },
+            {
+                "serial_no": 124,
+                "question": "Which statement is true about discriminant of quadratic equation ax² + bx + c = 0?",
+                "question_hindi": "द्विघात समीकरण ax² + bx + c = 0 के विविक्तकर के संदर्भ में कौन-सा तथ्य सही है?",
+                "options": [
+                    "Two distinct real roots, if b² - 4ac > 0",
+                    "Two equal real roots, if b² - 4ac = 0",
+                    "No real roots, if b² - 4ac < 0",
+                    "All of the above"
+                ],
+                "options_hindi": [
+                    "दो भिन्न वास्तविक मूल होते हैं, यदि b² - 4ac > 0 हो",
+                    "दो बराबर वास्तविक मूल होते हैं, यदि b² - 4ac = 0 हो",
+                    "कोई वास्तविक मूल नहीं होता, यदि b² - 4ac < 0 हो",
+                    "उपर्युक्त सभी"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "serial_no": 125,
+                "question": "Which mathematician wrote 'Lilavati', a book on mathematical principles?",
+                "question_hindi": "गणितीय सिद्धान्तों की कृति 'लीलावती' की रचना किस गणितज्ञ ने की थी?",
+                "options": [
+                    "Bhaskaracharya - II",
+                    "Aryabhatta",
+                    "Shridharacharya",
+                    "Brahmagupta"
+                ],
+                "options_hindi": [
+                    "भास्कराचार्य - II",
+                    "आर्यभट्ट",
+                    "श्रीधराचार्य",
+                    "ब्रह्मगुप्त"
+                ],
+                "answer": "Bhaskaracharya - II"
+            },
+            {
+                "serial_no": 126,
+                "question": "The HCF and LCM of 96 and 404 respectively are:",
+                "question_hindi": "96 और 404 का म० स० प० और ल० स० प० क्रमशः है:",
+                "options": [
+                    "2 and 6969",
+                    "4 and 9696",
+                    "2 and 5446",
+                    "2 and 9696"
+                ],
+                "options_hindi": [
+                    "2 और 6969",
+                    "4 और 9696",
+                    "2 और 5446",
+                    "2 और 9696"
+                ],
+                "answer": "4 and 9696"
+            },
+            {
+                "serial_no": 127,
+                "question": "The sum of three consecutive even positive numbers is 28 more than the average of three numbers, the smallest number is equal to:",
+                "question_hindi": "तीन क्रमागत धनात्मक सम संख्याओं का योगफल इन संख्याओं के औसत से 28 अधिक है। इन संख्याओं में से सबसे छोटी संख्या का मान होगा:",
+                "options": [
+                    "6",
+                    "12",
+                    "14",
+                    "16"
+                ],
+                "options_hindi": [
+                    "6",
+                    "12",
+                    "14",
+                    "16"
+                ],
+                "answer": "12"
+            },
+            {
+                "serial_no": 128,
+                "question": "If the ratio of principal amount and simple interest of one year is 25 : 1, then rate of interest is:",
+                "question_hindi": "यदि मूल राशि और 1 वर्ष के साधारण ब्याज का अनुपात 25 : 1 है, तो ब्याज की दर कितनी है?",
+                "options": [
+                    "4%",
+                    "25%",
+                    "5%",
+                    "20%"
+                ],
+                "options_hindi": [
+                    "4%",
+                    "25%",
+                    "5%",
+                    "20%"
+                ],
+                "answer": "4%"
+            },
+            {
+                "serial_no": 129,
+                "question": "Which of the following is not a principle of programmed instruction?",
+                "question_hindi": "निम्न में से कौन-सा अभिक्रमित अनुदेशन का सिद्धान्त नहीं है?",
+                "options": [
+                    "Principle of small step",
+                    "Principle of self pacing",
+                    "Principle of abstraction",
+                    "Principle of immediate feedback"
+                ],
+                "options_hindi": [
+                    "लघु पद का सिद्धान्त",
+                    "स्व गति का सिद्धान्त",
+                    "अमूर्तता का सिद्धान्त",
+                    "तत्काल प्रतिपुष्टि का सिद्धान्त"
+                ],
+                "answer": "Principle of abstraction"
+            },
+            {
+                "serial_no": 130,
+                "question": "The ratio of surface area of two spheres is 4 : 9, the ratio of their volumes is:",
+                "question_hindi": "दो गोलों के पृष्ठीय क्षेत्रफल 4 : 9 के अनुपात में हैं, उनके आयतनों का अनुपात है:",
+                "options": [
+                    "2 : 3",
+                    "4 : 9",
+                    "8 : 27",
+                    "64 : 729"
+                ],
+                "options_hindi": [
+                    "2 : 3",
+                    "4 : 9",
+                    "8 : 27",
+                    "64 : 729"
+                ],
+                "answer": "8 : 27"
+            },
+            {
+                "serial_no": 131,
+                "question": "The average of 9 numbers is 30. The average of first 5 numbers is 25 and last 3 numbers is 35, then 6th number is equal to:",
+                "question_hindi": "किन्हीं 9 संख्याओं का औसत 30 है। इनमें से प्रथम 5 संख्याओं का औसत 25 है तथा अन्तिम 3 संख्याओं का औसत 35 है, तो छठीं संख्या का मान होगा:",
+                "options": [
+                    "20",
+                    "30",
+                    "40",
+                    "50"
+                ],
+                "options_hindi": [
+                    "20",
+                    "30",
+                    "40",
+                    "50"
+                ],
+                "answer": "40"
+            },
+            {
+                "serial_no": 132,
+                "question": "The height of a cone is 16 cm and its base radius is 12 cm, then what is the curved surface area and the total surface area of cone? (π = 3.14)",
+                "question_hindi": "एक शंकु के आधार की त्रिज्या 12 सेमी और उसकी ऊँचाई 16 सेमी है, तो उसका वक्र पृष्ठीय क्षेत्रफल तथा कुल पृष्ठीय क्षेत्रफल क्या होगा? (π = 3.14)",
+                "options": [
+                    "753.6 cm² and 1205.76 cm²",
+                    "1205.76 cm² and 753.6 cm²",
+                    "753.6 cm² and 1210.76 cm²",
+                    "452.16 cm² and 753.6 cm²"
+                ],
+                "options_hindi": [
+                    "753.6 सेमी² और 1205.76 सेमी²",
+                    "1205.76 सेमी² और 753.6 सेमी²",
+                    "753.6 सेमी² और 1210.76 सेमी²",
+                    "452.16 सेमी² और 753.6 सेमी²"
+                ],
+                "answer": "753.6 cm² and 1205.76 cm²"
+            },
+            {
+                "serial_no": 133,
+                "question": "Diagnostic test for fundamental process in arithmetic was developed by:",
+                "question_hindi": "अंकगणित में मूलभूत प्रक्रिया के लिए निदानात्मक परीक्षण किसके द्वारा विकसित किया गया था?",
+                "options": [
+                    "G. M. Ruch",
+                    "G. T. Buswell and Lenore John",
+                    "Leo J. Bruckner",
+                    "Fred J. S. Schonell and F. Eleanor Schonell"
+                ],
+                "options_hindi": [
+                    "जी० एम० रुच द्वारा",
+                    "जी० टी० बुसवेल एवं लेनोर जॉन द्वारा",
+                    "लियो जे० ब्रुकनर द्वारा",
+                    "फ्रेड जे० एस० स्कोनेल और एफ० एलिनोर स्कोनेल द्वारा"
+                ],
+                "answer": "G. T. Buswell and Lenore John"
+            },
+            {
+                "serial_no": 134,
+                "question": "Which of the following Maxime of Teaching is based on Gestalt Psychology?",
+                "question_hindi": "निम्नलिखित में से कौन-सा शिक्षण सूत्र गेस्टाल्ट मनोविज्ञान पर आधारित है?",
+                "options": [
+                    "From known to unknown",
+                    "From concrete to abstract",
+                    "From particular to general",
+                    "From whole to part"
+                ],
+                "options_hindi": [
+                    "ज्ञात से अज्ञात की ओर",
+                    "मूर्त से अमूर्त की ओर",
+                    "विशिष्ट से सामान्य की ओर",
+                    "पूर्ण से अंश की ओर"
+                ],
+                "answer": "From whole to part"
+            },
+            {
+                "serial_no": 135,
+                "question": "If a + b + c = 0, then the value of (a²/bc + b²/ca + c²/ab) is:",
+                "question_hindi": "यदि a + b + c = 0 है, तो (a²/bc + b²/ca + c²/ab) का मान है:",
+                "options": [
+                    "0",
+                    "1",
+                    "-1",
+                    "3"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1",
+                    "-1",
+                    "3"
+                ],
+                "answer": "3"
+            },
+            {
+                "serial_no": 136,
+                "question": "The interior angle of a regular polygon is:",
+                "question_hindi": "समबहुभुज का प्रत्येक आंतरिक कोण होगा:",
+                "options": [
+                    "(n - 2)×180°",
+                    "(n/2)×180°",
+                    "((n-2)×180°)/n",
+                    "n(n-3)/2"
+                ],
+                "options_hindi": [
+                    "(n - 2)×180°",
+                    "(n/2)×180°",
+                    "((n-2)×180°)/n",
+                    "n(n-3)/2"
+                ],
+                "answer": "((n-2)×180°)/n"
+            },
+            {
+                "serial_no": 137,
+                "question": "The area of trapezium shape table top is 0.88 m² and its one parallel side is 1 m and the distance between parallel side is 0.8 m, then its another parallel side is:",
+                "question_hindi": "एक समलम्ब आकार की मेज का क्षेत्रफल 0.88 मी² है तथा इसकी समानान्तर भुजा की लम्बाई 1 मी और समानान्तर भुजाओं के बीच की दूरी 0.8 मी है, तो दूसरी समानान्तर भुजा है:",
+                "options": [
+                    "1.2 m",
+                    "0.1 m",
+                    "2.1 m",
+                    "2.5 m"
+                ],
+                "options_hindi": [
+                    "1.2 मी",
+                    "0.1 मी",
+                    "2.1 मी",
+                    "2.5 मी"
+                ],
+                "answer": "1.2 m"
+            },
+            {
+                "serial_no": 138,
+                "question": "The ratio of angles of a pentagon is 1 : 2 : 3 : 5 : 9, the value of its smallest angle is:",
+                "question_hindi": "एक पंचभुज के कोणों का अनुपात 1 : 2 : 3 : 5 : 9 है, तो इसके सबसे छोटे कोण का मान है:",
+                "options": [
+                    "22°",
+                    "34°",
+                    "45°",
+                    "27°"
+                ],
+                "options_hindi": [
+                    "22°",
+                    "34°",
+                    "45°",
+                    "27°"
+                ],
+                "answer": "27°"
+            },
+            {
+                "serial_no": 139,
+                "question": "If √1.96 = 400, then the value of 'x' is:",
+                "question_hindi": "यदि √1.96 = 400, तो 'x' का मान है:",
+                "options": [
+                    "532.4",
+                    "560",
+                    "440",
+                    "480"
+                ],
+                "options_hindi": [
+                    "532.4",
+                    "560",
+                    "440",
+                    "480"
+                ],
+                "answer": "560"
+            },
+            {
+                "serial_no": 140,
+                "question": "'A' can do a piece of work in 4 hours, 'B' and 'C' can do together this work in 3 hrs and 'A' and 'C' can do together in 2 hrs. In what time could 'B' do it alone?",
+                "question_hindi": "'A' एक कार्य को 4 घण्टे में, 'B' तथा 'C' मिलकर उसी कार्य को 3 घण्टे में तथा 'A' और 'C' मिलकर 2 घण्टे में पूरा कर सकते हैं। 'B' अकेला इस कार्य को कितने समय में पूरा करेगा?",
+                "options": [
+                    "10 hrs",
+                    "12 hrs",
+                    "8 hrs",
+                    "24 hrs"
+                ],
+                "options_hindi": [
+                    "10 घण्टे",
+                    "12 घण्टे",
+                    "8 घण्टे",
+                    "24 घण्टे"
+                ],
+                "answer": "12 hrs"
+            },
+            {
+                "serial_no": 141,
+                "question": "Square root of (14-6√5) is:",
+                "question_hindi": "(14-6√5) का वर्गमूल है:",
+                "options": [
+                    "±(3+√5)",
+                    "±(3-√5)",
+                    "±(√3-3)",
+                    "±(√3+3)"
+                ],
+                "options_hindi": [
+                    "±(3+√5)",
+                    "±(3-√5)",
+                    "±(√3-3)",
+                    "±(√3+3)"
+                ],
+                "answer": "±(3-√5)"
+            },
+            {
+                "serial_no": 142,
+                "question": "For which students promotive programs are required in mathematics teaching method?",
+                "question_hindi": "गणित शिक्षण में संवर्धनकारी कार्यक्रमों की आवश्यकता किन छात्रों के लिए है?",
+                "options": [
+                    "Weak students",
+                    "Mentally retarded students",
+                    "Backward students",
+                    "Intelligent students"
+                ],
+                "options_hindi": [
+                    "कमजोर छात्र",
+                    "मंदबुद्धि छात्र",
+                    "पिछड़े छात्र",
+                    "प्रतिभाशाली छात्र"
+                ],
+                "answer": "Intelligent students"
+            },
+            {
+                "serial_no": 143,
+                "question": "How many two digit natural numbers are divisible by 3?",
+                "question_hindi": "दो अंकों वाली कितनी प्राकृतिक संख्याएँ 3 से विभाज्य हैं?",
+                "options": [
+                    "60",
+                    "30",
+                    "50",
+                    "20"
+                ],
+                "options_hindi": [
+                    "60",
+                    "30",
+                    "50",
+                    "20"
+                ],
+                "answer": "30"
+            },
+            {
+                "serial_no": 144,
+                "question": "In a frequency distribution, the class marks are 10, 15, 20, 25, 30, then the class size is:",
+                "question_hindi": "एक बारम्बारता बंटन में वर्ग चिन्ह 10, 15, 20, 25, 30 हैं, तो वर्ग माप है:",
+                "options": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "options_hindi": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "answer": "5"
+            },
+            {
+                "serial_no": 145,
+                "question": "The value of ³√(3√(3√3)) is:",
+                "question_hindi": "³√(3√(3√3)) का मान है:",
+                "options": [
+                    "3¹/³",
+                    "3¹/⁹",
+                    "3⁷/⁹",
+                    "3¹³/²⁷"
+                ],
+                "options_hindi": [
+                    "3¹/³",
+                    "3¹/⁹",
+                    "3⁷/⁹",
+                    "3¹³/²⁷"
+                ],
+                "answer": "3¹³/²⁷"
+            },
+            {
+                "serial_no": 146,
+                "question": "If a:b = 2:3, b:c = 4:5, c:d = 6:7, then a:d is:",
+                "question_hindi": "यदि a:b = 2:3, b:c = 4:5, c:d = 6:7, तो a:d है:",
+                "options": [
+                    "12:35",
+                    "16:35",
+                    "24:35",
+                    "12:37"
+                ],
+                "options_hindi": [
+                    "12:35",
+                    "16:35",
+                    "24:35",
+                    "12:37"
+                ],
+                "answer": "16:35"
+            },
+            {
+                "serial_no": 147,
+                "question": "If 3(x-5)/4 = 3 - (x-3)/2, then value of x is:",
+                "question_hindi": "यदि 3(x-5)/4 = 3 - (x-3)/2 हो, तो x का मान है:",
+                "options": [
+                    "-5",
+                    "3",
+                    "5",
+                    "-3"
+                ],
+                "options_hindi": [
+                    "-5",
+                    "3",
+                    "5",
+                    "-3"
+                ],
+                "answer": "5"
+            },
+            {
+                "serial_no": 148,
+                "question": "'All science education which does not commence with Mathematics is invariably defective at its foundation.' This statement was stated by whom?",
+                "question_hindi": "'सभी विज्ञान शिक्षा जो गणित के साथ प्रारम्भ नहीं होती, सदैव ही अपनी नींव में दोषपूर्ण होती है।' यह कथन किसके द्वारा कहा गया?",
+                "options": [
+                    "Roger Bacon",
+                    "Hoghben",
+                    "Herbert",
+                    "Longback Comte"
+                ],
+                "options_hindi": [
+                    "रोजर बैकन",
+                    "हॉगबेन",
+                    "हर्बर्ट",
+                    "लॉगबैक कॉम्टे"
+                ],
+                "answer": "Roger Bacon"
+            },
+            {
+                "serial_no": 149,
+                "question": "The expression x³ - 3x² - 9x - 5 has factors:",
+                "question_hindi": "व्यंजक x³ - 3x² - 9x - 5 के गुणनखण्ड हैं:",
+                "options": [
+                    "(x - 1)²(x + 5)",
+                    "(x + 1)²(x - 5)",
+                    "(x - 2)²(x + 1)",
+                    "(x + 1)(x + 2)(x + 16)"
+                ],
+                "options_hindi": [
+                    "(x - 1)²(x + 5)",
+                    "(x + 1)²(x - 5)",
+                    "(x - 2)²(x + 1)",
+                    "(x + 1)(x + 2)(x + 16)"
+                ],
+                "answer": "(x + 1)²(x - 5)"
+            },
+            {
+                "serial_no": 150,
+                "question": "If √3 = 1.732, then 1/√3 is equal to:",
+                "question_hindi": "यदि √3 = 1.732, तो 1/√3 का मान है:",
+                "options": [
+                    "0.866",
+                    "0.433",
+                    "0.277",
+                    "0.5773"
+                ],
+                "options_hindi": [
+                    "0.866",
+                    "0.433",
+                    "0.277",
+                    "0.5773"
+                ],
+                "answer": "0.5773"
+            }
+        ]
+    }
+}

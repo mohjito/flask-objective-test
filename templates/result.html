@@ -1,0 +1,475 @@
+{% extends "base.html" %}
+
+{% block title %}Results - QuizLearn{% endblock %}
+
+{% block content %}
+<style>
+    .results-premium-wrapper {
+        padding: 20px;
+    }
+
+    .result-hero-donation {
+        margin-bottom: 30px;
+        animation: slideUp 0.6s ease-out;
+    }
+
+    .donation-header-grid {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        gap: 30px;
+        align-items: center;
+        background: white;
+        padding: 30px;
+        border-radius: 24px;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+        border: 1px solid #f1f5f9;
+        position: relative;
+    }
+
+    .qr-container-premium {
+        width: 140px;
+        height: 140px;
+        background: #f8fafc;
+        border-radius: 20px;
+        padding: 10px;
+        border: 1px solid #e2e8f0;
+    }
+
+    .qr-img-premium {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
+
+    .donation-text-content h2 {
+        font-size: 1.4rem;
+        font-weight: 850;
+        margin-bottom: 10px;
+        color: #1e293b;
+    }
+
+    .donation-text-content p {
+        color: #64748b;
+        font-size: 0.95rem;
+        line-height: 1.5;
+        margin-bottom: 20px;
+    }
+
+    .upi-display-premium {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        background: #f1f5f9;
+        padding: 12px 18px;
+        border-radius: 12px;
+        width: fit-content;
+    }
+
+    .upi-label {
+        font-size: 0.75rem;
+        font-weight: 800;
+        color: #94a3b8;
+        text-transform: uppercase;
+    }
+
+    .upi-val {
+        font-size: 1rem;
+        font-weight: 850;
+        color: #1e293b;
+        font-family: 'Monaco', monospace;
+    }
+
+    .copy-upi-btn {
+        background: white;
+        border: 1px solid #e2e8f0;
+        padding: 6px 12px;
+        border-radius: 8px;
+        font-size: 0.8rem;
+        font-weight: 700;
+        cursor: pointer;
+    }
+
+    .result-hero-card {
+        background: white;
+        padding: 40px;
+        border-radius: 32px;
+        text-align: center;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+        margin-bottom: 30px;
+    }
+
+    .score-display-premium {
+        margin: 25px 0;
+    }
+
+    .score-num {
+        font-size: 4rem;
+        font-weight: 900;
+        color: #6366f1;
+        letter-spacing: -2px;
+    }
+
+    .score-total {
+        font-size: 1.5rem;
+        color: #94a3b8;
+        font-weight: 700;
+    }
+
+    .results-filter-bar {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+    }
+
+    .filter-btn {
+        background: white;
+        border: 1px solid #f1f5f9;
+        padding: 10px 20px;
+        border-radius: 14px;
+        font-weight: 800;
+        color: #64748b;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        transition: 0.2s;
+    }
+
+    .filter-btn.active {
+        background: #1e293b;
+        color: white;
+        border-color: #1e293b;
+    }
+
+    .badge-count {
+        background: #f1f5f9;
+        color: #64748b;
+        padding: 2px 8px;
+        border-radius: 8px;
+        font-size: 0.75rem;
+    }
+
+    .filter-btn.active .badge-count {
+        background: rgba(255, 255, 255, 0.1);
+        color: white;
+    }
+
+    .premium-result-item {
+        background: white;
+        padding: 24px;
+        border-radius: 20px;
+        border: 1px solid #f1f5f9;
+        margin-bottom: 20px;
+    }
+
+    .item-header {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 12px;
+    }
+
+    .q-number {
+        font-weight: 800;
+        color: #1e293b;
+    }
+
+    .q-status {
+        font-size: 0.75rem;
+        font-weight: 800;
+        padding: 4px 10px;
+        border-radius: 20px;
+    }
+
+    .status-correct {
+        background: #dcfce7;
+        color: #166534;
+    }
+
+    .status-incorrect {
+        background: #fee2e2;
+        color: #991b1b;
+    }
+
+    .q-text {
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin-bottom: 15px;
+        color: #334155;
+    }
+
+    .answer-comparison {
+        display: flex;
+        gap: 40px;
+    }
+
+    .label {
+        display: block;
+        font-size: 0.7rem;
+        font-weight: 800;
+        color: #94a3b8;
+        text-transform: uppercase;
+        margin-bottom: 3px;
+    }
+
+    .val {
+        font-weight: 800;
+        font-size: 1rem;
+    }
+
+    .correct-ans .val {
+        color: #10b981;
+    }
+
+    .donation-cta-card {
+        background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+        padding: 35px;
+        border-radius: 28px;
+        color: white;
+        display: flex;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .cta-icon {
+        font-size: 2.5rem;
+    }
+
+    .btn-cta-premium {
+        background: white;
+        color: #6366f1;
+        padding: 12px 28px;
+        border-radius: 12px;
+        font-weight: 800;
+        text-decoration: none;
+    }
+
+    @media (max-width: 768px) {
+        .donation-header-grid {
+            grid-template-columns: 1fr;
+            text-align: center;
+        }
+
+        .qr-container-premium {
+            margin: 0 auto;
+        }
+
+        .upi-display-premium {
+            margin: 0 auto;
+        }
+
+        .answer-comparison {
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .donation-cta-card {
+            flex-direction: column;
+            text-align: center;
+        }
+    }
+</style>
+<div class="results-premium-wrapper">
+    <div class="result-hero-donation anim-fade-up">
+        <div class="donation-header-grid">
+            <div class="donation-visual">
+                <div class="qr-container-premium">
+                    <img src="{{ url_for('static', filename='images/payment_qr.png') }}" alt="Payment QR"
+                        class="qr-img-premium"
+                        onerror="this.parentElement.innerHTML='<div class=\'qr-placeholder\'>QR Code</div>'">
+                </div>
+            </div>
+            <div class="donation-text-content">
+                <div class="support-badge">🙏 Support our mission</div>
+                <h2>Help us keep QuizLearn <span class="text-gradient">Free & Fast</span></h2>
+                <p>We are a small team of volunteers. Your contribution helps us cover server costs and keep the
+                    platform ad-free for everyone.</p>
+                <div class="upi-display-premium">
+                    <span class="upi-label">UPI ID:</span>
+                    <span class="upi-val" id="top-upi">deswalmohit81@okicici</span>
+                    <button class="copy-upi-btn" onclick="copyToClipboard('deswalmohit81@okicici', this)">Copy</button>
+                </div>
+                <div class="upi-owner">Mohit Deswal</div>
+            </div>
+        </div>
+    </div>
+
+    {% if is_review %}
+    <div class="review-status-pill anim-fade-up">
+        <span class="status-icon">👁️</span> Review Mode: Historic Performance
+    </div>
+    {% endif %}
+
+    <div class="result-hero-card anim-fade-up">
+        <h1 class="result-title">Test Results: {{ test.name }}</h1>
+
+        <div class="score-display-premium">
+            <div class="main-score">
+                <span class="score-num">{{ score }}</span>
+                <span class="score-total">/ {{ total_questions }}</span>
+            </div>
+            <div class="score-percent">
+                {{ "%.1f"|format((score / total_questions) * 100) }}% Accuracy
+            </div>
+        </div>
+
+        <div class="user-greeting">
+            {% if current_user.is_authenticated %}
+            <h3>Great job, {{ current_user.username }}!</h3>
+            {% else %}
+            <h3>Well played, Guest!</h3>
+            <div class="guest-warning-glass">
+                <p>Note: Your results aren't saved. <a href="{{ url_for('auth.login') }}">Log in</a> to track your
+                    progress.</p>
+            </div>
+            {% endif %}
+        </div>
+
+        <div class="result-actions-top">
+            <button type="button" class="lang-pill active" onclick="setResultLanguage('en')">English</button>
+            <button type="button" class="lang-pill" onclick="setResultLanguage('hi')">हिन्दी</button>
+        </div>
+    </div>
+
+    <div class="results-filter-bar anim-fade-up-delay">
+        <button class="filter-btn active" data-filter="all" onclick="filterResults('all')">
+            All Questions <span class="badge-count">{{ total_questions }}</span>
+        </button>
+        <button class="filter-btn" data-filter="correct" onclick="filterResults('correct')">
+            Correct <span class="badge-count">{{ results|selectattr('is_correct', 'equalto', true)|list|length }}</span>
+        </button>
+        <button class="filter-btn" data-filter="incorrect" onclick="filterResults('incorrect')">
+            Incorrect <span class="badge-count">{{ results|selectattr('is_correct', 'equalto',
+                false)|rejectattr('user_answer', 'none')|rejectattr('user_answer', 'equalto', '')|list|length }}</span>
+        </button>
+        <button class="filter-btn" data-filter="unanswered" onclick="filterResults('unanswered')">
+            Unanswered <span class="badge-count">{{ results|rejectattr('user_answer')|list|length +
+                results|selectattr('user_answer', 'equalto', '')|list|length }}</span>
+        </button>
+    </div>
+
+    <div class="results-breakdown-list anim-fade-up-delay">
+        <h2 class="breakdown-title">Question Breakdown</h2>
+        {% for result in results %}
+        {% set status_class = 'correct' if result.is_correct else 'incorrect' %}
+        {% if not result.user_answer %}
+        {% set status_class = 'unanswered' %}
+        {% endif %}
+        <div class="premium-result-item filter-item filter-{{ status_class }}" data-status="{{ status_class }}">
+            <div class="item-header">
+                <span class="q-number">Question {{ loop.index }}</span>
+                {% if result.is_correct %}
+                <span class="q-status status-correct">Correct</span>
+                {% else %}
+                <span class="q-status status-incorrect">Incorrect</span>
+                {% endif %}
+            </div>
+
+            <!-- English Content -->
+            <div class="result-content-en">
+                <p class="q-text">{{ result.question }}</p>
+                <div class="answer-comparison">
+                    <div class="user-ans">
+                        <span class="label">Your Answer:</span>
+                        <span class="val">{{ result.user_answer or 'Skipped' }}</span>
+                    </div>
+                    {% if not result.is_correct %}
+                    <div class="correct-ans">
+                        <span class="label">Correct Answer:</span>
+                        <span class="val">{{ result.correct_answer }}</span>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+
+            <!-- Hindi Content -->
+            <div class="result-content-hi" style="display: none;">
+                <p class="q-text">{{ result.get('question_hindi', result.question) }}</p>
+                <div class="answer-comparison">
+                    <div class="user-ans">
+                        <span class="label">आपका उत्तर:</span>
+                        <span class="val">{{ result.user_answer or 'छोड़ा गया' }}</span>
+                    </div>
+                    {% if not result.is_correct %}
+                    <div class="correct-ans">
+                        <span class="label">सही उत्तर:</span>
+                        <span class="val">{{ result.correct_answer }}</span>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="donation-cta-card anim-fade-up-delay">
+        <div class="cta-icon">💖</div>
+        <div class="cta-content">
+            <h3>Find this helpful?</h3>
+            <p>QuizLearn is a free resource maintained by volunteers. If we've helped you in your preparation, consider
+                fueling our journey with a small donation.</p>
+        </div>
+        <a href="{{ url_for('test_routes.donate') }}" class="btn-cta-premium">Support Us</a>
+    </div>
+
+    <div class="result-footer-nav anim-fade-up-delay">
+        <a href="{{ url_for('test_routes.dashboard') }}" class="btn-hero-primary">Return to Dashboard</a>
+        {% if current_user.is_authenticated %}
+        <a href="{{ url_for('test_routes.profile') }}" class="btn-hero-outline">View My Analytics</a>
+        {% else %}
+        <a href="{{ url_for('auth.login') }}" class="btn-hero-outline">Log in to Save Progress</a>
+        {% endif %}
+    </div>
+</div>
+
+<script>
+    function copyToClipboard(text, btn) {
+        navigator.clipboard.writeText(text).then(() => {
+            const originalText = btn.textContent;
+            btn.textContent = 'Copied!';
+            btn.classList.add('copied');
+            setTimeout(() => {
+                btn.textContent = originalText;
+                btn.classList.remove('copied');
+            }, 2000);
+        });
+    }
+
+    function filterResults(type) {
+        // Update button states
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.filter === type);
+        });
+
+        const cards = document.querySelectorAll('.premium-result-item');
+        cards.forEach(card => {
+            if (type === 'all') {
+                card.style.display = 'block';
+            } else if (type === 'correct' && card.dataset.status === 'correct') {
+                card.style.display = 'block';
+            } else if (type === 'incorrect' && card.dataset.status === 'incorrect') {
+                card.style.display = 'block';
+            } else if (type === 'unanswered' && card.dataset.status === 'unanswered') {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+
+    function setResultLanguage(lang) {
+        document.querySelectorAll('.lang-pill').forEach(btn => {
+            btn.classList.remove('active');
+            if (btn.textContent.toLowerCase().includes(lang === 'en' ? 'eng' : 'हिन्दी')) btn.classList.add('active');
+        });
+
+        if (lang === 'en') {
+            document.querySelectorAll('.result-content-en').forEach(el => el.style.display = 'block');
+            document.querySelectorAll('.result-content-hi').forEach(el => el.style.display = 'none');
+        } else {
+            document.querySelectorAll('.result-content-en').forEach(el => el.style.display = 'none');
+            document.querySelectorAll('.result-content-hi').forEach(el => el.style.display = 'block');
+        }
+    }
+</script>
+{% endblock %}

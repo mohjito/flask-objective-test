@@ -1,0 +1,1091 @@
+{
+    "part4_physical_education_2023": {
+        "name": "शारीरिक शिक्षा (भाग-IV)",
+        "category": "TGT",
+        "year": 2023,
+        "section": "PART-IV : Physical Education (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "Match the following: I. Huxley, II. Robert Hook, III. Casimir Funk, IV. Robert Brown with their contributions: i. Vitamin, ii. Sliding filament theory, iii. Cell, iv. Cell Nucleus",
+                "question_hindi": "निम्नलिखित को सुमेलित कीजिए: I. हक्सले, II. रॉबर्ट हुक, III. कासिमीर फंक, IV. रॉबर्ट ब्राउन का उनके योगदान से: i. विटामिन, ii. स्लाइडिंग फिलामेन्ट सिद्धान्त, iii. कोशिका, iv. कोशिका केन्द्रक",
+                "options": [
+                    "I-iii, II-ii, III-iv, IV-ii",
+                    "I-ii, II-iii, III-iv, IV-iv",
+                    "I-i, II-iv, III-ii, IV-iii",
+                    "I-iv, II-iii, III-ii, IV-i"
+                ],
+                "options_hindi": [
+                    "I-iii, II-ii, III-iv, IV-ii",
+                    "I-ii, II-iii, III-iv, IV-iv",
+                    "I-i, II-iv, III-ii, IV-iii",
+                    "I-iv, II-iii, III-ii, IV-i"
+                ],
+                "answer": "I-ii, II-iii, III-iv, IV-iv"
+            },
+            {
+                "serial_no": 92,
+                "question": "Agnisar Kriya is also known as:",
+                "question_hindi": "अग्निसार क्रिया को इस नाम से भी जाना जाता है:",
+                "options": [
+                    "Vatsar Dhauti",
+                    "Vahnisar Dhauti",
+                    "Varisar Dhauti",
+                    "Bahishkrit Dhauti"
+                ],
+                "options_hindi": [
+                    "वत्सार धौति",
+                    "वह्निसार धौति",
+                    "वरिसार धौति",
+                    "बहिष्कृत धौति"
+                ],
+                "answer": "Vahnisar Dhauti"
+            },
+            {
+                "serial_no": 93,
+                "question": "Which one of the following does not come under personal preparation in presentation technique of teacher?",
+                "question_hindi": "निम्नलिखित में से कौन-सी शिक्षक की प्रस्तुतीकरण तकनीक में व्यक्तिगत तैयारी के अन्तर्गत नहीं आती है?",
+                "options": [
+                    "Commanding voice",
+                    "Well dress up",
+                    "Pleasing manners",
+                    "Proper safety measures"
+                ],
+                "options_hindi": [
+                    "मजबूत आवाज",
+                    "अच्छे से तैयार होना",
+                    "शिष्ट आचरण",
+                    "उपयुक्त सुरक्षा मापक"
+                ],
+                "answer": "Proper safety measures"
+            },
+            {
+                "serial_no": 94,
+                "question": "Which one of the following is not the variation of continuous method for improving endurance?",
+                "question_hindi": "निम्नलिखित में से कौन-सी सहनशीलता विकसित करने के लिए लगातार विधि की विविधता नहीं है?",
+                "options": [
+                    "Variable pace method",
+                    "Slow continuous method",
+                    "Repetition method",
+                    "Fartlek method"
+                ],
+                "options_hindi": [
+                    "विविध गति विधि",
+                    "मंद लगातार विधि",
+                    "पुनरावृत्ति विधि",
+                    "फार्टलेक विधि"
+                ],
+                "answer": "Repetition method"
+            },
+            {
+                "serial_no": 95,
+                "question": "In RICE method for injury, C stands for:",
+                "question_hindi": "चोट के लिए RICE विधि में, C का अर्थ है:",
+                "options": [
+                    "Contraction",
+                    "Compression",
+                    "Capacity",
+                    "Concentration"
+                ],
+                "options_hindi": [
+                    "कन्ट्रैक्शन",
+                    "कम्प्रेशन",
+                    "कैपेसिटी",
+                    "कन्सन्ट्रेशन"
+                ],
+                "answer": "Compression"
+            },
+            {
+                "serial_no": 96,
+                "question": "Which Pranayam removes disorders of the 'Dhatu'?",
+                "question_hindi": "कौन-सा प्राणायाम 'धातु' के विकार को दूर करता है?",
+                "options": [
+                    "Sheetali",
+                    "Bhramari",
+                    "Nadi Shodhan",
+                    "Ujjayi"
+                ],
+                "options_hindi": [
+                    "शीतली",
+                    "भ्रामरी",
+                    "नाड़ी शोधन",
+                    "उज्जयी"
+                ],
+                "answer": "Nadi Shodhan"
+            },
+            {
+                "serial_no": 97,
+                "question": "Which one of the following is not a step of presentation for a teacher?",
+                "question_hindi": "निम्नलिखित में से कौन-सा शिक्षक के लिए प्रस्तुतीकरण का एक चरण नहीं है?",
+                "options": [
+                    "Orientation",
+                    "Exploration",
+                    "Maintaining record",
+                    "Recitation"
+                ],
+                "options_hindi": [
+                    "नवीनीकरण",
+                    "अन्वेषण",
+                    "अभिलेख बनाए रखना",
+                    "कथन"
+                ],
+                "answer": "Maintaining record"
+            },
+            {
+                "serial_no": 98,
+                "question": "Which injury sometimes called Mild Head Injury?",
+                "question_hindi": "कौन-सी चोट कभी-कभी सिर की हल्की चोट कहलाती है?",
+                "options": [
+                    "Impact fracture",
+                    "Depressed fracture",
+                    "Laceration",
+                    "Concussion"
+                ],
+                "options_hindi": [
+                    "आघात अस्थिभंग",
+                    "डिप्रेस्ड अस्थिभंग",
+                    "विदारण",
+                    "संघट्टन"
+                ],
+                "answer": "Concussion"
+            },
+            {
+                "serial_no": 99,
+                "question": "Injury in which skin and underlying tissues are cut or torn:",
+                "question_hindi": "वह चोट जिसमें त्वचा और अंतर्निहित ऊतक कट अथवा फट जाते हैं:",
+                "options": [
+                    "Hematoma",
+                    "Contusion",
+                    "Laceration",
+                    "Abrasion"
+                ],
+                "options_hindi": [
+                    "रक्तगुल्म",
+                    "नील पड़ना",
+                    "विदारण",
+                    "रगड़"
+                ],
+                "answer": "Laceration"
+            },
+            {
+                "serial_no": 100,
+                "question": "Which one of the following is not the principle of sports training?",
+                "question_hindi": "निम्नलिखित में से कौन-सा खेल प्रशिक्षण का सिद्धान्त नहीं है?",
+                "options": [
+                    "Principle of cyclicity",
+                    "Principle of progression of load",
+                    "Principle of use and disuse",
+                    "Principle of continuity of training"
+                ],
+                "options_hindi": [
+                    "चक्रीयता का सिद्धान्त",
+                    "भार की प्रगतिशीलता का सिद्धान्त",
+                    "उपयोग और अनुपयोग का सिद्धान्त",
+                    "प्रशिक्षण की निरन्तरता का सिद्धान्त"
+                ],
+                "answer": "Principle of use and disuse"
+            },
+            {
+                "serial_no": 101,
+                "question": "Read the statements carefully and choose the correct option: Statement (i): Overstretching of ligament is called strain. Statement (ii): Ligament are tissues that connect bones at a joint.",
+                "question_hindi": "निम्नलिखित कथनों को ध्यानपूर्वक पढ़िए और सही विकल्प का चयन कीजिए: कथन (i): अस्थिबन्धक का अत्यधिक खिंचाव, खिंचाव कहलाता है। कथन (ii): अस्थिबन्धक ऊतक होते हैं जो संधि पर अस्थियों को जोड़ते हैं।",
+                "options": [
+                    "Only statement (i) is correct.",
+                    "Both statements are correct.",
+                    "Only statement (ii) is correct.",
+                    "Both statements are incorrect."
+                ],
+                "options_hindi": [
+                    "केवल कथन (i) सही है।",
+                    "दोनों कथन सही हैं।",
+                    "केवल कथन (ii) सही है।",
+                    "दोनों कथन सही नहीं हैं।"
+                ],
+                "answer": "Both statements are incorrect."
+            },
+            {
+                "serial_no": 102,
+                "question": "Paralympics Games earlier known as:",
+                "question_hindi": "पैरालिम्पिक खेल पूर्व में इस नाम से जाने जाते थे:",
+                "options": [
+                    "Spartakiad",
+                    "Pan Hellenic Games",
+                    "Stoke Mandeville Games",
+                    "Disabled Games"
+                ],
+                "options_hindi": [
+                    "स्पार्टकियाड",
+                    "पैन हेलेनिक खेल",
+                    "स्टोक मेन्डेविल खेल",
+                    "अक्षम खेल"
+                ],
+                "answer": "Stoke Mandeville Games"
+            },
+            {
+                "serial_no": 103,
+                "question": "Which one of the following pair is not correctly matched?",
+                "question_hindi": "निम्नलिखित में से कौन-सा जोड़ा सुमेलित नहीं है?",
+                "options": [
+                    "Olympic Games - 776 B.C.",
+                    "Pythian Games - 586 B.C.",
+                    "Nemean Games - 573 B.C.",
+                    "Isthmian Games - 580 B.C."
+                ],
+                "options_hindi": [
+                    "ओलम्पिक खेल - 776 ई० पू०",
+                    "पाइथियन खेल - 586 ई० पू०",
+                    "निमियन खेल - 573 ई० पू०",
+                    "इस्थमियन खेल - 580 ई० पू०"
+                ],
+                "answer": "Nemean Games - 573 B.C."
+            },
+            {
+                "serial_no": 104,
+                "question": "The Olympic charter was first published in:",
+                "question_hindi": "ओलम्पिक संविधान प्रथम बार प्रकाशित हुआ था:",
+                "options": [
+                    "1904",
+                    "1908",
+                    "1912",
+                    "1920"
+                ],
+                "options_hindi": [
+                    "1904 में",
+                    "1908 में",
+                    "1912 में",
+                    "1920 में"
+                ],
+                "answer": "1908"
+            },
+            {
+                "serial_no": 105,
+                "question": "Which one of the following is defined as the ability to overcome resistance with high speed?",
+                "question_hindi": "निम्न में से किसे उच्च चाल के साथ प्रतिरोध को पार करने की योग्यता के रूप में परिभाषित करते हैं?",
+                "options": [
+                    "Explosive strength",
+                    "Maximum strength",
+                    "Strength endurance",
+                    "Endurance strength"
+                ],
+                "options_hindi": [
+                    "विस्फोटक शक्ति",
+                    "अधिकतम शक्ति",
+                    "शक्ति सहनशीलता",
+                    "सहनशीलता शक्ति"
+                ],
+                "answer": "Explosive strength"
+            },
+            {
+                "serial_no": 106,
+                "question": "Sudiraman Cup is associated with which game?",
+                "question_hindi": "सुदिरमन कप किस खेल से सम्बन्धित है?",
+                "options": [
+                    "Badminton",
+                    "Table Tennis",
+                    "Field Hockey",
+                    "Soccer"
+                ],
+                "options_hindi": [
+                    "बैडमिन्टन",
+                    "टेबल टेनिस",
+                    "फील्ड हॉकी",
+                    "सॉकर"
+                ],
+                "answer": "Badminton"
+            },
+            {
+                "serial_no": 107,
+                "question": "National anti doping agency functions under which Union Ministry?",
+                "question_hindi": "राष्ट्रीय डोपिंग रोधी एजेन्सी किस केन्द्रीय मंत्रालय के अधीन कार्य करती है?",
+                "options": [
+                    "Ministry of Youth Affairs & Sports",
+                    "Ministry of Home Affairs",
+                    "Ministry of Education",
+                    "Ministry of Defence"
+                ],
+                "options_hindi": [
+                    "युवा मामले और खेल मंत्रालय",
+                    "गृह मंत्रालय",
+                    "शिक्षा मंत्रालय",
+                    "रक्षा मंत्रालय"
+                ],
+                "answer": "Ministry of Youth Affairs & Sports"
+            },
+            {
+                "serial_no": 108,
+                "question": "If a person perform a behaviour for its own sake, which type of motivation is it?",
+                "question_hindi": "यदि कोई व्यक्ति स्वयं के लिए कोई व्यवहार करता है, तो यह किस प्रकार की अभिप्रेरणा है?",
+                "options": [
+                    "Extrinsic",
+                    "Intrinsic",
+                    "Achievement",
+                    "Extrinsic and Intrinsic both"
+                ],
+                "options_hindi": [
+                    "बाह्य",
+                    "आन्तरिक",
+                    "उपलब्धि",
+                    "बाह्य व आन्तरिक दोनों"
+                ],
+                "answer": "Intrinsic"
+            },
+            {
+                "serial_no": 109,
+                "question": "Rotator Cuff works as a stabilizer of which joint?",
+                "question_hindi": "रोटेटर कफ किस संधि पर स्थिरक के रूप में कार्य करती है?",
+                "options": [
+                    "Hip Joint",
+                    "Knee Joint",
+                    "Elbow Joint",
+                    "Shoulder Joint"
+                ],
+                "options_hindi": [
+                    "कूल्हे की संधि",
+                    "घुटने की संधि",
+                    "कोहनी की संधि",
+                    "कंधे की संधि"
+                ],
+                "answer": "Shoulder Joint"
+            },
+            {
+                "serial_no": 110,
+                "question": "In which teaching method students are given an opportunity to perform in their own time?",
+                "question_hindi": "किस शिक्षण पद्धति में विद्यार्थी को अपने समय में प्रदर्शन करने का अवसर दिया जाता है?",
+                "options": [
+                    "Imitation method",
+                    "Demonstration method",
+                    "At-will method",
+                    "Command method"
+                ],
+                "options_hindi": [
+                    "अनुकरण विधि",
+                    "प्रदर्शन विधि",
+                    "स्वेच्छा विधि",
+                    "आदेश विधि"
+                ],
+                "answer": "At-will method"
+            },
+            {
+                "serial_no": 111,
+                "question": "Pes Planus is another name of which postural deformity?",
+                "question_hindi": "पेस प्लेनस किस आसन विरूपता का अन्य नाम है?",
+                "options": [
+                    "Knock knee",
+                    "Flat foot",
+                    "Bow leg",
+                    "Kyphosis"
+                ],
+                "options_hindi": [
+                    "घुटनों का आपस में टकराना",
+                    "चपटे पैर",
+                    "धनुषाकार पैर",
+                    "कुब्जता"
+                ],
+                "answer": "Flat foot"
+            },
+            {
+                "serial_no": 112,
+                "question": "Who gave Surplus Energy theory of play?",
+                "question_hindi": "खेल का अतिरिक्त ऊर्जा का सिद्धान्त किसने दिया?",
+                "options": [
+                    "Herbert Spencer & Schiller",
+                    "G. P. W. Patrick",
+                    "Karl Groos",
+                    "G. Stanley Hall"
+                ],
+                "options_hindi": [
+                    "हर्बर्ट स्पेन्सर और शिलर",
+                    "जी० पी० डब्ल्यू० पेट्रिक",
+                    "कार्ल ग्रूस",
+                    "जी० स्टेनले हॉल"
+                ],
+                "answer": "Herbert Spencer & Schiller"
+            },
+            {
+                "serial_no": 113,
+                "question": "Decrease in ability to concentrate is which type of symptoms of overload?",
+                "question_hindi": "एकाग्रचित्तता की योग्यता में कमी अधिभार का किस प्रकार का लक्षण है?",
+                "options": [
+                    "Psychic symptoms",
+                    "Performance symptoms",
+                    "Somatic functional symptoms",
+                    "Social symptoms"
+                ],
+                "options_hindi": [
+                    "मनोवैज्ञानिक लक्षण",
+                    "प्रदर्शन लक्षण",
+                    "दैहिक कार्यात्मक लक्षण",
+                    "सामाजिक लक्षण"
+                ],
+                "answer": "Psychic symptoms"
+            },
+            {
+                "serial_no": 114,
+                "question": "Which one of the following is a process of cleaning the intestine and colon?",
+                "question_hindi": "निम्नलिखित में से कौन-सी आँत व बड़ी आँत की सफाई की प्रक्रिया है?",
+                "options": [
+                    "Basti",
+                    "Dhauti",
+                    "Nauli",
+                    "Neti"
+                ],
+                "options_hindi": [
+                    "बस्ति",
+                    "धौति",
+                    "नौलि",
+                    "नेति"
+                ],
+                "answer": "Basti"
+            },
+            {
+                "serial_no": 115,
+                "question": "Which one of the following is not the principle of growth and development?",
+                "question_hindi": "निम्नलिखित में से कौन-सा वृद्धि और विकास का सिद्धान्त नहीं है?",
+                "options": [
+                    "Principle of uniform pattern",
+                    "Principle of general & specific responses",
+                    "Principle of interrelation",
+                    "Principle of clarity"
+                ],
+                "options_hindi": [
+                    "समान प्रतिमान का सिद्धान्त",
+                    "सामान्य व विशिष्ट क्रियाओं का सिद्धान्त",
+                    "परस्पर सम्बन्ध का सिद्धान्त",
+                    "स्पष्टता का सिद्धान्त"
+                ],
+                "answer": "Principle of clarity"
+            },
+            {
+                "serial_no": 116,
+                "question": "When the Axis is close to the force:",
+                "question_hindi": "जब अक्ष बल के समीप होता है:",
+                "options": [
+                    "Lever produces speed & range of motion.",
+                    "Lever produces force motion.",
+                    "Lever produces balance.",
+                    "Lever produces both speed and force motion."
+                ],
+                "options_hindi": [
+                    "उत्तोलक चाल एवं गति का प्रसार उत्पादित करता है।",
+                    "उत्तोलक बल उत्पादित करता है।",
+                    "उत्तोलक संतुलन उत्पादित करता है।",
+                    "उत्तोलक चाल और बल गति दोनों उत्पादित करता है।"
+                ],
+                "answer": "Lever produces speed & range of motion."
+            },
+            {
+                "serial_no": 117,
+                "question": "Who was the founder of a system of Gymnastics in schools of Germany?",
+                "question_hindi": "जर्मनी के विद्यालयों में जिमनास्टिक के एक तंत्र के संस्थापक कौन थे?",
+                "options": [
+                    "Johan Bernard Basedow",
+                    "Ludwig John",
+                    "Guts-Muths",
+                    "Immanuel Kant"
+                ],
+                "options_hindi": [
+                    "जोहान बर्नार्ड बेसडोव",
+                    "लुडविग जॉन",
+                    "गट्स-मथ्स",
+                    "इमैनुअल काण्ट"
+                ],
+                "answer": "Guts-Muths"
+            },
+            {
+                "serial_no": 118,
+                "question": "Arrange in correct sequence (Superior to inferior): 1. Bronchi, 2. Bronchioles, 3. Larynx, 4. Pharynx, 5. Trachea",
+                "question_hindi": "सही क्रम में व्यवस्थित कीजिए (ऊपर से नीचे): 1. श्वसनियाँ, 2. श्वसनिका, 3. स्वरयंत्र, 4. ग्रसनी, 5. श्वास नलिका",
+                "options": [
+                    "4, 3, 5, 1, 2",
+                    "4, 5, 3, 2, 1",
+                    "3, 4, 5, 1, 2",
+                    "5, 3, 4, 1, 2"
+                ],
+                "options_hindi": [
+                    "4, 3, 5, 1, 2",
+                    "4, 5, 3, 2, 1",
+                    "3, 4, 5, 1, 2",
+                    "5, 3, 4, 1, 2"
+                ],
+                "answer": "4, 3, 5, 1, 2"
+            },
+            {
+                "serial_no": 119,
+                "question": "Read the statements carefully and choose the correct option: Statement (i): Head forward & Backward is movement of I class lever. Statement (ii): Biceps curl is example of I class lever. Statement (iii): Lateral raises exercise is example of III class lever.",
+                "question_hindi": "निम्नलिखित कथनों को ध्यानपूर्वक पढ़िए और सही विकल्प को चुनिए: कथन (i): सिर के आगे व पीछे की गतिविधि प्रथम श्रेणी उत्तोलक होती है। कथन (ii): बाइसेप्स कर्ल प्रथम श्रेणी उत्तोलक का उदाहरण है। कथन (iii): लैटरल रेजेज व्यायाम तृतीय श्रेणी उत्तोलक का उदाहरण है।",
+                "options": [
+                    "Only statements (i) and (ii) are correct.",
+                    "Only statements (i) and (iii) are correct.",
+                    "Only statements (ii) and (iii) are correct.",
+                    "All statements are correct."
+                ],
+                "options_hindi": [
+                    "केवल कथन (i) और (ii) सही हैं।",
+                    "केवल कथन (i) और (iii) सही हैं।",
+                    "केवल कथन (ii) और (iii) सही हैं।",
+                    "सभी कथन सही हैं।"
+                ],
+                "answer": "Only statements (i) and (iii) are correct."
+            },
+            {
+                "serial_no": 120,
+                "question": "Who founded 'Bihar School of Yoga'?",
+                "question_hindi": "'बिहार स्कूल ऑफ योग' की स्थापना किसने की?",
+                "options": [
+                    "Swami Satyanand Saraswati",
+                    "Swami Shivananda Saraswati",
+                    "Swami Niranjanananda Saraswati",
+                    "Swami Satyasangananda Saraswati"
+                ],
+                "options_hindi": [
+                    "स्वामी सत्यानन्द सरस्वती",
+                    "स्वामी शिवानन्द सरस्वती",
+                    "स्वामी निरञ्जनानन्द सरस्वती",
+                    "स्वामी सत्यसंगनंदा सरस्वती"
+                ],
+                "answer": "Swami Satyanand Saraswati"
+            },
+            {
+                "serial_no": 121,
+                "question": "If 17 teams are in the tournament, how many teams get place in second half?",
+                "question_hindi": "यदि प्रतियोगिता में 17 टीमें हैं, द्वितीय अर्द्ध में कितनी टीम स्थान प्राप्त करेंगी?",
+                "options": [
+                    "9",
+                    "8",
+                    "7",
+                    "10"
+                ],
+                "options_hindi": [
+                    "9",
+                    "8",
+                    "7",
+                    "10"
+                ],
+                "answer": "8"
+            },
+            {
+                "serial_no": 122,
+                "question": "Pedagogy is the study of:",
+                "question_hindi": "शिक्षाशास्त्र अध्ययन है:",
+                "options": [
+                    "Learning process",
+                    "Teaching methods",
+                    "Guiding students",
+                    "Education"
+                ],
+                "options_hindi": [
+                    "अधिगम प्रक्रिया का",
+                    "शिक्षण विधि का",
+                    "विद्यार्थियों के मार्गदर्शन का",
+                    "शिक्षा का"
+                ],
+                "answer": "Education"
+            },
+            {
+                "serial_no": 123,
+                "question": "Which one of the following movement occur between tarsal bones?",
+                "question_hindi": "निम्नलिखित में से कौन-सी गतिविधि टार्सल अस्थियों के बीच होती है?",
+                "options": [
+                    "Dorsi flexion",
+                    "Supination",
+                    "Medial rotation",
+                    "Inversion"
+                ],
+                "options_hindi": [
+                    "डोरसी फ्लेक्शन",
+                    "उत्तानन",
+                    "मध्य घूर्णन",
+                    "विपरिवर्तन"
+                ],
+                "answer": "Inversion"
+            },
+            {
+                "serial_no": 124,
+                "question": "Who banned the Ancient Olympic Games?",
+                "question_hindi": "प्राचीन ओलम्पिक खेलों को किसने प्रतिबंधित किया?",
+                "options": [
+                    "Caracalla",
+                    "Majorian",
+                    "Magnus Maximus",
+                    "Theodosius I"
+                ],
+                "options_hindi": [
+                    "काराकाला",
+                    "मेजोरियन",
+                    "मैग्नस मैक्सिमस",
+                    "थियोडोसियस I"
+                ],
+                "answer": "Theodosius I"
+            },
+            {
+                "serial_no": 125,
+                "question": "Which one of the following is not the major objective of extramural competition?",
+                "question_hindi": "निम्नलिखित में से कौन-सा बाह्यसदनीय प्रतियोगिताओं का प्रमुख उद्देश्य नहीं है?",
+                "options": [
+                    "To bring laurels to the institution by registering victory.",
+                    "To develop brotherhood and friendship among participating institutions.",
+                    "To provide optimal opportunity to greater number of students for acquiring the skill and art of organising & administering.",
+                    "To encourage social interaction among teams."
+                ],
+                "options_hindi": [
+                    "जीत दर्ज कर संस्थान का नाम रोशन करना।",
+                    "प्रतिभागी संस्थाओं के मध्य बंधुत्व और मित्रता विकसित करना।",
+                    "आयोजन और प्रशासन की कुशलता और कला प्राप्त करने के लिए अधिक से अधिक छात्रों को इष्टतम अवसर प्रदान करना।",
+                    "दलों के मध्य सामाजिक अन्तःक्रिया को प्रोत्साहित करना।"
+                ],
+                "answer": "To provide optimal opportunity to greater number of students for acquiring the skill and art of organising & administering."
+            },
+            {
+                "serial_no": 126,
+                "question": "Which of the following disorder occur in adults due to prolonged deficiency of Vitamin D?",
+                "question_hindi": "विटामिन डी की लम्बे समय तक कमी के कारण वयस्कों में निम्नलिखित में से कौन-सा विकार होता है?",
+                "options": [
+                    "Rickets",
+                    "Osteoporosis",
+                    "Osteomalacia",
+                    "Osteoarthritis"
+                ],
+                "options_hindi": [
+                    "रिकेट्स",
+                    "ऑस्टियोपोरोसिस",
+                    "ऑस्टियोमैलेशिया",
+                    "ऑस्टियोआर्थराइटिस"
+                ],
+                "answer": "Osteomalacia"
+            },
+            {
+                "serial_no": 127,
+                "question": "On which Asana 'Om Khagaya Namah' Mantra is chanted during Suryanamaskar?",
+                "question_hindi": "सूर्यनमस्कार के दौरान किस आसन पर 'ॐ खगाय नमः' मंत्र का उच्चारण किया जाता है?",
+                "options": [
+                    "Ashwa Sanchalanasan",
+                    "Ashtanga Namaskara",
+                    "Parvatasana",
+                    "Bhujangasana"
+                ],
+                "options_hindi": [
+                    "अश्व संचालनासन",
+                    "अष्टांग नमस्कार",
+                    "पर्वतासन",
+                    "भुजंगासन"
+                ],
+                "answer": "Parvatasana"
+            },
+            {
+                "serial_no": 128,
+                "question": "Which one of the following is not an objective of intramural competition?",
+                "question_hindi": "निम्नलिखित में से कौन-सा अंतरसदनीय प्रतियोगिता का उद्देश्य नहीं है?",
+                "options": [
+                    "Providing opportunity to every student to participate in game according to his interest.",
+                    "To develop the feeling of cooperation among the students.",
+                    "To provide opportunity to students to roaming here and there.",
+                    "To locate sports talents."
+                ],
+                "options_hindi": [
+                    "प्रत्येक विद्यार्थी को अपनी रुचि के अनुसार खेल में भाग लेने का अवसर प्रदान करना।",
+                    "विद्यार्थियों के बीच सहयोग की भावना विकसित करना।",
+                    "विद्यार्थियों को इधर-उधर घूमने का अवसर प्रदान करना।",
+                    "खेल प्रतिभाओं का पता लगाना।"
+                ],
+                "answer": "To provide opportunity to students to roaming here and there."
+            },
+            {
+                "serial_no": 129,
+                "question": "How many essential Amino Acids must be available in diet?",
+                "question_hindi": "आहार में कितने आवश्यक अमीनो अम्ल उपलब्ध होने चाहिए?",
+                "options": [
+                    "9 Amino Acids",
+                    "20 Amino Acids",
+                    "12 Amino Acids",
+                    "17 Amino Acids"
+                ],
+                "options_hindi": [
+                    "9 अमीनो अम्ल",
+                    "20 अमीनो अम्ल",
+                    "12 अमीनो अम्ल",
+                    "17 अमीनो अम्ल"
+                ],
+                "answer": "9 Amino Acids"
+            },
+            {
+                "serial_no": 130,
+                "question": "Which teaching method of the following is least useful in Physical Education and Sports?",
+                "question_hindi": "निम्नलिखित में से कौन-सी शिक्षण विधि शारीरिक शिक्षा और खेलकूद में सबसे कम उपयोगी है?",
+                "options": [
+                    "Command method",
+                    "Demonstration method",
+                    "Discussion methods",
+                    "Project method"
+                ],
+                "options_hindi": [
+                    "आदेश विधि",
+                    "प्रदर्शन विधि",
+                    "विचार-विमर्श विधि",
+                    "प्रोजेक्ट विधि"
+                ],
+                "answer": "Project method"
+            },
+            {
+                "serial_no": 131,
+                "question": "Which system protect us from diseases?",
+                "question_hindi": "कौन-सा तंत्र हमें रोगों से सुरक्षा प्रदान करता है?",
+                "options": [
+                    "Lymphatic system",
+                    "Nervous system",
+                    "Cardiovascular system",
+                    "Urinary system"
+                ],
+                "options_hindi": [
+                    "लसीका तंत्र",
+                    "तंत्रिका तंत्र",
+                    "हृदयवाहिका तंत्र",
+                    "मूत्रीय तंत्र"
+                ],
+                "answer": "Lymphatic system"
+            },
+            {
+                "serial_no": 132,
+                "question": "Which is defined as the motor procedure for tracking a motor task?",
+                "question_hindi": "एक गामक कार्य को नियन्त्रित करने वाली गामक कार्यविधि के रूप में किसे परिभाषित करते हैं?",
+                "options": [
+                    "Skill",
+                    "Style",
+                    "Technique",
+                    "Tactics"
+                ],
+                "options_hindi": [
+                    "कौशल",
+                    "शैली",
+                    "तकनीक",
+                    "युक्ति"
+                ],
+                "answer": "Technique"
+            },
+            {
+                "serial_no": 133,
+                "question": "Who is associated with Recapitulation theory of play?",
+                "question_hindi": "खेल के पुनर्कथन सिद्धान्त के साथ कौन सम्बन्धित है?",
+                "options": [
+                    "Karl Groos",
+                    "G. P. W. Patrick",
+                    "G. Stanley Hall",
+                    "Von Schiller"
+                ],
+                "options_hindi": [
+                    "कार्ल ग्रूस",
+                    "जी० पी० डब्ल्यू० पेट्रिक",
+                    "जी० स्टेनले हॉल",
+                    "वॉन शिलर"
+                ],
+                "answer": "G. Stanley Hall"
+            },
+            {
+                "serial_no": 134,
+                "question": "Which one of the following is an example of Bi-Axial Joint?",
+                "question_hindi": "निम्नलिखित में से कौन-सा द्वि-अक्षीय संधि का उदाहरण है?",
+                "options": [
+                    "Gliding joint",
+                    "Hinge joint",
+                    "Ball & Socket joint",
+                    "Condyloid joint"
+                ],
+                "options_hindi": [
+                    "सर्पी संधि",
+                    "कब्जा संधि",
+                    "कन्दुक खल्लक संधि",
+                    "कॉनडाइलॉयड संधि"
+                ],
+                "answer": "Condyloid joint"
+            },
+            {
+                "serial_no": 135,
+                "question": "Which speed ability do a single movement in minimum of time?",
+                "question_hindi": "कौन-सी चाल योग्यता न्यूनतम समय में एक एकल गतिविधि करती है?",
+                "options": [
+                    "Acceleration ability",
+                    "Locomotor ability",
+                    "Speed endurance",
+                    "Movement speed"
+                ],
+                "options_hindi": [
+                    "त्वरण योग्यता",
+                    "प्रचलन योग्यता",
+                    "चाल सहनशीलता",
+                    "गतिविधि चाल"
+                ],
+                "answer": "Movement speed"
+            },
+            {
+                "serial_no": 136,
+                "question": "Match the following: I. Operant conditioning, II. Classical conditioning, III. Trial & Error method, IV. Insight theory of learning with: i. Wolfgang Kohlar, ii. E. L. Thorndike, iii. Ivan Pavlov, iv. B. F. Skinner",
+                "question_hindi": "निम्नलिखित को सुमेलित कीजिए: I. क्रियाप्रसूत अनुबन्धन, II. शास्त्रीय अनुबन्धन, III. त्रुटि व प्रयास विधि, IV. अधिगम का अन्तर्दृष्टि सिद्धान्त का: i. वुल्फगैंग कोहलर, ii. ई० एल० थॉर्नडाइक, iii. इवान पावलोव, iv. बी० एफ० स्किनर से",
+                "options": [
+                    "I-iv, II-iii, III-ii, IV-i",
+                    "I-i, II-ii, III-iii, IV-iv",
+                    "I-iv, II-i, III-iii, IV-ii",
+                    "I-ii, II-iii, III-iv, IV-i"
+                ],
+                "options_hindi": [
+                    "I-iv, II-iii, III-ii, IV-i",
+                    "I-i, II-ii, III-iii, IV-iv",
+                    "I-iv, II-i, III-iii, IV-ii",
+                    "I-ii, II-iii, III-iv, IV-i"
+                ],
+                "answer": "I-iv, II-iii, III-ii, IV-i"
+            },
+            {
+                "serial_no": 137,
+                "question": "Which one of the following statement is false about ascorbic acid?",
+                "question_hindi": "निम्नलिखित में से कौन-सा कथन एस्कॉर्बिक अम्ल के बारे में असत्य है?",
+                "options": [
+                    "Ascorbic acid is natural water soluble vitamin.",
+                    "It is an antioxidant agent.",
+                    "It does not participate in fighting bacterial infection.",
+                    "It works for formation of collagen in fibrous tissue."
+                ],
+                "options_hindi": [
+                    "एस्कॉर्बिक अम्ल प्राकृतिक जल में घुलनशील विटामिन है।",
+                    "यह एक प्रतिउपचायक एजेन्ट होता है।",
+                    "यह जीवाणु संक्रमण से लड़ने में भाग नहीं लेता।",
+                    "यह तंतुमय ऊतक में कोलेजन के निर्माण के लिए कार्य करता है।"
+                ],
+                "answer": "It does not participate in fighting bacterial infection."
+            },
+            {
+                "serial_no": 138,
+                "question": "Which postural deformity can occur due to Spina Bifida?",
+                "question_hindi": "स्पाइना बिफिडा के कारण कौन-सी आसन विसंगति हो सकती है?",
+                "options": [
+                    "Lordosis",
+                    "Bow leg",
+                    "Knock knee",
+                    "Kyphosis"
+                ],
+                "options_hindi": [
+                    "लॉर्डोसिस",
+                    "धनुषाकार पैर",
+                    "घुटनों का आपस में टकराना",
+                    "कुब्जता"
+                ],
+                "answer": "Lordosis"
+            },
+            {
+                "serial_no": 139,
+                "question": "According to body mass index which range comes under overweight category?",
+                "question_hindi": "शरीर द्रव्यमान सूचकांक के अनुसार ओवरवेट श्रेणी में कौन-सा प्रकार आता है?",
+                "options": [
+                    "Below 18.5",
+                    "18.5 to 24.9",
+                    "25 to 29.9",
+                    "30 and greater"
+                ],
+                "options_hindi": [
+                    "18.5 से नीचे",
+                    "18.5 से 24.9",
+                    "25 से 29.9",
+                    "30 और अधिक"
+                ],
+                "answer": "25 to 29.9"
+            },
+            {
+                "serial_no": 140,
+                "question": "Which is conical movement?",
+                "question_hindi": "शंक्वाकार गति कौन-सी है?",
+                "options": [
+                    "Inward rotation",
+                    "Outward rotation",
+                    "Inversion",
+                    "Circumduction"
+                ],
+                "options_hindi": [
+                    "अन्तर्वर्तन",
+                    "बहिर्वर्तन",
+                    "विपरिवर्तन",
+                    "परिवृत्ति"
+                ],
+                "answer": "Circumduction"
+            },
+            {
+                "serial_no": 141,
+                "question": "Which breathing utilises the middle lobes of the lungs by expanding and contracting the rib cage?",
+                "question_hindi": "कौन-सी श्वसन पंजर के विस्तार व संकुचन द्वारा फेफड़ों की मध्य पालियों का उपयोग करती है?",
+                "options": [
+                    "Thoracic breathing",
+                    "Abdominal breathing",
+                    "Natural breathing",
+                    "Clavicular breathing"
+                ],
+                "options_hindi": [
+                    "थोरैसिक श्वसन",
+                    "अब्डोमिनल श्वसन",
+                    "प्राकृतिक श्वसन",
+                    "क्लैविक्युलर श्वसन"
+                ],
+                "answer": "Thoracic breathing"
+            },
+            {
+                "serial_no": 142,
+                "question": "If forearm is being extended by the triceps muscle against a resistance, then which type of lever it is?",
+                "question_hindi": "यदि प्रतिरोध के विरुद्ध ट्राइसेप्स पेशी द्वारा प्रकोष्ठ का विस्तार किया जा रहा है, तो यह किस प्रकार का उत्तोलक है?",
+                "options": [
+                    "Third class lever",
+                    "First class lever",
+                    "Second class lever",
+                    "First & Second class lever"
+                ],
+                "options_hindi": [
+                    "तृतीय श्रेणी उत्तोलक",
+                    "प्रथम श्रेणी उत्तोलक",
+                    "द्वितीय श्रेणी उत्तोलक",
+                    "प्रथम व द्वितीय श्रेणी उत्तोलक"
+                ],
+                "answer": "First class lever"
+            },
+            {
+                "serial_no": 143,
+                "question": "Read the statements carefully and choose the correct option: Statement (i): Immovable joint is also known as cartilaginous joint. Statement (ii): Amphiarthrosis is a cartilaginous joint. Statement (iii): Synovial joint is diarthrosis joint.",
+                "question_hindi": "निम्नलिखित कथनों को ध्यानपूर्वक पढ़िए और सही विकल्प चुनिए: कथन (i): अचल संधि को उपास्थिल संधि भी कहा जाता है। कथन (ii): एम्फीआर्थ्रोसिस एक उपास्थिल संधि है। कथन (iii): साइनोवियल संधि दरारथ्रोसिस संधि है।",
+                "options": [
+                    "Only statements (i) and (ii) are correct.",
+                    "Only statements (ii) and (iii) are correct.",
+                    "All statements are correct.",
+                    "Only statements (i) and (iii) are correct."
+                ],
+                "options_hindi": [
+                    "केवल कथन (i) और (ii) सही हैं।",
+                    "केवल कथन (ii) और (iii) सही हैं।",
+                    "सभी कथन सही हैं।",
+                    "केवल कथन (i) और (iii) सही हैं।"
+                ],
+                "answer": "Only statements (ii) and (iii) are correct."
+            },
+            {
+                "serial_no": 144,
+                "question": "When was Conditioned Response theory propounded?",
+                "question_hindi": "सम्बद्ध प्रतिक्रिया सिद्धान्त कब प्रतिपादित किया गया?",
+                "options": [
+                    "1902",
+                    "1904",
+                    "1906",
+                    "1908"
+                ],
+                "options_hindi": [
+                    "1902",
+                    "1904",
+                    "1906",
+                    "1908"
+                ],
+                "answer": "1904"
+            },
+            {
+                "serial_no": 145,
+                "question": "Adolescence word is derived from adolescence, from which language is it?",
+                "question_hindi": "एडोलेसेन्स शब्द की उत्पत्ति एडोलेसेअर शब्द से हुई है, यह किस भाषा से है?",
+                "options": [
+                    "Latin",
+                    "Greek",
+                    "French",
+                    "Spanish"
+                ],
+                "options_hindi": [
+                    "लैटिन",
+                    "यूनानी",
+                    "फ्रेंच",
+                    "स्पेनिश"
+                ],
+                "answer": "Latin"
+            },
+            {
+                "serial_no": 146,
+                "question": "Supercompensation means:",
+                "question_hindi": "सुपरकम्पनसेशन से तात्पर्य है:",
+                "options": [
+                    "Second wind",
+                    "Fatigue",
+                    "Oxygen debt",
+                    "Adaptation to load"
+                ],
+                "options_hindi": [
+                    "द्वितीयक वायु",
+                    "थकान",
+                    "ऑक्सीजन ऋण",
+                    "भार की अनुकूलता"
+                ],
+                "answer": "Adaptation to load"
+            },
+            {
+                "serial_no": 147,
+                "question": "What is the full form of LAN in computer terminology?",
+                "question_hindi": "कम्प्यूटर शब्दावली में LAN का पूर्ण प्रारूप क्या होता है?",
+                "options": [
+                    "Local Access Network",
+                    "Local Area Network",
+                    "Local Adaptation Network",
+                    "Local Available Network"
+                ],
+                "options_hindi": [
+                    "लोकल एक्सेस नेटवर्क",
+                    "लोकल एरिया नेटवर्क",
+                    "लोकल एडेप्टेशन नेटवर्क",
+                    "लोकल अवेलेबल नेटवर्क"
+                ],
+                "answer": "Local Area Network"
+            },
+            {
+                "serial_no": 148,
+                "question": "On which day World Rabies Day is observed?",
+                "question_hindi": "विश्व रेबीज दिवस किस दिन मनाया जाता है?",
+                "options": [
+                    "24th March",
+                    "28th September",
+                    "28th July",
+                    "04th February"
+                ],
+                "options_hindi": [
+                    "24 मार्च",
+                    "28 सितम्बर",
+                    "28 जुलाई",
+                    "04 फरवरी"
+                ],
+                "answer": "28th September"
+            },
+            {
+                "serial_no": 149,
+                "question": "Who among the following is conferred with Dhyanchand Award for Lifetime Achievement 2022 in athletics?",
+                "question_hindi": "निम्नलिखित में से किसे एथलेटिक्स में जीवन-पर्यन्त उपलब्धि के लिए ध्यानचंद पुरस्कार 2022 से सम्मानित किया गया है?",
+                "options": [
+                    "Dharamvir Singh",
+                    "Nir Bahadur Gurung",
+                    "Ashwini Akkunji",
+                    "B. C. Suresh"
+                ],
+                "options_hindi": [
+                    "धर्मवीर सिंह",
+                    "नीर बहादुर गुरुङ",
+                    "अश्विनी अक्कुन्जी",
+                    "बी० सी० सुरेश"
+                ],
+                "answer": "Nir Bahadur Gurung"
+            },
+            {
+                "serial_no": 150,
+                "question": "Which Panhellenic games organised at Delphi?",
+                "question_hindi": "कौन-से पैनहेलेनिक खेल डेल्फी में आयोजित होते थे?",
+                "options": [
+                    "Olympic Games",
+                    "Pythian Games",
+                    "Isthmian Games",
+                    "Nemean Games"
+                ],
+                "options_hindi": [
+                    "ओलम्पिक खेल",
+                    "पाइथियन खेल",
+                    "इस्थमियन खेल",
+                    "निमियन खेल"
+                ],
+                "answer": "Pythian Games"
+            }
+        ]
+    }
+}

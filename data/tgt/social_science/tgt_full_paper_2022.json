@@ -1,0 +1,1091 @@
+{
+  "part4_social_studies_2022": {
+    "name": "सामाजिक अध्ययन (भाग-IV)",
+    "category": "TGT",
+    "year": 2022,
+    "section": "PART-IV : Social Studies (Questions 91-150)",
+    "duration": 60,
+    "questions": [
+      {
+        "serial_no": 91,
+        "question": "Who was the architect of Paris?",
+        "question_hindi": "पेरिस के वास्तुकार कौन थे?",
+        "options": [
+          "Baron Haussmann",
+          "Ebenezer Howard",
+          "Joseph Mathews",
+          "Charles Wood"
+        ],
+        "options_hindi": [
+          "बैरॉन हॉसमान",
+          "एबेनेजर हावर्ड",
+          "जोसेफ मेथ्यूज",
+          "चाल्स वुड"
+        ],
+        "answer": "Baron Haussmann"
+      },
+      {
+        "serial_no": 92,
+        "question": "Match List-I with List-II and select the correct answer using the codes given below the list: List-I (Name of President of Indian National Congress): (a) Ambika Charan Mazumdar (b) Dadabhai Naoroji (c) Mahatma Gandhi (d) Mrs. Sarojini Naidu; List-II (Session of the Indian National Congress): (i) 1924 (ii) 1916 (iii) 1925 (iv) 1906",
+        "question_hindi": "सूची-I का सूची-II से मेल कीजिये और सूची के नीचे दिए गए कूट का उपयोग करके सही उत्तर चुनिए: सूची-I (भारतीय राष्ट्रीय कांग्रेस के अध्यक्षों के नाम): (a) अंबिका चरण मजूमदार (b) दादाभाई नौरोजी (c) महात्मा गांधी (d) श्रीमती सरोजिनी नायडू; सूची-II (भारतीय राष्ट्रीय कांग्रेस के सत्र): (i) 1924 (ii) 1916 (iii) 1925 (iv) 1906",
+        "options": [
+          "(a)-i, (b)-ii, (c)-iii, (d)-iv",
+          "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+          "(a)-ii, (b)-iv, (c)-i, (d)-iii",
+          "(a)-ii, (b)-iv, (c)-iii, (d)-i"
+        ],
+        "options_hindi": [
+          "(a)-i, (b)-ii, (c)-iii, (d)-iv",
+          "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+          "(a)-ii, (b)-iv, (c)-i, (d)-iii",
+          "(a)-ii, (b)-iv, (c)-iii, (d)-i"
+        ],
+        "answer": "(a)-ii, (b)-iv, (c)-i, (d)-iii"
+      },
+      {
+        "serial_no": 93,
+        "question": "Which of the following is not related to macro economics?",
+        "question_hindi": "निम्नलिखित में से कौन-सा समष्टि अर्थशास्त्र से संबंधित नहीं है?",
+        "options": [
+          "General price level",
+          "National income",
+          "Theory of output and employment level",
+          "Consumer equilibrium"
+        ],
+        "options_hindi": [
+          "सामान्य कीमत स्तर",
+          "राष्ट्रीय आय",
+          "उत्पादन एवं रोजगार के स्तर का सिद्धांत",
+          "उपभोक्ता का संतुलन"
+        ],
+        "answer": "Consumer equilibrium"
+      },
+      {
+        "serial_no": 94,
+        "question": "Match List-I with List-II and select the correct answer using the codes given below the list: List-I (Name of the Movement): (a) Satyashodhak (b) Self Respect Movement (c) Rajahmundry Social Reform Association (d) Namdhari; List-II (Leader of the Movement): (i) Jyotirao Phule (ii) E. V. Ramasamy Naicker (iii) Veeresalingam Pantulu (iv) Ram Singh",
+        "question_hindi": "सूची-I का सूची-II से मेल कीजिये और सूची के नीचे दिए गए कूट का उपयोग करके सही उत्तर चुनिए: सूची-I (आन्दोलन का नाम): (a) सत्यशोधक (b) आत्मसम्मान आन्दोलन (c) राजमुंदरी सोशल रिफॉर्म एसोसिएशन (d) नामधारी; सूची-II (आन्दोलन के नेता): (i) ज्योतिराव फुले (ii) ई. वी. रामासामी नायकर (iii) वीरेशलिंगम पंतुलु (iv) राम सिंह",
+        "options": [
+          "(a)-i, (b)-ii, (c)-iii, (d)-iv",
+          "(a)-ii, (b)-iv, (c)-i, (d)-iii",
+          "(a)-i, (b)-iv, (c)-iii, (d)-ii",
+          "(a)-ii, (b)-iv, (c)-iii, (d)-i"
+        ],
+        "options_hindi": [
+          "(a)-i, (b)-ii, (c)-iii, (d)-iv",
+          "(a)-ii, (b)-iv, (c)-i, (d)-iii",
+          "(a)-i, (b)-iv, (c)-iii, (d)-ii",
+          "(a)-ii, (b)-iv, (c)-iii, (d)-i"
+        ],
+        "answer": "(a)-i, (b)-iv, (c)-iii, (d)-ii"
+      },
+      {
+        "serial_no": 95,
+        "question": "Under which of the following markets is the firm a 'price taker'?",
+        "question_hindi": "निम्नलिखित में से किस बाजार में फर्म 'कीमत प्राप्तकर्ता' होती है?",
+        "options": [
+          "Monopoly",
+          "Monopolistic competition",
+          "Perfect competition",
+          "Oligopoly"
+        ],
+        "options_hindi": [
+          "एकाधिकार",
+          "एकाधिकारी प्रतियोगिता",
+          "पूर्ण प्रतियोगिता",
+          "अल्पाधिकार"
+        ],
+        "answer": "Perfect competition"
+      },
+      {
+        "serial_no": 96,
+        "question": "The election symbol of the Congress Party in the Lok Sabha elections of 1971, was:",
+        "question_hindi": "1971 के लोक सभा चुनावों में कांग्रेस दल का चुनाव चिन्ह था:",
+        "options": [
+          "A pair of bullocks carrying a yoke",
+          "A farmer with plough",
+          "A cow with suckling calf",
+          "An oil lamp"
+        ],
+        "options_hindi": [
+          "दो बैलों की जोड़ी",
+          "खेती करता किसान",
+          "गाय-बछड़ा",
+          "जलता दीपक"
+        ],
+        "answer": "A cow with suckling calf"
+      },
+      {
+        "serial_no": 97,
+        "question": "The demand for a factor is:",
+        "question_hindi": "साधन की माँग है:",
+        "options": [
+          "Derived demand",
+          "Direct demand",
+          "Joint demand",
+          "All options are wrong"
+        ],
+        "options_hindi": [
+          "व्युत्पन्न माँग",
+          "प्रत्यक्ष माँग",
+          "संयुक्त माँग",
+          "सभी विकल्प गलत हैं"
+        ],
+        "answer": "Derived demand"
+      },
+      {
+        "serial_no": 98,
+        "question": "All combinations on an isoquant curve signify:",
+        "question_hindi": "एक समोत्पाद वक्र के सभी संयोग दर्शाते हैं:",
+        "options": [
+          "Same level of inputs",
+          "Same level of output",
+          "Same level of satisfaction",
+          "Same level of income"
+        ],
+        "options_hindi": [
+          "साधनों का समान स्तर",
+          "उत्पादन का समान स्तर",
+          "संतुष्टि का समान स्तर",
+          "आय का समान स्तर"
+        ],
+        "answer": "Same level of output"
+      },
+      {
+        "serial_no": 99,
+        "question": "To which land revenue system was Sir Thomas Munro associated with?",
+        "question_hindi": "सर थॉमस मुनरो किस भू-राजस्व प्रणाली से संबद्ध थे?",
+        "options": [
+          "Ryotwari System",
+          "Mahalwari",
+          "Permanent Settlement",
+          "Zamindari"
+        ],
+        "options_hindi": [
+          "रैयतवाड़ी प्रणाली",
+          "महालवाड़ी",
+          "स्थाई बन्दोबस्त",
+          "जमींदारी"
+        ],
+        "answer": "Ryotwari System"
+      },
+      {
+        "serial_no": 100,
+        "question": "Who among the following led the movement called, 'Nyaya Yudh' (Struggle for Justice) in Haryana?",
+        "question_hindi": "निम्नलिखित में से किसने हरियाणा में 'न्याय युद्ध' नामक आन्दोलन का नेतृत्व किया?",
+        "options": [
+          "Bansi Lal",
+          "Chhotu Ram",
+          "Devi Lal",
+          "Bhagwat Dayal Sharma"
+        ],
+        "options_hindi": [
+          "बंसी लाल",
+          "छोटू राम",
+          "देवी लाल",
+          "भगवत दयाल शर्मा"
+        ],
+        "answer": "Devi Lal"
+      },
+      {
+        "serial_no": 101,
+        "question": "Match List-I with List-II and select the correct answer using the codes given below the list: List-I (Sea Farer): (a) Vasco-da-Gama (b) Christopher Columbus (c) Captain Cook (d) Tasman; List-II (Countries): (i) Spain (ii) Portugal (iii) Holland (iv) Great Britain",
+        "question_hindi": "सूची-I को सूची-II से सुमेलित कीजिए तथा नीचे दिए कूट से सही उत्तर चुनिए: सूची-I (समुद्री यात्री): (a) वास्को-डी-गामा (b) क्रिस्टोफर कोलम्बस (c) कैप्टन कुक (d) तस्मान; सूची-II (देश): (i) स्पेन (ii) पुर्तगाल (iii) हॉलैण्ड (iv) ग्रेट ब्रिटेन",
+        "options": [
+          "(a)-iii, (b)-ii, (c)-i, (d)-iv",
+          "(a)-ii, (b)-i, (c)-iv, (d)-iii",
+          "(a)-i, (b)-iv, (c)-iii, (d)-ii",
+          "(a)-iv, (b)-iii, (c)-ii, (d)-i"
+        ],
+        "options_hindi": [
+          "(a)-iii, (b)-ii, (c)-i, (d)-iv",
+          "(a)-ii, (b)-i, (c)-iv, (d)-iii",
+          "(a)-i, (b)-iv, (c)-iii, (d)-ii",
+          "(a)-iv, (b)-iii, (c)-ii, (d)-i"
+        ],
+        "answer": "(a)-ii, (b)-i, (c)-iv, (d)-iii"
+      },
+      {
+        "serial_no": 102,
+        "question": "By what name is the climate known similar to the Savanna?",
+        "question_hindi": "सवाना तुल्य जलवायु को अन्य किस नाम से जाना जाता है?",
+        "options": [
+          "South Africa type",
+          "Brazil type",
+          "Sudan type",
+          "Western Australia type"
+        ],
+        "options_hindi": [
+          "दक्षिणी अफ्रीका तुल्य",
+          "ब्राजील तुल्य",
+          "सूडान तुल्य",
+          "पश्चिमी ऑस्ट्रेलिया तुल्य"
+        ],
+        "answer": "Sudan type"
+      },
+      {
+        "serial_no": 103,
+        "question": "Who was the Chairman of the 'States Committee' of the Constituent Assembly?",
+        "question_hindi": "संविधान सभा की 'राज्य समिति' के अध्यक्ष कौन थे?",
+        "options": [
+          "Sachchidanand Sinha",
+          "Dr. Rajendra Prasad",
+          "Dr. B. R. Ambedkar",
+          "Jawaharlal Nehru"
+        ],
+        "options_hindi": [
+          "सच्चिदानन्द सिन्हा",
+          "डॉ० राजेन्द्र प्रसाद",
+          "डॉ० बी० आर० अम्बेडकर",
+          "जवाहरलाल नेहरू"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "serial_no": 104,
+        "question": "'All India Anti-Untouchability League 1932' was established by:",
+        "question_hindi": "'अखिल भारतीय अस्पृश्यता निवारण संघ 1932' की स्थापना किसने की?",
+        "options": [
+          "Dr. Bhimrao Ambedkar",
+          "Mahatma Gandhi",
+          "Jyotiba Phule",
+          "Dr. Rajendra Prasad"
+        ],
+        "options_hindi": [
+          "डॉ० भीमराव अंबेडकर",
+          "महात्मा गांधी",
+          "ज्योतिबा फुले",
+          "डॉ० राजेन्द्र प्रसाद"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "serial_no": 105,
+        "question": "Which of the following is not correctly matched?",
+        "question_hindi": "निम्नलिखित में से कौन-सा सुमेलित नहीं है?",
+        "options": [
+          "Alluvial Soil – Uttar Pradesh",
+          "Black Soil – Maharashtra",
+          "Red and Yellow Soil – Tamil Nadu",
+          "Laterite Soil – Punjab"
+        ],
+        "options_hindi": [
+          "कछारी मिट्टी - उत्तर प्रदेश",
+          "काली मिट्टी - महाराष्ट्र",
+          "लाल और पीली मिट्टी - तमिलनाडु",
+          "लैटेराइट मिट्टी - पंजाब"
+        ],
+        "answer": "Laterite Soil – Punjab"
+      },
+      {
+        "serial_no": 106,
+        "question": "Election to the Constituent Assembly were held in:",
+        "question_hindi": "संविधान सभा के लिये चुनाव आयोजित किये गये थे:",
+        "options": [
+          "July, 1946",
+          "November, 1946",
+          "January, 1950",
+          "June, 1949"
+        ],
+        "options_hindi": [
+          "जुलाई, 1946 में",
+          "नवम्बर, 1946 में",
+          "जनवरी, 1950 में",
+          "जून, 1949 में"
+        ],
+        "answer": "July, 1946"
+      },
+      {
+        "serial_no": 107,
+        "question": "Which one of the following countries is a landlocked?",
+        "question_hindi": "निम्नलिखित में से कौन-सा एक स्थलरुद्ध देश है?",
+        "options": [
+          "Bolivia",
+          "Peru",
+          "Ecuador",
+          "Uruguay"
+        ],
+        "options_hindi": [
+          "बोलीविया",
+          "पेरू",
+          "इक्वाडोर",
+          "उरुग्वे"
+        ],
+        "answer": "Bolivia"
+      },
+      {
+        "serial_no": 108,
+        "question": "Who propounded the 'Theory of Drain of Wealth'?",
+        "question_hindi": "'धन-निष्कासन का सिद्धांत' किसने प्रतिपादित किया?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Lala Lajpat Rai",
+          "Bal Gangadhar Tilak",
+          "Dadabhai Naoroji"
+        ],
+        "options_hindi": [
+          "जवाहरलाल नेहरू",
+          "लाला लाजपत राय",
+          "बाल गंगाधर तिलक",
+          "दादाभाई नौरोजी"
+        ],
+        "answer": "Dadabhai Naoroji"
+      },
+      {
+        "serial_no": 109,
+        "question": "Which of the following is not included in the high clouds?",
+        "question_hindi": "निम्नलिखित में से कौन उच्च बादलों में शामिल नहीं किया जाता है?",
+        "options": [
+          "Cirrus",
+          "Cirro-Stratus",
+          "Strato-Cumulus",
+          "Cirro-Cumulus"
+        ],
+        "options_hindi": [
+          "पक्षाभ",
+          "पक्षाभ-स्तरी",
+          "स्तरी-कपासी",
+          "पक्षाभ-कपासी"
+        ],
+        "answer": "Strato-Cumulus"
+      },
+      {
+        "serial_no": 110,
+        "question": "Lok Prahari vs Union of India (2018) case is related to:",
+        "question_hindi": "लोक प्रहरी बनाम भारत संघ (2018) वाद संबंधित है:",
+        "options": [
+          "Euthanasia",
+          "Electoral Reforms",
+          "Sexual harassment at workplace",
+          "Capital Punishment"
+        ],
+        "options_hindi": [
+          "इच्छा मृत्यु से",
+          "निर्वाचन सुधारों से",
+          "कार्यस्थल पर यौन उत्पीड़न से",
+          "मृत्युदण्ड से"
+        ],
+        "answer": "Electoral Reforms"
+      },
+      {
+        "serial_no": 111,
+        "question": "How many members were there in Nehru Committee that drafted the Constitution for India in 1928?",
+        "question_hindi": "1928 में भारत के लिए संविधान की रूपरेखा तैयार करने वाली नेहरू समिति में कितने सदस्य थे?",
+        "options": [
+          "9",
+          "5",
+          "7",
+          "11"
+        ],
+        "options_hindi": [
+          "9",
+          "5",
+          "7",
+          "11"
+        ],
+        "answer": "9"
+      },
+      {
+        "serial_no": 112,
+        "question": "The principle of maximum social advantage was propounded by:",
+        "question_hindi": "अधिकतम सामाजिक लाभ का सिद्धान्त प्रतिपादित किया:",
+        "options": [
+          "E. Lindahl",
+          "A. Wagner",
+          "R. A. Musgrave",
+          "H. Dalton"
+        ],
+        "options_hindi": [
+          "ई. लिण्डाल ने",
+          "ए. वैगनर ने",
+          "आर. ए. मस्ग्रेव ने",
+          "एच. डाल्टन ने"
+        ],
+        "answer": "H. Dalton"
+      },
+      {
+        "serial_no": 113,
+        "question": "In which country of the continent of Africa the Atlas Mountains does not extended?",
+        "question_hindi": "अफ्रीका महाद्वीप के किस देश में एटलस पर्वत का विस्तार नहीं है?",
+        "options": [
+          "Morocco",
+          "Algeria",
+          "Tunisia",
+          "Mozambique"
+        ],
+        "options_hindi": [
+          "मोरक्को",
+          "अल्जीरिया",
+          "ट्यूनीशिया",
+          "मोजाम्बिक"
+        ],
+        "answer": "Mozambique"
+      },
+      {
+        "serial_no": 114,
+        "question": "Which of the following is not matching?",
+        "question_hindi": "निम्नलिखित में से कौन-सा सुमेलित नहीं है?",
+        "options": [
+          "Brazil Current – the South Atlantic Ocean",
+          "Humboldt Current – the North Pacific Ocean",
+          "Gulf Stream – the North Atlantic Ocean",
+          "Agulhas Current – the Indian Ocean"
+        ],
+        "options_hindi": [
+          "ब्राजील धारा – दक्षिण अटलांटिक महासागर",
+          "हम्बोल्ट धारा – उत्तरी प्रशांत महासागर",
+          "गल्फ स्ट्रीम – उत्तरी अटलांटिक महासागर",
+          "अगुलहास धारा – हिंद महासागर"
+        ],
+        "answer": "Humboldt Current – the North Pacific Ocean"
+      },
+      {
+        "serial_no": 115,
+        "question": "When total utility decreases, marginal utility is:",
+        "question_hindi": "जब कुल उपयोगिता घटती है, तो सीमांत उपयोगिता:",
+        "options": [
+          "Zero",
+          "Positive",
+          "Negative",
+          "None of these"
+        ],
+        "options_hindi": [
+          "शून्य",
+          "धनात्मक",
+          "ऋणात्मक",
+          "इनमें से कोई नहीं"
+        ],
+        "answer": "Negative"
+      },
+      {
+        "serial_no": 116,
+        "question": "Which of the following words/terminologies is/are not mentioned in the Constitution of India? (i) Federalism (ii) No confidence motion (iii) Defamation (iv) Incitement to an offence",
+        "question_hindi": "निम्नलिखित में से कौन-सा शब्द/परिभाषा भारत के संविधान में उल्लिखित नहीं है/हैं? (i) संघवाद (ii) अविश्वास प्रस्ताव (iii) मानहानि (iv) अपराध के लिए उकसाना",
+        "options": [
+          "Only (i) and (iv)",
+          "Only (ii) and (iv)",
+          "Only (i) and (ii)",
+          "Only (ii) and (iii)"
+        ],
+        "options_hindi": [
+          "केवल (i) और (iv)",
+          "केवल (ii) और (iv)",
+          "केवल (i) और (ii)",
+          "केवल (ii) और (iii)"
+        ],
+        "answer": "Only (i) and (ii)"
+      },
+      {
+        "serial_no": 117,
+        "question": "Which International Organization was established in Bretton Woods Conference?",
+        "question_hindi": "ब्रेटन वुड्स सम्मेलन में किस अंतर्राष्ट्रीय संगठन की स्थापना की गई थी?",
+        "options": [
+          "UNICEF",
+          "WHO",
+          "IMF",
+          "NATO"
+        ],
+        "options_hindi": [
+          "यूनिसेफ",
+          "डब्ल्यूएचओ",
+          "आईएमएफ",
+          "नाटो"
+        ],
+        "answer": "IMF"
+      },
+      {
+        "serial_no": 118,
+        "question": "The total number of nominated members in the Parliament of India, can be:",
+        "question_hindi": "भारत की संसद में नामित सदस्यों की कुल संख्या हो सकती है:",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "options_hindi": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "answer": "14"
+      },
+      {
+        "serial_no": 119,
+        "question": "Disposable income is equal to:",
+        "question_hindi": "व्यय योग्य आय है:",
+        "options": [
+          "Personal income – Saving",
+          "Personal income – Personal taxes",
+          "GNP – Saving",
+          "Consumption – Saving"
+        ],
+        "options_hindi": [
+          "व्यक्तिगत आय – बचत",
+          "व्यक्तिगत आय – व्यक्तिगत कर",
+          "जीएनपी – बचत",
+          "उपभोग – बचत"
+        ],
+        "answer": "Personal income – Personal taxes"
+      },
+      {
+        "serial_no": 120,
+        "question": "Who is considered as the Guru of Saint Mirabai?",
+        "question_hindi": "संत मीराबाई का गुरु किसे माना जाता है?",
+        "options": [
+          "Eknath",
+          "Ravidas",
+          "Namdev",
+          "Ramdas"
+        ],
+        "options_hindi": [
+          "एकनाथ",
+          "रविदास",
+          "नामदेव",
+          "रामदास"
+        ],
+        "answer": "Ravidas"
+      },
+      {
+        "serial_no": 121,
+        "question": "The number of stipulated elected MPs from Haryana is:",
+        "question_hindi": "हरियाणा से निर्वाचित सांसदों की संख्या है:",
+        "options": [
+          "10",
+          "12",
+          "20",
+          "15"
+        ],
+        "options_hindi": [
+          "10",
+          "12",
+          "20",
+          "15"
+        ],
+        "answer": "10"
+      },
+      {
+        "serial_no": 122,
+        "question": "Members of Election Commission are appointed by:",
+        "question_hindi": "निर्वाचन आयोग के सदस्यों की नियुक्ति की जाती है:",
+        "options": [
+          "President",
+          "Prime Minister",
+          "Parliament",
+          "Chief Justice"
+        ],
+        "options_hindi": [
+          "राष्ट्रपति द्वारा",
+          "प्रधानमंत्री द्वारा",
+          "संसद द्वारा",
+          "मुख्य न्यायाधीश द्वारा"
+        ],
+        "answer": "President"
+      },
+      {
+        "serial_no": 123,
+        "question": "Match List-I with List-II and select the correct answer using the codes given below: List-I (City Nickname): (a) Boston of the East (b) Cottonopolis of India (c) Manchester of South India (d) Electronic city; List-II (City): (i) Bangalore (ii) Ahmedabad (iii) Coimbatore (iv) Mumbai",
+        "question_hindi": "सूची-I को सूची-II से सुमेलित कीजिए तथा नीचे दिए गए कूट से सही उत्तर चुनिए: सूची-I (शहर का उपनाम): (a) पूर्व का बोस्टन (b) सूती वस्त्रों की राजधानी (c) दक्षिण भारत का मैनचेस्टर (d) इलेक्ट्रॉनिक सिटी; सूची-II (शहर): (i) बंगलौर (ii) अहमदाबाद (iii) कोयम्बटूर (iv) मुम्बई",
+        "options": [
+          "(a)-ii, (b)-iv, (c)-iii, (d)-i",
+          "(a)-iii, (b)-ii, (c)-iv, (d)-i",
+          "(a)-i, (b)-iii, (c)-ii, (d)-iv",
+          "(a)-i, (b)-ii, (c)-iii, (d)-iv"
+        ],
+        "options_hindi": [
+          "(a)-ii, (b)-iv, (c)-iii, (d)-i",
+          "(a)-iii, (b)-ii, (c)-iv, (d)-i",
+          "(a)-i, (b)-iii, (c)-ii, (d)-iv",
+          "(a)-i, (b)-ii, (c)-iii, (d)-iv"
+        ],
+        "answer": "(a)-i, (b)-ii, (c)-iii, (d)-iv"
+      },
+      {
+        "serial_no": 124,
+        "question": "Aggregate supply depends on:",
+        "question_hindi": "समग्र पूर्ति निर्भर है:",
+        "options": [
+          "Capital",
+          "Level of technology",
+          "Labour productivity",
+          "All options are right"
+        ],
+        "options_hindi": [
+          "पूँजी",
+          "तकनीक का स्तर",
+          "श्रम उत्पादकता",
+          "सभी विकल्प सही हैं"
+        ],
+        "answer": "All options are right"
+      },
+      {
+        "serial_no": 125,
+        "question": "Which of the following external agency is providing financial help for Delhi-Mumbai Industrial Corridor Project?",
+        "question_hindi": "निम्न में से कौन-सी बाह्य एजेंसी दिल्ली-मुंबई औद्योगिक कॉरीडोर परियोजना के लिए वित्तीय मदद प्रदान कर रही है?",
+        "options": [
+          "World Bank",
+          "Asian Development Bank",
+          "German Government",
+          "Government of Japan"
+        ],
+        "options_hindi": [
+          "विश्व बैंक",
+          "एशियन विकास बैंक",
+          "जर्मन सरकार",
+          "जापान सरकार"
+        ],
+        "answer": "Government of Japan"
+      },
+      {
+        "serial_no": 126,
+        "question": "Where and when was the Second Buddhist Council held?",
+        "question_hindi": "दूसरी बौद्ध परिषद् (संगीति) कहाँ और कब आयोजित की गई थी?",
+        "options": [
+          "Pataliputra in 250 BCE",
+          "Sri Lanka in 1st Century BCE",
+          "Vaishali in 383 BCE",
+          "Mandalay in 1871 CE"
+        ],
+        "options_hindi": [
+          "पाटलिपुत्र में, 250 ई० पू०",
+          "श्रीलंका में, पहली शताब्दी ई० पू०",
+          "वैशाली में, 383 ई० पू०",
+          "मांडले में, 1871 ईसवी"
+        ],
+        "answer": "Vaishali in 383 BCE"
+      },
+      {
+        "serial_no": 127,
+        "question": "The ruler of Gupta period who was an expert player of Veena:",
+        "question_hindi": "गुप्त काल का शासक जो निपुण वीणा वादक था:",
+        "options": [
+          "Chandragupta",
+          "Skandagupta",
+          "Samudragupta",
+          "Vishnugupta"
+        ],
+        "options_hindi": [
+          "चन्द्रगुप्त",
+          "स्कन्दगुप्त",
+          "समुद्रगुप्त",
+          "विष्णुगुप्त"
+        ],
+        "answer": "Samudragupta"
+      },
+      {
+        "serial_no": 128,
+        "question": "The first Vice Chairman of Niti Aayog was:",
+        "question_hindi": "नीति आयोग के प्रथम उपाध्यक्ष थे:",
+        "options": [
+          "Rajiv Kumar",
+          "Amitabh Kant",
+          "Arvind Panagariya",
+          "Raghuram Rajan"
+        ],
+        "options_hindi": [
+          "राजीव कुमार",
+          "अमिताभ कांत",
+          "अरविंद पनगढ़िया",
+          "रघुराम राजन"
+        ],
+        "answer": "Arvind Panagariya"
+      },
+      {
+        "serial_no": 129,
+        "question": "Which of the following statements related to National Human Rights Commission is/are false? (i) The commission consists of one chairman and six members. (ii) This commission was constituted on 12th October, 1993. (iii) This commission is in conformity with the Paris principles of October, 1991.",
+        "question_hindi": "राष्ट्रीय मानव अधिकार आयोग से संबंधित कथनों में से कौन-सा/कौन-से कथन असत्य है/हैं? (i) आयोग में 1 अध्यक्ष एवं 6 सदस्य होते हैं। (ii) इस आयोग का गठन 12 अक्टूबर, 1993 को हुआ। (iii) इस आयोग का गठन अक्टूबर, 1991 के पेरिस सिद्धान्तों के अनुरूप हुआ है।",
+        "options": [
+          "Only (i)",
+          "Only (ii)",
+          "(i) and (iii)",
+          "All (i), (ii) and (iii)"
+        ],
+        "options_hindi": [
+          "केवल (i)",
+          "केवल (ii)",
+          "(i) और (iii)",
+          "सभी (i), (ii) और (iii)"
+        ],
+        "answer": "Only (i)"
+      },
+      {
+        "serial_no": 130,
+        "question": "The last ruler of the Haryank dynasty was:",
+        "question_hindi": "हर्यक वंश का अन्तिम शासक था:",
+        "options": [
+          "Nagadasaka",
+          "Mundak",
+          "Aniruddha",
+          "Udayin"
+        ],
+        "options_hindi": [
+          "नागदासक",
+          "मुण्डक",
+          "अनिरुद्ध",
+          "उदायिन"
+        ],
+        "answer": "Nagadasaka"
+      },
+      {
+        "serial_no": 131,
+        "question": "The Right of the President to send messages to both the houses of Parliament is mentioned in:",
+        "question_hindi": "संसद के दोनों सदनों को संदेश भेजने के राष्ट्रपति के अधिकार का उल्लेख है:",
+        "options": [
+          "Art. 84",
+          "Art. 87",
+          "Art. 88(1)",
+          "Art. 86(1)"
+        ],
+        "options_hindi": [
+          "अनु० 84 में",
+          "अनु० 87 में",
+          "अनु० 88(1) में",
+          "अनु० 86(1) में"
+        ],
+        "answer": "Art. 86(1)"
+      },
+      {
+        "serial_no": 132,
+        "question": "Make in India Programme concern:",
+        "question_hindi": "मेक इन इंडिया प्रोग्राम का सम्बन्ध है:",
+        "options": [
+          "30 Industries / Sector",
+          "25 Industries / Sector",
+          "20 Industries / Sector",
+          "15 Industries / Sector"
+        ],
+        "options_hindi": [
+          "30 उद्योग/क्षेत्र",
+          "25 उद्योग/क्षेत्र",
+          "20 उद्योग/क्षेत्र",
+          "15 उद्योग/क्षेत्र"
+        ],
+        "answer": "25 Industries / Sector"
+      },
+      {
+        "serial_no": 133,
+        "question": "According to Malthus, population increases in:",
+        "question_hindi": "माल्थस के अनुसार जनसंख्या बढ़ती है:",
+        "options": [
+          "Geometrical progression",
+          "Arithmetical progression",
+          "Harmonic progression",
+          "None of these"
+        ],
+        "options_hindi": [
+          "गुणोत्तर दर से",
+          "अंकगणितीय दर से",
+          "हरात्मक दर से",
+          "इनमें से कोई नहीं"
+        ],
+        "answer": "Geometrical progression"
+      },
+      {
+        "serial_no": 134,
+        "question": "In Koppen's Climatic classification of India the central Ganges valley is represented by:",
+        "question_hindi": "कोपेन द्वारा जलवायु वर्गीकरण में मध्य गंगा की घाटी की जलवायु दर्शाई गई है:",
+        "options": [
+          "Aw",
+          "Amw",
+          "Cwg",
+          "Bshw"
+        ],
+        "options_hindi": [
+          "Aw द्वारा",
+          "Amw द्वारा",
+          "Cwg द्वारा",
+          "Bshw द्वारा"
+        ],
+        "answer": "Cwg"
+      },
+      {
+        "serial_no": 135,
+        "question": "Which among the following articles of Indian Constitution is related to 'The Maxim Nemo debet bis Vexari' theory?",
+        "question_hindi": "भारतीय संविधान का कौन-सा अनुच्छेद 'द मैक्सिम नेमो डेबिट बिस वेक्सारी' सिद्धान्त से संबंधित है?",
+        "options": [
+          "Art. 20(1)",
+          "Art. 20(2)",
+          "Art. 20(3)",
+          "Art. 21"
+        ],
+        "options_hindi": [
+          "अनु० 20(1)",
+          "अनु० 20(2)",
+          "अनु० 20(3)",
+          "अनु० 21"
+        ],
+        "answer": "Art. 20(2)"
+      },
+      {
+        "serial_no": 136,
+        "question": "What percentage of the total number of members of Lok Sabha can be the total number of Union Council of Ministers?",
+        "question_hindi": "लोकसभा के सदस्यों की कुल संख्या के कितने प्रतिशत तक संघीय मंत्रिपरिषद् की सदस्य संख्या हो सकती है?",
+        "options": [
+          "10 percent",
+          "15 percent",
+          "20 percent",
+          "25 percent"
+        ],
+        "options_hindi": [
+          "10 प्रतिशत",
+          "15 प्रतिशत",
+          "20 प्रतिशत",
+          "25 प्रतिशत"
+        ],
+        "answer": "15 percent"
+      },
+      {
+        "serial_no": 137,
+        "question": "The correct chronological order of following geological structures in India is: (a) Cudappah (b) Dharwar (c) Vindhyan (d) Gondwana",
+        "question_hindi": "भारत में विद्यमान निम्नलिखित भू-वैज्ञानिक संरचनाओं का सही कालानुक्रम है: (a) कुडप्पा (b) धारवाड़ (c) विन्ध्यन (d) गोण्डवाना",
+        "options": [
+          "a, b, c, d",
+          "b, a, c, d",
+          "c, d, b, a",
+          "b, a, d, c"
+        ],
+        "options_hindi": [
+          "a, b, c, d",
+          "b, a, c, d",
+          "c, d, b, a",
+          "b, a, d, c"
+        ],
+        "answer": "b, a, c, d"
+      },
+      {
+        "serial_no": 138,
+        "question": "Battle of Talikota (1565) was fought between Vijayanagar empire and:",
+        "question_hindi": "तालिकोट का युद्ध (1565) विजयनगर साम्राज्य एवं किसके मध्य लड़ा गया था?",
+        "options": [
+          "Golconda",
+          "Bijapur",
+          "Ahmednagar",
+          "All of the above"
+        ],
+        "options_hindi": [
+          "गोलकुण्डा",
+          "बीजापुर",
+          "अहमदनगर",
+          "उपर्युक्त सभी"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "serial_no": 139,
+        "question": "At which of the following places was the national government established during the Quit India Movement? (i) Tamluk (ii) Satara (iii) Faizpur (iv) Ballia",
+        "question_hindi": "भारत छोड़ो आन्दोलन के दौरान निम्नलिखित में से किन स्थानों पर राष्ट्रीय सरकार स्थापित की गई थी? (i) तामलुक (ii) सतारा (iii) फैजपुर (iv) बलिया",
+        "options": [
+          "(i), (ii) and (iv)",
+          "(i), (ii), (iii) and (iv)",
+          "(ii) and (iv)",
+          "(ii), (iii) and (iv)"
+        ],
+        "options_hindi": [
+          "(i), (ii) एवं (iv)",
+          "(i), (ii), (iii) एवं (iv)",
+          "(ii) एवं (iv)",
+          "(ii), (iii) एवं (iv)"
+        ],
+        "answer": "(i), (ii) and (iv)"
+      },
+      {
+        "serial_no": 140,
+        "question": "Female saint of South India, Karikkal Ammaiyar was the devotee of:",
+        "question_hindi": "दक्षिण भारत की महिला संत कारिक्काल अम्मई किसकी भक्त थी?",
+        "options": [
+          "Vishnu",
+          "Shiva",
+          "Brahma",
+          "Krishna"
+        ],
+        "options_hindi": [
+          "विष्णु",
+          "शिव",
+          "ब्रह्मा",
+          "कृष्ण"
+        ],
+        "answer": "Shiva"
+      },
+      {
+        "serial_no": 141,
+        "question": "When was World Trade Organization established?",
+        "question_hindi": "विश्व व्यापार संगठन की स्थापना हुई:",
+        "options": [
+          "1 January, 1994",
+          "1 January, 1995",
+          "1 January, 1996",
+          "1 January, 1997"
+        ],
+        "options_hindi": [
+          "1 जनवरी, 1994",
+          "1 जनवरी, 1995",
+          "1 जनवरी, 1996",
+          "1 जनवरी, 1997"
+        ],
+        "answer": "1 January, 1995"
+      },
+      {
+        "serial_no": 142,
+        "question": "The measuring unit in Germany 'elle' was used to measure:",
+        "question_hindi": "जर्मनी में मापक इकाई 'ऐले' का उपयोग किसे मापने के लिए किया जाता था?",
+        "options": [
+          "Cloth",
+          "Land",
+          "Weight",
+          "Density"
+        ],
+        "options_hindi": [
+          "वस्त्र",
+          "भूमि",
+          "भार",
+          "घनत्व"
+        ],
+        "answer": "Cloth"
+      },
+      {
+        "serial_no": 143,
+        "question": "Choose the correct answer from the options given below:",
+        "question_hindi": "नीचे दिए गए विकल्पों में से सही उत्तर चुनिए:",
+        "options": [
+          "Tehri Dam – Tons river",
+          "Bhakra Dam – Bhagirathi river",
+          "Lakhwar Dam – Vyas river",
+          "Srisailam Dam – Krishna river"
+        ],
+        "options_hindi": [
+          "टिहरी बांध - टोंस नदी",
+          "भाखड़ा बांध - भागीरथी नदी",
+          "लखवाड़ बांध - व्यास नदी",
+          "श्रीशैलम बांध - कृष्णा नदी"
+        ],
+        "answer": "Srisailam Dam – Krishna river"
+      },
+      {
+        "serial_no": 144,
+        "question": "The correct descending order of the height of the mountain peaks as given below is: (a) Kanchanjunga (b) Godwin Austen (K-2) (c) Nanga Parbat (d) Nandadevi",
+        "question_hindi": "निम्न पर्वत शिखरों का ऊँचाई के घटते क्रम में सही अनुक्रम है: (a) कंचनजंगा (b) गॉडविन ऑस्टेन (के-2) (c) नंगापर्वत (d) नन्दा देवी",
+        "options": [
+          "b, c, a, d",
+          "b, a, c, d",
+          "a, b, c, d",
+          "a, c, d, b"
+        ],
+        "options_hindi": [
+          "b, c, a, d",
+          "b, a, c, d",
+          "a, b, c, d",
+          "a, c, d, b"
+        ],
+        "answer": "b, a, c, d"
+      },
+      {
+        "serial_no": 145,
+        "question": "When was the Bahujan Samaj Party formed under the leadership of Kanshi Ram?",
+        "question_hindi": "कांशीराम के नेतृत्व में बहुजन समाज पार्टी का गठन कब किया गया?",
+        "options": [
+          "1986",
+          "1987",
+          "1989",
+          "1984"
+        ],
+        "options_hindi": [
+          "1986",
+          "1987",
+          "1989",
+          "1984"
+        ],
+        "answer": "1984"
+      },
+      {
+        "serial_no": 146,
+        "question": "Which of the following coal areas are located in Damodar valley? (a) Jharia (b) Raniganj (c) Singrauli (d) Sohagpur",
+        "question_hindi": "निम्नांकित कोयला क्षेत्रों में से कौन-से क्षेत्र दामोदर घाटी में अवस्थित हैं? (a) झरिया (b) रानीगंज (c) सिंगरौली (d) सोहागपुर",
+        "options": [
+          "a, b",
+          "b, c",
+          "a, b, c",
+          "a, b, c, d"
+        ],
+        "options_hindi": [
+          "a, b",
+          "b, c",
+          "a, b, c",
+          "a, b, c, d"
+        ],
+        "answer": "a, b"
+      },
+      {
+        "serial_no": 147,
+        "question": "Who was first Finance Minister of independent India?",
+        "question_hindi": "स्वतंत्र भारत के प्रथम वित्त मंत्री थे:",
+        "options": [
+          "R. K. S. Chetty",
+          "C. D. Deshmukh",
+          "Morarji Desai",
+          "H. N. Bahuguna"
+        ],
+        "options_hindi": [
+          "आर० के० एस० चेट्टी",
+          "सी० डी० देशमुख",
+          "मोरारजी देसाई",
+          "एच० एन० बहुगुणा"
+        ],
+        "answer": "R. K. S. Chetty"
+      },
+      {
+        "serial_no": 148,
+        "question": "The leading coastal region in Tidal power generation in India is:",
+        "question_hindi": "भारत में ज्वार शक्ति उत्पादन में अग्रणी तटीय क्षेत्र है:",
+        "options": [
+          "Kerala Coast",
+          "Bay of Cambay",
+          "Bay of Mannar",
+          "Uttari Sarkar Coast"
+        ],
+        "options_hindi": [
+          "केरल तट",
+          "खम्भात की खाड़ी",
+          "मन्नार की खाड़ी",
+          "उत्तरी सरकार तट"
+        ],
+        "answer": "Bay of Cambay"
+      },
+      {
+        "serial_no": 149,
+        "question": "Which of the following is not correctly matched? (River - Subsidiary Rivers)",
+        "question_hindi": "निम्न में से कौन-सा सुमेलित नहीं है? (नदी - सहायक नदियाँ)",
+        "options": [
+          "Ganga - Ghaghara, Tons, Ken",
+          "Chambal - Banas, Kalisindh, Shipra",
+          "Damodar - Rihand, Tungbhadra, Manjara",
+          "Brahmaputra - Dibang, Lohit, Dihang"
+        ],
+        "options_hindi": [
+          "गंगा - घाघरा, टोंस, केन",
+          "चम्बल - बनास, कालीसिंध, क्षिप्रा",
+          "दामोदर - रिहन्द, तुंगभद्रा, मंजरा",
+          "ब्रह्मपुत्र - डिबांग, लोहित, दिहांग"
+        ],
+        "answer": "Damodar - Rihand, Tungbhadra, Manjara"
+      },
+      {
+        "serial_no": 150,
+        "question": "Who is considered as the father of local self government in India?",
+        "question_hindi": "भारत में स्थानीय स्वशासन का जनक किसे माना जाता है?",
+        "options": [
+          "Lord Mayo",
+          "Lord Rippon",
+          "Lord Curzon",
+          "Lord Clive"
+        ],
+        "options_hindi": [
+          "लॉर्ड मेयो",
+          "लॉर्ड रिपन",
+          "लॉर्ड कर्जन",
+          "लॉर्ड क्लाइव"
+        ],
+        "answer": "Lord Rippon"
+      }
+    ]
+  }
+}

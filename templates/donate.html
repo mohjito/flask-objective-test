@@ -1,0 +1,221 @@
+{% extends "base.html" %}
+
+{% block title %}Support Us - QuizLearn{% endblock %}
+
+{% block content %}
+<style>
+    .donate-premium-container {
+        padding: 40px 20px;
+        min-height: 80vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .donate-glass-card {
+        background: white;
+        padding: 60px 40px;
+        border-radius: 40px;
+        width: 100%;
+        max-width: 900px;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+        border: 1px solid #f1f5f9;
+        text-align: center;
+    }
+
+    .donate-header {
+        margin-bottom: 50px;
+    }
+
+    .donate-icon {
+        font-size: 3.5rem;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .donate-header h1 {
+        font-size: 2.2rem;
+        font-weight: 850;
+        margin-bottom: 20px;
+        color: #1e293b;
+    }
+
+    .donation-options-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        margin-bottom: 40px;
+        text-align: left;
+    }
+
+    .qr-card-glass {
+        background: #f8fafc;
+        border-radius: 24px;
+        padding: 25px;
+        border: 1px solid #e2e8f0;
+    }
+
+    .qr-placeholder {
+        background: white;
+        border-radius: 20px;
+        padding: 15px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+        margin-bottom: 20px;
+    }
+
+    .qr-image {
+        width: 100%;
+        display: block;
+    }
+
+    .upi-card-glass {
+        background: white;
+        border-radius: 24px;
+        padding: 35px;
+        border: 1px solid #e2e8f0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .upi-value-box {
+        background: #f1f5f9;
+        padding: 15px 20px;
+        border-radius: 14px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 25px;
+        border: 1px solid #e2e8f0;
+    }
+
+    .upi-value-box code {
+        font-size: 1.05rem;
+        font-weight: 800;
+        color: #1e293b;
+        font-family: 'Monaco', monospace;
+    }
+
+    .btn-copy {
+        background: white;
+        border: 1px solid #e2e8f0;
+        padding: 6px 14px;
+        border-radius: 10px;
+        font-weight: 700;
+        cursor: pointer;
+    }
+
+    .support-features {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .feat {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        font-weight: 700;
+        color: #475569;
+    }
+
+    .feat-bullet {
+        width: 32px;
+        height: 32px;
+        background: #f0f9ff;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    @media (max-width: 768px) {
+        .donate-glass-card {
+            padding: 40px 20px;
+        }
+
+        .donation-options-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+<div class="donate-premium-container anim-fade-up">
+    <div class="donate-glass-card">
+        <div class="donate-header">
+            <span class="donate-icon">❤️</span>
+            <h1>Support Our Mission</h1>
+            <p>We are dedicated to providing high-quality, up-to-date mock tests for free. Your support keeps our
+                servers running, fuels new content development, and helps Thousands of students like you succeed. Every
+                small contribution makes a huge difference!</p>
+        </div>
+
+        <div class="donation-options-grid">
+            <!-- QR Code Card -->
+            <div class="qr-card-glass">
+                <div class="qr-placeholder">
+                    <img src="{{ url_for('static', filename='images/payment_qr.png') }}" alt="Payment QR Code"
+                        class="qr-image"
+                        onerror="this.style.display='none'; document.getElementById('qr-fallback').style.display='flex';">
+                    <div id="qr-fallback" class="qr-inner" style="display:none;">
+                        <span class="qr-text">Scan for Payment</span>
+                        <div class="qr-box"></div>
+                    </div>
+                </div>
+                <div class="qr-details">
+                    <h3>Mohit Deswal</h3>
+                    <p>Scan with any UPI App (GPay, PhonePe, Paytm, etc.)</p>
+                </div>
+            </div>
+
+            <!-- UPI Details Card -->
+            <div class="upi-card-glass">
+                <div class="upi-item">
+                    <span class="upi-label">UPI ID</span>
+                    <div class="upi-value-box">
+                        <code id="upi-id-text">deswalmohit81@okicici</code>
+                        <button class="btn-copy" onclick="copyUPI()">Copy</button>
+                    </div>
+                </div>
+
+                <div class="support-features">
+                    <div class="feat">
+                        <span class="feat-bullet">🔒</span>
+                        <span>Secure & Direct</span>
+                    </div>
+                    <div class="feat">
+                        <span class="feat-bullet">⚡</span>
+                        <span>Keep the servers fast</span>
+                    </div>
+                    <div class="feat">
+                        <span class="feat-bullet">📚</span>
+                        <span>Fund new test content</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="donate-footer">
+            <p>Your contribution helps us provide quality mock tests for free to everyone.</p>
+            <a href="{{ url_for('test_routes.dashboard') }}" class="btn-hero-outline mt-20">Back to Dashboard</a>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    function copyUPI() {
+        const text = document.getElementById('upi-id-text').innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            const btn = document.querySelector('.btn-copy');
+            btn.innerText = 'Copied!';
+            btn.style.background = '#dcfce7';
+            btn.style.color = '#166534';
+            setTimeout(() => {
+                btn.innerText = 'Copy';
+                btn.style.background = 'white';
+                btn.style.color = 'inherit';
+            }, 2000);
+        });
+    }
+</script>
+{% endblock %}

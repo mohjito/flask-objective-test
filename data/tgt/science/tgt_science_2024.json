@@ -1,0 +1,1091 @@
+{
+    "part4_science": {
+        "name": "Science Subject (Part-IV)",
+        "category": "TGT",
+        "year": 2024,
+        "section": " Science Subject :PART-IV   (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "A 200 N block rests on a frictionless inclined plane of angle of inclination 30°. A cord attached to the block passes over a frictionless pulley at the top of the plane is attached to a second block. If the system is in equilibrium, then the weight of second block (in N) approximately is:",
+                "question_hindi": "एक 200 N बॉक्स झुकाव कोण 30° के घर्षण रहित नत समतल पर टिका हुआ है। बॉक्स से जुड़ी एक रस्सी तल के शीर्ष पर एक घर्षण रहित घिरनी के ऊपर से गुजरती है और दूसरे बॉक्स से जुड़ी होती है। यदि निकाय संतुलन में है, तो दूसरे बॉक्स का भार (N में) लगभग है:",
+                "options": [
+                    "100",
+                    "86.6",
+                    "173",
+                    "115.5"
+                ],
+                "options_hindi": [
+                    "100",
+                    "86.6",
+                    "173",
+                    "115.5"
+                ],
+                "answer": "100"
+            },
+            {
+                "serial_no": 92,
+                "question": "The process in which a mixture of heavier particles and lighter particles are separated by the wind, is:",
+                "question_hindi": "प्रक्रिया जिसमें वायु द्वारा भारी कणों तथा हल्के कणों के मिश्रण को पृथक किया जाता है, वह है:",
+                "options": [
+                    "Threshing",
+                    "Winnowing",
+                    "Sieving",
+                    "Sedimentation"
+                ],
+                "options_hindi": [
+                    "श्रेसिंग",
+                    "निष्पावन",
+                    "चालना",
+                    "अवसादन"
+                ],
+                "answer": "Winnowing"
+            },
+            {
+                "serial_no": 93,
+                "question": "2.5 g of sugar is dissolved in 47.5 g of water. What is its concentration as percent by mass?",
+                "question_hindi": "2.5 ग्राम शक्कर को 47.5 ग्राम जल में विलेय किया जाता है। इसकी सान्द्रता द्रव्यमान प्रतिशत में क्या होगी?",
+                "options": [
+                    "5.26%",
+                    "5.0%",
+                    "19.0%",
+                    "50.0%"
+                ],
+                "options_hindi": [
+                    "5.26%",
+                    "5.0%",
+                    "19.0%",
+                    "50.0%"
+                ],
+                "answer": "5.0%"
+            },
+            {
+                "serial_no": 94,
+                "question": "Which of the following contains maximum number of molecules?",
+                "question_hindi": "निम्नलिखित में से किसमें अधिकतम संख्या में अणु है?",
+                "options": [
+                    "1 g CO2",
+                    "1 g N2",
+                    "1 g H2",
+                    "1 g CH4"
+                ],
+                "options_hindi": [
+                    "1 g CO2",
+                    "1 g N2",
+                    "1 g H2",
+                    "1 g CH4"
+                ],
+                "answer": "1 g H2"
+            },
+            {
+                "serial_no": 95,
+                "question": "Which of the following statement is incorrectly matched?",
+                "question_hindi": "निम्नलिखित में से कौन-सा कथन सही सुमेलित नहीं है?",
+                "options": [
+                    "A metal used in joining electric wires – Magnesium",
+                    "A metal whose oxide is soluble in both acids and bases – Zinc",
+                    "A metal unreactive towards oxygen and dilute acids – Gold",
+                    "A metal extracted by using electrolytic reduction – Aluminium"
+                ],
+                "options_hindi": [
+                    "एक धातु जिसका उपयोग विद्युत तारों को जोड़ने में होता है - मैग्नीशियम",
+                    "एक धातु जिसका ऑक्साइड अम्ल तथा क्षार दोनों में विलेय है - जिंक",
+                    "एक धातु जो ऑक्सीजन तथा तनु अम्लों के प्रति निष्क्रिय है - गोल्ड",
+                    "एक धातु जिसका निष्कर्षण विद्युत अपघटनी अपचयन से होता है - ऐलुमिनियम"
+                ],
+                "answer": "A metal used in joining electric wires – Magnesium"
+            },
+            {
+                "serial_no": 96,
+                "question": "Which type of joint is found between the bones of the skull?",
+                "question_hindi": "खोपड़ी की हड्डियों के बीच किस प्रकार का जोड़ पाया जाता है?",
+                "options": [
+                    "Hinge joint",
+                    "Pivot joint",
+                    "Fibrous joint",
+                    "Cartilaginous joint"
+                ],
+                "options_hindi": [
+                    "कब्जा संधि",
+                    "धुराग्र संधि",
+                    "तंतु जोड़",
+                    "उपास्थि युक्त जोड़"
+                ],
+                "answer": "Fibrous joint"
+            },
+            {
+                "serial_no": 97,
+                "question": "Consider the following statements: (i) Any dc-generator can also function as a simple dc-motor. (ii) The induced electromotive force produced in an AC Generator reverses direction twice per period. Choose the correct option:",
+                "question_hindi": "निम्नलिखित कथनों पर विचार कीजिये: (i) कोई भी dc-जनरेटर dc-मोटर के रूप में भी कार्य कर सकता है। (ii) AC जनरेटर में उत्पन्न प्रेरित विद्युत वाहक बल प्रति चक्र में दो बार दिशा बदल देता है। सही विकल्प का चयन कीजिये:",
+                "options": [
+                    "Only (i) is correct.",
+                    "Only (ii) is correct.",
+                    "Both (i) and (ii) are incorrect.",
+                    "Both (i) and (ii) are correct."
+                ],
+                "options_hindi": [
+                    "केवल (i) सही है।",
+                    "केवल (ii) सही है।",
+                    "(i) और (ii) दोनों सही नहीं हैं।",
+                    "(i) और (ii) दोनों सही हैं।"
+                ],
+                "answer": "Both (i) and (ii) are correct."
+            },
+            {
+                "serial_no": 98,
+                "question": "Which of the following is not the causative organism for Ringworm?",
+                "question_hindi": "निम्नलिखित में से कौन रिंगवर्म का कारक जीव नहीं है?",
+                "options": [
+                    "Microsporum",
+                    "Trichophyton",
+                    "Epidermophyton",
+                    "Macrosporum"
+                ],
+                "options_hindi": [
+                    "माइक्रोस्पोरम",
+                    "ट्राइकोफाइटन",
+                    "एपिडर्मोफाइटन",
+                    "मैक्रोस्पोरम"
+                ],
+                "answer": "Macrosporum"
+            },
+            {
+                "serial_no": 99,
+                "question": "The atomic mass of an element is determined by the number of .........",
+                "question_hindi": "किसी तत्व का परमाणु भार ............. की संख्या से निर्धारित होता है।",
+                "options": [
+                    "Protons",
+                    "Electrons",
+                    "Neutrons",
+                    "Nucleons"
+                ],
+                "options_hindi": [
+                    "प्रोटॉनों",
+                    "इलेक्ट्रॉनों",
+                    "न्यूट्रॉनों",
+                    "न्यूक्लिऑनों"
+                ],
+                "answer": "Nucleons"
+            },
+            {
+                "serial_no": 100,
+                "question": "An ionic compound of element X and chlorine has formula MCl3. The molecular mass of MCl3 is 118.5. What will be the molecular mass of oxide of element X?",
+                "question_hindi": "तत्व X तथा क्लोरीन के एक आयनिक यौगिक का सूत्र MCl3 है। MCl3 का अणुभार 118.5 है। तत्व X के ऑक्साइड का अणुभार क्या होगा?",
+                "options": [
+                    "28",
+                    "44",
+                    "72",
+                    "99"
+                ],
+                "options_hindi": [
+                    "28",
+                    "44",
+                    "72",
+                    "99"
+                ],
+                "answer": "44"
+            },
+            {
+                "serial_no": 101,
+                "question": "A 45 kW motor winds a cable around a drum while lifting a 2700 kg mass to a height of 6 m in 3 sec. The power lost to the friction (in kW) is: (take g = 10 m/s2)",
+                "question_hindi": "एक 45 kW मोटर 2700 किलो द्रव्यमान को 3 सेकण्ड में 6 मीटर की ऊँचाई तक उठाते हुये एक केबल को एक ड्रम के चारों ओर लपेटती है। घर्षण से नष्ट हुई शक्ति (kW में) है: (g = 10 मी/से2 लें)",
+                "options": [
+                    "5.0",
+                    "0.5",
+                    "0.8",
+                    "6.6"
+                ],
+                "options_hindi": [
+                    "5.0",
+                    "0.5",
+                    "0.8",
+                    "6.6"
+                ],
+                "answer": "5.0"
+            },
+            {
+                "serial_no": 102,
+                "question": "The hormone responsible for ovulation is:",
+                "question_hindi": "अंडोत्सर्ग के लिए उत्तरदायी हॉर्मोन है:",
+                "options": [
+                    "Estrogen",
+                    "Progesterone",
+                    "Luteinizing Hormone (LH)",
+                    "Follicle-Stimulating Hormone (FSH)"
+                ],
+                "options_hindi": [
+                    "एस्ट्रोजन",
+                    "प्रोजेस्टेरोन",
+                    "ल्युटिनाइजिंग हॉर्मोन",
+                    "फॉलिकल-स्टिम्यूलेटिंग हॉर्मोन"
+                ],
+                "answer": "Luteinizing Hormone (LH)"
+            },
+            {
+                "serial_no": 103,
+                "question": "An insect trapped in a circular groove with a radius of 12 cm continuously moves along the groove and complete 7 revolutions in 100 s. Regarding the motion of the insect, consider the following statements: (i) The linear speed is 5.3 cm/s. (ii) Acceleration is not a constant vector. (iii) The magnitude of acceleration is constant 2.3 cm/s2. Choose the correct option:",
+                "question_hindi": "12 सेमी त्रिज्या के गोलीय खाँचे में फँसा एक कीट लगातार खाँचे के अनुदिश गति करता है और 100 s में 7 चक्कर पूरे करता है। कीट की गति के सम्बन्ध में निम्नलिखित कथनों पर विचार कीजिए: (i) रैखिक चाल 5.3 सेमी/सेकण्ड है। (ii) त्वरण एक नियत सदिश नहीं है। (iii) त्वरण का परिमाण स्थिर 2.3 सेमी/सेकण्ड2 है। सही विकल्प का चयन कीजिए:",
+                "options": [
+                    "Only (i) and (ii) are correct.",
+                    "Only (ii) and (iii) are correct.",
+                    "Only (i) and (iii) are correct.",
+                    "All (i), (ii) and (iii) are correct."
+                ],
+                "options_hindi": [
+                    "केवल (i) और (ii) सही हैं।",
+                    "केवल (ii) और (iii) सही हैं।",
+                    "केवल (i) और (iii) सही हैं।",
+                    "सभी (i), (ii) और (iii) सही हैं।"
+                ],
+                "answer": "All (i), (ii) and (iii) are correct."
+            },
+            {
+                "serial_no": 104,
+                "question": "An electric bulb is rated 220 V and 100 W. When it is operated on 110 V, the power consumed will be:",
+                "question_hindi": "किसी विद्युत बल्ब का अनुमतांक 220 V; 100 W है। जब इसे 110 V पर प्रचालित करते हैं, तब इसके द्वारा उपभुक्त शक्ति होगी:",
+                "options": [
+                    "100 W",
+                    "75 W",
+                    "50 W",
+                    "25 W"
+                ],
+                "options_hindi": [
+                    "100 W",
+                    "75 W",
+                    "50 W",
+                    "25 W"
+                ],
+                "answer": "25 W"
+            },
+            {
+                "serial_no": 105,
+                "question": "A balloon operates at an altitude where the air density is 0.90 kg/m3. At this altitude, the balloon has a volume of 20 m3 and is filled with helium (ρHe = 0.178 kg/m3). If the weight of the balloon bag is 88 N, the load (in N) it can support at this level is:",
+                "question_hindi": "एक गुब्बारा ऐसी ऊँचाई पर कार्य करता है जहाँ हवा का घनत्व 0.90 किलो/मी3 है। इस ऊँचाई पर गुब्बारे का आयतन 20 मी3 है और गुब्बारा हीलियम (ρHe = 0.178 किलो/मी3) से भरा हुआ है। यदि गुब्बारे की थैली (bag) का भार 88 N है, तो इस स्तर पर वह कितना भार (N में) सहन कर सकता है?",
+                "options": [
+                    "34.9",
+                    "176",
+                    "53.1",
+                    "141.9"
+                ],
+                "options_hindi": [
+                    "34.9",
+                    "176",
+                    "53.1",
+                    "141.9"
+                ],
+                "answer": "34.9"
+            },
+            {
+                "serial_no": 106,
+                "question": "In which part of the nephron does glucose reabsorption take place?",
+                "question_hindi": "ग्लूकोज का पुनः अवशोषण नेफ्रॉन के किस भाग में होता है?",
+                "options": [
+                    "Glomerulus",
+                    "Bowman's capsule",
+                    "Proximal convoluted tubule",
+                    "Loop of Henle"
+                ],
+                "options_hindi": [
+                    "ग्लोमेरुलस",
+                    "बोमन कैप्सूल",
+                    "समीपस्थ कुण्डलित नलिका",
+                    "हेन्ले का लूप"
+                ],
+                "answer": "Proximal convoluted tubule"
+            },
+            {
+                "serial_no": 107,
+                "question": "Ram measures the period of oscillation of a simple pendulum. In successive measurements, the reading are 2.63 s, 2.56 s, 2.42 s, 2.71 s and 2.80 s. The mean absolute error and percentage error are respectively:",
+                "question_hindi": "राम एक सरल लोलक के दोलन काल को मापता है। क्रमिक मापनों में, पाठ्यांक 2.63 s, 2.56 s, 2.42 s, 2.71 s और 2.80 s हैं। माध्य निरपेक्ष त्रुटि और प्रतिशत त्रुटि क्रमशः हैं:",
+                "options": [
+                    "0.11 s and 4%",
+                    "0.068 s and 4%",
+                    "0.068 s and 2.6%",
+                    "0.11 s and 2.6%"
+                ],
+                "options_hindi": [
+                    "0.11 s और 4%",
+                    "0.068 s और 4%",
+                    "0.068 s और 2.6%",
+                    "0.11 s और 2.6%"
+                ],
+                "answer": "0.11 s and 4%"
+            },
+            {
+                "serial_no": 108,
+                "question": "For the following reasons, Nichrome wire is generally used as a heating element in heating appliances: (i) Its melting point is high. (ii) Its resistivity is high. (iii) It does get oxidized easily. Choose the correct option:",
+                "question_hindi": "निम्नलिखित कारणों से, नाइक्रोम तार का उपयोग आमतौर पर तापीय (हीटिंग) उपकरणों में तापीय (हीटिंग) तत्व के रूप में किया जाता है: (i) इसका गलनांक उच्च होता है। (ii) इसकी प्रतिरोधकता अधिक है। (iii) यह आसानी से ऑक्सीकृत हो जाता है। सही विकल्प का चयन करें:",
+                "options": [
+                    "Only (i) and (ii) are correct.",
+                    "Only (i) and (iii) are correct.",
+                    "Only (ii) and (iii) are correct.",
+                    "All (i), (ii) and (iii) are incorrect."
+                ],
+                "options_hindi": [
+                    "केवल (i) और (ii) सही हैं।",
+                    "केवल (i) और (iii) सही हैं।",
+                    "केवल (ii) और (iii) सही हैं।",
+                    "सभी (i), (ii) और (iii) सही नहीं हैं।"
+                ],
+                "answer": "Only (i) and (ii) are correct."
+            },
+            {
+                "serial_no": 109,
+                "question": "What does 'bioprospecting' refer to?",
+                "question_hindi": "बायोप्रोस्पेक्टिंग का क्या तात्पर्य है?",
+                "options": [
+                    "Exploring biological diversity for new commercial products",
+                    "Conservation of endangered species",
+                    "Genetic engineering of plants",
+                    "Studying ecological systems"
+                ],
+                "options_hindi": [
+                    "नए वाणिज्यिक उत्पादों के लिए जैव विविधता का अन्वेषण",
+                    "विलुप्तप्राय प्रजातियों का संरक्षण",
+                    "पौधों की आनुवंशिक अभियांत्रिकी",
+                    "पारिस्थितिक तंत्रों का अध्ययन"
+                ],
+                "answer": "Exploring biological diversity for new commercial products"
+            },
+            {
+                "serial_no": 110,
+                "question": "A 50 N sled rests on a horizontal surface. A horizontal pull of 10 N is required just to start the sled moving. After motion is started, only a 5 N force is needed to move the sled with a constant velocity. The coefficient of static and kinetic friction are respectively:",
+                "question_hindi": "एक 50 N स्लेज एक क्षैतिज सतह पर टिकी हुई है। स्लेज की गति शुरू करने के लिये 10 N के क्षैतिज खिंचाव की आवश्यकता होती है। गति शुरू होने के बाद स्लेज को नियत वेग से चलाने के लिये केवल 5 N बल की आवश्यकता होती है। स्थैतिक और गतिक घर्षण के गुणांक क्रमशः हैं:",
+                "options": [
+                    "0.10, 0.20",
+                    "0.20, 0.10",
+                    "0.10, 0.15",
+                    "0.15, 0.20"
+                ],
+                "options_hindi": [
+                    "0.10, 0.20",
+                    "0.20, 0.10",
+                    "0.10, 0.15",
+                    "0.15, 0.20"
+                ],
+                "answer": "0.20, 0.10"
+            },
+            {
+                "serial_no": 111,
+                "question": "The region of the vertebrate eye, from where the optic nerve passes out of the retina, is called the:",
+                "question_hindi": "कशेरुकी के नेत्र का वह भाग जहाँ से दृक् तंत्रिका रेटिना से बाहर निकलती है, क्या कहलाता है?",
+                "options": [
+                    "Fovea",
+                    "Iris",
+                    "Blind spot",
+                    "Optic chiasma"
+                ],
+                "options_hindi": [
+                    "फोविया",
+                    "आइरिस",
+                    "अंध बिंदु",
+                    "ऑप्टिक काइएस्मा"
+                ],
+                "answer": "Blind spot"
+            },
+            {
+                "serial_no": 112,
+                "question": "A uniform ring of mass 'm' is lying at a distance √3R from the center of the sphere of mass 'M' just over the sphere (where 'R' is the radius of the ring as well as of the sphere), then the magnitude of the gravitational force between them is:",
+                "question_hindi": "द्रव्यमान 'm' की एकसमान वलय, 'M' द्रव्यमान के एक गोले के केन्द्र से √3R की दूरी पर गोले के ठीक ऊपर स्थित है (जहाँ 'R' वलय की त्रिज्या के साथ-साथ गोले की भी त्रिज्या है), तो उनके मध्य गुरुत्वाकर्षण बल का परिमाण है:",
+                "options": [
+                    "√3 GMm / R²",
+                    "√3 GMm / 8R²",
+                    "GMm / 8R²",
+                    "GMm / 2R²"
+                ],
+                "options_hindi": [
+                    "√3 GMm / R²",
+                    "√3 GMm / 8R²",
+                    "GMm / 8R²",
+                    "GMm / 2R²"
+                ],
+                "answer": "√3 GMm / 8R²"
+            },
+            {
+                "serial_no": 113,
+                "question": "'Jaya' and 'Ratna' are varieties of:",
+                "question_hindi": "जया और रत्ना किसकी किस्में हैं?",
+                "options": [
+                    "Wheat",
+                    "Maize",
+                    "Cow-pea",
+                    "Rice"
+                ],
+                "options_hindi": [
+                    "गेहूँ",
+                    "मक्का",
+                    "लोबिया",
+                    "चावल"
+                ],
+                "answer": "Rice"
+            },
+            {
+                "serial_no": 114,
+                "question": "Choose the dispersed phase, dispersion medium and type of colloid, respectively in milk of magnesia:",
+                "question_hindi": "मिल्क ऑफ मैग्नेशिया में परिक्षिप्त प्रावस्था, परिक्षेपण माध्यम तथा कोलाइड का प्रकार क्रमशः हैं:",
+                "options": [
+                    "Liquid, Solid, Gel",
+                    "Solid, Liquid, Sol",
+                    "Liquid, Liquid, Emulsion",
+                    "Gas, Liquid, Foam"
+                ],
+                "options_hindi": [
+                    "द्रव, ठोस, जेल",
+                    "ठोस, द्रव, सॉल",
+                    "द्रव, द्रव, इमल्शन",
+                    "गैस, द्रव, फोम"
+                ],
+                "answer": "Solid, Liquid, Sol"
+            },
+            {
+                "serial_no": 115,
+                "question": "A long solenoid has 500 turns per meter and a cross sectional area 4 cm². The current in its winding is increasing at 100 A/s. The magnitude of the induced electric field within the loop, if its radius is 2 cm, is:",
+                "question_hindi": "एक लम्बी परिनालिका में 500 फेरे/मीटर है और काट क्षेत्रफल 4 सेमी² है। इसकी वाइंडिंग में धारा 100 A/s से बढ़ रही है। लूप के अन्दर प्रेरित विद्युत क्षेत्र का परिमाण, यदि इसकी त्रिज्या 2 सेमी है, है:",
+                "options": [
+                    "1 × 10⁻⁴ V/m",
+                    "2 × 10⁻⁴ V/m",
+                    "4 × 10⁻⁴ V/m",
+                    "0.5 × 10⁻⁴ V/m"
+                ],
+                "options_hindi": [
+                    "1 × 10⁻⁴ V/m",
+                    "2 × 10⁻⁴ V/m",
+                    "4 × 10⁻⁴ V/m",
+                    "0.5 × 10⁻⁴ V/m"
+                ],
+                "answer": "2 × 10⁻⁴ V/m"
+            },
+            {
+                "serial_no": 116,
+                "question": "Match Column–I with Column–II and select the correct answer from the given code:",
+                "question_hindi": "कॉलम-I का मिलान कॉलम-II से करके दिए गए कूट में से सही उत्तर का चयन कीजिए:",
+                "options": [
+                    "A-(iv), B-(ii), C-(i), D-(iii)",
+                    "A-(ii), B-(iii), C-(iv), D-(i)",
+                    "A-(ii), B-(iv), C-(iii), D-(i)",
+                    "A-(i), B-(ii), C-(iv), D-(iii)"
+                ],
+                "options_hindi": [
+                    "A-(iv), B-(ii), C-(i), D-(iii)",
+                    "A-(ii), B-(iii), C-(iv), D-(i)",
+                    "A-(ii), B-(iv), C-(iii), D-(i)",
+                    "A-(i), B-(ii), C-(iv), D-(iii)"
+                ],
+                "answer": "A-(ii), B-(iii), C-(iv), D-(i)"
+            },
+            {
+                "serial_no": 117,
+                "question": "A magnetron in a microwave oven emits electromagnetic wave with frequency f = 2450 MHz. The magnitude of the magnetic field required for electron to move in circular path with this frequency is:",
+                "question_hindi": "माइक्रोवेव ओवन में एक मैग्नेट्रॉन f = 2450 MHz आवृत्ति के साथ विद्युत चुम्बकीय तरंगों का उत्सर्जन करता है। इस आवृत्ति के साथ वृत्ताकार पथ में गति करने के लिये इलेक्ट्रॉनों के लिये आवश्यक चुम्बकीय क्षेत्र का परिमाण है:",
+                "options": [
+                    "0.0438 T",
+                    "0.0270 T",
+                    "0.0877 T",
+                    "0.05415 T"
+                ],
+                "options_hindi": [
+                    "0.0438 T",
+                    "0.0270 T",
+                    "0.0877 T",
+                    "0.05415 T"
+                ],
+                "answer": "0.0877 T"
+            },
+            {
+                "serial_no": 118,
+                "question": "When lead nitrate is heated in glass tube: (i) A double decomposition reaction takes place. (ii) Brown fumes of NO₂ are evolved. (iii) White residue is left behind in the glass tube. Out of (i), (ii) and (iii) which statement(s) is/are correct?",
+                "question_hindi": "एक काँच नली में जब लेड नाइट्रेट को गरम किया जाता है: (i) द्विविस्थापन अभिक्रिया सम्पन्न होती है। (ii) NO₂ की भूरी धूम निकलती है। (iii) काँच नली में श्वेत अवशेष शेष रह जाता है। (i), (ii) तथा (iii) में से कौन-सा/कौन-से कथन सही है/हैं?",
+                "options": [
+                    "(i) and (iii) Only",
+                    "(ii) and (iii) Only",
+                    "(ii) Only",
+                    "(i) and (ii) Only"
+                ],
+                "options_hindi": [
+                    "केवल (i) तथा (iii)",
+                    "केवल (ii) तथा (iii)",
+                    "केवल (ii)",
+                    "केवल (i) तथा (ii)"
+                ],
+                "answer": "(ii) Only"
+            },
+            {
+                "serial_no": 119,
+                "question": "Mucor is associated with:",
+                "question_hindi": "म्यूकर किससे सम्बन्धित है?",
+                "options": [
+                    "Phycomycetes",
+                    "Ascomycetes",
+                    "Basidiomycetes",
+                    "Deuteromycetes"
+                ],
+                "options_hindi": [
+                    "फाइकोमाइसीट्स",
+                    "ऐस्कोमाइसीट्स",
+                    "बेसिडियोमाइसीट्स",
+                    "ड्यूटेरोमाइसीट्स"
+                ],
+                "answer": "Phycomycetes"
+            },
+            {
+                "serial_no": 120,
+                "question": "From the given option choose the one that does not belong to the group based on solubility:",
+                "question_hindi": "नीचे दिए गए विकल्पों में से उसका चयन कीजिए जो विलेयता के आधार पर समूह से संबंधित नहीं है:",
+                "options": [
+                    "Milk",
+                    "Honey",
+                    "Oil",
+                    "Ink"
+                ],
+                "options_hindi": [
+                    "दूध",
+                    "शहद",
+                    "तेल",
+                    "स्याही"
+                ],
+                "answer": "Oil"
+            },
+            {
+                "serial_no": 121,
+                "question": "The middle zone of a candle flame is also called the zone of ................. combustion.",
+                "question_hindi": "एक मोमबत्ती की ज्वाला के मध्य का भाग ................. दहन का भाग भी कहलाता है।",
+                "options": [
+                    "Spontaneous",
+                    "Rapid",
+                    "Complete",
+                    "Partial"
+                ],
+                "options_hindi": [
+                    "स्वतः",
+                    "तीव्र",
+                    "पूर्ण",
+                    "आंशिक"
+                ],
+                "answer": "Partial"
+            },
+            {
+                "serial_no": 122,
+                "question": "Name the method which is based on fact that ovulation and therefore the cycle do not occur during the period of intense lactation following parturition:",
+                "question_hindi": "उस विधि का नाम बताइए जो इस तथ्य पर आधारित है कि प्रसव के बाद स्त्री द्वारा शिशु को भरपूर स्तनपान कराने के दौरान अंडोत्सर्ग और आर्तव चक्र प्रारंभ नहीं होता है:",
+                "options": [
+                    "Periodic abstinence",
+                    "Coitus interruptus",
+                    "Intra Uterine Devices (IUDs)",
+                    "Lactational amenorrhoea"
+                ],
+                "options_hindi": [
+                    "आवधिक संयम",
+                    "अंतरित मैथुन",
+                    "अंत: गर्भाशय युक्ति",
+                    "स्तनपान अनार्तव"
+                ],
+                "answer": "Lactational amenorrhoea"
+            },
+            {
+                "serial_no": 123,
+                "question": "Which of the following is not correctly matched?",
+                "question_hindi": "निम्नलिखित में से कौन-सा सही सुमेलित नहीं है?",
+                "options": [
+                    "Methanogens : Archaeacteria",
+                    "Nostoc : Eubacteria",
+                    "Euglenoids : Protista",
+                    "Sporozoans : Fungi"
+                ],
+                "options_hindi": [
+                    "मिथेनोजेन्स : आर्किबैक्टीरिया",
+                    "नॉस्टोक : यूबैक्टीरिया",
+                    "यूग्लेनोइड्स : प्रोटिस्टा",
+                    "स्पोरोजोन्स : कवक"
+                ],
+                "answer": "Sporozoans : Fungi"
+            },
+            {
+                "serial_no": 124,
+                "question": "Which one is not an crystalline allotrope of carbon?",
+                "question_hindi": "निम्नलिखित में से कौन-सा कार्बन का एक क्रिस्टलीय अपररूप नहीं है?",
+                "options": [
+                    "Coal",
+                    "Graphite",
+                    "Diamond",
+                    "Fullerene"
+                ],
+                "options_hindi": [
+                    "कोयला",
+                    "ग्रेफाइट",
+                    "डायमण्ड",
+                    "फुलरीन"
+                ],
+                "answer": "Coal"
+            },
+            {
+                "serial_no": 125,
+                "question": "Solder is an alloy of:",
+                "question_hindi": "सोल्डर एक मिश्रधातु है:",
+                "options": [
+                    "Pb and Sn",
+                    "Cu and Sn",
+                    "Cu and Zn",
+                    "Pb and Zn"
+                ],
+                "options_hindi": [
+                    "Pb तथा Sn की",
+                    "Cu तथा Sn की",
+                    "Cu तथा Zn की",
+                    "Pb तथा Zn की"
+                ],
+                "answer": "Pb and Sn"
+            },
+            {
+                "serial_no": 126,
+                "question": "Which of the following condition is most favourable for converting gas into liquid?",
+                "question_hindi": "गैस को द्रव में परिवर्तित करने के लिए निम्नलिखित में से कौन-सी अवस्था सर्वाधिक अनुकूल है?",
+                "options": [
+                    "High pressure, low temperature",
+                    "Low pressure, low temperature",
+                    "Low pressure, high temperature",
+                    "High pressure, high temperature"
+                ],
+                "options_hindi": [
+                    "उच्च दाब, निम्न ताप",
+                    "निम्न दाब, निम्न ताप",
+                    "निम्न दाब, उच्च ताप",
+                    "उच्च दाब, उच्च ताप"
+                ],
+                "answer": "High pressure, low temperature"
+            },
+            {
+                "serial_no": 127,
+                "question": "Which of the following substance is not applied on the head of a matchstick made up of a suitable wood?",
+                "question_hindi": "उपयुक्त लकड़ी से बनी माचिस की तीलियों के सिर पर निम्नलिखित में से कौन-सा पदार्थ प्रयुक्त नहीं होता है?",
+                "options": [
+                    "Antimony trisulphide",
+                    "Potassium chlorate",
+                    "Starch",
+                    "Red phosphorus"
+                ],
+                "options_hindi": [
+                    "एण्टीमनी ट्राइसल्फाइड",
+                    "पोटैशियम क्लोरेट",
+                    "स्टार्च",
+                    "लाल फॉस्फोरस"
+                ],
+                "answer": "Starch"
+            },
+            {
+                "serial_no": 128,
+                "question": "Which of the following fuel has the highest calorific value?",
+                "question_hindi": "निम्नलिखित ईंधनों में से अधिकतम कैलोरी मान किसका है?",
+                "options": [
+                    "Petrol",
+                    "LPG",
+                    "CNG",
+                    "Hydrogen"
+                ],
+                "options_hindi": [
+                    "पेट्रोल",
+                    "एलपीजी",
+                    "सीएनजी",
+                    "हाइड्रोजन"
+                ],
+                "answer": "Hydrogen"
+            },
+            {
+                "serial_no": 129,
+                "question": "Vijay is unable to focus on objects closer than 2.5 m from his eyes. Approximately what refractive power should his corrective lens have?",
+                "question_hindi": "विजय अपनी आँखों से 2.5 मी से अधिक नजदीक की वस्तुओं पर ध्यान केन्द्रित करने में असमर्थ है। उसके दोष निवारक लेंस में लगभग कितनी अपवर्तक शक्ति होनी चाहिए?",
+                "options": [
+                    "2.8 D",
+                    "3.6 D",
+                    "3.2 D",
+                    "2.5 D"
+                ],
+                "options_hindi": [
+                    "2.8 D",
+                    "3.6 D",
+                    "3.2 D",
+                    "2.5 D"
+                ],
+                "answer": "2.5 D"
+            },
+            {
+                "serial_no": 130,
+                "question": "Which of the following statement is incorrect about state of matter?",
+                "question_hindi": "द्रव्य की अवस्था के संदर्भ में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+                "options": [
+                    "The force of attraction between gas molecules is very less.",
+                    "Plasma consist of super energetic and super excited particles.",
+                    "The plasma glows with a special colour depending on the nature of the gas.",
+                    "Bose-Einstein condensate is formed by heating of gas of extremely low density."
+                ],
+                "options_hindi": [
+                    "गैस के अणुओं के मध्य आकर्षण बल बहुत कम होता है।",
+                    "प्लाज्मा अति ऊर्जा तथा अति उत्तेजित कणों से बनी होती है।",
+                    "प्लाज्मा एक विशेष रंग से दीप्त होती है जो गैस की प्रकृति पर निर्भर करती है।",
+                    "बोस-आइंस्टीन कंडेनसेट अत्यन्त कम घनत्व वाली गैस को गरम करने पर प्राप्त होती है।"
+                ],
+                "answer": "Bose-Einstein condensate is formed by heating of gas of extremely low density."
+            },
+            {
+                "serial_no": 131,
+                "question": "A wave of frequency 500 Hz has a phase velocity of 360 m/s. The phase difference between two displacements at a certain point at a time 10⁻³ sec apart is:",
+                "question_hindi": "500 Hz आवृत्ति की तरंग का कला वेग 360 मी/से है। 10⁻³ सेकण्ड के अन्तराल पर एक निश्चित बिन्दु पर दो विस्थापनों के बीच कलान्तर है:",
+                "options": [
+                    "2π",
+                    "π/2",
+                    "π/3",
+                    "π"
+                ],
+                "options_hindi": [
+                    "2π",
+                    "π/2",
+                    "π/3",
+                    "π"
+                ],
+                "answer": "π"
+            },
+            {
+                "serial_no": 132,
+                "question": "Which of the following is not caused by the atmospheric refraction of light?",
+                "question_hindi": "निम्नलिखित में से कौन-सा प्रकाश के वायुमण्डलीय अपवर्तन के कारण नहीं होता है?",
+                "options": [
+                    "Twinkling of stars at night.",
+                    "Sun appearing higher in the sky than it actually is.",
+                    "Sun becoming visible two minutes before actual sunrise.",
+                    "Sun appearing red at sunset."
+                ],
+                "options_hindi": [
+                    "रात में तारों का टिमटिमाना।",
+                    "सूर्य आकाश में अपनी वास्तविक स्थिति से अधिक ऊँचा दिखाई देता है।",
+                    "वास्तविक सूर्योदय से दो मिनट पहले सूर्य दिखाई देने लगता है।",
+                    "सूर्यास्त के समय सूर्य लाल दिखाई देता है।"
+                ],
+                "answer": "Sun appearing red at sunset."
+            },
+            {
+                "serial_no": 133,
+                "question": "Out of the following relation, which is not a solution of the one-dimensional wave equation?",
+                "question_hindi": "निम्नलिखित सम्बन्धों में से कौन-सा एक एक-विमीय तरंग समीकरण का हल नहीं है?",
+                "options": [
+                    "y = x² + v²t²",
+                    "y = x² – v²t²",
+                    "y = (x + vt)²",
+                    "y = (x – vt)²"
+                ],
+                "options_hindi": [
+                    "y = x² + v²t²",
+                    "y = x² – v²t²",
+                    "y = (x + vt)²",
+                    "y = (x – vt)²"
+                ],
+                "answer": "y = x² + v²t²"
+            },
+            {
+                "serial_no": 134,
+                "question": "Which of the following is not correctly matched?",
+                "question_hindi": "निम्न में से कौन सही सुमेलित नहीं है?",
+                "options": [
+                    "Himgiri : Stripe rust resistance",
+                    "Pusa Swarnim : Aphids resistance",
+                    "Pusa Gaurav : Aphids resistance",
+                    "Pusa Komal : Bacterial blight"
+                ],
+                "options_hindi": [
+                    "हिमगिरी : स्ट्राइप रस्ट प्रतिरोधी",
+                    "पूसा स्वर्णिम : एफिड प्रतिरोधी",
+                    "पूसा गौरव : एफिड प्रतिरोधी",
+                    "पूसा कोमल : बैक्टीरियल ब्लाइट"
+                ],
+                "answer": "Pusa Swarnim : Aphids resistance"
+            },
+            {
+                "serial_no": 135,
+                "question": "Which of the following is used in manufacturing of steel?",
+                "question_hindi": "निम्नलिखित में से कौन-सा इस्पात के निर्माण में काम आता है?",
+                "options": [
+                    "Coke",
+                    "Coal gas",
+                    "Coaltar",
+                    "Bitumen"
+                ],
+                "options_hindi": [
+                    "कोक",
+                    "कोल गैस",
+                    "कोलतार",
+                    "बिटुमेन"
+                ],
+                "answer": "Coke"
+            },
+            {
+                "serial_no": 136,
+                "question": "The average force required to stop a bullet of mass 16 g moving at a speed of 260 m/s, when it penetrates a block of wood to a distance of 12 cm, is:",
+                "question_hindi": "260 मी/से की गति से चलती 16 g द्रव्यमान की एक गोली को रोकने के लिये आवश्यक बल, जब यह लकड़ी के एक ब्लॉक को 12 सेमी की दूरी तक भेदती है, है:",
+                "options": [
+                    "-9020 N",
+                    "-4510 N",
+                    "9020 N",
+                    "4510 N"
+                ],
+                "options_hindi": [
+                    "-9020 N",
+                    "-4510 N",
+                    "9020 N",
+                    "4510 N"
+                ],
+                "answer": "-4510 N"
+            },
+            {
+                "serial_no": 137,
+                "question": "What happens during the G1 phase of the cell cycle?",
+                "question_hindi": "कोशिका चक्र के G1 चरण के दौरान क्या होता है?",
+                "options": [
+                    "DNA is synthesized.",
+                    "The cell grows in size and prepares for DNA replication.",
+                    "Chromosomes align at the metaphase plate.",
+                    "The cell divides."
+                ],
+                "options_hindi": [
+                    "डीएनए का संश्लेषण होता है।",
+                    "कोशिका आकार में बढ़ती है और डीएनए प्रतिकृति के लिए तैयार होती है।",
+                    "गुणसूत्र मेटाफेज प्लेट पर संरेखित होते हैं।",
+                    "कोशिका विभाजित होती है।"
+                ],
+                "answer": "The cell grows in size and prepares for DNA replication."
+            },
+            {
+                "serial_no": 138,
+                "question": "Choose the incorrect statement:",
+                "question_hindi": "गलत कथन का चुनाव करें:",
+                "options": [
+                    "Methane and CO₂ are green house gases.",
+                    "Dobson units measure noise in environment.",
+                    "Montreal Protocol is associated with ozone layer depletion.",
+                    "Use of incinerators is crucial to disposal of hospital waste."
+                ],
+                "options_hindi": [
+                    "मिथेन और CO₂ ग्रीन हाउस गैस हैं।",
+                    "डॉबसन इकाई पर्यावरण में शोर मापती है।",
+                    "मॉन्ट्रियल प्रोटोकॉल ओजोन परत क्षय से सम्बन्धित है।",
+                    "अस्पताल के कचरे के निपटान के लिए इनसिनरेटर (दाहक) महत्त्वपूर्ण है।"
+                ],
+                "answer": "Dobson units measure noise in environment."
+            },
+            {
+                "serial_no": 139,
+                "question": "Sequoia (the giant redwood tree), one of the tallest tree species, is associated with:",
+                "question_hindi": "सिकुआ (विशाल रेडवुड पेड़) सबसे ऊँचे पेड़ की प्रजातियों में से एक है, जो सम्बन्धित है:",
+                "options": [
+                    "Pteridophytes",
+                    "Tree fern",
+                    "Gymnosperms",
+                    "Angiosperms"
+                ],
+                "options_hindi": [
+                    "टेरिडोफाइटा से",
+                    "ट्री फर्न से",
+                    "जिम्नोस्पर्म से",
+                    "एन्जिओस्पर्म से"
+                ],
+                "answer": "Gymnosperms"
+            },
+            {
+                "serial_no": 140,
+                "question": "A voltmeter with a resistance of 1800 Ω can be used to measure the potential difference across a 200 Ω resistor. Equivalent resistance of circuit will be:",
+                "question_hindi": "1800 Ω के प्रतिरोध वाले वोल्टमीटर का उपयोग 200 Ω प्रतिरोध पर विभवान्तर को मापने के लिये किया जा सकता है। परिपथ का तुल्य प्रतिरोध होगा:",
+                "options": [
+                    "180 Ω",
+                    "140 Ω",
+                    "160 Ω",
+                    "100 Ω"
+                ],
+                "options_hindi": [
+                    "180 Ω",
+                    "140 Ω",
+                    "160 Ω",
+                    "100 Ω"
+                ],
+                "answer": "180 Ω"
+            },
+            {
+                "serial_no": 141,
+                "question": "The characteristic texture of 'Swiss Cheese' is due to:",
+                "question_hindi": "स्विस चीज़ की लाक्षणिक गठन संरचना का कारण है:",
+                "options": [
+                    "Lactobacillus",
+                    "Saccharomyces",
+                    "Propionibacterium",
+                    "Penicillium"
+                ],
+                "options_hindi": [
+                    "लैक्टोबेसिलस",
+                    "सैकरोमाइसिस",
+                    "प्रोपिओनिबैक्टीरियम",
+                    "पेनिसिलियम"
+                ],
+                "answer": "Propionibacterium"
+            },
+            {
+                "serial_no": 142,
+                "question": "Which of the following is involved in the modification, sorting and packaging of proteins?",
+                "question_hindi": "निम्नलिखित में से कौन प्रोटीन के संशोधन, छंटाई और पैकेजिंग में शामिल है?",
+                "options": [
+                    "Ribosomes",
+                    "Endoplasmic reticulum",
+                    "Golgi apparatus",
+                    "Lysosomes"
+                ],
+                "options_hindi": [
+                    "राइबोसोम्स",
+                    "अन्तःप्रद्रव्यी जालिका",
+                    "गॉल्जी उपकरण",
+                    "लाइसोसोम्स"
+                ],
+                "answer": "Golgi apparatus"
+            },
+            {
+                "serial_no": 143,
+                "question": "For refraction at a concave spherical surface (separating glass-air medium), the distance of the object should be greater than 'z' times the radius of curvature of the refracting surface for the image to be real, the value of 'z' is:",
+                "question_hindi": "अवतल गोलीय सतह (काँच-वायु माध्यम को अलग करने वाले) पर अपवर्तन के लिये प्रतिबिम्ब के वास्तविक होने के लिये वस्तु की दूरी अपवर्तक सतह की वक्रता त्रिज्या के 'z' गुना से अधिक होनी चाहिये, 'z' का मान है:",
+                "options": [
+                    "2",
+                    "3/2",
+                    "2/3",
+                    "3"
+                ],
+                "options_hindi": [
+                    "2",
+                    "3/2",
+                    "2/3",
+                    "3"
+                ],
+                "answer": "2/3"
+            },
+            {
+                "serial_no": 144,
+                "question": "Which substance is used to prevent rusting of iron in galvanisation process?",
+                "question_hindi": "गैल्वनीकरण प्रक्रिया में लोहे पर जंग लगने से बचाने के लिए कौन-सा पदार्थ उपयोग में आता है?",
+                "options": [
+                    "Aluminium",
+                    "Zinc",
+                    "Copper",
+                    "Magnesium"
+                ],
+                "options_hindi": [
+                    "ऐलुमिनियम",
+                    "जिंक",
+                    "कॉपर",
+                    "मैग्नीशियम"
+                ],
+                "answer": "Zinc"
+            },
+            {
+                "serial_no": 145,
+                "question": "For an object to seen sharply, the image must be formed exactly at the location of the ............",
+                "question_hindi": "किसी वस्तु को स्पष्ट रूप से देखने के लिये, प्रतिबिम्ब बिल्कुल ............. के स्थान पर बनना चाहिये।",
+                "options": [
+                    "Cornea",
+                    "Sclera",
+                    "Retina",
+                    "Optic nerve"
+                ],
+                "options_hindi": [
+                    "कॉर्निया",
+                    "श्वेत पटल",
+                    "रेटिना",
+                    "नेत्र तंत्रिका"
+                ],
+                "answer": "Retina"
+            },
+            {
+                "serial_no": 146,
+                "question": "Which of the following is not a characteristic feature of all living organisms?",
+                "question_hindi": "निम्नलिखित में से कौन-सा सभी जीवित जीवों की अभिलाक्षणिक विशेषता नहीं है?",
+                "options": [
+                    "Metabolism",
+                    "Growth",
+                    "Reproduction",
+                    "Photosynthesis"
+                ],
+                "options_hindi": [
+                    "उपापचय",
+                    "वृद्धि",
+                    "प्रजनन",
+                    "प्रकाश संश्लेषण"
+                ],
+                "answer": "Photosynthesis"
+            },
+            {
+                "serial_no": 147,
+                "question": "Match the substances given in Column–I which are useful in the treatment of those, given in Column–II:",
+                "question_hindi": "कॉलम-I में दिए गए पदार्थों जिनका उपयोग कॉलम-II में दिए गए, के उपचार में होता है, से सुमेलन कीजिए:",
+                "options": [
+                    "A-(iii), B-(iv), C-(ii), D-(i)",
+                    "A-(ii), B-(i), C-(iii), D-(iv)",
+                    "A-(ii), B-(iii), C-(i), D-(iv)",
+                    "A-(iii), B-(i), C-(ii), D-(iv)"
+                ],
+                "options_hindi": [
+                    "A-(iii), B-(iv), C-(ii), D-(i)",
+                    "A-(ii), B-(i), C-(iii), D-(iv)",
+                    "A-(ii), B-(iii), C-(i), D-(iv)",
+                    "A-(iii), B-(i), C-(ii), D-(iv)"
+                ],
+                "answer": "A-(iii), B-(i), C-(ii), D-(iv)"
+            },
+            {
+                "serial_no": 148,
+                "question": "What is the primary role of the Smooth Endoplasmic Reticulum (SER)?",
+                "question_hindi": "चिकनी अंतःप्रद्रव्यी जालिका (SER) का प्राथमिक कार्य क्या है?",
+                "options": [
+                    "Protein synthesis",
+                    "Lipid synthesis",
+                    "Photosynthesis",
+                    "ATP synthesis"
+                ],
+                "options_hindi": [
+                    "प्रोटीन संश्लेषण",
+                    "लिपिड संश्लेषण",
+                    "प्रकाश संश्लेषण",
+                    "एटीपी संश्लेषण"
+                ],
+                "answer": "Lipid synthesis"
+            },
+            {
+                "serial_no": 149,
+                "question": "Which of the following is type of sedimentary cycle?",
+                "question_hindi": "निम्न में से कौन-सा अवसादी चक्र का प्रकार है?",
+                "options": [
+                    "Nitrogen, Carbon",
+                    "Nitrogen, Sulphur",
+                    "Sulphur, Phosphorus",
+                    "Phosphorus, Carbon"
+                ],
+                "options_hindi": [
+                    "नाइट्रोजन, कार्बन",
+                    "नाइट्रोजन, सल्फर",
+                    "सल्फर, फॉस्फोरस",
+                    "फॉस्फोरस, कार्बन"
+                ],
+                "answer": "Sulphur, Phosphorus"
+            },
+            {
+                "serial_no": 150,
+                "question": "Select the primary consumer from their food chain. (choose the most appropriate option):",
+                "question_hindi": "निम्न में से उनकी खाद्य श्रृंखला में प्राथमिक उपभोक्ता का चयन कीजिए। (सर्वाधिक उपयुक्त विकल्प का चयन कीजिए):",
+                "options": [
+                    "Zooplankton, Grasshopper, Cow",
+                    "Birds, Fishes, Wolf",
+                    "Phytoplankton, Grass, Trees",
+                    "Man, Lion, Vulture"
+                ],
+                "options_hindi": [
+                    "प्राणिप्लवक, टिड्डा, गाय",
+                    "पक्षी, मछली, भेड़िया",
+                    "पादपप्लवक, घास, पेड़",
+                    "मानव, शेर, गिद्ध"
+                ],
+                "answer": "Zooplankton, Grasshopper, Cow"
+            }
+        ]
+    }
+}

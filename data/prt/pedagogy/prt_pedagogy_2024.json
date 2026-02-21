@@ -1,0 +1,179 @@
+{
+  "name": "PRT Pedagogy Paper 2024",
+  "category": "PRT",
+  "year": 2024,
+  "section": "Pedagogy",
+  "duration": 30,
+  "questions": [
+    {
+      "question": "What is the primary goal of teaching Pedagogy at PRT level?",
+      "question_hindi": "PRT स्तर पर Pedagogy पढ़ाने का मुख्य उद्देश्य क्या है?",
+      "options": [
+        "Option A for Q1",
+        "Option B for Q1",
+        "Option C for Q1",
+        "Option D for Q1"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q1 के लिए",
+        "विकल्प बी Q1 के लिए",
+        "विकल्प सी Q1 के लिए",
+        "विकल्प डी Q1 के लिए"
+      ],
+      "answer": "Option A for Q1"
+    },
+    {
+      "question": "Which learning theory is most applicable for PRT students?",
+      "question_hindi": "PRT के छात्रों के लिए कौन सा अधिगम सिद्धांत सबसे उपयुक्त है?",
+      "options": [
+        "Option A for Q2",
+        "Option B for Q2",
+        "Option C for Q2",
+        "Option D for Q2"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q2 के लिए",
+        "विकल्प बी Q2 के लिए",
+        "विकल्प सी Q2 के लिए",
+        "विकल्प डी Q2 के लिए"
+      ],
+      "answer": "Option A for Q2"
+    },
+    {
+      "question": "How would you assess PRT students in Pedagogy?",
+      "question_hindi": "PRT के छात्रों का Pedagogy में मूल्यांकन कैसे करेंगे?",
+      "options": [
+        "Option A for Q3",
+        "Option B for Q3",
+        "Option C for Q3",
+        "Option D for Q3"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q3 के लिए",
+        "विकल्प बी Q3 के लिए",
+        "विकल्प सी Q3 के लिए",
+        "विकल्प डी Q3 के लिए"
+      ],
+      "answer": "Option A for Q3"
+    },
+    {
+      "question": "What teaching method works best for Pedagogy at PRT level?",
+      "question_hindi": "PRT स्तर पर Pedagogy के लिए कौन सी शिक्षण विधि सर्वोत्तम है?",
+      "options": [
+        "Option A for Q4",
+        "Option B for Q4",
+        "Option C for Q4",
+        "Option D for Q4"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q4 के लिए",
+        "विकल्प बी Q4 के लिए",
+        "विकल्प सी Q4 के लिए",
+        "विकल्प डी Q4 के लिए"
+      ],
+      "answer": "Option A for Q4"
+    },
+    {
+      "question": "Explain the concept of scaffolding in Pedagogy education.",
+      "question_hindi": "Pedagogy शिक्षा में स्कैफोल्डिंग की अवधारणा समझाएं।",
+      "options": [
+        "Option A for Q5",
+        "Option B for Q5",
+        "Option C for Q5",
+        "Option D for Q5"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q5 के लिए",
+        "विकल्प बी Q5 के लिए",
+        "विकल्प सी Q5 के लिए",
+        "विकल्प डी Q5 के लिए"
+      ],
+      "answer": "Option A for Q5"
+    },
+    {
+      "question": "What are the key principles of Pedagogy curriculum at PRT level?",
+      "question_hindi": "PRT स्तर पर Pedagogy पाठ्यक्रम के मुख्य सिद्धांत क्या हैं?",
+      "options": [
+        "Option A for Q6",
+        "Option B for Q6",
+        "Option C for Q6",
+        "Option D for Q6"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q6 के लिए",
+        "विकल्प बी Q6 के लिए",
+        "विकल्प सी Q6 के लिए",
+        "विकल्प डी Q6 के लिए"
+      ],
+      "answer": "Option A for Q6"
+    },
+    {
+      "question": "How do you handle mixed-ability classes in Pedagogy?",
+      "question_hindi": "Pedagogy में मिश्रित क्षमता वाली कक्षाओं का प्रबंधन कैसे करें?",
+      "options": [
+        "Option A for Q7",
+        "Option B for Q7",
+        "Option C for Q7",
+        "Option D for Q7"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q7 के लिए",
+        "विकल्प बी Q7 के लिए",
+        "विकल्प सी Q7 के लिए",
+        "विकल्प डी Q7 के लिए"
+      ],
+      "answer": "Option A for Q7"
+    },
+    {
+      "question": "What role does technology play in teaching Pedagogy?",
+      "question_hindi": "Pedagogy पढ़ाने में प्रौद्योगिकी की क्या भूमिका है?",
+      "options": [
+        "Option A for Q8",
+        "Option B for Q8",
+        "Option C for Q8",
+        "Option D for Q8"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q8 के लिए",
+        "विकल्प बी Q8 के लिए",
+        "विकल्प सी Q8 के लिए",
+        "विकल्प डी Q8 के लिए"
+      ],
+      "answer": "Option A for Q8"
+    },
+    {
+      "question": "Describe effective classroom management for PRT Pedagogy classes.",
+      "question_hindi": "PRT Pedagogy कक्षाओं के लिए प्रभावी कक्षा प्रबंधन बताएं।",
+      "options": [
+        "Option A for Q9",
+        "Option B for Q9",
+        "Option C for Q9",
+        "Option D for Q9"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q9 के लिए",
+        "विकल्प बी Q9 के लिए",
+        "विकल्प सी Q9 के लिए",
+        "विकल्प डी Q9 के लिए"
+      ],
+      "answer": "Option A for Q9"
+    },
+    {
+      "question": "What are the latest trends in Pedagogy education?",
+      "question_hindi": "Pedagogy शिक्षा में नवीनतम रुझान क्या हैं?",
+      "options": [
+        "Option A for Q10",
+        "Option B for Q10",
+        "Option C for Q10",
+        "Option D for Q10"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q10 के लिए",
+        "विकल्प बी Q10 के लिए",
+        "विकल्प सी Q10 के लिए",
+        "विकल्प डी Q10 के लिए"
+      ],
+      "answer": "Option A for Q10"
+    }
+  ]
+}

@@ -1,0 +1,1091 @@
+{
+    "part4_physical_education": {
+        "name": "Physical Education Subject (Part-IV)",
+        "category": "TGT",
+        "year": 2024,
+        "section": "PART-IV : Physical Education Subject (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "How many units of carotene is equal to 1 unit of retinol?",
+                "question_hindi": "केरोटिन की कितनी इकाई रेटिनॉल की 1 इकाई के बराबर होती है?",
+                "options": [
+                    "2",
+                    "4",
+                    "6",
+                    "8"
+                ],
+                "options_hindi": [
+                    "2",
+                    "4",
+                    "6",
+                    "8"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 92,
+                "question": "Match the following: List-A (Learning Theory) A. Operant conditioning B. Classical conditioning C. Trial & error method D. Insight theory of learning; List-B (Theorist) i. Wolfgang Kohlar ii. E. L. Thorndike iii. Ivan Pavlov iv. B. F. Skinner",
+                "question_hindi": "निम्नलिखित का सुमेल कीजिए: सूची-A (अधिगम सिद्धांत) A. संचालक अनुकूलन B. शास्त्रीय अनुकूलन C. त्रुटि एवं प्रयास का सिद्धांत D. अभिगम का अन्तर्दृष्टि का सिद्धांत; सूची-B (सिद्धांतकर्ता) i. वोल्फगैंग कोहलर ii. ई० एल० थॉर्नडाइक iii. इवान पावलोव iv. बी० एफ० स्किनर",
+                "options": [
+                    "A-i, B-ii, C-iii, D-iv",
+                    "A-iv, B-iii, C-ii, D-i",
+                    "A-iv, B-i, C-iii, D-ii",
+                    "A-ii, B-iii, C-iv, D-i"
+                ],
+                "options_hindi": [
+                    "A-i, B-ii, C-iii, D-iv",
+                    "A-iv, B-iii, C-ii, D-i",
+                    "A-iv, B-i, C-iii, D-ii",
+                    "A-ii, B-iii, C-iv, D-i"
+                ],
+                "answer": "A-iv, B-iii, C-ii, D-i"
+            },
+            {
+                "serial_no": 93,
+                "question": "In which of the equilibrium the center of gravity of the object drops to a lower point when the object is tilted?",
+                "question_hindi": "किस प्रकार के संतुलन में वस्तु को झुकाने पर उसका गुरुत्व केन्द्र निचले बिन्दु पर चला जाता है?",
+                "options": [
+                    "Neutral equilibrium",
+                    "Stable equilibrium",
+                    "Unstable equilibrium",
+                    "None of these"
+                ],
+                "options_hindi": [
+                    "तटस्थ संतुलन",
+                    "स्थिर संतुलन",
+                    "अस्थिर संतुलन",
+                    "इनमें से कोई नहीं"
+                ],
+                "answer": "Stable equilibrium"
+            },
+            {
+                "serial_no": 94,
+                "question": "Which one of the following is not the characteristics of sports training?",
+                "question_hindi": "निम्नलिखित में से कौन-सी खेल प्रशिक्षण की विशेषता नहीं है?",
+                "options": [
+                    "Planned and systematic",
+                    "Tactical efficiency",
+                    "Controlled daily routine",
+                    "Process of perfection"
+                ],
+                "options_hindi": [
+                    "नियोजित एवम् व्यवस्थित",
+                    "युक्तिपूर्ण कार्यक्षमता",
+                    "नियंत्रित दिनचर्या",
+                    "निपुणता की प्रक्रिया"
+                ],
+                "answer": "Controlled daily routine"
+            },
+            {
+                "serial_no": 95,
+                "question": "Read the statements carefully: Statement i: Suryanamaskar come in existence during epic age. Statement ii: In historical age Jainism and Buddhism took place. Statement iii: Animal fighting was very popular during Rajput period.",
+                "question_hindi": "निम्नलिखित कथनों को ध्यानपूर्वक पढ़िए: कथन i: सूर्यनमस्कार महाकाव्य काल के दौरान अस्तित्व में आया। कथन ii: ऐतिहासिक काल में जैन धर्म और बौद्ध धर्म का उदय हुआ। कथन iii: राजपूत काल के दौरान पशुओं की लड़ाई बहुत लोकप्रिय थी।",
+                "options": [
+                    "Only statements ii and iii are correct.",
+                    "Only statement i is correct.",
+                    "Only statement ii is correct.",
+                    "Only statement iii is correct."
+                ],
+                "options_hindi": [
+                    "केवल कथन ii और iii सही हैं।",
+                    "केवल कथन i सही है।",
+                    "केवल कथन ii सही है।",
+                    "केवल कथन iii सही है।"
+                ],
+                "answer": "Only statement ii is correct."
+            },
+            {
+                "serial_no": 96,
+                "question": "When was doping test introduced in Asian Games?",
+                "question_hindi": "एशियाई खेलों में डोपिंग परीक्षण कब प्रारम्भ हुआ?",
+                "options": [
+                    "1990 Beijing",
+                    "1986 Seoul",
+                    "1982 Delhi",
+                    "1978 Bangkok"
+                ],
+                "options_hindi": [
+                    "1990 बीजिंग",
+                    "1986 सियोल",
+                    "1982 दिल्ली",
+                    "1978 बैंकॉक"
+                ],
+                "answer": "1986 Seoul"
+            },
+            {
+                "serial_no": 97,
+                "question": "Which of the following component is related to health related physical fitness?",
+                "question_hindi": "निम्नलिखित में से कौन-सा घटक स्वास्थ्य सम्बन्धी शारीरिक दक्षता से सम्बन्धित है?",
+                "options": [
+                    "Speed",
+                    "Agility",
+                    "Coordination",
+                    "Flexibility"
+                ],
+                "options_hindi": [
+                    "चाल",
+                    "चपलता",
+                    "समन्वय",
+                    "लचीलापन"
+                ],
+                "answer": "Flexibility"
+            },
+            {
+                "serial_no": 98,
+                "question": "An eating disorder in which a person become significantly underweight yet feels fat and fears becoming obese:",
+                "question_hindi": "एक आहार सम्बन्धी विकार जिसमें व्यक्ति का वजन काफी कम हो जाता है, फिर भी वह मोटा महसूस करता है और मोटापे से ग्रस्त होने का डर रहता है:",
+                "options": [
+                    "Bulimia Nervosa",
+                    "Anorexia Nervosa",
+                    "Pica",
+                    "Binge eating disorder"
+                ],
+                "options_hindi": [
+                    "बुलिमिया नर्वोसा",
+                    "एनोरेक्सिया नर्वोसा",
+                    "पाइका",
+                    "बिन्ज इटिंग डिस्आर्डर"
+                ],
+                "answer": "Anorexia Nervosa"
+            },
+            {
+                "serial_no": 99,
+                "question": "Which of the following is responsible of the red colour of blood?",
+                "question_hindi": "निम्नलिखित में से कौन रक्त के लाल रंग के लिए उत्तरदायी होता है?",
+                "options": [
+                    "Hemoglobin",
+                    "Myoglobin",
+                    "Hemocyanin",
+                    "White blood cells"
+                ],
+                "options_hindi": [
+                    "हीमोग्लोबिन",
+                    "मायोग्लोबिन",
+                    "हीमोसायनिन",
+                    "श्वेत रक्त कोशिकाएँ"
+                ],
+                "answer": "Hemoglobin"
+            },
+            {
+                "serial_no": 100,
+                "question": "400 meter sprint is an example of which type of endurance?",
+                "question_hindi": "400 मीटर तेज दौड़ किस प्रकार की सहनशीलता का एक उदाहरण है?",
+                "options": [
+                    "Short time endurance",
+                    "Medium time endurance",
+                    "Long time endurance",
+                    "Speed endurance"
+                ],
+                "options_hindi": [
+                    "सूक्ष्मकालीन सहनशीलता",
+                    "मध्यकालीन सहनशीलता",
+                    "दीर्घकालीन सहनशीलता",
+                    "चाल सहनशीलता"
+                ],
+                "answer": "Speed endurance"
+            },
+            {
+                "serial_no": 101,
+                "question": "Who gave these words for sports training – 'sports training is the basic form of preparation of sportsmen'?",
+                "question_hindi": "खेल प्रशिक्षण के लिए यह शब्द किसने दिये – 'खेल प्रशिक्षण खिलाड़ी की तैयारी का मौलिक स्वरूप होता है'?",
+                "options": [
+                    "Martin",
+                    "Harre",
+                    "Hardayal Singh",
+                    "Matwejew"
+                ],
+                "options_hindi": [
+                    "मार्टिन",
+                    "हेरे",
+                    "हरदयाल सिंह",
+                    "मेटवेयेव"
+                ],
+                "answer": "Matwejew"
+            },
+            {
+                "serial_no": 102,
+                "question": "A desire to perform a behaviour for its own sake and to be effective:",
+                "question_hindi": "किसी व्यवहार को अपने लिए करने की और प्रभावी बनाने की इच्छा:",
+                "options": [
+                    "Intrinsic motivation",
+                    "Extrinsic motivation",
+                    "Achievement motivation",
+                    "Creative motivation"
+                ],
+                "options_hindi": [
+                    "आन्तरिक अभिप्रेरणा",
+                    "बाह्य अभिप्रेरणा",
+                    "उपलब्धि अभिप्रेरणा",
+                    "सृजनात्मक अभिप्रेरणा"
+                ],
+                "answer": "Intrinsic motivation"
+            },
+            {
+                "serial_no": 103,
+                "question": "To combat parasitic worm infections government of India has declared two dates as fixed days to provide albendazole tablets for deworming school age children. The dates are:",
+                "question_hindi": "परजीवी कृमि संक्रमण से निपटने के लिए भारत सरकार ने स्कूली बच्चों को कृमि मुक्त करने के लिए एल्बेन्डाजोल की गोलियाँ उपलब्ध कराने हेतु दो दिनांक को निश्चित दिन के रूप में घोषित किया है। ये तिथियाँ हैं:",
+                "options": [
+                    "10 May and 10 November",
+                    "10 June and 10 December",
+                    "10 July and 10 January",
+                    "10 August and 10 February"
+                ],
+                "options_hindi": [
+                    "10 मई और 10 नवम्बर",
+                    "10 जून और 10 दिसम्बर",
+                    "10 जुलाई और 10 जनवरी",
+                    "10 अगस्त और 10 फरवरी"
+                ],
+                "answer": "10 July and 10 January"
+            },
+            {
+                "serial_no": 104,
+                "question": "Match the following: List-A (Disease) A. Whooping cough B. Leprosy C. Tetanus D. Tuberculosis; List-B (Bacteria) i. Clostridium tetani ii. Mycobacterium tuberculosis iii. Bordetella pertusis iv. Mycobacterium leprae",
+                "question_hindi": "निम्नलिखित को सुमेलित कीजिए: सूची-A (रोग) A. कुकुरखांसी B. कुष्ठ रोग C. धनुस्तम्भ D. क्षय रोग; सूची-B (जीवाणु) i. क्लोस्ट्रीडियम टिटेनी ii. माइकोबैक्टीरियम ट्यूबरकुलोसिस iii. बोर्डेटेला पर्टुसिस iv. माइकोबैक्टीरियम लेप्री",
+                "options": [
+                    "A-ii, B-i, C-iii, D-iv",
+                    "A-iv, B-iii, C-ii, D-i",
+                    "A-i, B-ii, C-iv, D-iii",
+                    "A-iii, B-iv, C-i, D-ii"
+                ],
+                "options_hindi": [
+                    "A-ii, B-i, C-iii, D-iv",
+                    "A-iv, B-iii, C-ii, D-i",
+                    "A-i, B-ii, C-iv, D-iii",
+                    "A-iii, B-iv, C-i, D-ii"
+                ],
+                "answer": "A-iii, B-iv, C-i, D-ii"
+            },
+            {
+                "serial_no": 105,
+                "question": "According to Sigmund Freud which psychosexual stage comes during 18-36 months of age?",
+                "question_hindi": "सिगमण्ड फ्रायड के अनुसार 18-36 महीने की आयु के दौरान कौन-सी मनोलैंगिक अवस्था आती है?",
+                "options": [
+                    "Anal",
+                    "Oral",
+                    "Phallic",
+                    "Latency"
+                ],
+                "options_hindi": [
+                    "गुदा अवस्था",
+                    "मुखावस्था",
+                    "लिंग प्रधान अवस्था",
+                    "अव्यक्त अवस्था"
+                ],
+                "answer": "Anal"
+            },
+            {
+                "serial_no": 106,
+                "question": "Which of the following sports athletes use beta-blocking agents?",
+                "question_hindi": "निम्न में से कौन-से खेल के खिलाड़ी बीटा-ब्लॉकिंग एजेंट का उपयोग करते हैं?",
+                "options": [
+                    "Body builders",
+                    "Wrestlers",
+                    "Sprinters",
+                    "Shooters"
+                ],
+                "options_hindi": [
+                    "शरीर सोषक खिलाड़ी",
+                    "पहलवान",
+                    "तेज दौड़ के धावक",
+                    "निशानेबाज"
+                ],
+                "answer": "Shooters"
+            },
+            {
+                "serial_no": 107,
+                "question": "Which one of the following is having higher amount of carbohydrate when consumed in equal amount?",
+                "question_hindi": "निम्नलिखित में से किसमें समान मात्रा सेवन करने पर कार्बोहाइड्रेट की मात्रा अधिक होती है?",
+                "options": [
+                    "Sweet Potato",
+                    "Potato",
+                    "Ripped Banana",
+                    "Sapodilla"
+                ],
+                "options_hindi": [
+                    "शकरकंद",
+                    "आलू",
+                    "पका केला",
+                    "चीकू"
+                ],
+                "answer": "Sweet Potato"
+            },
+            {
+                "serial_no": 108,
+                "question": "In which teaching method students are given an opportunity to perform the activity in their own time and rhythm?",
+                "question_hindi": "किस शिक्षण विधि में छात्रों को गतिविधि को अपने समय और लय में करने का अवसर दिया जाता है?",
+                "options": [
+                    "Imitation method",
+                    "Demonstration method",
+                    "At-will method",
+                    "Dramatization method"
+                ],
+                "options_hindi": [
+                    "अनुकरण विधि",
+                    "प्रदर्शन विधि",
+                    "स्वेच्छा विधि",
+                    "नाटकीय विधि"
+                ],
+                "answer": "At-will method"
+            },
+            {
+                "serial_no": 109,
+                "question": "Who among the following won the nobel prize in 1904? He was also associated with one of the theory of learning:",
+                "question_hindi": "निम्नलिखित में से किसने 1904 में नोबल पुरस्कार जीता? वह अधिगम के एक सिद्धांत से सम्बन्धित था:",
+                "options": [
+                    "E. L. Thorndike",
+                    "Ivan Pavlov",
+                    "J. B. Watson",
+                    "Wolfgang Kohlar"
+                ],
+                "options_hindi": [
+                    "ई० एल० थॉर्नडाइक",
+                    "इवान पावलोव",
+                    "जे० बी० वाटसन",
+                    "वोल्फगैंग कोहलर"
+                ],
+                "answer": "Ivan Pavlov"
+            },
+            {
+                "serial_no": 110,
+                "question": "Who were the host nations of the Fiba Basketball World Cup 2023?",
+                "question_hindi": "फीबा बास्केटबॉल विश्व कप 2023 के मेजबान राष्ट्र कौन थे?",
+                "options": [
+                    "Philippines, Japan and Myanmar",
+                    "Philippines, Japan and Indonesia",
+                    "Singapore, Japan and Indonesia",
+                    "Singapore, Japan and Philippines"
+                ],
+                "options_hindi": [
+                    "फिलीपींस, जापान और म्यानमार",
+                    "फिलीपींस, जापान और इण्डोनेशिया",
+                    "सिंगापुर, जापान और इण्डोनेशिया",
+                    "सिंगापुर, जापान और फिलीपींस"
+                ],
+                "answer": "Philippines, Japan and Indonesia"
+            },
+            {
+                "serial_no": 111,
+                "question": "Which one of the following is not a quality of a leader?",
+                "question_hindi": "निम्नलिखित में से कौन-सा नेता का गुण नहीं है?",
+                "options": [
+                    "Competent",
+                    "Intelligent",
+                    "Self centered",
+                    "Courageous"
+                ],
+                "options_hindi": [
+                    "निपुण",
+                    "बुद्धिमान",
+                    "आत्मकेन्द्रित",
+                    "साहसी"
+                ],
+                "answer": "Self centered"
+            },
+            {
+                "serial_no": 112,
+                "question": "Who was the first women to win the Arjun Award?",
+                "question_hindi": "अर्जुन अवार्ड जीतने वाली प्रथम महिला कौन थी?",
+                "options": [
+                    "Karnam Malleshwari",
+                    "Sunita Puri",
+                    "Anna Lumsden",
+                    "Sobha Murthy"
+                ],
+                "options_hindi": [
+                    "कर्णम मल्लेश्वरी",
+                    "सुनीता पुरी",
+                    "अन्ना लम्सडेन",
+                    "सोभा मूर्ति"
+                ],
+                "answer": "Sunita Puri"
+            },
+            {
+                "serial_no": 113,
+                "question": "As per Maslow's hierarchy of needs which need come at the base?",
+                "question_hindi": "मैस्लो के आवश्यकताओं के पदानुक्रम के अनुसार कौन-सी आवश्यकता आधार के अन्तर्गत आती है?",
+                "options": [
+                    "Esteem needs",
+                    "Safety needs",
+                    "Physiology needs",
+                    "Love needs"
+                ],
+                "options_hindi": [
+                    "सम्मान की आवश्यकताएँ",
+                    "सुरक्षा की आवश्यकताएँ",
+                    "शरीर क्रियात्मक आवश्यकताएँ",
+                    "प्रेम की आवश्यकताएँ"
+                ],
+                "answer": "Physiology needs"
+            },
+            {
+                "serial_no": 114,
+                "question": "Which is the largest blood vessel in the human body?",
+                "question_hindi": "मानव शरीर में सबसे बड़ी रक्त वाहिका कौन-सी होती है?",
+                "options": [
+                    "Capillaries",
+                    "Pulmonary vein",
+                    "Pulmonary artery",
+                    "Aorta"
+                ],
+                "options_hindi": [
+                    "कोशिकाएँ",
+                    "फुफ्फुसीय शिरा",
+                    "फुफ्फुसीय धमनी",
+                    "महाधमनी"
+                ],
+                "answer": "Aorta"
+            },
+            {
+                "serial_no": 115,
+                "question": "What is the frequency of short wave diathermy?",
+                "question_hindi": "लघु तरंग डायथर्मी की आवृत्ति क्या होती है?",
+                "options": [
+                    "27.12 MHz",
+                    "13.56 MHz",
+                    "32.24 MHz",
+                    "35.18 MHz"
+                ],
+                "options_hindi": [
+                    "27.12 मेगाहट्र्ज़",
+                    "13.56 मेगाहट्र्ज़",
+                    "32.24 मेगाहट्र्ज़",
+                    "35.18 मेगाहट्र्ज़"
+                ],
+                "answer": "27.12 MHz"
+            },
+            {
+                "serial_no": 116,
+                "question": "According to Berger and Minow what should be the duration of preparatory period of the total duration of the training cycle?",
+                "question_hindi": "बर्गर और मिनो के अनुसार तैयारी काल की अवधि प्रशिक्षण चक्र की कुल अवधि की कितनी होनी चाहिए?",
+                "options": [
+                    "1/3 to 2/3",
+                    "1/4 to 2/3",
+                    "2/3 to 3/4",
+                    "1/4 to 3/4"
+                ],
+                "options_hindi": [
+                    "1/3 से 2/3",
+                    "1/4 से 2/3",
+                    "2/3 से 3/4",
+                    "1/4 से 3/4"
+                ],
+                "answer": "1/4 to 3/4"
+            },
+            {
+                "serial_no": 117,
+                "question": "Who said it, 'The adolescence is as an age of great stress and strain, and storm & strife'?",
+                "question_hindi": "यह किसने कहा – 'किशोरावस्था बहुत अधिक तनाव, खिंचाव, तूफान और संघर्ष की अवस्था है'?",
+                "options": [
+                    "Lord Kems",
+                    "G. Stanley Hall",
+                    "Sigmund Freud",
+                    "William McDougall"
+                ],
+                "options_hindi": [
+                    "लॉर्ड केम्स",
+                    "जी० स्टेनले हॉल",
+                    "सिगमण्ड फ्रायड",
+                    "विलियम मैकडूगल"
+                ],
+                "answer": "G. Stanley Hall"
+            },
+            {
+                "serial_no": 118,
+                "question": "Which one of the following is not the objective of Intramural programme?",
+                "question_hindi": "निम्नलिखित में से कौन-सा अंतरसदनीय कार्यक्रम का उद्देश्य नहीं है?",
+                "options": [
+                    "To develop brotherhood, fraternity and friendship among participating institutions.",
+                    "To satisfy student's activity, interest & needs.",
+                    "To provide optimal opportunity to greater number of students for acquiring the skill and art of organizing, administering and managing things.",
+                    "To afford opportunity to students for social interaction among themselves."
+                ],
+                "options_hindi": [
+                    "प्रतिभागी संस्थानों के मध्य भाईचारा, बंधुत्व और मैत्री विकसित करना।",
+                    "विद्यार्थियों की गतिविधि, रुचि और आवश्यकताओं को संतुष्ट करना।",
+                    "अधिक संख्या में विद्यार्थियों को आयोजन, प्रशासन और प्रबंधन कौशल व कला प्राप्त करने के लिए इष्टतम अवसर प्रदान करना।",
+                    "विद्यार्थियों को आपस में सामाजिक संपर्क का अवसर प्रदान करना।"
+                ],
+                "answer": "To develop brotherhood, fraternity and friendship among participating institutions."
+            },
+            {
+                "serial_no": 119,
+                "question": "Which of the following is example of II class lever?",
+                "question_hindi": "निम्नलिखित में से कौन-सा उदाहरण द्वितीय श्रेणी उत्तोलक का है?",
+                "options": [
+                    "Elbow extension",
+                    "Knee extension",
+                    "Lateral raises exercise",
+                    "Standing on the toes"
+                ],
+                "options_hindi": [
+                    "कोहनी का विस्तार",
+                    "घुटने का विस्तार",
+                    "लेटरल रेजेज व्यायाम",
+                    "पैर के पंजों के बल खड़े होना"
+                ],
+                "answer": "Standing on the toes"
+            },
+            {
+                "serial_no": 120,
+                "question": "A person's ability to function effectively in meeting the demands of the day's work and to use free time effectively is called:",
+                "question_hindi": "किसी व्यक्ति की दिनभर के काम की माँगों को पूरा करने और खाली समय का प्रभावी ढंग से उपयोग करने की क्षमता को क्या कहा जाता है?",
+                "options": [
+                    "Spiritual wellness",
+                    "Physical wellness",
+                    "Social wellness",
+                    "Emotional wellness"
+                ],
+                "options_hindi": [
+                    "आध्यात्मिक कुशलता",
+                    "शारीरिक कुशलता",
+                    "सामाजिक कुशलता",
+                    "संवेगात्मक कुशलता"
+                ],
+                "answer": "Physical wellness"
+            },
+            {
+                "serial_no": 121,
+                "question": "Fat digestion primarily occurs in:",
+                "question_hindi": "वसा का पाचन मुख्यतः होता है:",
+                "options": [
+                    "Ileum",
+                    "Small intestine",
+                    "Stomach",
+                    "Duodenum"
+                ],
+                "options_hindi": [
+                    "शेषान्त्र",
+                    "छोटी आंत",
+                    "आमाशय",
+                    "ग्रहणी"
+                ],
+                "answer": "Duodenum"
+            },
+            {
+                "serial_no": 122,
+                "question": "What is the time ratio of Purak, Kumbhak and Rechak?",
+                "question_hindi": "पूरक, कुम्भक और रेचक का समयानुपात क्या होता है?",
+                "options": [
+                    "1:4:2",
+                    "1:2:4",
+                    "2:4:1",
+                    "4:2:1"
+                ],
+                "options_hindi": [
+                    "1:4:2",
+                    "1:2:4",
+                    "2:4:1",
+                    "4:2:1"
+                ],
+                "answer": "1:4:2"
+            },
+            {
+                "serial_no": 123,
+                "question": "Elbow flexion is the example of which lever?",
+                "question_hindi": "कोहनी का आकुंचन किस उत्तोलक का उदाहरण है?",
+                "options": [
+                    "Third Class Lever",
+                    "Second Class Lever",
+                    "First Class Lever",
+                    "First and Third Class Lever"
+                ],
+                "options_hindi": [
+                    "तृतीय श्रेणी उत्तोलक",
+                    "द्वितीय श्रेणी उत्तोलक",
+                    "प्रथम श्रेणी उत्तोलक",
+                    "प्रथम और तृतीय श्रेणी उत्तोलक"
+                ],
+                "answer": "Third Class Lever"
+            },
+            {
+                "serial_no": 124,
+                "question": "'Recreation is not a matter of motion, but rather of emotion.' Who said it?",
+                "question_hindi": "'मनोरंजन गति नहीं बल्कि एक संवेग है।' यह किसने कहा?",
+                "options": [
+                    "Hutchinson",
+                    "Salvson",
+                    "Dr. Edgin",
+                    "Dr. James"
+                ],
+                "options_hindi": [
+                    "हचिंसन",
+                    "सालवसन",
+                    "डॉ० एडिगन",
+                    "डॉ० जेम्स"
+                ],
+                "answer": "Hutchinson"
+            },
+            {
+                "serial_no": 125,
+                "question": "Who wrote in his book 'School Organisation', that 'Just as the body is for the mind, similarly a building is for education'?",
+                "question_hindi": "यह अपनी पुस्तक 'School Organisation' में किसने लिखा कि 'जिस प्रकार मन के लिए शरीर होता है, उसी प्रकार शिक्षा के लिए भवन'?",
+                "options": [
+                    "Dr. S. N. Mukherjee",
+                    "Rivis Logsdon",
+                    "Charles Bucher",
+                    "S. K. Kocher"
+                ],
+                "options_hindi": [
+                    "डॉ० एस० एन० मुखर्जी",
+                    "रिविस लोग्सडन",
+                    "चार्ल्स बुचर",
+                    "एस० के० कोचर"
+                ],
+                "answer": "Dr. S. N. Mukherjee"
+            },
+            {
+                "serial_no": 126,
+                "question": "Which one of the following is the primary respiratory control center?",
+                "question_hindi": "निम्नलिखित में से कौन-सा प्राथमिक श्वसन नियंत्रण केन्द्र होता है?",
+                "options": [
+                    "Medulla Oblongata",
+                    "Cerebellum",
+                    "Hippocampus",
+                    "Cerebrum"
+                ],
+                "options_hindi": [
+                    "मेडुला ऑब्लांगेटा",
+                    "अनुमस्तिष्क",
+                    "हिप्पोकैम्पस",
+                    "प्रमस्तिष्क"
+                ],
+                "answer": "Medulla Oblongata"
+            },
+            {
+                "serial_no": 127,
+                "question": "In which city of India AIFF-FIFA academy has been launched on 21 November, 2023?",
+                "question_hindi": "भारत के किस शहर में 21 नवम्बर, 2023 को AIFF-FIFA अकादमी प्रारम्भ हुई?",
+                "options": [
+                    "Kolkata",
+                    "Panaji",
+                    "Chandigarh",
+                    "Bhubaneshwar"
+                ],
+                "options_hindi": [
+                    "कोलकाता",
+                    "पणजी",
+                    "चण्डीगढ़",
+                    "भुवनेश्वर"
+                ],
+                "answer": "Bhubaneshwar"
+            },
+            {
+                "serial_no": 128,
+                "question": "In which type of tournament, we can use cob web type tournament?",
+                "question_hindi": "किस प्रकार की प्रतियोगिता में हम कॉब वेब प्रतियोगिता का उपयोग कर सकते हैं?",
+                "options": [
+                    "Challenge tournament",
+                    "Combination tournament",
+                    "Consolation tournament",
+                    "Double knockout tournament"
+                ],
+                "options_hindi": [
+                    "चुनौती प्रतियोगिता",
+                    "संयुक्त प्रतियोगिता",
+                    "सांत्वना प्रतियोगिता",
+                    "दोहरी नॉकआउट प्रतियोगिता"
+                ],
+                "answer": "Consolation tournament"
+            },
+            {
+                "serial_no": 129,
+                "question": "In which stage of Ashtanga Yoga we withdraw our mind from the external sensory object and internalize it?",
+                "question_hindi": "अष्टांग योग की कौन-सी अवस्था में हम हमारे मन को बाह्य संवेदी वस्तु से हटाकर आंतरिक करते हैं?",
+                "options": [
+                    "Pranayama",
+                    "Pratyahara",
+                    "Dharna",
+                    "Dhyan"
+                ],
+                "options_hindi": [
+                    "प्राणायाम",
+                    "प्रत्याहार",
+                    "धारणा",
+                    "ध्यान"
+                ],
+                "answer": "Pratyahara"
+            },
+            {
+                "serial_no": 130,
+                "question": "The life span of normal human red blood cells is:",
+                "question_hindi": "सामान्य मानव लाल रक्त कोशिकाओं का जीवनकाल होता है:",
+                "options": [
+                    "100 Days",
+                    "110 Days",
+                    "120 Days",
+                    "130 Days"
+                ],
+                "options_hindi": [
+                    "100 दिन",
+                    "110 दिन",
+                    "120 दिन",
+                    "130 दिन"
+                ],
+                "answer": "120 Days"
+            },
+            {
+                "serial_no": 131,
+                "question": "If 22 teams are playing with II method of consolation tournament, how many matches will be played in the tournament?",
+                "question_hindi": "यदि 22 टीमें सांत्वना प्रतियोगिता की दूसरी विधि से खेल रही हैं, तो इस प्रतियोगिता में कुल कितने मैच खेले जायेंगे?",
+                "options": [
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "options_hindi": [
+                    "40",
+                    "41",
+                    "42",
+                    "43"
+                ],
+                "answer": "42"
+            },
+            {
+                "serial_no": 132,
+                "question": "Physical education in Soviet Terminology is referred to as:",
+                "question_hindi": "सोवियत शब्दावली में शारीरिक शिक्षा को कहा जाता है:",
+                "options": [
+                    "Physical Culture",
+                    "Movement Education",
+                    "Physical Science",
+                    "Sports Culture and Science"
+                ],
+                "options_hindi": [
+                    "शारीरिक संस्कृति",
+                    "गतिविधि शिक्षा",
+                    "शारीरिक विज्ञान",
+                    "खेल संस्कृति और विज्ञान"
+                ],
+                "answer": "Physical Culture"
+            },
+            {
+                "serial_no": 133,
+                "question": "From which Olympic games did professional athletes start participating in the Olympics?",
+                "question_hindi": "किस ओलम्पिक खेल से ओलम्पिक में पेशेवर खिलाड़ियों ने खेलना प्रारम्भ किया?",
+                "options": [
+                    "1992 Barcelona Olympics",
+                    "1988 Seoul Olympics",
+                    "1984 Los Angeles Olympics",
+                    "1980 Moscow Olympics"
+                ],
+                "options_hindi": [
+                    "1992 बार्सिलोना ओलम्पिक",
+                    "1988 सियोल ओलम्पिक",
+                    "1984 लॉस एंजिलस ओलम्पिक",
+                    "1980 मास्को ओलम्पिक"
+                ],
+                "answer": "1984 Los Angeles Olympics"
+            },
+            {
+                "serial_no": 134,
+                "question": "Which formula was suggested by Voltmer & Esslinger and Bucher for calculating the 'minimum number of teaching stations' required in secondary school?",
+                "question_hindi": "माध्यमिक विद्यालयों में आवश्यक 'शिक्षण केन्द्रों की न्यूनतम संख्या' की गणना के लिए वॉल्टमर व एस्लिंगर और बुचर ने कौन-सा सूत्र सुझाया था?",
+                "options": [
+                    "C×P / P×D",
+                    "N×P / P×N",
+                    "D×C / P×N",
+                    "P×N / P×N"
+                ],
+                "options_hindi": [
+                    "C×P / P×D",
+                    "N×P / P×N",
+                    "D×C / P×N",
+                    "P×N / P×N"
+                ],
+                "answer": "P×N / P×N"
+            },
+            {
+                "serial_no": 135,
+                "question": "Read carefully the following statements: Statement i: There are 3 broad sub-forms of undernutrition. Statement ii: Wasting means low height for age. Statement iii: Children with low weight for age are known as underweight.",
+                "question_hindi": "निम्नलिखित कथनों को सावधानीपूर्वक पढ़िए: कथन i: अल्पपोषण के तीन व्यापक उप-रूप होते हैं। कथन ii: अपक्षय से तात्पर्य आयु के हिसाब से कम ऊँचाई होना है। कथन iii: आयु के हिसाब से कम वजन वाले बच्चे सामान्य से कम वजन (अंडरवेट) कहलाते हैं।",
+                "options": [
+                    "Only statements i and ii are correct.",
+                    "Only statement i is correct.",
+                    "Only statement iii is correct.",
+                    "All three statements are correct."
+                ],
+                "options_hindi": [
+                    "केवल कथन i और ii सही हैं।",
+                    "केवल कथन i सही है।",
+                    "केवल कथन iii सही है।",
+                    "सभी तीनों कथन सही हैं।"
+                ],
+                "answer": "All three statements are correct."
+            },
+            {
+                "serial_no": 136,
+                "question": "Which of the following term is often used interchangeably with seizure?",
+                "question_hindi": "निम्नलिखित में से कौन-सा शब्द अक्सर दौरा के साथ प्रयोग किया जाता है?",
+                "options": [
+                    "Concussion",
+                    "Fainting",
+                    "Convulsion",
+                    "Shock"
+                ],
+                "options_hindi": [
+                    "मस्तिष्काघात",
+                    "मूर्च्छित होना",
+                    "आक्षेप",
+                    "सदमा"
+                ],
+                "answer": "Convulsion"
+            },
+            {
+                "serial_no": 137,
+                "question": "Which one of the following is uniaxial joint?",
+                "question_hindi": "निम्नलिखित में से कौन-सी एक अक्षीय संधि है?",
+                "options": [
+                    "Gliding joint",
+                    "Condyloid joint",
+                    "Hinge joint",
+                    "Ball & Socket joint"
+                ],
+                "options_hindi": [
+                    "सर्पी संधि",
+                    "कॉनडाइलॉयड संधि",
+                    "कब्जा संधि",
+                    "कन्दुक खल्लक संधि"
+                ],
+                "answer": "Hinge joint"
+            },
+            {
+                "serial_no": 138,
+                "question": "In which year, the department of health, physical education and recreation at Ohio University, initiated the first sports administration programme?",
+                "question_hindi": "ओहियो विश्वविद्यालय में स्वास्थ्य, शारीरिक शिक्षा और मनोरंजन विभाग ने किस वर्ष प्रथम खेल प्रशासन कार्यक्रम प्रारम्भ किया?",
+                "options": [
+                    "1966",
+                    "1968",
+                    "1970",
+                    "1972"
+                ],
+                "options_hindi": [
+                    "1966",
+                    "1968",
+                    "1970",
+                    "1972"
+                ],
+                "answer": "1966"
+            },
+            {
+                "serial_no": 139,
+                "question": "Which anga of Ashtanga yoga is related to social attitude?",
+                "question_hindi": "अष्टांग योग का कौन-सा अंग सामाजिक व्यवहार से सम्बन्धित है?",
+                "options": [
+                    "Niyama",
+                    "Yama",
+                    "Asana",
+                    "Pranayama"
+                ],
+                "options_hindi": [
+                    "नियम",
+                    "यम",
+                    "आसन",
+                    "प्राणायाम"
+                ],
+                "answer": "Yama"
+            },
+            {
+                "serial_no": 140,
+                "question": "Which method of flexibility improvement is based on the principle of proprioceptive neuromuscular facilitation?",
+                "question_hindi": "लचीलापन विकास की कौन-सी विधि प्रग्राहक तंत्रिकापेशीय सरलीकरण के सिद्धांत पर आधारित होती है?",
+                "options": [
+                    "Ballistic method",
+                    "Slow stretch method",
+                    "Slow stretch and hold method",
+                    "Post isometric stretch method"
+                ],
+                "options_hindi": [
+                    "बैलिस्टिक विधि",
+                    "मंद खिंचाव विधि",
+                    "मंद खिंचाव और ठहराव विधि",
+                    "पोस्ट आइसोमेट्रिक खिंचाव विधि"
+                ],
+                "answer": "Post isometric stretch method"
+            },
+            {
+                "serial_no": 141,
+                "question": "In Russia (then USSR), under the guidance of which committee, special sports schools have been established for gifted player?",
+                "question_hindi": "रूस (तत्कालीन यू०एस०एस०आर०) में किस समिति के मार्गदर्शन में प्रतिभाशाली खिलाड़ियों के लिए विशेष खेल स्कूल स्थापित किए गए?",
+                "options": [
+                    "All Russian Committee of Physical Culture and Sports",
+                    "All Russian Committee of Sports Excellence",
+                    "All Union Committee of Physical Culture & Sports",
+                    "All Union Committee of Physical Education & Sports"
+                ],
+                "options_hindi": [
+                    "शारीरिक संस्कृति और खेल की अखिल रूसी समिति",
+                    "खेल उत्कृष्टता की अखिल रूसी समिति",
+                    "शारीरिक संस्कृति और खेल की अखिल संघीय समिति",
+                    "शारीरिक शिक्षा और खेल की अखिल संघीय समिति"
+                ],
+                "answer": "All Union Committee of Physical Culture & Sports"
+            },
+            {
+                "serial_no": 142,
+                "question": "Which of the following part of the brain controls body temperature and hunger?",
+                "question_hindi": "निम्नलिखित में से कौन-सा मस्तिष्क का भाग शरीर के तापमान और भूख को नियंत्रित करता है?",
+                "options": [
+                    "Thalamus",
+                    "Pons",
+                    "Hypothalamus",
+                    "Cerebellum"
+                ],
+                "options_hindi": [
+                    "थैलेमस",
+                    "पोंस",
+                    "हाइपोथैलेमस",
+                    "अनुमस्तिष्क"
+                ],
+                "answer": "Hypothalamus"
+            },
+            {
+                "serial_no": 143,
+                "question": "Till which year, the summer and winter Olympics games held in the same year?",
+                "question_hindi": "कौन-से वर्ष तक ग्रीष्मकालीन और शीतकालीन ओलम्पिक खेल एक ही वर्ष में आयोजित होते थे?",
+                "options": [
+                    "1988",
+                    "1992",
+                    "1996",
+                    "2000"
+                ],
+                "options_hindi": [
+                    "1988",
+                    "1992",
+                    "1996",
+                    "2000"
+                ],
+                "answer": "1992"
+            },
+            {
+                "serial_no": 144,
+                "question": "The final ancient Olympics was held in:",
+                "question_hindi": "अन्तिम प्राचीन ओलम्पिक खेले गये:",
+                "options": [
+                    "393 AD",
+                    "389 AD",
+                    "323 AD",
+                    "293 AD"
+                ],
+                "options_hindi": [
+                    "393 ईस्वी में",
+                    "389 ईस्वी में",
+                    "323 ईस्वी में",
+                    "293 ईस्वी में"
+                ],
+                "answer": "393 AD"
+            },
+            {
+                "serial_no": 145,
+                "question": "Automatization of the motor procedure is called:",
+                "question_hindi": "गामक कार्यविधि का स्वचालितीकरण कहलाता है:",
+                "options": [
+                    "Skill",
+                    "Technique",
+                    "Style",
+                    "Tactics"
+                ],
+                "options_hindi": [
+                    "कौशल",
+                    "तकनीक",
+                    "शैली",
+                    "युक्ति"
+                ],
+                "answer": "Skill"
+            },
+            {
+                "serial_no": 146,
+                "question": "The combination of flexion, abduction, extension and adduction performed in sequence in either direction is called:",
+                "question_hindi": "आकुंचन, अपवर्तन, विस्तार और संवर्तन का क्रम में किसी भी दिशा में किया गया संयोजन कहलाता है:",
+                "options": [
+                    "Hyper flexion",
+                    "Supination",
+                    "Protraction",
+                    "Circumduction"
+                ],
+                "options_hindi": [
+                    "अति आकुंचन",
+                    "उत्तानन",
+                    "प्रोट्रेक्शन",
+                    "परिवर्तन"
+                ],
+                "answer": "Circumduction"
+            },
+            {
+                "serial_no": 147,
+                "question": "What is world ranking of Indian Javelin Thrower Kishore Jena as of 23 July 2024?",
+                "question_hindi": "23 जुलाई 2024 के अनुसार भारतीय भाला फेंक खिलाड़ी किशोर जेना की विश्व रैंकिंग क्या है?",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "4"
+                ],
+                "options_hindi": [
+                    "5",
+                    "6",
+                    "7",
+                    "4"
+                ],
+                "answer": "7"
+            },
+            {
+                "serial_no": 148,
+                "question": "Heart beat originates from the:",
+                "question_hindi": "हृदय की धडकन शुरू होती है:",
+                "options": [
+                    "Purkinje fibres",
+                    "S A Node",
+                    "A V Node",
+                    "Papillary muscles"
+                ],
+                "options_hindi": [
+                    "पर्किंजे तंतु",
+                    "एस ए नोड",
+                    "ए वी नोड",
+                    "पैपिलरी माँसपेशियाँ"
+                ],
+                "answer": "S A Node"
+            },
+            {
+                "serial_no": 149,
+                "question": "Which of the following asana should not be done in the case of slipped disc or sciatica?",
+                "question_hindi": "निम्नलिखित में से कौन-सा आसन स्लिप डिस्क अथवा सियाटिका की स्थिति में नहीं करना चाहिए?",
+                "options": [
+                    "Shalabhasana",
+                    "Dhanurasana",
+                    "Pashchimottanasana",
+                    "Chakrasana"
+                ],
+                "options_hindi": [
+                    "शलभासन",
+                    "धनुरासन",
+                    "पश्चिमोत्तानासन",
+                    "चक्रासन"
+                ],
+                "answer": "Pashchimottanasana"
+            },
+            {
+                "serial_no": 150,
+                "question": "Which of the following asana is not done by lying on the abdomen?",
+                "question_hindi": "निम्नलिखित में से कौन-सा आसन उदर के बल लेटकर नहीं किया जाता है?",
+                "options": [
+                    "Makarasana",
+                    "Bhujangasana",
+                    "Shalabhasana",
+                    "Bhadrasana"
+                ],
+                "options_hindi": [
+                    "मकरासन",
+                    "भुजंगासन",
+                    "शलभासन",
+                    "भद्रासन"
+                ],
+                "answer": "Bhadrasana"
+            }
+        ]
+    }
+}

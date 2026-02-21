@@ -1,0 +1,1091 @@
+{
+    "part4_physical_education_2022": {
+        "name": "शारीरिक शिक्षा (भाग-IV)",
+        "category": "TGT",
+        "year": 2022,
+        "section": "PART-IV : Physical Education (Questions 90-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "Thomas Cup is related to:",
+                "question_hindi": "थॉमस कप का सम्बन्ध है:",
+                "options": [
+                    "Badminton",
+                    "Cricket",
+                    "Hockey",
+                    "Table Tennis"
+                ],
+                "options_hindi": [
+                    "बैडमिंटन से",
+                    "क्रिकेट से",
+                    "हॉकी से",
+                    "टेबल टेनिस से"
+                ],
+                "answer": "Badminton"
+            },
+            {
+                "serial_no": 92,
+                "question": "The Fracture without any wound is called:",
+                "question_hindi": "बिना घाव का हड्डी टूटना कहलाता है:",
+                "options": [
+                    "Communated Fracture",
+                    "Compound Fracture",
+                    "Simple Fracture",
+                    "None of the three"
+                ],
+                "options_hindi": [
+                    "कम्युनेटेड फ्रैक्चर",
+                    "कम्पाउण्ड फ्रैक्चर",
+                    "सिम्पल फ्रैक्चर",
+                    "तीनों में से कोई नहीं"
+                ],
+                "answer": "Simple Fracture"
+            },
+            {
+                "serial_no": 93,
+                "question": "Which among is not the principle of sport training?",
+                "question_hindi": "निम्न में से कौन-सा खेल प्रशिक्षण का सिद्धान्त नहीं है?",
+                "options": [
+                    "Progression of load",
+                    "Economy movement",
+                    "Cyclicity of training",
+                    "Continuity"
+                ],
+                "options_hindi": [
+                    "भार की बढ़ोतरी",
+                    "क्रिया की मितव्ययिता",
+                    "प्रशिक्षण की बारम्बारता",
+                    "निरन्तरता"
+                ],
+                "answer": "Economy movement"
+            },
+            {
+                "serial_no": 94,
+                "question": "'Trial and Error Method' is given by:",
+                "question_hindi": "'प्रयास एवं त्रुटि का सिद्धान्त' किसने दिया?",
+                "options": [
+                    "Pavlov",
+                    "Woodworth",
+                    "Thorndike",
+                    "None of the three"
+                ],
+                "options_hindi": [
+                    "पावलोव",
+                    "वुडवर्थ",
+                    "थॉर्नडाइक",
+                    "तीनों में से कोई नहीं"
+                ],
+                "answer": "Thorndike"
+            },
+            {
+                "serial_no": 95,
+                "question": "In the School the major channel of publicity for the physical education programme is:",
+                "question_hindi": "पाठशाला में शारीरिक शिक्षा के कार्यक्रमों को ख्याति प्रदान करने वाला मुख्य उपागम है:",
+                "options": [
+                    "Teachers",
+                    "Students",
+                    "Advertisement",
+                    "Intramurals"
+                ],
+                "options_hindi": [
+                    "शिक्षकगण",
+                    "विद्यार्थी",
+                    "विज्ञापन",
+                    "अन्तःपाठशाला क्रीडा प्रतिस्पर्धाएँ"
+                ],
+                "answer": "Intramurals"
+            },
+            {
+                "serial_no": 96,
+                "question": "Decathlon consists of:",
+                "question_hindi": "डेकाथलन में होते हैं:",
+                "options": [
+                    "6 track and 4 field events",
+                    "4 track and 6 field events",
+                    "3 track and 7 field events",
+                    "7 track and 3 field events"
+                ],
+                "options_hindi": [
+                    "6 ट्रैक और 4 फील्ड इवेन्ट",
+                    "4 ट्रैक और 6 फील्ड इवेन्ट",
+                    "3 ट्रैक और 7 फील्ड इवेन्ट",
+                    "7 ट्रैक और 3 फील्ड इवेन्ट"
+                ],
+                "answer": "4 track and 6 field events"
+            },
+            {
+                "serial_no": 97,
+                "question": "Agnisar Kriya also known as:",
+                "question_hindi": "अग्निसार क्रिया इस नाम से भी जानी जाती है:",
+                "options": [
+                    "Vahnisar Dhauti",
+                    "Vatsar Dhauti",
+                    "Varisar Dhauti",
+                    "Bahishkrit Dhauti"
+                ],
+                "options_hindi": [
+                    "वह्निसार धौति",
+                    "वत्सार धौति",
+                    "वरिसार धौति",
+                    "बहिष्कृत धौति"
+                ],
+                "answer": "Vahnisar Dhauti"
+            },
+            {
+                "serial_no": 98,
+                "question": "How many Bye's in twenty seven teams are?",
+                "question_hindi": "कुल 27 (सत्ताईस) टीमों में बाईज की संख्या होगी:",
+                "options": [
+                    "Total 8 byes",
+                    "Total 5 byes",
+                    "Total 7 byes",
+                    "Total 4 byes"
+                ],
+                "options_hindi": [
+                    "कुल 8 बाईज",
+                    "कुल 5 बाईज",
+                    "कुल 7 बाईज",
+                    "कुल 4 बाईज"
+                ],
+                "answer": "Total 5 byes"
+            },
+            {
+                "serial_no": 99,
+                "question": "Skin fold measurement is measure for:",
+                "question_hindi": "त्वचा फोल्ड मापन किया जाता है:",
+                "options": [
+                    "Body Composition",
+                    "Flexibility",
+                    "Strength",
+                    "Speed"
+                ],
+                "options_hindi": [
+                    "शारीरिक बनावट (कम्पोजीशन)",
+                    "लचीलापन मापने के लिए",
+                    "शक्ति मापने के लिए",
+                    "गति मापने के लिए"
+                ],
+                "answer": "Body Composition"
+            },
+            {
+                "serial_no": 100,
+                "question": "'Ahinsa' is a part of:",
+                "question_hindi": "अहिंसा एक भाग है:",
+                "options": [
+                    "Yam",
+                    "Niyam",
+                    "Asana",
+                    "Pranayama"
+                ],
+                "options_hindi": [
+                    "यम का",
+                    "नियम का",
+                    "आसन का",
+                    "प्राणायाम का"
+                ],
+                "answer": "Yam"
+            },
+            {
+                "serial_no": 101,
+                "question": "Physical Education is important because:",
+                "question_hindi": "शारीरिक शिक्षा महत्वपूर्ण है क्योंकि:",
+                "options": [
+                    "It helps to think positively",
+                    "It helps to promote brotherhood",
+                    "It helps to lead a healthy life",
+                    "It helps to lead a quality life"
+                ],
+                "options_hindi": [
+                    "यह सकारात्मक सोच के लिए सहायक है",
+                    "यह भाईचारा बढ़ाने में सहायक है",
+                    "यह स्वस्थ जीवनयापन में सहायक है",
+                    "यह गुणात्मक जीवन बिताने में सहायक है"
+                ],
+                "answer": "It helps to lead a healthy life"
+            },
+            {
+                "serial_no": 102,
+                "question": "Apurvi Chandela is related to:",
+                "question_hindi": "अपूर्वी चन्देला का सम्बन्ध है:",
+                "options": [
+                    "Shooting",
+                    "Judo",
+                    "Karate",
+                    "Taikando"
+                ],
+                "options_hindi": [
+                    "निशानेबाजी से",
+                    "जूडो से",
+                    "कराटे से",
+                    "ताइक्वान्डो से"
+                ],
+                "answer": "Shooting"
+            },
+            {
+                "serial_no": 103,
+                "question": "Paralympics Games earlier known as:",
+                "question_hindi": "पैरालिम्पिक खेल पूर्व में जाने जाते थे:",
+                "options": [
+                    "Pan Hellenic Games",
+                    "Stoke Mandeville Games",
+                    "Spartakiad",
+                    "Disabled Games"
+                ],
+                "options_hindi": [
+                    "पैन हेलेनिक खेल",
+                    "स्टोक मैन्डेविल खेल",
+                    "स्पार्टाकियाड",
+                    "डिसएबल्ड खेल"
+                ],
+                "answer": "Stoke Mandeville Games"
+            },
+            {
+                "serial_no": 104,
+                "question": "Weight of discus for men is:",
+                "question_hindi": "पुरुषों की डिस्कस का वजन होता है:",
+                "options": [
+                    "2.50 kg",
+                    "2.00 kg",
+                    "2.75 kg",
+                    "2.25 kg"
+                ],
+                "options_hindi": [
+                    "2.50 कि०ग्रा०",
+                    "2.00 कि०ग्रा०",
+                    "2.75 कि०ग्रा०",
+                    "2.25 कि०ग्रा०"
+                ],
+                "answer": "2.00 kg"
+            },
+            {
+                "serial_no": 105,
+                "question": "Injury of Ligaments is:",
+                "question_hindi": "लिगामेन्ट की चोट है:",
+                "options": [
+                    "Strain",
+                    "Sprain",
+                    "Contusion",
+                    "Abrasion"
+                ],
+                "options_hindi": [
+                    "स्ट्रेन",
+                    "स्प्रेन",
+                    "कन्ट्यूजन",
+                    "एब्रेशन"
+                ],
+                "answer": "Sprain"
+            },
+            {
+                "serial_no": 106,
+                "question": "Static strength can be improved by:",
+                "question_hindi": "स्थैतिक शक्ति का विकास कैसे कर सकते हैं?",
+                "options": [
+                    "Weight Training",
+                    "Isometric Exercise",
+                    "Circuit Training",
+                    "Interval Training"
+                ],
+                "options_hindi": [
+                    "भार प्रशिक्षण",
+                    "सममितीय व्यायाम",
+                    "सर्किट प्रशिक्षण",
+                    "अन्तराल प्रशिक्षण"
+                ],
+                "answer": "Isometric Exercise"
+            },
+            {
+                "serial_no": 107,
+                "question": "'Shir Sukham Asanam' is a definition of:",
+                "question_hindi": "'शिरः सुखम आसनम्' किसकी परिभाषा है?",
+                "options": [
+                    "Dharana",
+                    "Pratyahar",
+                    "Pranayam",
+                    "Asana"
+                ],
+                "options_hindi": [
+                    "धारणा",
+                    "प्रत्याहार",
+                    "प्राणायाम",
+                    "आसन"
+                ],
+                "answer": "Asana"
+            },
+            {
+                "serial_no": 108,
+                "question": "First Modern Olympic Games were held at:",
+                "question_hindi": "प्रथम आधुनिक ओलम्पिक खेल कहाँ आयोजित हुए थे?",
+                "options": [
+                    "Sparta",
+                    "Athens",
+                    "Germany",
+                    "Denmark"
+                ],
+                "options_hindi": [
+                    "स्पार्टा",
+                    "एथेन्स",
+                    "जर्मनी",
+                    "डेनमार्क"
+                ],
+                "answer": "Athens"
+            },
+            {
+                "serial_no": 109,
+                "question": "'Golden Period' of Physical Education:",
+                "question_hindi": "शारीरिक शिक्षा का 'स्वर्ण युग' कहते हैं:",
+                "options": [
+                    "Later Athenian Period",
+                    "Sparta Period",
+                    "Homeric Period",
+                    "None of the three"
+                ],
+                "options_hindi": [
+                    "उत्तर एथेन्स काल",
+                    "स्पार्टा काल",
+                    "होमर काल",
+                    "तीनों में से कोई नहीं"
+                ],
+                "answer": "Homeric Period"
+            },
+            {
+                "serial_no": 110,
+                "question": "Shri Hanuman Vyayam Prasarak Mandal is situated at:",
+                "question_hindi": "श्री हनुमान व्यायाम प्रसारक मण्डल स्थित है:",
+                "options": [
+                    "Nagpur",
+                    "Amravati",
+                    "Patiala",
+                    "Chennai"
+                ],
+                "options_hindi": [
+                    "नागपुर में",
+                    "अमरावती में",
+                    "पटियाला में",
+                    "चेन्नई में"
+                ],
+                "answer": "Amravati"
+            },
+            {
+                "serial_no": 111,
+                "question": "What is Shitkari?",
+                "question_hindi": "शीतकारी क्या है?",
+                "options": [
+                    "Yam",
+                    "Niyam",
+                    "Asana",
+                    "Pranayama"
+                ],
+                "options_hindi": [
+                    "यम",
+                    "नियम",
+                    "आसन",
+                    "प्राणायाम"
+                ],
+                "answer": "Pranayama"
+            },
+            {
+                "serial_no": 112,
+                "question": "The first step in the treatment of sports injuries is:",
+                "question_hindi": "खेल की चोटों की चिकित्सा में सर्वप्रथम पद है:",
+                "options": [
+                    "Cryotherapy",
+                    "Hydrotherapy",
+                    "Electrotherapy",
+                    "Thermotherapy"
+                ],
+                "options_hindi": [
+                    "क्रायोथेरेपी",
+                    "हाइड्रोथेरेपी",
+                    "एलेक्ट्रोथेरेपी",
+                    "थर्मोथेरेपी"
+                ],
+                "answer": "Cryotherapy"
+            },
+            {
+                "serial_no": 113,
+                "question": "Which is the common objective of Education and Physical Education?",
+                "question_hindi": "शारीरिक शिक्षा और शिक्षा का साझा लक्ष्य कौन-सा है?",
+                "options": [
+                    "Neuro Muscular Development",
+                    "Physical Development",
+                    "Development of Sports",
+                    "Mental Development"
+                ],
+                "options_hindi": [
+                    "तंत्रिकापेशी का विकास",
+                    "शारीरिक विकास",
+                    "खेलों का विकास",
+                    "मानसिक विकास"
+                ],
+                "answer": "Mental Development"
+            },
+            {
+                "serial_no": 114,
+                "question": "Indira Gandhi Physical Education and Sports Sciences situated at:",
+                "question_hindi": "इंदिरा गाँधी शारीरिक शिक्षा व खेल विज्ञान संस्थान स्थित है:",
+                "options": [
+                    "Mumbai",
+                    "New Delhi",
+                    "Chennai",
+                    "Kolkata"
+                ],
+                "options_hindi": [
+                    "मुम्बई में",
+                    "नई दिल्ली में",
+                    "चेन्नई में",
+                    "कोलकाता में"
+                ],
+                "answer": "New Delhi"
+            },
+            {
+                "serial_no": 115,
+                "question": "Arjuna Awards started in:",
+                "question_hindi": "अर्जुन पुरस्कार की शुरुआत हुई:",
+                "options": [
+                    "1951",
+                    "1955",
+                    "1961",
+                    "1971"
+                ],
+                "options_hindi": [
+                    "1951 में",
+                    "1955 में",
+                    "1961 में",
+                    "1971 में"
+                ],
+                "answer": "1961"
+            },
+            {
+                "serial_no": 116,
+                "question": "Duration of Microcycle of training is:",
+                "question_hindi": "प्रशिक्षण में माइक्रोसाइकिल की अवधि होती है:",
+                "options": [
+                    "Four weeks",
+                    "15 days",
+                    "2 to 3 days",
+                    "5 to 10 days"
+                ],
+                "options_hindi": [
+                    "चार सप्ताह",
+                    "15 दिन",
+                    "2 से 3 दिन",
+                    "5 से 10 दिन"
+                ],
+                "answer": "5 to 10 days"
+            },
+            {
+                "serial_no": 117,
+                "question": "The most important factor in selecting the sports equipments is:",
+                "question_hindi": "खेल सामग्री के चयन में सबसे अधिक ध्यान में रखने वाला कारक है:",
+                "options": [
+                    "Price",
+                    "Source",
+                    "Utility",
+                    "Quality"
+                ],
+                "options_hindi": [
+                    "मूल्य",
+                    "स्रोत",
+                    "उपयोगिता",
+                    "गुणवत्ता"
+                ],
+                "answer": "Quality"
+            },
+            {
+                "serial_no": 118,
+                "question": "Effect of Massage on Body is:",
+                "question_hindi": "मालिश का शरीर पर प्रभाव पड़ता है:",
+                "options": [
+                    "On Skin",
+                    "On System",
+                    "On Blood Circulation",
+                    "All of the three"
+                ],
+                "options_hindi": [
+                    "त्वचा पर",
+                    "तंत्र पर",
+                    "रक्त परिसंचरण पर",
+                    "तीनों में सभी"
+                ],
+                "answer": "All of the three"
+            },
+            {
+                "serial_no": 119,
+                "question": "The study of bones is called:",
+                "question_hindi": "हड्डियों का अध्ययन कहलाता है:",
+                "options": [
+                    "Arthrology",
+                    "Osteology",
+                    "Myology",
+                    "None of the three"
+                ],
+                "options_hindi": [
+                    "आर्थ्रोलॉजी",
+                    "ऑस्टियोलॉजी",
+                    "मायोलॉजी",
+                    "तीनों में से कोई नहीं"
+                ],
+                "answer": "Osteology"
+            },
+            {
+                "serial_no": 120,
+                "question": "Sports sociology deals with:",
+                "question_hindi": "खेल समाजशास्त्र का सम्बन्ध है:",
+                "options": [
+                    "Team cohesion",
+                    "Function of the body",
+                    "Mental training",
+                    "Motivation"
+                ],
+                "options_hindi": [
+                    "समूह के आपसी तालमेल से",
+                    "शारीरिक कृत्य से",
+                    "मानसिक प्रशिक्षण से",
+                    "अभिप्रेरणा से"
+                ],
+                "answer": "Team cohesion"
+            },
+            {
+                "serial_no": 121,
+                "question": "'Yogaschitta vritti ch Nirodhah' definition is given by:",
+                "question_hindi": "'योगश्चित्त वृत्ति च निरोधः' परिभाषा दी है:",
+                "options": [
+                    "Ved Vyas",
+                    "Gandhi Ji",
+                    "Shri Krishna",
+                    "Patanjali"
+                ],
+                "options_hindi": [
+                    "वेद व्यास ने",
+                    "गाँधी जी ने",
+                    "श्रीकृष्ण ने",
+                    "पतंजलि ने"
+                ],
+                "answer": "Patanjali"
+            },
+            {
+                "serial_no": 122,
+                "question": "The use of a particular method of teaching depends upon?",
+                "question_hindi": "विशेष शिक्षण विधि का उपयोग किस पर निर्भर करता है?",
+                "options": [
+                    "Sex of the teacher",
+                    "Skill of the teacher",
+                    "Age of the teacher",
+                    "None of the above"
+                ],
+                "options_hindi": [
+                    "अध्यापक के लिंग पर",
+                    "अध्यापक की कुशलता पर",
+                    "अध्यापक की उम्र पर",
+                    "उपरोक्त में से कोई नहीं"
+                ],
+                "answer": "Skill of the teacher"
+            },
+            {
+                "serial_no": 123,
+                "question": "Which law of learning is also called the law of use and disuse?",
+                "question_hindi": "सीखने के किस नियम को उपयोग और अनुपयोग का नियम भी कहा जाता है?",
+                "options": [
+                    "Law of exercise",
+                    "Law of readiness",
+                    "Law of effects",
+                    "Law of intimacy"
+                ],
+                "options_hindi": [
+                    "अभ्यास का नियम",
+                    "तैयारी का नियम",
+                    "प्रभाव का नियम",
+                    "सम्बन्ध का नियम"
+                ],
+                "answer": "Law of exercise"
+            },
+            {
+                "serial_no": 124,
+                "question": "'Psycho Physical Unity of Man' is:",
+                "question_hindi": "'मानव जीवन की मनोभौतिक एकता' कहलाती है:",
+                "options": [
+                    "Mind and Body Development",
+                    "Body and Bones Development",
+                    "Body and Heart Development",
+                    "Soul and Muscles Development"
+                ],
+                "options_hindi": [
+                    "मन तथा शरीर का विकास",
+                    "शरीर तथा हड्डियों का विकास",
+                    "शरीर तथा हृदय का विकास",
+                    "आत्मा तथा मांसपेशियों का विकास"
+                ],
+                "answer": "Mind and Body Development"
+            },
+            {
+                "serial_no": 125,
+                "question": "The importance of wellness is:",
+                "question_hindi": "स्वस्थता (वेलनेस) का महत्त्व है:",
+                "options": [
+                    "It helps to lead quality life",
+                    "It helps to extend co-operation to others",
+                    "It helps to satisfy your need",
+                    "It helps to inculcate good habits"
+                ],
+                "options_hindi": [
+                    "यह अच्छे जीवन यापन में सहायक है",
+                    "यह दूसरों से मेल-मिलाप बढ़ाने में सहायक है",
+                    "यह आप की आवश्यकताओं को पूरा करने में सहायक है",
+                    "यह अच्छी आदतें अन्तर्निवेश करने में सहायक है"
+                ],
+                "answer": "It helps to lead quality life"
+            },
+            {
+                "serial_no": 126,
+                "question": "In case of sprain, the best immediate treatment is:",
+                "question_hindi": "मोच के उपचार के लिए सबसे अच्छा तुरन्त उपचार है:",
+                "options": [
+                    "Hydro therapy",
+                    "Heat therapy",
+                    "Ice therapy",
+                    "Mud therapy"
+                ],
+                "options_hindi": [
+                    "जल चिकित्सा",
+                    "गर्म उपचार",
+                    "बर्फ से उपचार",
+                    "मिट्टी से उपचार"
+                ],
+                "answer": "Ice therapy"
+            },
+            {
+                "serial_no": 127,
+                "question": "Length and Breadth of Volleyball Court is:",
+                "question_hindi": "वॉलीबाल मैदान की लम्बाई-चौड़ाई होती है:",
+                "options": [
+                    "18 m - 9 m",
+                    "20 m - 10 m",
+                    "16 m - 8 m",
+                    "None of the three"
+                ],
+                "options_hindi": [
+                    "18 मीटर - 9 मीटर",
+                    "20 मीटर - 10 मीटर",
+                    "16 मीटर - 8 मीटर",
+                    "तीनों में से कोई नहीं"
+                ],
+                "answer": "18 m - 9 m"
+            },
+            {
+                "serial_no": 128,
+                "question": "Michael Jordan is related to which game?",
+                "question_hindi": "माइकल जॉर्डन किस खेल से सम्बन्धित हैं?",
+                "options": [
+                    "Rugby",
+                    "Football",
+                    "Hockey",
+                    "Basketball"
+                ],
+                "options_hindi": [
+                    "रग्बी",
+                    "फुटबाल",
+                    "हॉकी",
+                    "बास्केटबाल"
+                ],
+                "answer": "Basketball"
+            },
+            {
+                "serial_no": 129,
+                "question": "Equilibrium depends:",
+                "question_hindi": "संतुलन निर्भर करता है:",
+                "options": [
+                    "Wider base of object",
+                    "More height of object",
+                    "Light weight of object",
+                    "Narrow base and light weight of object"
+                ],
+                "options_hindi": [
+                    "वस्तु के चौड़े आधार पर",
+                    "वस्तु की अधिक ऊँचाई पर",
+                    "वस्तु के हलकेपन पर",
+                    "वस्तु के तंग आधार तथा हलकेपन पर"
+                ],
+                "answer": "Wider base of object"
+            },
+            {
+                "serial_no": 130,
+                "question": "The most effective method of teaching physical skill is:",
+                "question_hindi": "शारीरिक शिक्षा के कौशल सीखने की सर्वोत्तम विधि है:",
+                "options": [
+                    "Demonstration method",
+                    "Imitation method",
+                    "Trial and error method",
+                    "Mirror method"
+                ],
+                "options_hindi": [
+                    "प्रदर्शन विधि",
+                    "अनुकरण विधि",
+                    "प्रयास एवं त्रुटि विधि",
+                    "प्रतिबिम्ब विधि"
+                ],
+                "answer": "Demonstration method"
+            },
+            {
+                "serial_no": 131,
+                "question": "Santosh Trophy is related to:",
+                "question_hindi": "संतोष ट्रॉफी का सम्बन्ध है:",
+                "options": [
+                    "Hockey",
+                    "Football",
+                    "Cricket",
+                    "Badminton"
+                ],
+                "options_hindi": [
+                    "हॉकी से",
+                    "फुटबाल से",
+                    "क्रिकेट से",
+                    "बैडमिंटन से"
+                ],
+                "answer": "Football"
+            },
+            {
+                "serial_no": 132,
+                "question": "The term 'Double Fault' is used in:",
+                "question_hindi": "शब्द 'डबल फाल्ट' प्रयोग में आता है:",
+                "options": [
+                    "Table Tennis",
+                    "Volleyball",
+                    "Tennis",
+                    "Badminton"
+                ],
+                "options_hindi": [
+                    "टेबिल टेनिस में",
+                    "वॉलीबाल में",
+                    "टेनिस में",
+                    "बैडमिंटन में"
+                ],
+                "answer": "Tennis"
+            },
+            {
+                "serial_no": 133,
+                "question": "Kyphosis deformity is also called:",
+                "question_hindi": "कुब्जता विकृति को यह भी कहा जाता है:",
+                "options": [
+                    "Hollow back",
+                    "Round back",
+                    "Lateral back",
+                    "Straight back"
+                ],
+                "options_hindi": [
+                    "हॉलो बैक (गड्ढेदार पीठ)",
+                    "राउंड बैक (गोलाकार पीठ)",
+                    "लैटरल बैक (पार्श्व पीठ)",
+                    "स्ट्रेट बैक (सीधी पीठ)"
+                ],
+                "answer": "Round back"
+            },
+            {
+                "serial_no": 134,
+                "question": "'Kinesiology' is a study of:",
+                "question_hindi": "'काइनिसियोलॉजी' का अध्ययन है:",
+                "options": [
+                    "Human motion",
+                    "Motor movements",
+                    "Physical fitness",
+                    "Anthropology"
+                ],
+                "options_hindi": [
+                    "मानव क्रियाओं का",
+                    "मोटर क्रियाओं का",
+                    "शारीरिक स्वस्थता का",
+                    "मानवाकार विज्ञान का"
+                ],
+                "answer": "Human motion"
+            },
+            {
+                "serial_no": 135,
+                "question": "'Kumbhak' is related to:",
+                "question_hindi": "'कुम्भक' का सम्बन्ध है:",
+                "options": [
+                    "Pratyahar",
+                    "Pranayam",
+                    "Dhyan",
+                    "Dharana"
+                ],
+                "options_hindi": [
+                    "प्रत्याहार से",
+                    "प्राणायाम से",
+                    "ध्यान से",
+                    "धारणा से"
+                ],
+                "answer": "Pranayam"
+            },
+            {
+                "serial_no": 136,
+                "question": "The Olympic Games are held every:",
+                "question_hindi": "ओलम्पिक खेलों का आयोजन होता है, प्रत्येक:",
+                "options": [
+                    "Third year",
+                    "Fifth year",
+                    "Fourth year",
+                    "Second year"
+                ],
+                "options_hindi": [
+                    "तीसरे वर्ष",
+                    "पाँचवें वर्ष",
+                    "चौथे वर्ष",
+                    "दूसरे वर्ष"
+                ],
+                "answer": "Fourth year"
+            },
+            {
+                "serial_no": 137,
+                "question": "'Akhada' is related to:",
+                "question_hindi": "'अखाड़ा' किस खेल से सम्बन्धित है?",
+                "options": [
+                    "Football",
+                    "Judo",
+                    "Wrestling",
+                    "Boxing"
+                ],
+                "options_hindi": [
+                    "फुटबाल से",
+                    "जूडो से",
+                    "कुश्ती से",
+                    "मुक्केबाजी से"
+                ],
+                "answer": "Wrestling"
+            },
+            {
+                "serial_no": 138,
+                "question": "Physical Teachers have qualities of:",
+                "question_hindi": "शारीरिक शिक्षक में गुण होने चाहिए:",
+                "options": [
+                    "Proficiency",
+                    "Personality",
+                    "Leadership",
+                    "All of the above"
+                ],
+                "options_hindi": [
+                    "निपुण कुशलता के",
+                    "व्यक्तित्व के",
+                    "नेतृत्व के",
+                    "उपरोक्त सभी"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "serial_no": 139,
+                "question": "When did the Olympic Oath introduced for the first time?",
+                "question_hindi": "ओलम्पिक खेलों में पहली बार शपथ कब प्रारम्भ हुई?",
+                "options": [
+                    "1912 at Stockholm",
+                    "1920 at Antwerp",
+                    "1928 at Amsterdam",
+                    "1936 at Berlin"
+                ],
+                "options_hindi": [
+                    "1912 स्टॉकहोम से",
+                    "1920 एण्टवर्प से",
+                    "1928 एम्स्टर्डम से",
+                    "1936 बर्लिन से"
+                ],
+                "answer": "1920 at Antwerp"
+            },
+            {
+                "serial_no": 140,
+                "question": "Dronacharya Award is given to:",
+                "question_hindi": "द्रोणाचार्य पुरस्कार दिया जाता है:",
+                "options": [
+                    "Organizers",
+                    "Players",
+                    "Coaches",
+                    "Officials"
+                ],
+                "options_hindi": [
+                    "आयोजकों को",
+                    "खिलाड़ियों को",
+                    "प्रशिक्षकों को",
+                    "अधिकारियों को"
+                ],
+                "answer": "Coaches"
+            },
+            {
+                "serial_no": 141,
+                "question": "Back Stroke is related to:",
+                "question_hindi": "बैक स्ट्रोक का सम्बन्ध है:",
+                "options": [
+                    "Cricket",
+                    "Football",
+                    "Handball",
+                    "Swimming"
+                ],
+                "options_hindi": [
+                    "क्रिकेट से",
+                    "फुटबाल से",
+                    "हैण्डबाल से",
+                    "तैराकी से"
+                ],
+                "answer": "Swimming"
+            },
+            {
+                "serial_no": 142,
+                "question": "The majority of lever in human body are:",
+                "question_hindi": "मनुष्य के शरीर में अधिकतम उत्तोलक होते हैं:",
+                "options": [
+                    "First class",
+                    "Second class",
+                    "Third class",
+                    "Fourth class"
+                ],
+                "options_hindi": [
+                    "प्रथम श्रेणी",
+                    "दूसरी श्रेणी",
+                    "तीसरी श्रेणी",
+                    "चौथी श्रेणी"
+                ],
+                "answer": "Third class"
+            },
+            {
+                "serial_no": 143,
+                "question": "'Ping Pong' is related to:",
+                "question_hindi": "'पिंग पोंग' सम्बन्धित है:",
+                "options": [
+                    "Badminton",
+                    "Table Tennis",
+                    "Judo",
+                    "Taikando"
+                ],
+                "options_hindi": [
+                    "बैडमिंटन से",
+                    "टेबल टेनिस से",
+                    "जूडो से",
+                    "ताइक्वान्डो से"
+                ],
+                "answer": "Table Tennis"
+            },
+            {
+                "serial_no": 144,
+                "question": "Study of psychological foundation of Physical Activity:",
+                "question_hindi": "शारीरिक क्रियाओं के मनोवैज्ञानिक आधार का अध्ययन है:",
+                "options": [
+                    "Child Psychology",
+                    "Educational Psychology",
+                    "Sports Psychology",
+                    "Criminology"
+                ],
+                "options_hindi": [
+                    "बाल मनोविज्ञान",
+                    "शिक्षा मनोविज्ञान",
+                    "खेल मनोविज्ञान",
+                    "अपराध-विज्ञान"
+                ],
+                "answer": "Sports Psychology"
+            },
+            {
+                "serial_no": 145,
+                "question": "'Dynamic' word is related to:",
+                "question_hindi": "'डाइनेमिक' शब्द का सम्बन्ध है:",
+                "options": [
+                    "Force",
+                    "Work",
+                    "Endurance",
+                    "Flexibility"
+                ],
+                "options_hindi": [
+                    "बल से",
+                    "कार्य से",
+                    "सहनशक्ति से",
+                    "लचीलापन से"
+                ],
+                "answer": "Force"
+            },
+            {
+                "serial_no": 146,
+                "question": "What is chronological age?",
+                "question_hindi": "कालक्रम के अनुसार उम्र का आशय क्या है?",
+                "options": [
+                    "Age in Years, Month and Days",
+                    "Indicate by Bones and Dentition",
+                    "Determined by the signs of Puberty",
+                    "Determined by using intelligence tests"
+                ],
+                "options_hindi": [
+                    "वर्ष, महीना तथा दिन में उम्र की अभिव्यक्ति",
+                    "हड्डियों तथा दांतों द्वारा निर्धारित",
+                    "यौवनारम्भ के संकेतों द्वारा निर्धारित",
+                    "बुद्धि के परीक्षण द्वारा निर्धारित"
+                ],
+                "answer": "Age in Years, Month and Days"
+            },
+            {
+                "serial_no": 147,
+                "question": "Isotonic exercises related to:",
+                "question_hindi": "आइसोटोनिक व्यायाम का सम्बन्ध है:",
+                "options": [
+                    "Flexibility",
+                    "Endurance",
+                    "Strength",
+                    "Speed"
+                ],
+                "options_hindi": [
+                    "लचीलापन से",
+                    "सहनशक्ति से",
+                    "शक्ति से",
+                    "गति से"
+                ],
+                "answer": "Strength"
+            },
+            {
+                "serial_no": 148,
+                "question": "'Abrasion' is an injury to the:",
+                "question_hindi": "'एब्रेशन' की चोट है:",
+                "options": [
+                    "Skin",
+                    "Bone",
+                    "Ligament",
+                    "Muscles"
+                ],
+                "options_hindi": [
+                    "त्वचा की",
+                    "हड्डी की",
+                    "लिगामेन्ट की",
+                    "मांसपेशी की"
+                ],
+                "answer": "Skin"
+            },
+            {
+                "serial_no": 149,
+                "question": "'Fartlek Training' is related to:",
+                "question_hindi": "'फार्टलेक प्रशिक्षण' का सम्बन्ध है:",
+                "options": [
+                    "Strength",
+                    "Speed",
+                    "Endurance",
+                    "Flexibility"
+                ],
+                "options_hindi": [
+                    "शक्ति से",
+                    "गति से",
+                    "सहनशक्ति से",
+                    "लचीलापन से"
+                ],
+                "answer": "Endurance"
+            },
+            {
+                "serial_no": 150,
+                "question": "Method of speed development are:",
+                "question_hindi": "गति विकास की विधियाँ हैं:",
+                "options": [
+                    "Acceleration run",
+                    "Pace run",
+                    "Acceleration run and Pace run",
+                    "None of the three"
+                ],
+                "options_hindi": [
+                    "एक्सीलरेशन रन",
+                    "पेस रन",
+                    "एक्सीलरेशन रन और पेस रन",
+                    "तीनों में से कोई नहीं"
+                ],
+                "answer": "Acceleration run and Pace run"
+            }
+        ]
+    }
+}

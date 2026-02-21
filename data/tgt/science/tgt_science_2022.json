@@ -1,0 +1,1091 @@
+{
+    "part4_science_2022": {
+        "name": "विज्ञान (भाग-IV)",
+        "category": "TGT",
+        "year": 2022,
+        "section": "PART-IV : Science (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "Two ends of rods of length L and radius R of the same material are kept at same temperature. Which of the following rods conducts the maximum heat?",
+                "question_hindi": "समान पदार्थ की लम्बाई L और त्रिज्या R की छड़ों के दोनों सिरों को समान ताप पर रखा जाता है। निम्नलिखित में से कौन-सी छड़ अधिकतम ऊष्मा का संचालन करती है?",
+                "options": [
+                    "L = 25 cm, R = 0.5 cm",
+                    "L = 50 cm, R = 1.0 cm",
+                    "L = 75 cm, R = 1.5 cm",
+                    "L = 100 cm, R = 2.0 cm"
+                ],
+                "options_hindi": [
+                    "L = 25 cm, R = 0.5 cm",
+                    "L = 50 cm, R = 1.0 cm",
+                    "L = 75 cm, R = 1.5 cm",
+                    "L = 100 cm, R = 2.0 cm"
+                ],
+                "answer": "L = 100 cm, R = 2.0 cm"
+            },
+            {
+                "serial_no": 92,
+                "question": "A ball thrown up is caught by the thrower 6 sec after start. The height to which the ball has risen is: (take g = 10 m/s²)",
+                "question_hindi": "एक ऊपर फेंकी गई गेंद को, फेंकने वाले के द्वारा शुरुआत के 6 sec के बाद पकड़ लिया जाता है। गेंद जिस ऊँचाई तक ऊपर गई, वह है: (g = 10 m/s² लें)",
+                "options": [
+                    "30 m",
+                    "45 m",
+                    "60 m",
+                    "90 m"
+                ],
+                "options_hindi": [
+                    "30 m",
+                    "45 m",
+                    "60 m",
+                    "90 m"
+                ],
+                "answer": "45 m"
+            },
+            {
+                "serial_no": 93,
+                "question": "Which of the following is not a xerophytic adaptation to reduce transpiration?",
+                "question_hindi": "निम्नलिखित में से कौन-सा वाष्पोत्सर्जन कम करने हेतु मरुद्भिदीय अनुकूलता नहीं है?",
+                "options": [
+                    "Stems take over the function of photosynthesis",
+                    "Presence of hairs in stomatal pits",
+                    "Presence of keratin layer on the leaf surface",
+                    "Presence of waxy coating on leaf surface"
+                ],
+                "options_hindi": [
+                    "तना प्रकाश संश्लेषण का कार्य संभालता है",
+                    "रंध्र गर्तों में रोमों की उपस्थिति",
+                    "पर्ण की सतह पर केराटिन परत की उपस्थिति",
+                    "पर्ण की सतह पर मोमीय परत की उपस्थिति"
+                ],
+                "answer": "Presence of keratin layer on the leaf surface"
+            },
+            {
+                "serial_no": 94,
+                "question": "If a body loses half of its velocity on penetrating 3 cm in a wooden block, then how much will it penetrate more before coming to rest (in cm)?",
+                "question_hindi": "यदि कोई वस्तु, एक लकड़ी के ब्लॉक में 3 सेमी भेदन करने पर अपना आधा वेग खो देती है, तो विरामावस्था में आने से पहले वह कितना अधिक भेदन करेगी (सेमी में)?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "1.5"
+                ],
+                "options_hindi": [
+                    "1",
+                    "2",
+                    "3",
+                    "1.5"
+                ],
+                "answer": "1"
+            },
+            {
+                "serial_no": 95,
+                "question": "Which of the following statement is wrong?",
+                "question_hindi": "निम्नलिखित में से कौन-सा कथन असत्य है?",
+                "options": [
+                    "Histones are rich in lysine and arginine",
+                    "The pH of histones is less than 7",
+                    "An octamer of histones is present in nucleosome",
+                    "Five types of histones are involved in DNA packaging"
+                ],
+                "options_hindi": [
+                    "हिस्टोन, लाइसिन और आर्जिनिन में प्रचुर होते हैं",
+                    "हिस्टोन का pH 7 से कम होता है",
+                    "न्यूक्लियोसोम में हिस्टोन का अष्टक उपस्थित होता है",
+                    "डीएनए संवेष्टन में पाँच प्रकार के हिस्टोन संबद्ध होते हैं"
+                ],
+                "answer": "The pH of histones is less than 7"
+            },
+            {
+                "serial_no": 96,
+                "question": "The welding of railway tracks was done in the past with the aid of chemical reaction known as the thermite process. The thermite reaction involves the displacement of a metal from its solid oxides by another metal. Which of the following equations could represent the thermite reaction?",
+                "question_hindi": "प्राचीन काल में रेलवे ट्रैक की वेल्डिंग एक रासायनिक अभिक्रिया द्वारा करते थे जिसे थर्माइट प्रक्रम कहते हैं। थर्माइट अभिक्रिया में एक धातु ऑक्साइड का दूसरे धातु के द्वारा विस्थापन होता है। निम्नलिखित में से कौन-सा समीकरण थर्माइट अभिक्रिया को प्रदर्शित करता है?",
+                "options": [
+                    "MgO + Zn → Mg + ZnO",
+                    "2Fe + Al₂O₃ → Fe₂O₃ + 2Al",
+                    "3Zn + Al₂O₃ → 3ZnO + 2Al",
+                    "2Al + Fe₂O₃ → Al₂O₃ + 2Fe"
+                ],
+                "options_hindi": [
+                    "MgO + Zn → Mg + ZnO",
+                    "2Fe + Al₂O₃ → Fe₂O₃ + 2Al",
+                    "3Zn + Al₂O₃ → 3ZnO + 2Al",
+                    "2Al + Fe₂O₃ → Al₂O₃ + 2Fe"
+                ],
+                "answer": "2Al + Fe₂O₃ → Al₂O₃ + 2Fe"
+            },
+            {
+                "serial_no": 97,
+                "question": "Which of the following is not a member of Kingdom Monera?",
+                "question_hindi": "निम्नलिखित में से कौन-सा मोनेरा जगत् का सदस्य नहीं है?",
+                "options": [
+                    "Blue green algae",
+                    "Bacteria",
+                    "Slime moulds",
+                    "Methanogens"
+                ],
+                "options_hindi": [
+                    "नील हरित शैवाल",
+                    "जीवाणु",
+                    "अवपंक कवक",
+                    "मेथेनोजेन्स"
+                ],
+                "answer": "Slime moulds"
+            },
+            {
+                "serial_no": 98,
+                "question": "Select the essential parts of a flower using the codes given below: A. Petals B. Pistil C. Peduncle D. Stamens E. Sepals",
+                "question_hindi": "नीचे दिए गए कूटों की सहायता से एक पुष्प के अत्यावश्यक भागों का चयन कीजिए: A. दल B. स्त्रीकेसर C. पुष्पवृत्त D. पुंकेसर E. बाह्यदल",
+                "options": [
+                    "A and E",
+                    "A and C",
+                    "B and D",
+                    "C and D"
+                ],
+                "options_hindi": [
+                    "A एवं E",
+                    "A एवं C",
+                    "B एवं D",
+                    "C एवं D"
+                ],
+                "answer": "B and D"
+            },
+            {
+                "serial_no": 99,
+                "question": "A person of mass 60 kg is standing on a spring balance inside a lift. If the lift falls freely downwards, then the reading of the spring balance will be equal to:",
+                "question_hindi": "60 kg द्रव्यमान का एक व्यक्ति लिफ्ट के अंदर कमानीदार तुला पर खड़ा है। यदि लिफ्ट स्वतंत्र रूप से नीचे की ओर गिरती है, तो कमानीदार तुला का पाठ्यांक होगा:",
+                "options": [
+                    "equal to 60 kg",
+                    "more than 60 kg",
+                    "less than 60 kg",
+                    "zero"
+                ],
+                "options_hindi": [
+                    "60 kg के बराबर",
+                    "60 kg से ज्यादा",
+                    "60 kg से कम",
+                    "शून्य"
+                ],
+                "answer": "zero"
+            },
+            {
+                "serial_no": 100,
+                "question": "Which of the following statements are incorrect about the structure of an atom? (i) The atom as a whole is neutral. (ii) The atom is an indivisible particle. (iii) The whole mass of an atom is concentrated in the nucleus. (iv) All the atoms are stable in their basic state.",
+                "question_hindi": "एक परमाणु की संरचना के संदर्भ में निम्नलिखित में से कौन-से कथन सही नहीं हैं? (i) पूर्ण रूप में परमाणु उदासीन होता है। (ii) परमाणु एक वैयक्तिक (पृथक) कण है। (iii) परमाणु का सारा भार नाभिक में संकेन्द्रित है। (iv) सभी परमाणु अपनी आद्य (मूल) अवस्था में स्थायी होते हैं।",
+                "options": [
+                    "(ii) and (iii)",
+                    "(iii) and (iv)",
+                    "(ii) and (iv)",
+                    "(i) and (iv)"
+                ],
+                "options_hindi": [
+                    "(ii) तथा (iii)",
+                    "(iii) तथा (iv)",
+                    "(ii) तथा (iv)",
+                    "(i) तथा (iv)"
+                ],
+                "answer": "(ii) and (iv)"
+            },
+            {
+                "serial_no": 101,
+                "question": "Which one of the following statement is totally wrong about the occurrence of notochord, while the other three are correct?",
+                "question_hindi": "निम्न में से कौन-सा एक कथन नोटोकॉर्ड के सन्दर्भ में पूर्णतया गलत है, जबकि बाकी तीन सही हैं:",
+                "options": [
+                    "It is present only in the tail of ascidian larva",
+                    "It is replaced by a vertebral column in adult toad",
+                    "It is not persistent throughout life in chondrichthyes",
+                    "It persists throughout life in Amphioxus and extends from head to tail"
+                ],
+                "options_hindi": [
+                    "यह केवल एसिडियन लार्वा की पूँछ में पाई जाती है",
+                    "यह वयस्क टोड में कशेरुकी दण्ड द्वारा प्रतिस्थापित कर दी जाती है",
+                    "यह कॉन्ड्रिक्थीज में सम्पूर्ण जीवनकाल में स्थायी रूप से नहीं पाई जाती है",
+                    "यह एम्फियोक्सस में जीवन पर्यन्त पायी जाती है तथा सिर से पैर तक फैली होती है"
+                ],
+                "answer": "It is replaced by a vertebral column in adult toad"
+            },
+            {
+                "serial_no": 102,
+                "question": "In a tape recorder, while connecting six cells in a battery in series by mistake one cell is connected with reverse polarity. If the effective resistance of load is 24 Ω and internal resistance of each cell is 1 Ω and e.m.f. 1.5 V, the current delivered by the battery is:",
+                "question_hindi": "एक टेप रिकॉर्डर में, एक बैटरी में छः सेलों को श्रेणीक्रम में जोड़ने के दौरान एक सेल गलती से विपरीत ध्रुवणता में जुड़ जाता है। यदि लोड का प्रभावी प्रतिरोध 24 Ω है और प्रत्येक सेल का आंतरिक प्रतिरोध 1 Ω और विद्युत वाहक बल 1.5 V है, तो बैटरी द्वारा प्रदाय की गई धारा है:",
+                "options": [
+                    "0.1 A",
+                    "0.2 A",
+                    "0.3 A",
+                    "0.4 A"
+                ],
+                "options_hindi": [
+                    "0.1 A",
+                    "0.2 A",
+                    "0.3 A",
+                    "0.4 A"
+                ],
+                "answer": "0.2 A"
+            },
+            {
+                "serial_no": 103,
+                "question": "An electric current is flowing through a circular coil of radius R. The ratio of the magnetic field at the centre of the coil and that at a distance √3 R from the centre of the coil on its axis is:",
+                "question_hindi": "त्रिज्या R की एक वृत्तीय कुण्डली से एक विद्युत धारा प्रवाहित हो रही है। कुण्डली के केन्द्र पर और कुण्डली के अक्ष पर उसके तल से √3 R दूरी पर चुम्बकीय क्षेत्रों का अनुपात है:",
+                "options": [
+                    "2 : 1",
+                    "5 : 3",
+                    "8 : 1",
+                    "3 : 2"
+                ],
+                "options_hindi": [
+                    "2 : 1",
+                    "5 : 3",
+                    "8 : 1",
+                    "3 : 2"
+                ],
+                "answer": "8 : 1"
+            },
+            {
+                "serial_no": 104,
+                "question": "In an accident in a school lab, a large sample of aqueous sodium hydroxide was split. Which substance when added in excess, is not suitable for neutralizing the alkali spill?",
+                "question_hindi": "एक विद्यालय की प्रयोगशाला में दुर्घटना के दौरान, बहुत अधिक मात्रा में सोडियम हाइड्रॉक्साइड फैल जाता है। फैले हुए क्षार को उदासीनीकृत करने के लिए कौन-सा पदार्थ आधिक्य में मिलाने पर उपयुक्त नहीं है?",
+                "options": [
+                    "Sulphuric acid",
+                    "Oxalic acid",
+                    "Citric acid",
+                    "Sodium hydrogen sulphate"
+                ],
+                "options_hindi": [
+                    "सल्फ्यूरिक अम्ल",
+                    "ऑक्सेलिक अम्ल",
+                    "सिट्रिक अम्ल",
+                    "सोडियम हाइड्रोजन सल्फेट"
+                ],
+                "answer": "Sulphuric acid"
+            },
+            {
+                "serial_no": 105,
+                "question": "The displacement time graph for the two particles P₁ and P₂ are straight lines inclined at 30° and 45° with the time axis. The ratio of velocities V₁ : V₂ will be:",
+                "question_hindi": "दो कणों P₁ और P₂ के लिये विस्थापन-समय ग्राफ समय अक्ष के साथ 30° और 45° के कोणों पर झुकी हुई सीधी रेखायें हैं। उनके वेगों का अनुपात V₁ : V₂ होगा:",
+                "options": [
+                    "1 : √3",
+                    "√3 : 1",
+                    "1 : 3",
+                    "1 : 1"
+                ],
+                "options_hindi": [
+                    "1 : √3",
+                    "√3 : 1",
+                    "1 : 3",
+                    "1 : 1"
+                ],
+                "answer": "1 : √3"
+            },
+            {
+                "serial_no": 106,
+                "question": "Which oxides of Nitrogen are generated by burning of fossil fuel?",
+                "question_hindi": "जीवाश्म ईंधन के जलने से नाइट्रोजन के कौन-से ऑक्साइड उत्पन्न होते हैं?",
+                "options": [
+                    "NO and NO₂",
+                    "NO₂, NO₃ and N₂O₅",
+                    "N₂O₃ and N₂O₅",
+                    "NO₃ and N₂O₅"
+                ],
+                "options_hindi": [
+                    "NO और NO₂",
+                    "NO₂, NO₃ और N₂O₅",
+                    "N₂O₃ और N₂O₅",
+                    "NO₃ और N₂O₅"
+                ],
+                "answer": "NO and NO₂"
+            },
+            {
+                "serial_no": 107,
+                "question": "An atom with 3 protons and 4 neutrons will have a valency of:",
+                "question_hindi": "एक परमाणु जिसमें 3 प्रोटॉन तथा 4 न्यूट्रॉन हैं, की संयोजकता होती है:",
+                "options": [
+                    "7",
+                    "1",
+                    "3",
+                    "4"
+                ],
+                "options_hindi": [
+                    "7",
+                    "1",
+                    "3",
+                    "4"
+                ],
+                "answer": "3"
+            },
+            {
+                "serial_no": 108,
+                "question": "A moving coil galvanometer of resistance 50 Ω gives a full scale deflection, when a current of 0.5 mA is passed through it. The resistance required to convert it into a voltmeter of range 10 volt, is:",
+                "question_hindi": "प्रतिरोध 50 Ω का एक चल कुण्डली धारामापी पूर्ण पैमाने पर विक्षेपण देता है, जब इसमें से 0.5 mA की धारा प्रवाहित की जाती है। इसे 10 volt परास के वोल्टमीटर में परिवर्तित करने के लिये आवश्यक प्रतिरोध है:",
+                "options": [
+                    "1950 Ω",
+                    "2000 Ω",
+                    "19950 Ω",
+                    "20000 Ω"
+                ],
+                "options_hindi": [
+                    "1950 Ω",
+                    "2000 Ω",
+                    "19950 Ω",
+                    "20000 Ω"
+                ],
+                "answer": "19950 Ω"
+            },
+            {
+                "serial_no": 109,
+                "question": "A simple pendulum has a time period T₁, when it is on earth's surface and T₂, when taken to a height R above the earth's surface. Where R is the radius of the earth. The value of T₂/T₁ will be:",
+                "question_hindi": "एक साधारण लोलक का आवर्तकाल T₁ होता है जब वह पृथ्वी की सतह पर है और T₂, जब इसे पृथ्वी की सतह से R ऊँचाई पर ले जाया जाता है। जहाँ R पृथ्वी की त्रिज्या है। T₂/T₁ का मान होगा:",
+                "options": [
+                    "1",
+                    "√2",
+                    "2",
+                    "4"
+                ],
+                "options_hindi": [
+                    "1",
+                    "√2",
+                    "2",
+                    "4"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 110,
+                "question": "Which one of the following set phenomena would increase on raising the temperature?",
+                "question_hindi": "निम्नलिखित समुच्चयों में से कौन-सी परिघटनाएँ ताप बढ़ाने पर बढ़ती हैं?",
+                "options": [
+                    "Evaporation, solubility, compression of gases",
+                    "Evaporation, diffusion, expansion of gases",
+                    "Diffusion, solubility, compression of gases",
+                    "Condensation, diffusion, compression of gases"
+                ],
+                "options_hindi": [
+                    "वाष्पन, विलेयता, गैसों का संपीडन",
+                    "वाष्पन, विसरण, गैसों का प्रसार",
+                    "विसरण, विलेयता, गैसों का संपीडन",
+                    "संघनन, विसरण, गैसों का संपीडन"
+                ],
+                "answer": "Evaporation, diffusion, expansion of gases"
+            },
+            {
+                "serial_no": 111,
+                "question": "When crystals of lead nitrate are heated strongly in a dry test tube:",
+                "question_hindi": "एक शुष्क परखनली में जब लेड नाइट्रेट क्रिस्टलों को तेजी से गरम किया जाता है, तो:",
+                "options": [
+                    "a brown residue is left",
+                    "white fumes appear in the tube",
+                    "crystals immediately vaporise",
+                    "a yellow residue is left"
+                ],
+                "options_hindi": [
+                    "एक भूरा अवशेष बचता है",
+                    "परखनली में श्वेत धूम्र प्रकट होते हैं",
+                    "क्रिस्टल शीघ्र वाष्पीकृत हो जाते हैं",
+                    "एक पीला अवशेष बचता है"
+                ],
+                "answer": "a brown residue is left"
+            },
+            {
+                "serial_no": 112,
+                "question": "Which of the following set can be used for the denaturation of ethyl alcohol?",
+                "question_hindi": "एथिल ऐल्कोहॉल के विकृतिकरण के लिए निम्नलिखित में से कौन-सा समुच्चय काम में लेते हैं?",
+                "options": [
+                    "Methanol, Water, Copper Chloride",
+                    "Propanol, Vinegar, Potassium Permanganate",
+                    "Methanol, Pyridine, Copper Sulphate",
+                    "Vinegar, Pyridine, Water"
+                ],
+                "options_hindi": [
+                    "मेथेनॉल, जल, कॉपर क्लोराइड",
+                    "प्रोपेनॉल, सिरका, पोटैशियम परमैंगनेट",
+                    "मेथेनॉल, पिरिडीन, कॉपर सल्फेट",
+                    "सिरका, पिरिडीन, जल"
+                ],
+                "answer": "Methanol, Pyridine, Copper Sulphate"
+            },
+            {
+                "serial_no": 113,
+                "question": "Select wrong statement from the following:",
+                "question_hindi": "निम्नलिखित में से गलत वाक्य चुनिए:",
+                "options": [
+                    "Iron necessary for human body is abundantly found in green vegetables",
+                    "Zinc is one of the essential trace elements required for human body",
+                    "Fat and minerals are not the essential nutrients for a balanced diet of humans",
+                    "The food that generate energy in the body after complete oxidation are in the form of carbohydrates, fat and proteins"
+                ],
+                "options_hindi": [
+                    "मानव शरीर के लिए आवश्यक आयरन हरी सब्जियों में प्रचुर मात्रा में पाया जाता है",
+                    "जिंक मानव शरीर के लिए एक आवश्यक सूक्ष्म तत्त्व है",
+                    "मानव के संतुलित आहार के लिए वसा एवं खनिज पदार्थ आवश्यक पोषक तत्त्व नहीं हैं",
+                    "ऐसा भोजन जो कि सम्पूर्ण ऑक्सीकरण के पश्चात् शरीर में ऊर्जा उत्पन्न करता है, कार्बोहाइड्रेट, वसा एवं प्रोटीन के रूप में होता है"
+                ],
+                "answer": "Fat and minerals are not the essential nutrients for a balanced diet of humans"
+            },
+            {
+                "serial_no": 114,
+                "question": "In which of the following conditions, the distance between the molecules of hydrogen gas would increase, filled in a container? (i) Some hydrogen gas leaking out the container. (ii) Increasing the volume of container of hydrogen gas. (iii) Increasing pressure on hydrogen gas contained in a closed container. (iv) Adding more hydrogen gas to container without increasing the volume of the container.",
+                "question_hindi": "निम्नलिखित में से किन-सी परिस्थितियों में हाइड्रोजन गैस के अणुओं के बीच की दूरी बढ़ जाएगी? (i) पात्र में से कुछ हाइड्रोजन गैस का रिसाव हो जाए। (ii) हाइड्रोजन गैस के पात्र का आयतन बढ़ाकर। (iii) एक बंद पात्र में उपस्थित हाइड्रोजन गैस पर दाब बढ़ाकर। (iv) पात्र का आयतन बढ़ाए बिना, पात्र में अतिरिक्त हाइड्रोजन गैस भरना।",
+                "options": [
+                    "(ii) and (iii)",
+                    "(ii) and (iv)",
+                    "(i) and (ii)",
+                    "(i) and (iii)"
+                ],
+                "options_hindi": [
+                    "(ii) तथा (iii)",
+                    "(ii) तथा (iv)",
+                    "(i) तथा (ii)",
+                    "(i) तथा (iii)"
+                ],
+                "answer": "(i) and (ii)"
+            },
+            {
+                "serial_no": 115,
+                "question": "The initial number of atoms of a radioactive element with half life 100 days, is 9.6 × 10²⁶. The number of atoms remaining undecayed after 500 days, will be:",
+                "question_hindi": "एक रेडियोएक्टिव तत्त्व के परमाणुओं की प्रारम्भिक संख्या, अर्ध आयुकाल 100 दिनों के साथ 9.6 × 10²⁶ है। 500 दिनों के बाद अक्षयित रहने वाले परमाणुओं की संख्या होगी:",
+                "options": [
+                    "19.2 × 10²⁵",
+                    "9.6 × 10²⁵",
+                    "3.84 × 10²⁵",
+                    "3.0 × 10²⁵"
+                ],
+                "options_hindi": [
+                    "19.2 × 10²⁵",
+                    "9.6 × 10²⁵",
+                    "3.84 × 10²⁵",
+                    "3.0 × 10²⁵"
+                ],
+                "answer": "3.0 × 10²⁵"
+            },
+            {
+                "serial_no": 116,
+                "question": "Intercalary meristems are the primary meristems, because: I. They appear early in the life of a plant. II. They contribute to the formation of the primary plant body.",
+                "question_hindi": "अन्तर्वेशी विभज्योतक प्राथमिक विभज्योतक हैं, क्योंकि: I. वे पादप के जीवन में प्रारम्भिक अवस्था में प्रकट होते हैं। II. वे पादप के प्राथमिक शरीर के निर्माण में योगदान करते हैं।",
+                "options": [
+                    "Both I and II are correct",
+                    "Both I and II are incorrect",
+                    "Only I is correct",
+                    "Only II is correct"
+                ],
+                "options_hindi": [
+                    "दोनों I एवं II सही हैं",
+                    "दोनों I एवं II गलत हैं",
+                    "केवल I सही है",
+                    "केवल II सही है"
+                ],
+                "answer": "Both I and II are correct"
+            },
+            {
+                "serial_no": 117,
+                "question": "Which of the following does not form an acidic salt?",
+                "question_hindi": "निम्नलिखित में से कौन-सा एक अम्लीय लवण नहीं बनाता है?",
+                "options": [
+                    "Phosphoric acid",
+                    "Sulphuric acid",
+                    "Hydrochloric acid",
+                    "Nitric acid"
+                ],
+                "options_hindi": [
+                    "फॉस्फोरिक अम्ल",
+                    "सल्फ्यूरिक अम्ल",
+                    "हाइड्रोक्लोरिक अम्ल",
+                    "नाइट्रिक अम्ल"
+                ],
+                "answer": "Nitric acid"
+            },
+            {
+                "serial_no": 118,
+                "question": "What will be the pressure on a swimmer 10 m below the surface of a lake?",
+                "question_hindi": "एक झील की सतह से 10 m नीचे एक तैराक पर क्या दाब होगा?",
+                "options": [
+                    "1 atm",
+                    "2 atm",
+                    "5 atm",
+                    "10 atm"
+                ],
+                "options_hindi": [
+                    "1 atm",
+                    "2 atm",
+                    "5 atm",
+                    "10 atm"
+                ],
+                "answer": "2 atm"
+            },
+            {
+                "serial_no": 119,
+                "question": "Nature of calcium phosphate present in tooth enamel is:",
+                "question_hindi": "दांत एनेमल में उपस्थित कैल्सियम फॉस्फेट की प्रकृति है:",
+                "options": [
+                    "acidic",
+                    "neutral",
+                    "basic",
+                    "amphoteric"
+                ],
+                "options_hindi": [
+                    "अम्लीय",
+                    "उदासीन",
+                    "क्षारीय",
+                    "उभयधर्मी"
+                ],
+                "answer": "basic"
+            },
+            {
+                "serial_no": 120,
+                "question": "The endothelium of blood vessels is:",
+                "question_hindi": "रुधिर वाहिकाओं का अन्तःस्तर है:",
+                "options": [
+                    "Squamous epithelium",
+                    "Cuboidal epithelium",
+                    "Columnar epithelium",
+                    "Ciliated epithelium"
+                ],
+                "options_hindi": [
+                    "शल्की उपकला",
+                    "घनाकार उपकला",
+                    "स्तम्भाकार उपकला",
+                    "पक्ष्माभी उपकला"
+                ],
+                "answer": "Squamous epithelium"
+            },
+            {
+                "serial_no": 121,
+                "question": "Beats are heard due to interference of two sound waves. The intensity of sound changes from maximum to minimum in 100 milli second. The difference in frequencies of two waves is:",
+                "question_hindi": "दो ध्वनि तरंगों के व्यतिकरण के कारण विस्पंद सुनाई देते हैं। ध्वनि की तीव्रता 100 मिली सेकण्ड में अधिकतम से न्यूनतम तक परिवर्तित होती है। दोनों तरंगों की आवृत्तियों में अंतर है:",
+                "options": [
+                    "No difference",
+                    "2.5 Hz",
+                    "5.0 Hz",
+                    "10.0 Hz"
+                ],
+                "options_hindi": [
+                    "कोई अंतर नहीं है",
+                    "2.5 Hz",
+                    "5.0 Hz",
+                    "10.0 Hz"
+                ],
+                "answer": "5.0 Hz"
+            },
+            {
+                "serial_no": 122,
+                "question": "Select the incorrect pair of the food articles and the plant part from which it is obtained from the following:",
+                "question_hindi": "निम्नलिखित में से खाद्य-पदार्थ एवं पादप भाग जिनसे वे प्राप्त होते हैं, का गलत युग्म चयनित कीजिए:",
+                "options": [
+                    "Wheat - Fruit",
+                    "Ginger - Root",
+                    "Turmeric - Stem",
+                    "Tea - Leaves"
+                ],
+                "options_hindi": [
+                    "गेहूँ - फल",
+                    "अदरक - जड़",
+                    "हल्दी - तना",
+                    "चाय - पर्ण"
+                ],
+                "answer": "Wheat - Fruit"
+            },
+            {
+                "serial_no": 123,
+                "question": "Consider the following statements in reference to green manure and select the incorrect statement using the codes given below: (A) Green manure is rich in organic matter and nutrients. (B) Green manure is primarily used to enrich the soil in phosphorus. (C) Green manure is the undecomposed plant material.",
+                "question_hindi": "हरी खाद के संदर्भ में निम्नलिखित कथनों पर विचार कर, दिए गए कूटों की सहायता से गलत कथन का चयन कीजिए: (A) हरी खाद में कार्बनिक पदार्थ एवं पोषकों की प्रचुरता होती है। (B) हरी खाद का उपयोग प्राथमिक रूप से मृदा को फॉस्फोरस से सम्पन्न करने हेतु किया जाता है। (C) हरी खाद अपरिवर्तित पादप पदार्थ है।",
+                "options": [
+                    "A and B",
+                    "B and C",
+                    "C and A",
+                    "Only B"
+                ],
+                "options_hindi": [
+                    "A एवं B",
+                    "B एवं C",
+                    "C एवं A",
+                    "केवल B"
+                ],
+                "answer": "Only B"
+            },
+            {
+                "serial_no": 124,
+                "question": "Which of the following are also considered to be the states of matter? (i) Plasma (ii) Platelets (iii) BEC (iv) BHC",
+                "question_hindi": "निम्नलिखित में से कौन-सी, द्रव्य की अवस्था मानी जाती हैं? (i) प्लाज्मा (ii) प्लेटलेट्स (iii) BEC (iv) BHC",
+                "options": [
+                    "(i) and (ii)",
+                    "(iii) and (iv)",
+                    "(i) and (iii)",
+                    "(ii) and (iii)"
+                ],
+                "options_hindi": [
+                    "(i) तथा (ii)",
+                    "(iii) तथा (iv)",
+                    "(i) तथा (iii)",
+                    "(ii) तथा (iii)"
+                ],
+                "answer": "(i) and (iii)"
+            },
+            {
+                "serial_no": 125,
+                "question": "Cells that maintain marrow cells are called:",
+                "question_hindi": "मज्जा कोशिकाओं को बनाए रखने वाली कोशिकाएँ कहलाती हैं:",
+                "options": [
+                    "Osteocytes",
+                    "Chondrocytes",
+                    "Osteoclast",
+                    "Marrowclast"
+                ],
+                "options_hindi": [
+                    "ऑस्टियोसाइट्स",
+                    "कॉन्ड्रोसाइट्स",
+                    "ऑस्टियोक्लास्ट",
+                    "मज्जाक्लास्ट"
+                ],
+                "answer": "Osteoclast"
+            },
+            {
+                "serial_no": 126,
+                "question": "A plant with genotype WWXxYyZZ is self pollinated. What proportion of the progeny will show the genotype WWxxyyZZ (if all four genes are independently assorting):",
+                "question_hindi": "एक पौधा जिसका जीनोटाइप WWXxYyZZ है एवं उसमें स्वपरागण होता है। इसकी संतति किस अनुपात में WWxxyyZZ जीनोटाइप प्रदर्शित करेगी (यदि सभी चारों जीन स्वतन्त्र रूप से अपव्यूहित होते हैं)?",
+                "options": [
+                    "1/9",
+                    "1/16",
+                    "1/64",
+                    "1/128"
+                ],
+                "options_hindi": [
+                    "1/9",
+                    "1/16",
+                    "1/64",
+                    "1/128"
+                ],
+                "answer": "1/16"
+            },
+            {
+                "serial_no": 127,
+                "question": "Match the Column-I with Column-II and choose the correct option: Column-I: I. X-Rays, II. Visible light, III. Ultraviolet radiation, IV. Infrared radiation; Column-II: A. Ahmedabad, B. Calcutta, C. Delhi, D. Mumbai",
+                "question_hindi": "कॉलम-I को कॉलम-II से मिलायें और सही विकल्प का चयन करें: कॉलम-I: I. X-किरणें, II. दृश्य प्रकाश, III. पराबैंगनी विकिरण, IV. अवरक्त विकिरण; कॉलम-II: A. अहमदाबाद, B. कलकत्ता, C. दिल्ली, D. मुंबई",
+                "options": [
+                    "I(A), II(C), III(B), IV(D)",
+                    "I(A), II(B), III(C), IV(D)",
+                    "I(D), II(C), III(B), IV(A)",
+                    "I(B), II(D), III(A), IV(C)"
+                ],
+                "options_hindi": [
+                    "I(A), II(C), III(B), IV(D)",
+                    "I(A), II(B), III(C), IV(D)",
+                    "I(D), II(C), III(B), IV(A)",
+                    "I(B), II(D), III(A), IV(C)"
+                ],
+                "answer": "I(A), II(C), III(B), IV(D)"
+            },
+            {
+                "serial_no": 128,
+                "question": "The earth's part responsible for causing earthquakes is:",
+                "question_hindi": "भूकंप पैदा करने के लिये जिम्मेदार पृथ्वी का भाग है:",
+                "options": [
+                    "crust of earth",
+                    "mantle of earth",
+                    "inner core of earth",
+                    "outer core of earth"
+                ],
+                "options_hindi": [
+                    "पृथ्वी का पृष्ठभाग",
+                    "पृथ्वी का मेंटल (प्रावरण)",
+                    "पृथ्वी का भीतरी कोर",
+                    "पृथ्वी का बाहरी कोर"
+                ],
+                "answer": "crust of earth"
+            },
+            {
+                "serial_no": 129,
+                "question": "Examine Assertion (A) and Reason (R) and choose correct answer: Assertion (A): Species are static units in classification. Reason (R): Species do not change with time.",
+                "question_hindi": "कथन (A) एवं कारण (R) का परीक्षण करके सही उत्तर चुनिए: कथन (A): वर्गीकरण में जाति (स्पीशीज) एक अपरिवर्तनीय इकाई है। कारण (R): जाति समय के साथ परिवर्तित नहीं होती।",
+                "options": [
+                    "A and R are true and R is the correct explanation of A",
+                    "A and R are true but R is not correct explanation of A",
+                    "A is true but R is false",
+                    "A and R are false"
+                ],
+                "options_hindi": [
+                    "A एवं R सत्य हैं तथा R, A का सही स्पष्टीकरण है",
+                    "A एवं R सत्य हैं लेकिन R, A का सही स्पष्टीकरण नहीं है",
+                    "A सही है किन्तु R गलत है",
+                    "A एवं R दोनों गलत हैं"
+                ],
+                "answer": "A and R are false"
+            },
+            {
+                "serial_no": 130,
+                "question": "Which of the following living cells have perforations on their cell walls?",
+                "question_hindi": "निम्नलिखित में से कौन-सी जीवित कोशिकाओं की कोशिका भित्ति पर छिद्र पाए जाते हैं?",
+                "options": [
+                    "Bast cells",
+                    "Vessels",
+                    "Tracheids",
+                    "Sieve cells"
+                ],
+                "options_hindi": [
+                    "बास्ट कोशिका",
+                    "वाहिका",
+                    "वाहिनिका",
+                    "चालनी कोशिका"
+                ],
+                "answer": "Sieve cells"
+            },
+            {
+                "serial_no": 131,
+                "question": "A transparent cube contains a small air bubble. Its apparent distance is 2 cm when seen through one face and 5 cm when seen through other face. If the refractive index of the material of the cube is 1.5, the real length of the edge of cube must be:",
+                "question_hindi": "एक पारदर्शी घन में, वायु का एक छोटा बुलबुला है। एक पृष्ठ से देखने पर इसकी आभासी दूरी 2 cm तथा दूसरे पृष्ठ से देखने पर 5 cm होती है। यदि घन के पदार्थ का अपवर्तनांक 1.5 है, तो घन के किनारे की वास्तविक लम्बाई होनी चाहिए:",
+                "options": [
+                    "14 cm",
+                    "7/3 cm",
+                    "7.5 cm",
+                    "10.5 cm"
+                ],
+                "options_hindi": [
+                    "14 cm",
+                    "7/3 cm",
+                    "7.5 cm",
+                    "10.5 cm"
+                ],
+                "answer": "10.5 cm"
+            },
+            {
+                "serial_no": 132,
+                "question": "Which of the following statements are incorrect for carbon compounds? a. Most carbon compounds are good conductor of electricity. b. Most carbon compounds have ionic bonds. c. Force of attraction between molecules of carbon compounds is not very strong. d. Methanol, acetic acid and acetone are carbon compounds.",
+                "question_hindi": "कार्बन यौगिकों के लिए निम्नलिखित में से कौन-से कथन सही नहीं हैं? a. अधिकांश कार्बन यौगिक विद्युत के सुचालक होते हैं। b. अधिकांश कार्बन यौगिकों में आयनिक बंध होते हैं। c. कार्बन यौगिकों के अणुओं के मध्य आकर्षण बल बहुत प्रबल नहीं होते हैं। d. मेथेनॉल, ऐसीटिक अम्ल तथा ऐसीटोन कार्बन यौगिक हैं।",
+                "options": [
+                    "(a) and (d)",
+                    "(c) and (d)",
+                    "(a) and (b)",
+                    "(b) and (d)"
+                ],
+                "options_hindi": [
+                    "(a) तथा (d)",
+                    "(c) तथा (d)",
+                    "(a) तथा (b)",
+                    "(b) तथा (d)"
+                ],
+                "answer": "(a) and (b)"
+            },
+            {
+                "serial_no": 133,
+                "question": "Select wrong statement:",
+                "question_hindi": "गलत कथन चुनिए:",
+                "options": [
+                    "The storage of energy at consumer level is known as secondary productivity",
+                    "In any ecosystem maximum energy is stored at producer level",
+                    "Ecosystem term was coined by Odum",
+                    "Rate at which organic molecules are formed in an autotroph is called gross primary productivity"
+                ],
+                "options_hindi": [
+                    "उपभोक्ता स्तर पर ऊर्जा का संग्रहण द्वितीयक उत्पादकता कहलाता है",
+                    "किसी भी पारितंत्र में अधिकतम ऊर्जा संग्रहण उत्पादक स्तर पर होती है",
+                    "पारितंत्र (इकोसिस्टम) शब्द ओडम द्वारा दिया गया था",
+                    "एक स्वपोषी में जिस गति से कार्बनिक अणुओं का निर्माण होता है, उसे सकल प्राथमिक उत्पादकता कहते हैं"
+                ],
+                "answer": "Ecosystem term was coined by Odum"
+            },
+            {
+                "serial_no": 134,
+                "question": "Which one of the following is wrongly matched?",
+                "question_hindi": "निम्न में से कौन-सा सुमेलित नहीं है?",
+                "options": [
+                    "Tendon - Connective tissue",
+                    "Smooth muscles - Involuntary muscle",
+                    "Red muscles - Myoglobin",
+                    "Troponin - Fibrous protein"
+                ],
+                "options_hindi": [
+                    "कंडरा (टेन्डन) - संयोजी ऊतक",
+                    "चिकनी पेशियाँ - अनैच्छिक पेशियाँ",
+                    "लाल पेशी - मायोग्लोबिन",
+                    "ट्रोपोनिन - तन्तुकीय प्रोटीन"
+                ],
+                "answer": "Troponin - Fibrous protein"
+            },
+            {
+                "serial_no": 135,
+                "question": "Dalton's atomic theory successfully explained: (i) Law of conservation of mass (ii) Law of constant proportion (iii) Law of radioactivity (iv) Law of multiple proportion",
+                "question_hindi": "डाल्टन का परमाणु सिद्धान्त सफलतापूर्वक समझाता है: (i) द्रव्यमान संरक्षण का नियम (ii) स्थिर अनुपात का नियम (iii) रेडियोसक्रियता का नियम (iv) गुणित अनुपात का नियम",
+                "options": [
+                    "(i), (iii) and (iv)",
+                    "(ii), (iii) and (iv)",
+                    "(i), (ii) and (iv)",
+                    "(i), (ii) and (iii)"
+                ],
+                "options_hindi": [
+                    "(i), (iii) तथा (iv)",
+                    "(ii), (iii) तथा (iv)",
+                    "(i), (ii) तथा (iv)",
+                    "(i), (ii) तथा (iii)"
+                ],
+                "answer": "(i), (ii) and (iv)"
+            },
+            {
+                "serial_no": 136,
+                "question": "Which of the following metals is present in the anode mud during electrolytic refining of copper?",
+                "question_hindi": "तांबे के विद्युत अपघटनी शोधन के दौरान एनोड कीचड़ में निम्नलिखित में से कौन-सी धातु उपस्थित होती है?",
+                "options": [
+                    "Aluminium",
+                    "Gold",
+                    "Sodium",
+                    "Zinc"
+                ],
+                "options_hindi": [
+                    "एल्यूमीनियम",
+                    "सोना",
+                    "सोडियम",
+                    "जिंक"
+                ],
+                "answer": "Gold"
+            },
+            {
+                "serial_no": 137,
+                "question": "Which of the following crop is not suitable for loamy soil?",
+                "question_hindi": "निम्नलिखित में से कौन-सी फसल दुमटी मृदा के लिए उपयुक्त नहीं है?",
+                "options": [
+                    "Wheat",
+                    "Paddy",
+                    "Pulses",
+                    "Cotton"
+                ],
+                "options_hindi": [
+                    "गेहूँ",
+                    "धान",
+                    "दलहन",
+                    "कपास"
+                ],
+                "answer": "Paddy"
+            },
+            {
+                "serial_no": 138,
+                "question": "The element which is not common between the compounds called baking soda and soda ash is?",
+                "question_hindi": "बेकिंग सोडा तथा सोडा ऐश यौगिकों में कौन-सा तत्व उभयनिष्ठ नहीं है?",
+                "options": [
+                    "Hydrogen",
+                    "Oxygen",
+                    "Sodium",
+                    "Carbon"
+                ],
+                "options_hindi": [
+                    "हाइड्रोजन",
+                    "ऑक्सीजन",
+                    "सोडियम",
+                    "कार्बन"
+                ],
+                "answer": "Hydrogen"
+            },
+            {
+                "serial_no": 139,
+                "question": "Which of the following equation does not represent a simple harmonic motion?",
+                "question_hindi": "निम्नलिखित में से कौन-सा समीकरण एक सरल आवर्त गति को प्रदर्शित नहीं करता है?",
+                "options": [
+                    "y = a sin ωt + b cos ωt",
+                    "y = ae^(iωt)",
+                    "y = b cos ωt",
+                    "y = b tan ωt"
+                ],
+                "options_hindi": [
+                    "y = a sin ωt + b cos ωt",
+                    "y = ae^(iωt)",
+                    "y = b cos ωt",
+                    "y = b tan ωt"
+                ],
+                "answer": "y = b tan ωt"
+            },
+            {
+                "serial_no": 140,
+                "question": "Which of the Planet has the largest number of satellites?",
+                "question_hindi": "निम्न में से किस ग्रह के सबसे अधिक उपग्रह है?",
+                "options": [
+                    "Jupiter",
+                    "Mars",
+                    "Mercury",
+                    "Saturn"
+                ],
+                "options_hindi": [
+                    "बृहस्पति",
+                    "मंगल",
+                    "बुध",
+                    "शनि"
+                ],
+                "answer": "Saturn"
+            },
+            {
+                "serial_no": 141,
+                "question": "A torque of 50 Nm acting on a wheel at rest rotate it through 200 radians in 5 seconds. The angular acceleration (in rad/sec²) will be:",
+                "question_hindi": "विरामावस्था में रखे एक पहिये पर आरोपित 50 Nm का बलाघूर्ण, इसे 5 सेकण्ड में 200 रेडियन घुमाता है। कोणीय त्वरण (रेडियन/सेकण्ड²) में होगा:",
+                "options": [
+                    "4",
+                    "8",
+                    "12",
+                    "16"
+                ],
+                "options_hindi": [
+                    "4",
+                    "8",
+                    "12",
+                    "16"
+                ],
+                "answer": "16"
+            },
+            {
+                "serial_no": 142,
+                "question": "Microscopic aquatic organisms lacking locomotory ability and drifting with water currents are:",
+                "question_hindi": "ऐसे सूक्ष्मजीवी, जलीय प्राणी जिनमें गमन करने की योग्यताएँ नहीं होती हैं तथा पानी के प्रवाह के साथ बहते हैं:",
+                "options": [
+                    "Pleuston",
+                    "Plankton",
+                    "Necton",
+                    "Seston"
+                ],
+                "options_hindi": [
+                    "प्ल्यूस्टन",
+                    "प्लवक (प्लैंक्टन)",
+                    "नेक्टॉन (तरणक्षम)",
+                    "सेस्टन"
+                ],
+                "answer": "Plankton"
+            },
+            {
+                "serial_no": 143,
+                "question": "A very thin transparent film of soap bubble (thickness → 0) is seen under reflection of white light. Then the colour of the film appear to be:",
+                "question_hindi": "साबुन के बुलबुले की एक बहुत पतली पारदर्शी फिल्म (मोटाई → 0), श्वेत प्रकाश के परावर्तन के अधीन देखी जाती है, तब फिल्म का रंग दिखाई देता है:",
+                "options": [
+                    "Blue",
+                    "Black",
+                    "White",
+                    "Yellow"
+                ],
+                "options_hindi": [
+                    "नीला",
+                    "काला",
+                    "सफेद",
+                    "पीला"
+                ],
+                "answer": "Black"
+            },
+            {
+                "serial_no": 144,
+                "question": "Which of the following property does not describe a compound?",
+                "question_hindi": "निम्नलिखित में से कौन-सा गुण यौगिक की व्याख्या नहीं करता है?",
+                "options": [
+                    "It cannot be separated into its constituents by physical means",
+                    "It is composed of two or more elements",
+                    "It is a pure substance",
+                    "It is mixed in any proportion by mass"
+                ],
+                "options_hindi": [
+                    "भौतिक प्रक्रमों के द्वारा इसे, इसके अवयवों में पृथक नहीं किया जा सकता है",
+                    "यह दो अथवा अधिक तत्वों से मिलकर बना होता है",
+                    "यह एक शुद्ध पदार्थ है",
+                    "इसे द्रव्यमान के किसी भी अनुपात में मिलाकर बनाया जा सकता है"
+                ],
+                "answer": "It is mixed in any proportion by mass"
+            },
+            {
+                "serial_no": 145,
+                "question": "Two chemical substances X and Y combine together to form a product P which contains both X and Y: X + Y → P. X and Y cannot be broken down into simpler substances by simple chemical reactions. Which of the following statements concerning X, Y and P are correct? (i) P is a compound (ii) X and Y are compounds (iii) X and Y are elements (iv) P has a fixed composition",
+                "question_hindi": "रासायनिक पदार्थ X तथा Y आपस में संयुक्त होकर उत्पाद P बनाते हैं जिसमें X तथा Y दोनों हैं: X + Y → P। सामान्य रासायनिक अभिक्रियाओं के द्वारा X तथा Y को सरल पदार्थों में नहीं तोड़ा जा सकता है। X, Y तथा P के संदर्भ में निम्नलिखित में से कौन-सा कथन सही है? (i) P एक यौगिक है (ii) X तथा Y यौगिक हैं (iii) X तथा Y तत्व हैं (iv) P का निश्चित संघटन होता है",
+                "options": [
+                    "(i), (ii) and (iii)",
+                    "(i), (ii) and (iv)",
+                    "(ii), (iii) and (iv)",
+                    "(i), (iii) and (iv)"
+                ],
+                "options_hindi": [
+                    "(i), (ii) तथा (iii)",
+                    "(i), (ii) तथा (iv)",
+                    "(ii), (iii) तथा (iv)",
+                    "(i), (iii) तथा (iv)"
+                ],
+                "answer": "(i), (iii) and (iv)"
+            },
+            {
+                "serial_no": 146,
+                "question": "Which of the following is not chiefly a Rabi crop?",
+                "question_hindi": "निम्नलिखित में से कौन-सी मुख्यतया रबी की फसल नहीं है?",
+                "options": [
+                    "Groundnut",
+                    "Gram",
+                    "Pea",
+                    "Mustard"
+                ],
+                "options_hindi": [
+                    "मूँगफली",
+                    "चना",
+                    "मटर",
+                    "सरसों"
+                ],
+                "answer": "Groundnut"
+            },
+            {
+                "serial_no": 147,
+                "question": "The evaporation of water increases under the following conditions:",
+                "question_hindi": "निम्नलिखित में से कौन-सी परिस्थितियाँ जल के वाष्पन को बढ़ाती हैं?",
+                "options": [
+                    "Increase in temperature, addition of common salt",
+                    "Increase in surface area, rise in temperature",
+                    "Increase in surface area, decrease in temperature",
+                    "Decrease in surface area, decrease in pressure"
+                ],
+                "options_hindi": [
+                    "ताप में वृद्धि, सामान्य लवण को मिलाना",
+                    "पृष्ठीय क्षेत्रफल में वृद्धि, ताप में वृद्धि",
+                    "पृष्ठीय क्षेत्रफल में वृद्धि, ताप में कमी",
+                    "पृष्ठीय क्षेत्रफल में कमी, दाब में कमी"
+                ],
+                "answer": "Increase in surface area, rise in temperature"
+            },
+            {
+                "serial_no": 148,
+                "question": "In fluid mosaic model of plasma membrane:",
+                "question_hindi": "प्लाज्मा झिल्ली के तरल मोज़ेक मॉडल में:",
+                "options": [
+                    "Upper layer is non-polar and hydrophilic",
+                    "Polar layer is hydrophobic",
+                    "Phospholipids form a bilayer that provides fluidity",
+                    "Proteins form a middle layer"
+                ],
+                "options_hindi": [
+                    "ऊपरी परत अधुवीय एवं जलरागी होती है",
+                    "ध्रुवीय परत जलविरागी होती है",
+                    "फॉस्फोलिपिड द्विस्तर बनाते हैं जो तरलता प्रदान करता है",
+                    "प्रोटीन मध्य परत बनाते हैं"
+                ],
+                "answer": "Phospholipids form a bilayer that provides fluidity"
+            },
+            {
+                "serial_no": 149,
+                "question": "Which of the following process/processes release heat? (i) Condensation (ii) Vaporisation (iii) Freezing (iv) Melting",
+                "question_hindi": "निम्नलिखित में से कौन-सा/से प्रक्रम ऊष्मा निर्गमित करता/करते हैं? (i) संघनन (ii) वाष्पन (iii) हिमन (iv) गलन",
+                "options": [
+                    "Only (i)",
+                    "Only (iv)",
+                    "(ii) and (iii)",
+                    "(i) and (iii)"
+                ],
+                "options_hindi": [
+                    "केवल (i)",
+                    "केवल (iv)",
+                    "(ii) तथा (iii)",
+                    "(i) तथा (iii)"
+                ],
+                "answer": "(i) and (iii)"
+            },
+            {
+                "serial_no": 150,
+                "question": "Which of the following would weigh the highest?",
+                "question_hindi": "निम्नलिखित में से किसका भार सर्वाधिक होगा?",
+                "options": [
+                    "0.2 mole of sucrose (C₁₂H₂₂O₁₁)",
+                    "2.0 moles of CaCO₃",
+                    "2.0 moles of CO₂",
+                    "10 moles of H₂O"
+                ],
+                "options_hindi": [
+                    "सुक्रोस के 0.2 मोल (C₁₂H₂₂O₁₁)",
+                    "CaCO₃ के 2.0 मोल",
+                    "CO₂ के 2.0 मोल",
+                    "H₂O के 10 मोल"
+                ],
+                "answer": "2.0 moles of CaCO₃"
+            }
+        ]
+    }
+}

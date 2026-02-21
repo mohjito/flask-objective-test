@@ -1,0 +1,551 @@
+{
+  "part3_general_studies": {
+    "name": "सामान्य अध्ययन",
+    "category": "TGT",
+    "year": 2022,
+    "section": "PART-III : General Studies (Quantitative Aptitude, Reasoning Ability, G.K. & Awareness) (Questions 61-90)",
+    "duration": 30,
+    "questions": [
+      {
+        "serial_no": 61,
+        "question": "Earth is related to Axis in the same way as wheel is related to:",
+        "question_hindi": "जिस प्रकार पृथ्वी का सम्बन्ध अक्ष से है उसी प्रकार पहिये का सम्बन्ध होगा:",
+        "options": [
+          "Tyre",
+          "Car",
+          "Road",
+          "Hub"
+        ],
+        "options_hindi": [
+          "टायर से",
+          "कार से",
+          "सड़क से",
+          "धुरी से"
+        ],
+        "answer": "Hub"
+      },
+      {
+        "serial_no": 62,
+        "question": "Anil introduces Prashant, 'He is the husband of the grand daughter of the father of my father'. How is Prashant related to Anil?",
+        "question_hindi": "अनिल ने प्रशान्त का परिचय कराते हुए कहा 'वह मेरे पिता के पिता की पोती का पति है'। प्रशान्त अनिल से किस प्रकार सम्बन्धित है?",
+        "options": [
+          "Brother",
+          "Brother in law",
+          "Nephew",
+          "Son"
+        ],
+        "options_hindi": [
+          "भाई",
+          "जीजा",
+          "भतीजा",
+          "पुत्र"
+        ],
+        "answer": "Brother in law"
+      },
+      {
+        "serial_no": 63,
+        "question": "Four groups of letters are given below, three of them are alike in certain way while one is different, choose the odd one: STUA, RQPA, MLKA, HGFA",
+        "question_hindi": "अक्षरों के चार समूह नीचे दिये जा रहे हैं उनमें से तीन किसी नियम से एक जैसे हैं। एक इनसे अलग है, उस विसंगत को छाँटिए: STUA, RQPA, MLKA, HGFA",
+        "options": [
+          "STUA",
+          "RQPA",
+          "MLKA",
+          "HGFA"
+        ],
+        "options_hindi": [
+          "STUA",
+          "RQPA",
+          "MLKA",
+          "HGFA"
+        ],
+        "answer": "STUA"
+      },
+      {
+        "serial_no": 64,
+        "question": "Find the next term in the following letter series: LXF, MTJ, NPN, OLR, ......",
+        "question_hindi": "निम्न वर्ण शृंखला का अगला पद ज्ञात कीजिए: LXF, MTJ, NPN, OLR, ......",
+        "options": [
+          "PHV",
+          "PIU",
+          "PJW",
+          "PKX"
+        ],
+        "options_hindi": [
+          "PHV",
+          "PIU",
+          "PJW",
+          "PKX"
+        ],
+        "answer": "PHV"
+      },
+      {
+        "serial_no": 65,
+        "question": "In a certain code '786' means 'Study very hard', '958' means 'Hard work pays', '645' means 'Study and work', which is the code for 'very'?",
+        "question_hindi": "किसी निश्चित कूट में '786' का अर्थ 'Study very hard', '958' का अर्थ 'Hard work pays', '645' का अर्थ 'Study and work', तो 'very' का कोड क्या होगा?",
+        "options": [
+          "8",
+          "6",
+          "7",
+          "5"
+        ],
+        "options_hindi": [
+          "8",
+          "6",
+          "7",
+          "5"
+        ],
+        "answer": "7"
+      },
+      {
+        "serial_no": 66,
+        "question": "If A is 40 meter South-West of B, C is 40 meter South-East of B, then C is in which direction of A?",
+        "question_hindi": "यदि A, B से 40 मीटर दक्षिण-पश्चिम में हो, C, B से 40 मीटर दक्षिण-पूर्व में हो, तो C, A से किस दिशा में होगा?",
+        "options": [
+          "East",
+          "West",
+          "North-East",
+          "South"
+        ],
+        "options_hindi": [
+          "पूर्व",
+          "पश्चिम",
+          "उत्तर-पूर्व",
+          "दक्षिण"
+        ],
+        "answer": "East"
+      },
+      {
+        "serial_no": 67,
+        "question": "The average marks obtained by 150 candidates was 35. If the average marks of passed candidates was 39 and that of the failed candidate was 15, find the number of candidates who passed the examination:",
+        "question_hindi": "150 विद्यार्थियों द्वारा प्राप्त औसत अंक 35 थे। यदि इनमें से उत्तीर्ण विद्यार्थियों का औसत प्राप्तांक 39 हो तथा अनुत्तीर्ण विद्यार्थियों का औसत प्राप्तांक 15 हो, तो परीक्षा में उत्तीर्ण होने वाले विद्यार्थियों की संख्या ज्ञात कीजिए:",
+        "options": [
+          "120",
+          "125",
+          "135",
+          "140"
+        ],
+        "options_hindi": [
+          "120",
+          "125",
+          "135",
+          "140"
+        ],
+        "answer": "125"
+      },
+      {
+        "serial_no": 68,
+        "question": "If a^x = b, b^y = c and c^z = a, then what is the value of xyz?",
+        "question_hindi": "यदि a^x = b, b^y = c और c^z = a, तो xyz का मान क्या होगा?",
+        "options": [
+          "abc",
+          "1",
+          "1/abc",
+          "ab"
+        ],
+        "options_hindi": [
+          "abc",
+          "1",
+          "1/abc",
+          "ab"
+        ],
+        "answer": "1"
+      },
+      {
+        "serial_no": 69,
+        "question": "Find the smallest perfect square number which is exactly divisible by 4, 5, 6, 15 and 18:",
+        "question_hindi": "वह छोटी से छोटी पूर्ण वर्ग संख्या ज्ञात कीजिए जो 4, 5, 6, 15 तथा 18 से पूर्णतः विभाजित हो:",
+        "options": [
+          "800",
+          "225",
+          "900",
+          "361"
+        ],
+        "options_hindi": [
+          "800",
+          "225",
+          "900",
+          "361"
+        ],
+        "answer": "900"
+      },
+      {
+        "serial_no": 70,
+        "question": "What is the value of (√5)^(-5/2) × (√5)^(-3/2)?",
+        "question_hindi": "(√5)^(-5/2) × (√5)^(-3/2) का मान क्या होगा?",
+        "options": [
+          "1/25",
+          "1/125",
+          "1/325",
+          "1/625"
+        ],
+        "options_hindi": [
+          "1/25",
+          "1/125",
+          "1/325",
+          "1/625"
+        ],
+        "answer": "1/25"
+      },
+      {
+        "serial_no": 71,
+        "question": "A sum of money doubles itself in 15 years at compound interest. In how many years it will become 8 times at the same compound interest rate?",
+        "question_hindi": "कोई धन चक्रवृद्धि व्याज की दर से 15 वर्ष में दुगुना हो जाता है, तो कितने वर्षों में यह उसी व्याज की दर से 8 गुना हो जायेगा?",
+        "options": [
+          "30 years",
+          "40 years",
+          "60 years",
+          "45 years"
+        ],
+        "options_hindi": [
+          "30 वर्ष",
+          "40 वर्ष",
+          "60 वर्ष",
+          "45 वर्ष"
+        ],
+        "answer": "45 years"
+      },
+      {
+        "serial_no": 72,
+        "question": "If 25 men can reap a crop in 60 days, then in how many days will 10 men reap the crop?",
+        "question_hindi": "यदि 25 आदमी किसी फसल को 60 दिनों में काट सकते हैं, तो 10 आदमी उसी फसल को कितने दिनों में काट सकेंगे?",
+        "options": [
+          "125 days",
+          "92 days",
+          "100 days",
+          "150 days"
+        ],
+        "options_hindi": [
+          "125 दिन",
+          "92 दिन",
+          "100 दिन",
+          "150 दिन"
+        ],
+        "answer": "150 days"
+      },
+      {
+        "serial_no": 73,
+        "question": "If x + 1/x = 5, then what is the value of x^3 + 1/x^3?",
+        "question_hindi": "यदि x + 1/x = 5 हो, तो x^3 + 1/x^3 का मान क्या होगा?",
+        "options": [
+          "125",
+          "110",
+          "115",
+          "105"
+        ],
+        "options_hindi": [
+          "125",
+          "110",
+          "115",
+          "105"
+        ],
+        "answer": "110"
+      },
+      {
+        "serial_no": 74,
+        "question": "Find the next term in the following number series: 2, 7, 24, 77, 238, ......",
+        "question_hindi": "निम्न अंक शृंखला का अगला पद क्या होगा: 2, 7, 24, 77, 238, ......",
+        "options": [
+          "721",
+          "722",
+          "723",
+          "733"
+        ],
+        "options_hindi": [
+          "721",
+          "722",
+          "723",
+          "733"
+        ],
+        "answer": "723"
+      },
+      {
+        "serial_no": 75,
+        "question": "Find the value of: √(8+2√(8+2√(8+......)))",
+        "question_hindi": "√(8+2√(8+2√(8+......))) का मान ज्ञात कीजिए:",
+        "options": [
+          "8",
+          "10",
+          "11",
+          "4"
+        ],
+        "options_hindi": [
+          "8",
+          "10",
+          "11",
+          "4"
+        ],
+        "answer": "4"
+      },
+      {
+        "serial_no": 76,
+        "question": "If each side of the square be increased by 50%, then find the percentage increase in the area:",
+        "question_hindi": "यदि वर्ग की प्रत्येक भुजा में 50% की वृद्धि हो जाये, तो इसके क्षेत्रफल की प्रतिशत वृद्धि ज्ञात कीजिए:",
+        "options": [
+          "50%",
+          "100%",
+          "125%",
+          "150%"
+        ],
+        "options_hindi": [
+          "50%",
+          "100%",
+          "125%",
+          "150%"
+        ],
+        "answer": "125%"
+      },
+      {
+        "serial_no": 77,
+        "question": "If × stands for −, ÷ stands for +, + stands for ÷, − stands for ×, then what is the value of 15 − 5 ÷ 5 × 20 + 10?",
+        "question_hindi": "यदि - का अर्थ ×, + का अर्थ ÷, ÷ का अर्थ +, × का अर्थ - है, तो 15 - 5 ÷ 5 × 20 + 10 का मान क्या होगा?",
+        "options": [
+          "70",
+          "78",
+          "75",
+          "73"
+        ],
+        "options_hindi": [
+          "70",
+          "78",
+          "75",
+          "73"
+        ],
+        "answer": "75"
+      },
+      {
+        "serial_no": 78,
+        "question": "By selling a commodity for Rs. 72,000, a person made a profit of 20%. What was the cost price of that commodity?",
+        "question_hindi": "किसी वस्तु को 72,000 रुपये में बेचने पर किसी व्यक्ति को 20% का लाभ होता है, तो उस वस्तु का क्रय मूल्य क्या था?",
+        "options": [
+          "Rs. 60,000",
+          "Rs. 50,000",
+          "Rs. 40,000",
+          "Rs. 65,000"
+        ],
+        "options_hindi": [
+          "60,000 रू",
+          "50,000 रू",
+          "40,000 रू",
+          "65,000 रू"
+        ],
+        "answer": "Rs. 60,000"
+      },
+      {
+        "serial_no": 79,
+        "question": "Which term is wrong in the following series? 8, 13, 21, 32, 47, 63, 83",
+        "question_hindi": "निम्न शृंखला में कौन-सा पद गलत है? 8, 13, 21, 32, 47, 63, 83",
+        "options": [
+          "13",
+          "32",
+          "47",
+          "63"
+        ],
+        "options_hindi": [
+          "13",
+          "32",
+          "47",
+          "63"
+        ],
+        "answer": "47"
+      },
+      {
+        "serial_no": 80,
+        "question": "A solid cube is coloured red on all faces. It is cut into 64 smaller cubes of equal size. How many small cubes have no face coloured?",
+        "question_hindi": "एक ठोस घन सभी पृष्ठों पर लाल रंग से रंगा गया है। अब इसे 64 छोटे घनों में काटा जाता है, ऐसे कितने छोटे घन होंगे जिनका कोई पृष्ठ रंगा हुआ नहीं हो?",
+        "options": [
+          "24",
+          "16",
+          "8",
+          "4"
+        ],
+        "options_hindi": [
+          "24",
+          "16",
+          "8",
+          "4"
+        ],
+        "answer": "8"
+      },
+      {
+        "serial_no": 81,
+        "question": "The place, which was visited and mentioned by Chinese traveller Yuan Chwang:",
+        "question_hindi": "वह स्थान, जिसका चीनी यात्री युअान च्यांग ने भ्रमण और उल्लेख किया है:",
+        "options": [
+          "Agroha",
+          "Sugh",
+          "Kurukshetra",
+          "Panipat"
+        ],
+        "options_hindi": [
+          "अग्रोहा",
+          "सुग",
+          "कुरुक्षेत्र",
+          "पानीपत"
+        ],
+        "answer": "Kurukshetra"
+      },
+      {
+        "serial_no": 82,
+        "question": "The district, where Dolomite is found:",
+        "question_hindi": "वह जिला, जहाँ डोलोमाइट पाया जाता है:",
+        "options": [
+          "Mahendragarh",
+          "Gurugram",
+          "Faridabad",
+          "Panipat"
+        ],
+        "options_hindi": [
+          "महेन्द्रगढ़",
+          "गुरुग्राम",
+          "फरीदाबाद",
+          "पानीपत"
+        ],
+        "answer": "Mahendragarh"
+      },
+      {
+        "serial_no": 83,
+        "question": "Under which scheme of Haryana Government the socio-economic data of all the families of Haryana is being created?",
+        "question_hindi": "हरियाणा सरकार की किस योजना के तहत हरियाणा के समस्त परिवारों का सामाजिक-आर्थिक डेटा तैयार किया जा रहा है?",
+        "options": [
+          "Antyoday Parivar Utthan Yojna",
+          "Parivar Pehchan Patra Yojna",
+          "Mukhyamantri Parivar Samriddhi Yojna",
+          "Jan Aadhar Yojna"
+        ],
+        "options_hindi": [
+          "अंत्योदय परिवार उत्थान योजना",
+          "परिवार पहचान पत्र योजना",
+          "मुख्यमंत्री परिवार समृद्धि योजना",
+          "जन आधार योजना"
+        ],
+        "answer": "Parivar Pehchan Patra Yojna"
+      },
+      {
+        "serial_no": 84,
+        "question": "Percentage of posts which have been reserved for women in Panchayati Raj Institutions of Haryana:",
+        "question_hindi": "हरियाणा के पंचायती राज संस्थाओं में महिलाओं के लिए आरक्षित की गई सीटों का प्रतिशत है:",
+        "options": [
+          "25%",
+          "33%",
+          "66%",
+          "50%"
+        ],
+        "options_hindi": [
+          "25%",
+          "33%",
+          "66%",
+          "50%"
+        ],
+        "answer": "50%"
+      },
+      {
+        "serial_no": 85,
+        "question": "The district, where first time in Haryana E-challan has been introduced:",
+        "question_hindi": "वह जिला, जहाँ पहली बार हरियाणा में ई-चालान लागू किया गया है:",
+        "options": [
+          "Gurugram",
+          "Panchkula",
+          "Hisar",
+          "Rohtak"
+        ],
+        "options_hindi": [
+          "गुरुग्राम",
+          "पंचकुला",
+          "हिसार",
+          "रोहतक"
+        ],
+        "answer": "Gurugram"
+      },
+      {
+        "serial_no": 86,
+        "question": "'Global City Project' is being developed by:",
+        "question_hindi": "'ग्लोबल सिटी प्रोजेक्ट' विकसित किया जा रहा है:",
+        "options": [
+          "HSIIDC, Govt. of Haryana",
+          "GMDA, Govt. of Haryana",
+          "HUDA, Govt. of Haryana",
+          "Ministry of Urban Development, Govt. of India"
+        ],
+        "options_hindi": [
+          "एच० एस० आई० आई० डी० सी०, हरियाणा सरकार द्वारा",
+          "जी० एम० डी० ए०, हरियाणा सरकार द्वारा",
+          "एच० यू० डी० ए०, हरियाणा सरकार द्वारा",
+          "शहरी विकास मंत्रालय, भारत सरकार द्वारा"
+        ],
+        "answer": "GMDA, Govt. of Haryana"
+      },
+      {
+        "serial_no": 87,
+        "question": "The award, which is given to a sport coach for excellence in coaching by the Haryana State:",
+        "question_hindi": "वह अवार्ड, जोकि प्रशिक्षण में उत्कृष्टता हेतु हरियाणा राज्य द्वारा खेल प्रशिक्षक को दिया जाता है:",
+        "options": [
+          "Dronacharya award",
+          "Guru Vashistha award",
+          "Maharana Pratap award",
+          "Arjuna award"
+        ],
+        "options_hindi": [
+          "द्रोणाचार्य अवार्ड",
+          "गुरु वशिष्ठ अवार्ड",
+          "महाराणा प्रताप अवार्ड",
+          "अर्जुन अवार्ड"
+        ],
+        "answer": "Guru Vashistha award"
+      },
+      {
+        "serial_no": 88,
+        "question": "The position of Haryana in India in respect of area is:",
+        "question_hindi": "क्षेत्रफल की दृष्टि से हरियाणा का भारत में स्थान है:",
+        "options": [
+          "11th",
+          "21st",
+          "15th",
+          "18th"
+        ],
+        "options_hindi": [
+          "11वाँ",
+          "21वाँ",
+          "15वाँ",
+          "18वाँ"
+        ],
+        "answer": "21st"
+      },
+      {
+        "serial_no": 89,
+        "question": "The smallest (in term of area) wild life sanctuary is:",
+        "question_hindi": "क्षेत्रफल की दृष्टि से लघुतम वन्य जीव अभयारण्य है:",
+        "options": [
+          "Bhindawas",
+          "Nahar",
+          "Saraswati",
+          "Chhilchhila"
+        ],
+        "options_hindi": [
+          "भिण्डावास",
+          "नाहर",
+          "सरस्वती",
+          "छिलछिला"
+        ],
+        "answer": "Chhilchhila"
+      },
+      {
+        "serial_no": 90,
+        "question": "The de jure head of the State Administration in Haryana is:",
+        "question_hindi": "हरियाणा में राज्य प्रशासन के विधितः प्रमुख हैं:",
+        "options": [
+          "Chief Minister of the State",
+          "Divisional Commissioner",
+          "Advocate General of the State",
+          "Governor of the State"
+        ],
+        "options_hindi": [
+          "राज्य के मुख्यमंत्री",
+          "सम्भागीय आयुक्त",
+          "राज्य के महाधिवक्ता",
+          "राज्य के राज्यपाल"
+        ],
+        "answer": "Governor of the State"
+      }
+    ]
+  }
+}

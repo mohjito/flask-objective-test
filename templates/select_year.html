@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+
+{% block title %}Select Year - {{ category }} - QuizLearn{% endblock %}
+
+{% block content %}
+<style>
+    .dashboard-header-premium {
+        margin-bottom: 40px;
+        animation: slideUp 0.6s ease-out;
+    }
+
+    .sub-text {
+        color: #64748b;
+        font-size: 1.1rem;
+    }
+
+    .premium-card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 25px;
+    }
+
+    .premium-card-glass {
+        background: white;
+        padding: 40px;
+        border-radius: 28px;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+        text-align: center;
+        border: 1px solid #f1f5f9;
+        transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        cursor: pointer;
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+
+    .premium-card-glass:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 20px 50px -15px rgba(0, 0, 0, 0.1);
+        border-color: #6366f1;
+    }
+
+    .card-icon {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    .btn-link-action {
+        color: #94a3b8;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 0.9rem;
+        transition: color 0.2s;
+    }
+
+    .btn-link-action:hover {
+        color: #6366f1;
+    }
+
+    .mt-40 {
+        margin-top: 40px;
+    }
+
+    @keyframes slideUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+<div class="dashboard-header-premium">
+    <h2 class="text-center">{{ category }}</h2>
+    <p class="text-center sub-text">Select a year to see available test papers</p>
+</div>
+
+{% if years %}
+<div class="premium-card-grid">
+    {% for year in years %}
+    <div class="premium-card-glass">
+        <div class="card-icon">📅</div>
+        <h3>{{ year }}</h3>
+        <p>Papers from the year {{ year }}</p>
+        <a href="{{ url_for('test_routes.select_paper', category=category, year=year) }}"
+            class="btn btn-primary btn-full">Browse Papers</a>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<div class="empty-state-glass">
+    <div class="empty-icon">📭</div>
+    <p>No years available for this category.</p>
+</div>
+{% endif %}
+
+<div class="text-center mt-40">
+    <a href="{{ url_for('test_routes.dashboard') }}" class="btn-link-action">← Back to Categories</a>
+</div>
+
+{% endblock %}

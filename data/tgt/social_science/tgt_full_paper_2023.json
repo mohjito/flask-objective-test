@@ -1,0 +1,1091 @@
+{
+  "part4_social_studies": {
+    "name": "सामाजिक अध्ययन (भाग-IV)",
+    "category": "TGT",
+    "year": 2023,
+    "section": "PART-IV : Social Studies (Questions 91-150)",
+    "duration": 60,
+    "questions": [
+      {
+        "serial_no": 91,
+        "question": "Which of the following pairs is not correctly matched?",
+        "question_hindi": "निम्न में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "options": [
+          "Diwan-i-Arj : Iltutmish",
+          "Diwan-i-Mustkharaj : Alauddin Khalji",
+          "Diwan-i-Kohi : Muhammad Bin Tughlaq",
+          "Diwan-i-Khairat : Firoz Shah Tughlaq"
+        ],
+        "options_hindi": [
+          "दीवान-ए-अर्ज : इल्तुतमिश",
+          "दीवान-ए-मुस्तखराज : अलाउद्दीन खलजी",
+          "दीवान-ए-कोही : मुहम्मद बिन तुगलक",
+          "दीवान-ए-खैरात : फिरोजशाह तुगलक"
+        ],
+        "answer": "Diwan-i-Mustkharaj : Alauddin Khalji"
+      },
+      {
+        "serial_no": 92,
+        "question": "Which of the following rulers was called 'Sarvakshatrantak' in Puranas?",
+        "question_hindi": "निम्न में से किस शासक को पुराणों में 'सर्वक्षत्रान्तक' कहा गया है?",
+        "options": [
+          "Bimbisara",
+          "Ajatashatru",
+          "Shishunaga",
+          "Mahapadma Nanda"
+        ],
+        "options_hindi": [
+          "बिम्बिसार",
+          "अजातशत्रु",
+          "शिशुनाग",
+          "महापदमनन्द"
+        ],
+        "answer": "Mahapadma Nanda"
+      },
+      {
+        "serial_no": 93,
+        "question": "From Column-I and Column-II, choose the correct pair: Column-I: A. Measurement of NI by Dadabhai Naoroji, B. Establishment of CSO, C. New Economic Policy, D. CACP; Column-II: i. 1917-18, ii. 1948, iii. 1951, iv. 1965",
+        "question_hindi": "सूची-I और सूची-II से सही युग्म चुनिए: सूची-I: A. दादाभाई नौरोजी द्वारा NI का मापन, B. CSO की स्थापना, C. नई आर्थिक नीति, D. CACP; सूची-II: i. 1917-18, ii. 1948, iii. 1951, iv. 1965",
+        "options": [
+          "A-i",
+          "B-ii",
+          "C-iii",
+          "D-iv"
+        ],
+        "options_hindi": [
+          "A-i",
+          "B-ii",
+          "C-iii",
+          "D-iv"
+        ],
+        "answer": "D-iv"
+      },
+      {
+        "serial_no": 94,
+        "question": "Which of the following pairs are correctly matched? A. Minhaj-us-Siraj : Tabkat-i-Nasiri, B. Ziauddin Barani : Tarikh-i-Firozshahi, C. Amir Khusrau : Futuh-us-Salatin, D. Badayuni : Muntakhab-ut-Tawarikh",
+        "question_hindi": "निम्न में से कौन-से युग्म सही सुमेलित हैं? A. मिन्हाज-उस-सिराज : तबकात-ए-नासिरी, B. जियाउद्दीन बरनी : तारीख-ए-फिरोजशाही, C. अमीर खुसरो : फुतूह-उस-सलातिन, D. बदायूँनी : मुन्तखब-उत-तवारीख",
+        "options": [
+          "A, B, D",
+          "A, C",
+          "A, B, C",
+          "A, B"
+        ],
+        "options_hindi": [
+          "A, B, D",
+          "A, C",
+          "A, B, C",
+          "A, B"
+        ],
+        "answer": "A, B, D"
+      },
+      {
+        "serial_no": 95,
+        "question": "Match the following: Factor (i) Labour (ii) Land (iii) Capital (iv) Entrepreneurship with Return (A) Profit (B) Rent (C) Wage (D) Interest",
+        "question_hindi": "निम्नलिखित को सुमेलित कीजिये: साधन (i) श्रम (ii) भूमि (iii) पूँजी (iv) उद्यमशीलता का प्रतिफल (A) लाभ (B) लगान (C) मजदूरी (D) ब्याज से सुमेलन कीजिए।",
+        "options": [
+          "A-i, B-ii, C-iii, D-iv",
+          "A-iv, B-iii, C-ii, D-i",
+          "A-iv, B-ii, C-i, D-iii",
+          "A-i, B-iii, C-ii, D-iv"
+        ],
+        "options_hindi": [
+          "A-i, B-ii, C-iii, D-iv",
+          "A-iv, B-iii, C-ii, D-i",
+          "A-iv, B-ii, C-i, D-iii",
+          "A-i, B-iii, C-ii, D-iv"
+        ],
+        "answer": "A-iv, B-ii, C-i, D-iii"
+      },
+      {
+        "serial_no": 96,
+        "question": "In criticism of democracy who said 'Liberal or thin democracy is contributing to growing cynicism about politics and the paralysis of public institutions'?",
+        "question_hindi": "लोकतंत्र की आलोचना में किसने कहा कि 'उदार या पतला लोकतंत्र राजनीति के बारे में बढ़ती संशय और सार्वजनिक संस्थानों की पंगुता में योगदान दे रहा है'?",
+        "options": [
+          "Benjamin Barber",
+          "C. Wright Mills",
+          "Bernard Crick",
+          "J. J. Rousseau"
+        ],
+        "options_hindi": [
+          "बेंजामिन बार्बर",
+          "सी० राइट मिल्स",
+          "बर्नार्ड क्रिक",
+          "जे० जे० रूसो"
+        ],
+        "answer": "Benjamin Barber"
+      },
+      {
+        "serial_no": 97,
+        "question": "Identify the apex institution for rural financing in India:",
+        "question_hindi": "भारत में ग्रामीण वित्त के लिए शीर्ष संस्था की पहचान कीजिये:",
+        "options": [
+          "IDBI",
+          "NABARD",
+          "SIDBI",
+          "HSCARDBL"
+        ],
+        "options_hindi": [
+          "आईडीबीआई",
+          "नाबार्ड",
+          "सिडबी",
+          "हरियाणा स्टेट कोऑपरेटिव एग्रीकल्चर एण्ड रूरल डेवलपमेंट बैंक लिमिटेड"
+        ],
+        "answer": "NABARD"
+      },
+      {
+        "serial_no": 98,
+        "question": "When there is no work to do on farms, people go to urban areas to look for jobs. This kind of unemployment is known as:",
+        "question_hindi": "जब खेतों में करने के लिए कोई काम न हो और लोग नौकरी की तलाश में नगरीय क्षेत्रों की ओर जाते हैं। इस प्रकार की बेरोजगारी कहलाती है:",
+        "options": [
+          "Structural unemployment",
+          "Disguised unemployment",
+          "Seasonal unemployment",
+          "Cyclical unemployment"
+        ],
+        "options_hindi": [
+          "संरचनात्मक बेरोजगारी",
+          "छिपी बेरोजगारी",
+          "मौसमी बेरोजगारी",
+          "चक्रीय बेरोजगारी"
+        ],
+        "answer": "Seasonal unemployment"
+      },
+      {
+        "serial_no": 99,
+        "question": "Which of the following pairs are correctly matched? A. Ashoka : Nigrodha, B. Menander : Nagasena, C. Kanishka : Mahakassapa, D. Harsha : Huentsang",
+        "question_hindi": "निम्नलिखित में से कौन-से युग्म सही सुमेलित हैं? A. अशोक : निग्रोध, B. मिनेन्डर : नागसेन, C. कनिष्क : महाकस्सप, D. हर्ष : हेनसांग",
+        "options": [
+          "A, B, C",
+          "A, B, D",
+          "Only A, B",
+          "A, B, C and D"
+        ],
+        "options_hindi": [
+          "A, B, C",
+          "A, B, D",
+          "केवल A, B",
+          "A, B, C और D"
+        ],
+        "answer": "A, B, D"
+      },
+      {
+        "serial_no": 100,
+        "question": "Who held that 'The notion of sovereignty must be expunged from political theory'?",
+        "question_hindi": "किसने माना कि 'सार्वभौमिकता की धारणा को राजनीतिक सिद्धांत से हटा दिया जाना चाहिए'?",
+        "options": [
+          "Lindsay",
+          "Barker",
+          "H. J. Laski",
+          "Krabbe"
+        ],
+        "options_hindi": [
+          "लिंडसे",
+          "बार्कर",
+          "एच० जे० लास्की",
+          "क्रैबे"
+        ],
+        "answer": "Krabbe"
+      },
+      {
+        "serial_no": 101,
+        "question": "In which category has Haryana been in the 'SDG India Index-3.0' report?",
+        "question_hindi": "'एस० डी० जी० इण्डिया इण्डेक्स-3.0' रिपोर्ट में हरियाणा किस श्रेणी में रहा है?",
+        "options": [
+          "Achiever (100)",
+          "Front runner (65-99)",
+          "Performer (50-64)",
+          "Aspirant (0-49)"
+        ],
+        "options_hindi": [
+          "अचीवर (100)",
+          "फ्रंट रनर (65-99)",
+          "परफॉर्मर (50-64)",
+          "एस्पिरेंट (0-49)"
+        ],
+        "answer": "Front runner (65-99)"
+      },
+      {
+        "serial_no": 102,
+        "question": "Water freezes at:",
+        "question_hindi": "पानी जमता है:",
+        "options": [
+          "0°C",
+          "5°C",
+          "15°C",
+          "100°C"
+        ],
+        "options_hindi": [
+          "0°C पर",
+          "5°C पर",
+          "15°C पर",
+          "100°C पर"
+        ],
+        "answer": "0°C"
+      },
+      {
+        "serial_no": 103,
+        "question": "Major human activity in Ladakh is:",
+        "question_hindi": "लद्दाख की मुख्य मानव गतिविधि है:",
+        "options": [
+          "Tourism",
+          "Agriculture",
+          "Mining",
+          "Industry"
+        ],
+        "options_hindi": [
+          "पर्यटन",
+          "कृषि",
+          "खनन",
+          "उद्योग"
+        ],
+        "answer": "Tourism"
+      },
+      {
+        "serial_no": 104,
+        "question": "Which of the following is true regarding theory of representation? A. Characteristic representation believes that only people who are drawn from a particular group can genuinely articulate its interests. B. Mandate doctrine believes in popular guidance to those who exercise government power.",
+        "question_hindi": "निम्नलिखित में से कौन प्रतिनिधित्व के सिद्धांत के संदर्भ में सही है? A. कैरेक्टरिस्टिक प्रतिनिधित्व सिद्धांत विश्वास करता है कि केवल वे लोग ही जो किसी विशेष समूह से आते हैं, वास्तव में उसके हितों को स्पष्ट कर सकते हैं। B. मैंडेट सिद्धांत का विश्वास है कि सरकारी सत्ता का प्रयोग करने वालों के लिए लोकप्रिय मार्गदर्शन होना चाहिए।",
+        "options": [
+          "Only A",
+          "None",
+          "Only B",
+          "Both A, B"
+        ],
+        "options_hindi": [
+          "केवल A",
+          "कोई नहीं",
+          "केवल B",
+          "A, B दोनों"
+        ],
+        "answer": "Both A, B"
+      },
+      {
+        "serial_no": 105,
+        "question": "In which of the following states is the Indus Valley Civilization site 'Juni-Kuran' located?",
+        "question_hindi": "निम्नलिखित में से किस राज्य में सिन्धु घाटी सभ्यता का स्थल 'जूनी-कुरन' अवस्थित है?",
+        "options": [
+          "Gujarat",
+          "Maharashtra",
+          "Uttar Pradesh",
+          "Punjab"
+        ],
+        "options_hindi": [
+          "गुजरात",
+          "महाराष्ट्र",
+          "उत्तर प्रदेश",
+          "पंजाब"
+        ],
+        "answer": "Gujarat"
+      },
+      {
+        "serial_no": 106,
+        "question": "What is the name given to the full moon night?",
+        "question_hindi": "पूर्ण चंद्रमा रात्रि को क्या नाम दिया गया है?",
+        "options": [
+          "Amavasya",
+          "Poornima",
+          "Both (1) & (2) are right",
+          "Both (1) & (2) are wrong"
+        ],
+        "options_hindi": [
+          "अमावस्या",
+          "पूर्णिमा",
+          "(1) एवं (2) दोनों सही हैं",
+          "(1) एवं (2) दोनों गलत हैं"
+        ],
+        "answer": "Poornima"
+      },
+      {
+        "serial_no": 107,
+        "question": "Which one (Author-Books) is not in right combination?",
+        "question_hindi": "कौन-सा (लेखक-पुस्तकें) सही संयोजन में नहीं है?",
+        "options": [
+          "Germaine Greer - The Female Eunuch",
+          "Simone de Beauvoir - Sexual Politics",
+          "Betty Friedan - The Feminine Mystique",
+          "Naomi Wolf - Fire with Fire"
+        ],
+        "options_hindi": [
+          "जर्मेन ग्रीर - 'द फीमेल यूनुच'",
+          "सिमोन डी ब्यूवोइर - 'सेक्शुअल पॉलिटिक्स'",
+          "बेट्टी फ्रीडन - 'द फेमिनिन मिस्टिक'",
+          "नाओमी वुल्फ - 'फायर विद फायर'"
+        ],
+        "answer": "Simone de Beauvoir - Sexual Politics"
+      },
+      {
+        "serial_no": 108,
+        "question": "Hot and dry local wind of Northern Plains of India is called:",
+        "question_hindi": "भारत के उत्तरी मैदानों की गर्म एवं शुष्क स्थानीय हवा कहलाती है:",
+        "options": [
+          "Loo",
+          "Monsoon",
+          "Trade Winds",
+          "All options are wrong"
+        ],
+        "options_hindi": [
+          "लू",
+          "मानसून",
+          "व्यापारिक पवनें",
+          "सभी विकल्प गलत हैं"
+        ],
+        "answer": "Loo"
+      },
+      {
+        "serial_no": 109,
+        "question": "Match the following List-I with List-II: List-I: A. Brihadeshwar Temple of Tanjore, B. Dashavatar Temple of Devgarh, C. Kailash Temple of Ellora, D. Kandariya Mahadeva Temple of Khajuraho; List-II: i. Gupta Dynasty, ii. Rashtrakuta Dynasty, iii. Chola Dynasty, iv. Chandela Dynasty",
+        "question_hindi": "सूची-I और सूची-II को सुमेलित कीजिए: सूची-I: A. तंजोर का बृहदेश्वर मंदिर, B. देवगढ़ का दशावतार मंदिर, C. एलोरा का कैलाश मंदिर, D. खजुराहो का कंदारिया महादेव मंदिर; सूची-II: i. गुप्त वंश, ii. राष्ट्रकूट वंश, iii. चोल वंश, iv. चंदेल वंश",
+        "options": [
+          "A-ii, B-i, C-iii, D-iv",
+          "A-ii, B-iv, C-iii, D-i",
+          "A-iii, B-i, C-ii, D-iv",
+          "A-iii, B-ii, C-i, D-iv"
+        ],
+        "options_hindi": [
+          "A-ii, B-i, C-iii, D-iv",
+          "A-ii, B-iv, C-iii, D-i",
+          "A-iii, B-i, C-ii, D-iv",
+          "A-iii, B-ii, C-i, D-iv"
+        ],
+        "answer": "A-iii, B-i, C-ii, D-iv"
+      },
+      {
+        "serial_no": 110,
+        "question": "The celestial bodies which have their own heat and light, are called as:",
+        "question_hindi": "वे खगोलीय पिंड जिनकी अपनी ऊष्मा व प्रकाश होता है, कहलाते हैं:",
+        "options": [
+          "Planets",
+          "Stars",
+          "Satellites",
+          "All options are right"
+        ],
+        "options_hindi": [
+          "ग्रह",
+          "तारे",
+          "उपग्रह",
+          "सभी विकल्प सही हैं"
+        ],
+        "answer": "Stars"
+      },
+      {
+        "serial_no": 111,
+        "question": "In critique of nationalism who said 'Patriotism cannot be our final spiritual shelter; my refuge is humanity. I will not buy glass for the price of diamonds, and I will never allow patriotism to triumph over humanity as long as I live'?",
+        "question_hindi": "राष्ट्रवाद की आलोचना करते हुए किसने कहा था कि 'देशभक्ति हमारा अंतिम आध्यात्मिक आश्रय नहीं हो सकता; मेरा आश्रय मानवता है। मैं हीरे की कीमत पर कांच नहीं खरीदूंगा, और जब तक मैं जीवित हूँ, मैं देशभक्ति को मानवता पर हावी नहीं होने दूंगा'?",
+        "options": [
+          "Mahatma Gandhi",
+          "Rabindranath Tagore",
+          "Bertrand Russell",
+          "Aurobindo Ghosh"
+        ],
+        "options_hindi": [
+          "महात्मा गाँधी",
+          "रवीन्द्रनाथ टैगोर",
+          "बर्ट्रेंड रसेल",
+          "अरविंदो घोष"
+        ],
+        "answer": "Rabindranath Tagore"
+      },
+      {
+        "serial_no": 112,
+        "question": "Who described freedom as 'silence of laws'?",
+        "question_hindi": "किसने स्वतंत्रता को 'कानूनों की चुप्पी' के रूप में वर्णित किया है?",
+        "options": [
+          "Thomas Hobbes",
+          "Isaiah Berlin",
+          "Bertrand Russell",
+          "John Locke"
+        ],
+        "options_hindi": [
+          "थॉमस हॉब्स",
+          "इजैया बर्लिन",
+          "बर्ट्रेंड रसेल",
+          "जॉन लॉक"
+        ],
+        "answer": "Thomas Hobbes"
+      },
+      {
+        "serial_no": 113,
+        "question": "Which of the following is not an indicator of Human Development?",
+        "question_hindi": "निम्नलिखित में से कौन-सा मानव विकास का सूचक नहीं है?",
+        "options": [
+          "PQLI",
+          "HDI",
+          "BSE",
+          "Per Capita Income"
+        ],
+        "options_hindi": [
+          "पी० क्यू० एल० आई०",
+          "एच० डी० आई०",
+          "बी० एस० ई०",
+          "प्रति व्यक्ति आय"
+        ],
+        "answer": "BSE"
+      },
+      {
+        "serial_no": 114,
+        "question": "Which of the following is called the Prime Meridian?",
+        "question_hindi": "निम्नलिखित में से कौन-सी प्रधान याम्योत्तर रेखा कहलाती है?",
+        "options": [
+          "23°30' North",
+          "23°30' South",
+          "82°30' East",
+          "0° Longitude"
+        ],
+        "options_hindi": [
+          "23°30' उत्तरी",
+          "23°30' दक्षिणी",
+          "82°30' पूर्वी",
+          "0° देशांतर"
+        ],
+        "answer": "0° Longitude"
+      },
+      {
+        "serial_no": 115,
+        "question": "Which planet does not have rings around it?",
+        "question_hindi": "कौन-सा ग्रह अपने चारों ओर वलय नहीं रखता है?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Uranus",
+          "Earth"
+        ],
+        "options_hindi": [
+          "बृहस्पति",
+          "शनि",
+          "अरुण",
+          "पृथ्वी"
+        ],
+        "answer": "Earth"
+      },
+      {
+        "serial_no": 116,
+        "question": "Arrange the food security related programs in India in chronological order: A. Targeted Public Distribution System (TPDS), B. Antyodaya Anna Yojana, C. Integrated Food Security Scheme, D. Food Security Act",
+        "question_hindi": "भारत में खाद्य सुरक्षा संबन्धी कार्यक्रमों को काल-क्रमानुसार व्यवस्थित कीजिए: A. लक्षित सार्वजनिक वितरण प्रणाली, B. अन्त्योदय अन्न योजना, C. एकीकृत खाद्य सुरक्षा योजना, D. खाद्य सुरक्षा अधिनियम",
+        "options": [
+          "A B C D",
+          "A B D C",
+          "D C A B",
+          "B A C D"
+        ],
+        "options_hindi": [
+          "A B C D",
+          "A B D C",
+          "D C A B",
+          "B A C D"
+        ],
+        "answer": "A B C D"
+      },
+      {
+        "serial_no": 117,
+        "question": "Which one is not written by Dr. Bhim Rao Ambedkar?",
+        "question_hindi": "इनमें से कौन-सी रचना डॉ० भीमराव अम्बेडकर द्वारा नहीं लिखी गई है?",
+        "options": [
+          "Annihilation of Caste",
+          "Untouchable",
+          "Who were the Shudras?",
+          "Riddles in Hinduism"
+        ],
+        "options_hindi": [
+          "जाति का उन्मूलन",
+          "अछूत",
+          "शूद्र कौन थे?",
+          "हिंदू धर्म में पहेलियाँ"
+        ],
+        "answer": "Untouchable"
+      },
+      {
+        "serial_no": 118,
+        "question": "Which of the following Pratihara rulers assumed the title of 'Adivaraha'?",
+        "question_hindi": "निम्न में से किस प्रतिहार शासक ने 'आदिवराह' की उपाधि धारण की थी?",
+        "options": [
+          "Nagabhatta II",
+          "Mihirbhoj",
+          "Mahipala",
+          "Mahendrapala"
+        ],
+        "options_hindi": [
+          "नागभट्ट II",
+          "मिहिरभोज",
+          "महीपाल",
+          "महेन्द्रपाल"
+        ],
+        "answer": "Mihirbhoj"
+      },
+      {
+        "serial_no": 119,
+        "question": "Which one/ones are function/power of the Security Council of UNO? A. To investigate any dispute which might lead to international friction. B. To recommend the admission of new Members. C. To bring issues threatening the maintenance of peace and security to the attention of other United Nations organs.",
+        "question_hindi": "यू० एन० ओ० की सुरक्षा परिषद् के कार्य/शक्तियाँ कौन-कौन-से हैं? A. किसी भी विवाद की जाँच करना जिससे अंतर्राष्ट्रीय घर्षण हो सकता है। B. नये सदस्यों के प्रवेश की सिफारिश करना। C. शांति और सुरक्षा के रख-रखाव को खतरे में डालने वाले मुद्दों को संयुक्त राष्ट्र के अन्य अंगों के ध्यान में लाना।",
+        "options": [
+          "Only A",
+          "Only A, C",
+          "Only B, C",
+          "Only A, B"
+        ],
+        "options_hindi": [
+          "केवल A",
+          "केवल A, C",
+          "केवल B, C",
+          "केवल A, B"
+        ],
+        "answer": "Only A, B"
+      },
+      {
+        "serial_no": 120,
+        "question": "Which of the following is/are issued by the RBI and acts as legal tender money? (A) Demand deposits (B) Coins of all denomination (C) Currency notes of various denominations, except one rupee note (D) One rupee currency notes",
+        "question_hindi": "निम्नलिखित में से कौन-सा/से आर० बी० आई० द्वारा जारी किया जाता है/जाते हैं और कानूनी वैध मुद्रा के रूप में कार्य करता है/करते हैं? (A) माँग जमाएँ (B) सभी मूल्यवर्ग के सिक्के (C) एक रुपये के अतिरिक्त सभी मूल्यवर्ग के करेंसी नोट (D) एक रुपये का करेंसी नोट",
+        "options": [
+          "Only (A) and (C) are correct",
+          "Only (B) and (C) are correct",
+          "Only (C) is correct",
+          "Only (D) is correct"
+        ],
+        "options_hindi": [
+          "केवल (A) एवम् (C) सही हैं।",
+          "केवल (B) एवम् (C) सही हैं।",
+          "केवल (C) सही है।",
+          "केवल (D) सही है।"
+        ],
+        "answer": "Only (B) and (C) are correct"
+      },
+      {
+        "serial_no": 121,
+        "question": "Which of the following pairs is incompatible?",
+        "question_hindi": "निम्नलिखित में से कौन-सा युग्म असंगत है?",
+        "options": [
+          "Kanpur : Nana Saheb",
+          "Lucknow : Hazrat Mahal",
+          "Faizabad : Maulvi Ahmad Ullah",
+          "Bareilly : Begum Zeenat Mahal"
+        ],
+        "options_hindi": [
+          "कानपुर : नानासाहब",
+          "लखनऊ : हजरत महल",
+          "फैजाबाद : मौलवी अहमद उल्लाह",
+          "बरेली : बेगम जीनत महल"
+        ],
+        "answer": "Bareilly : Begum Zeenat Mahal"
+      },
+      {
+        "serial_no": 122,
+        "question": "Which agreement/s are signed between India and USA? A. Basic Exchange and Cooperation Agreement for Geospatial Intelligence (BECA). B. General Security of Military Information Agreement (GSOMIA). C. Logistics Exchange Memorandum of Agreement (LEMOA).",
+        "question_hindi": "भारत और अमेरिका के बीच कौन-से समझौते पर हस्ताक्षर हुए हैं? A. भू-स्थानिक इंटेलिजेंस के लिए बुनियादी विनियम और सहयोग समझौता (बी ई सी ए)। B. सैन्य सूचना समझौते की सामान्य सुरक्षा (जी एस ओ एम आई ए)। C. लॉजिस्टिक्स एक्सचेंज मेमोरैंडम ऑफ एग्रीमेंट (एल ई एम ओ ए)।",
+        "options": [
+          "Only C",
+          "Only A, C",
+          "All A, B, C",
+          "Only A, B"
+        ],
+        "options_hindi": [
+          "केवल C",
+          "केवल A, C",
+          "A, B, C सभी",
+          "केवल A, B"
+        ],
+        "answer": "All A, B, C"
+      },
+      {
+        "serial_no": 123,
+        "question": "In which country the term 'Cohabitation' is used to define system of divided government?",
+        "question_hindi": "किस देश में 'कोहेबिटेशन' शब्द का प्रयोग विभाजित सरकार की व्यवस्था को परिभाषित करने के लिए किया जाता है?",
+        "options": [
+          "France",
+          "U. K.",
+          "USA",
+          "Italy"
+        ],
+        "options_hindi": [
+          "फ्रांस",
+          "यू० के०",
+          "यू० एस० ए०",
+          "इटली"
+        ],
+        "answer": "France"
+      },
+      {
+        "serial_no": 124,
+        "question": "Maps that focus on specific information, is called:",
+        "question_hindi": "वे मानचित्र जो विशेष सूचना/जानकारी पर केन्द्रित होते हैं, उन्हें क्या कहते हैं?",
+        "options": [
+          "Thematic Map",
+          "Physical Map",
+          "Political Map",
+          "All options are right"
+        ],
+        "options_hindi": [
+          "विषयागत मानचित्र",
+          "भौतिक मानचित्र",
+          "राजनीतिक मानचित्र",
+          "सभी विकल्प सही हैं"
+        ],
+        "answer": "Thematic Map"
+      },
+      {
+        "serial_no": 125,
+        "question": "Find the missing figures in given example of credit creation and choose the correct option: Round I: Deposits 1000, Loans 800, Reserve Ratio 20% (i) __? Round II: Deposits 800, Loans (ii) __?, Reserve 160 Round III: Deposits (iii) __?, Loans 512, Reserve (iv) __? Round IV: Deposits 512, Loans 409.6, Reserve 102.4",
+        "question_hindi": "साख सृजन के प्रस्तुत उदाहरण में अज्ञात संख्याओं को ज्ञात करें और सही विकल्प चुनें: चरण I: जमाएँ 1000, ऋण 800, आरक्षित 200 चरण II: जमाएँ 800, ऋण (ii) __?, आरक्षित 160 चरण III: जमाएँ (iii) __?, ऋण 512, आरक्षित (iv) __? चरण IV: जमाएँ 512, ऋण 409.6, आरक्षित 102.4",
+        "options": [
+          "(i) 200, (ii) 640, (iii) 580, (iv) 68",
+          "(i) 200, (ii) 580, (iii) 580, (iv) 68",
+          "(i) 200, (ii) 640, (iii) 640, (iv) 128",
+          "(i) 200, (ii) 580, (iii) 640, (iv) 128"
+        ],
+        "options_hindi": [
+          "(i) 200, (ii) 640, (iii) 580, (iv) 68",
+          "(i) 200, (ii) 580, (iii) 580, (iv) 68",
+          "(i) 200, (ii) 640, (iii) 640, (iv) 128",
+          "(i) 200, (ii) 580, (iii) 640, (iv) 128"
+        ],
+        "answer": "(i) 200, (ii) 640, (iii) 640, (iv) 128"
+      },
+      {
+        "serial_no": 126,
+        "question": "How many Nationalized Banks are there, in India (September, 2023)?",
+        "question_hindi": "भारत में (सितम्बर, 2023) कितने राष्ट्रीयकृत बैंक हैं?",
+        "options": [
+          "8",
+          "10",
+          "12",
+          "14"
+        ],
+        "options_hindi": [
+          "8",
+          "10",
+          "12",
+          "14"
+        ],
+        "answer": "12"
+      },
+      {
+        "serial_no": 127,
+        "question": "Who among the following painted the picture titled 'The Last Judgment'?",
+        "question_hindi": "निम्न में से किसने 'अंतिम निर्णय' नामक चित्र बनाया था?",
+        "options": [
+          "Leonardo da Vinci",
+          "Michelangelo",
+          "Raphael",
+          "Masaccio"
+        ],
+        "options_hindi": [
+          "लियोनार्दो दा विंची",
+          "माइकल एंजेलो",
+          "राफेल",
+          "मेसाशियो"
+        ],
+        "answer": "Michelangelo"
+      },
+      {
+        "serial_no": 128,
+        "question": "Whose among the following contributed to the establishment of the Swaraj Party in 1923?",
+        "question_hindi": "निम्न में से किनका 1923 में 'स्वराज पार्टी' की स्थापना में योगदान था?",
+        "options": [
+          "Motilal Nehru and Chittaranjan Das",
+          "Jawaharlal Nehru and Subhash Chandra Bose",
+          "Bhagat Singh and Chandra Shekhar Azad",
+          "Rammanohar Lohia and Jai Prakash Narayan"
+        ],
+        "options_hindi": [
+          "मोतीलाल नेहरू और चितरंजन दास",
+          "जवाहरलाल नेहरू और सुभाष चन्द्र बोस",
+          "भगत सिंह और चन्द्रशेखर आजाद",
+          "राममनोहर लोहिया और जयप्रकाश नारायण"
+        ],
+        "answer": "Motilal Nehru and Chittaranjan Das"
+      },
+      {
+        "serial_no": 129,
+        "question": "Which of the following is the basis for constructing Indifference Curve (IC)?",
+        "question_hindi": "निम्नलिखित में से कौन-सा तटस्थता वक्र (IC) के निर्माण का आधार होता है?",
+        "options": [
+          "Consumer's Income",
+          "Absolute prices of two goods",
+          "Relative prices of two goods",
+          "Consumer preference scale"
+        ],
+        "options_hindi": [
+          "उपभोक्ता की आय",
+          "दो वस्तुओं की निरपेक्ष कीमतें",
+          "दो वस्तुओं की सापेक्ष कीमतें",
+          "उपभोक्ता के अधिमान का पैमाना"
+        ],
+        "answer": "Consumer preference scale"
+      },
+      {
+        "serial_no": 130,
+        "question": "Which sentence regarding environmentalism is not correct? A. Arne Naess is considered as father of deep ecology. B. Murray Bookchin is the inventor of Gaia hypothesis. C. Term ecology is derived from Latin word Oikos.",
+        "question_hindi": "पर्यावरणवाद के संबंध में कौन-सा वाक्य सही नहीं है? A. आर्ने नैस को गहन पारिस्थितिकी का जनक माना जाता है। B. मुरे बुकचिन गैया परिकल्पना के आविष्कारक हैं। C. पारिस्थितिकी शब्द लैटिन शब्द ओइकोस से लिया गया है।",
+        "options": [
+          "Only C",
+          "Only A, C",
+          "Only B, C",
+          "All A, B, C"
+        ],
+        "options_hindi": [
+          "केवल C",
+          "केवल A, C",
+          "केवल B, C",
+          "A, B, C सभी"
+        ],
+        "answer": "Only B, C"
+      },
+      {
+        "serial_no": 131,
+        "question": "Genghis Khan belonged to which of the following Mongol Clans?",
+        "question_hindi": "चंगेज खान निम्न में से किस मंगोल वंश से सम्बन्धित था?",
+        "options": [
+          "Borjigid",
+          "Khalkha",
+          "Bayads",
+          "Hamnigan"
+        ],
+        "options_hindi": [
+          "बोरजिगिद",
+          "खालखा",
+          "बयादस",
+          "हम्नीगान"
+        ],
+        "answer": "Borjigid"
+      },
+      {
+        "serial_no": 132,
+        "question": "Who is the President of 78th Session of United Nation's General Assembly?",
+        "question_hindi": "संयुक्त राष्ट्र महासभा के 78वें सत्र के अध्यक्ष कौन हैं?",
+        "options": [
+          "M. Csaba Kőrösi",
+          "Sam Kutesa",
+          "M. Dennis Francis",
+          "Peter Thomson"
+        ],
+        "options_hindi": [
+          "एम० सीसाबा कोरोसी",
+          "सैम कुटेसा",
+          "एम० डेनिस फ्रांसिस",
+          "पीटर थॉमसन"
+        ],
+        "answer": "M. Dennis Francis"
+      },
+      {
+        "serial_no": 133,
+        "question": "What will be the elasticity of demand for a product, if it has multiple uses?",
+        "question_hindi": "एक वस्तु के कई उपयोग होने की दशा में उसकी माँग की लोच कैसी होगी?",
+        "options": [
+          "e > 1",
+          "e < 1",
+          "e = 0",
+          "e = ∞"
+        ],
+        "options_hindi": [
+          "e > 1",
+          "e < 1",
+          "e = 0",
+          "e = ∞"
+        ],
+        "answer": "e > 1"
+      },
+      {
+        "serial_no": 134,
+        "question": "What is the National Consumer Helpline (NCH) Number with the motto 'Jaago Grahak Jaago'?",
+        "question_hindi": "'जागो ग्राहक जागो' ध्येय वाक्य के साथ राष्ट्रीय उपभोक्ता हेल्पलाइन (एन० सी० एच०) नम्बर क्या है?",
+        "options": [
+          "1800-3000-145",
+          "1857",
+          "2014",
+          "1915"
+        ],
+        "options_hindi": [
+          "1800-3000-145",
+          "1857",
+          "2014",
+          "1915"
+        ],
+        "answer": "1800-3000-145"
+      },
+      {
+        "serial_no": 135,
+        "question": "Which one is not a qualitative method of distribution maps?",
+        "question_hindi": "वितरण मानचित्र की निम्न में कौन-सी एक गुणात्मक विधि नहीं है?",
+        "options": [
+          "Chorochromatic Method",
+          "Choroschematic Method",
+          "Tint Method",
+          "Choropleth method"
+        ],
+        "options_hindi": [
+          "कोरोक्रोमैटिक विधि",
+          "कोरोशीमैटिक विधि",
+          "टिंट विधि",
+          "कोरोप्लेथ विधि"
+        ],
+        "answer": "Choropleth method"
+      },
+      {
+        "serial_no": 136,
+        "question": "Which is the right order of milestone events of UNO formation? A. Inter-Allied Declaration, B. Yalta Conference, C. Dumbarton Oaks Conference",
+        "question_hindi": "यू० एन० ओ० की स्थापना के मील के पत्थर घटनाओं का सही क्रम कौन-सा है? A. अंतर-संबद्ध घोषणा, B. याल्टा सम्मेलन, C. डम्बर्टन ओक्स सम्मेलन",
+        "options": [
+          "A, B, C",
+          "B, A, C",
+          "A, C, B",
+          "C, A, B"
+        ],
+        "options_hindi": [
+          "A, B, C",
+          "B, A, C",
+          "A, C, B",
+          "C, A, B"
+        ],
+        "answer": "A, C, B"
+      },
+      {
+        "serial_no": 137,
+        "question": "Which one is considered an example of 'Coalitional Presidentialism'?",
+        "question_hindi": "किसे 'गठबंधनात्मक राष्ट्रपति शासन' का उदाहरण माना जाता है?",
+        "options": [
+          "Mexico",
+          "South Africa",
+          "Brazil",
+          "USA"
+        ],
+        "options_hindi": [
+          "मेक्सिको",
+          "दक्षिण अफ्रीका",
+          "ब्राजील",
+          "यू० एस० ए०"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "serial_no": 138,
+        "question": "The states in India have been formed mainly on the basis of:",
+        "question_hindi": "भारत में राज्यों का गठन मुख्य रूप से किसके आधार पर किया गया है?",
+        "options": [
+          "Religion",
+          "Languages",
+          "Castes",
+          "Culture"
+        ],
+        "options_hindi": [
+          "धर्म",
+          "भाषा",
+          "जाति",
+          "संस्कृति"
+        ],
+        "answer": "Languages"
+      },
+      {
+        "serial_no": 139,
+        "question": "Arrange the following in correct chronological order: A. Battle of Porto Novo, B. Battle of Plassey, C. Battle of Wandiwash, D. Battle of Buxar",
+        "question_hindi": "निम्नलिखित को सही कालक्रम में व्यवस्थित कीजिए: A. पोर्टो नोवो का युद्ध, B. प्लासी का युद्ध, C. वाण्डीवाश का युद्ध, D. बक्सर का युद्ध",
+        "options": [
+          "B, D, A, C",
+          "B, C, D, A",
+          "C, B, A, D",
+          "C, A, D, B"
+        ],
+        "options_hindi": [
+          "B, D, A, C",
+          "B, C, D, A",
+          "C, B, A, D",
+          "C, A, D, B"
+        ],
+        "answer": "B, C, D, A"
+      },
+      {
+        "serial_no": 140,
+        "question": "Who among the following was not the chairman/member of the State Reorganization Commission formed in 1953?",
+        "question_hindi": "निम्नलिखित में से कौन 1953 में गठित 'राज्य पुनर्गठन आयोग' का अध्यक्ष/सदस्य नहीं था?",
+        "options": [
+          "Fazal Ali",
+          "K. M. Munshi",
+          "Hridaynath Kunzru",
+          "K. M. Pannikar"
+        ],
+        "options_hindi": [
+          "फजल अली",
+          "के० एम० मुंशी",
+          "हृदयनाथ कुंजरू",
+          "के० एम० पणिक्कर"
+        ],
+        "answer": "K. M. Pannikar"
+      },
+      {
+        "serial_no": 141,
+        "question": "Which of the following festivals was considered very important in Hampi?",
+        "question_hindi": "निम्न में से कौन-सा पर्व हम्पी में अत्यंत महत्वपूर्ण माना जाता था?",
+        "options": [
+          "Mahanavami",
+          "Holi",
+          "Onam",
+          "Diwali"
+        ],
+        "options_hindi": [
+          "महानवमी",
+          "होली",
+          "ओणम",
+          "दिवाली"
+        ],
+        "answer": "Mahanavami"
+      },
+      {
+        "serial_no": 142,
+        "question": "Which is the first private sector train of India?",
+        "question_hindi": "भारत की पहली निजी क्षेत्र की रेलगाड़ी कौन-सी है?",
+        "options": [
+          "Vande Bharat",
+          "Tejas Express",
+          "Gareeb Rath",
+          "Rajdhani Express"
+        ],
+        "options_hindi": [
+          "वन्दे भारत",
+          "तेजस एक्सप्रेस",
+          "गरीब रथ",
+          "राजधानी एक्सप्रेस"
+        ],
+        "answer": "Tejas Express"
+      },
+      {
+        "serial_no": 143,
+        "question": "Which of the following countries established the International African Association in 1876?",
+        "question_hindi": "निम्न में से किस देश ने 1876 ई० में 'अन्तर्राष्ट्रीय अफ्रीकी संघ' की स्थापना की थी?",
+        "options": [
+          "England",
+          "Portugal",
+          "Belgium",
+          "Turkey"
+        ],
+        "options_hindi": [
+          "इंग्लैण्ड",
+          "पुर्तगाल",
+          "बेल्जियम",
+          "तुर्की"
+        ],
+        "answer": "Belgium"
+      },
+      {
+        "serial_no": 144,
+        "question": "Direct rays of the sun fall on the Tropic of Cancer on:",
+        "question_hindi": "कर्क रेखा पर सूर्य की किरणें सीधी गिरती है:",
+        "options": [
+          "21st March",
+          "21st June",
+          "22nd December",
+          "23rd September"
+        ],
+        "options_hindi": [
+          "21 मार्च को",
+          "21 जून को",
+          "22 दिसम्बर को",
+          "23 सितम्बर को"
+        ],
+        "answer": "21st June"
+      },
+      {
+        "serial_no": 145,
+        "question": "Which river drains into the Arabian Sea?",
+        "question_hindi": "कौन-सी नदी अरब सागर में गिरती है?",
+        "options": [
+          "Tapi",
+          "Ganga",
+          "Kaveri",
+          "Mahanadi"
+        ],
+        "options_hindi": [
+          "तापी",
+          "गंगा",
+          "कावेरी",
+          "महानदी"
+        ],
+        "answer": "Tapi"
+      },
+      {
+        "serial_no": 146,
+        "question": "Who is the author of 'Social Origins of Dictatorship and Democracy'?",
+        "question_hindi": "'सोशल ओरिजिन्स ऑफ डिक्टेटरशिप एंड डेमोक्रेसी' के लेखक कौन हैं?",
+        "options": [
+          "Jennifer Gandhi",
+          "Barrington Moore",
+          "Hanna Arendt",
+          "Carl Schmitt"
+        ],
+        "options_hindi": [
+          "जेनिफर गांधी",
+          "बैरिंगटन मूर",
+          "हन्ना आरेंट",
+          "कार्ल श्मिट"
+        ],
+        "answer": "Barrington Moore"
+      },
+      {
+        "serial_no": 147,
+        "question": "Which gas leads to increase in global temperature?",
+        "question_hindi": "कौन-सी गैस वैश्विक तापमान में वृद्धि का कारण बनती है?",
+        "options": [
+          "CO2",
+          "O2",
+          "O3",
+          "N2"
+        ],
+        "options_hindi": [
+          "CO2",
+          "O2",
+          "O3",
+          "N2"
+        ],
+        "answer": "CO2"
+      },
+      {
+        "serial_no": 148,
+        "question": "Consider the following statements: (I) WTO (1995) was established on the basis of Dunkal proposal in place of GATT (1947). (II) WTO has been established on the basis of an international treaty approved by the parliaments of the member countries.",
+        "question_hindi": "निम्नांकित कथनों पर विचार कीजिये: (I) गैट (1947) के स्थान पर डंकल प्रस्ताव के आधार पर विश्व व्यापार संगठन (1995) की स्थापना की गई। (II) विश्व व्यापार संगठन की स्थापना सदस्य देशों की संसदों द्वारा अनुमोदित एक अंतर्राष्ट्रीय संधि के आधार पर की गई।",
+        "options": [
+          "Only (I) is correct.",
+          "Only (II) is correct.",
+          "Both (I) and (II) are correct.",
+          "Both (I) and (II) are wrong."
+        ],
+        "options_hindi": [
+          "केवल (I) सही है।",
+          "केवल (II) सही है।",
+          "(I) और (II) दोनों सही हैं।",
+          "(I) और (II) दोनों गलत हैं।"
+        ],
+        "answer": "Both (I) and (II) are correct."
+      },
+      {
+        "serial_no": 149,
+        "question": "The narrow zone of contact between the land, water and air is:",
+        "question_hindi": "स्थल, जल और वायु के बीच का संकरा संपर्क क्षेत्र क्या है?",
+        "options": [
+          "Lithosphere",
+          "Hydrosphere",
+          "Atmosphere",
+          "Biosphere"
+        ],
+        "options_hindi": [
+          "स्थलमंडल",
+          "जलमंडल",
+          "वायुमंडल",
+          "जैवमंडल"
+        ],
+        "answer": "Biosphere"
+      },
+      {
+        "serial_no": 150,
+        "question": "Western Ghats is also known as:",
+        "question_hindi": "पश्चिमी घाट को इस नाम से भी जाना जाता है:",
+        "options": [
+          "Sahyadri",
+          "Himadri",
+          "Aravalli",
+          "Shiwalik"
+        ],
+        "options_hindi": [
+          "सह्याद्रि",
+          "हिमाद्रि",
+          "अरावली",
+          "शिवालिक"
+        ],
+        "answer": "Sahyadri"
+      }
+    ]
+  }
+}

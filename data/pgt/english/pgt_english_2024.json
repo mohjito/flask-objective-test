@@ -1,0 +1,179 @@
+{
+  "name": "PGT English Paper 2024",
+  "category": "PGT",
+  "year": 2024,
+  "section": "English",
+  "duration": 30,
+  "questions": [
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "question_hindi": "'हैमलेट' किसने लिखा?",
+      "options": [
+        "Option A for Q1",
+        "Option B for Q1",
+        "Option C for Q1",
+        "Option D for Q1"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q1 के लिए",
+        "विकल्प बी Q1 के लिए",
+        "विकल्प सी Q1 के लिए",
+        "विकल्प डी Q1 के लिए"
+      ],
+      "answer": "Option A for Q1"
+    },
+    {
+      "question": "What is the synonym of 'beautiful'?",
+      "question_hindi": "'beautiful' का पर्यायवाची शब्द क्या है?",
+      "options": [
+        "Option A for Q2",
+        "Option B for Q2",
+        "Option C for Q2",
+        "Option D for Q2"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q2 के लिए",
+        "विकल्प बी Q2 के लिए",
+        "विकल्प सी Q2 के लिए",
+        "विकल्प डी Q2 के लिए"
+      ],
+      "answer": "Option A for Q2"
+    },
+    {
+      "question": "Identify the verb in 'She runs fast'",
+      "question_hindi": "'She runs fast' में क्रिया पहचानें",
+      "options": [
+        "Option A for Q3",
+        "Option B for Q3",
+        "Option C for Q3",
+        "Option D for Q3"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q3 के लिए",
+        "विकल्प बी Q3 के लिए",
+        "विकल्प सी Q3 के लिए",
+        "विकल्प डी Q3 के लिए"
+      ],
+      "answer": "Option A for Q3"
+    },
+    {
+      "question": "Explain the use of present perfect tense.",
+      "question_hindi": "प्रेजेंट परफेक्ट टेंस के प्रयोग की व्याख्या करें।",
+      "options": [
+        "Option A for Q4",
+        "Option B for Q4",
+        "Option C for Q4",
+        "Option D for Q4"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q4 के लिए",
+        "विकल्प बी Q4 के लिए",
+        "विकल्प सी Q4 के लिए",
+        "विकल्प डी Q4 के लिए"
+      ],
+      "answer": "Option A for Q4"
+    },
+    {
+      "question": "What is an antonym for 'happy'?",
+      "question_hindi": "'happy' का विलोम शब्द क्या है?",
+      "options": [
+        "Option A for Q5",
+        "Option B for Q5",
+        "Option C for Q5",
+        "Option D for Q5"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q5 के लिए",
+        "विकल्प बी Q5 के लिए",
+        "विकल्प सी Q5 के लिए",
+        "विकल्प डी Q5 के लिए"
+      ],
+      "answer": "Option A for Q5"
+    },
+    {
+      "question": "Define 'noun' with examples.",
+      "question_hindi": "उदाहरण सहित 'संज्ञा' की परिभाषा दें।",
+      "options": [
+        "Option A for Q6",
+        "Option B for Q6",
+        "Option C for Q6",
+        "Option D for Q6"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q6 के लिए",
+        "विकल्प बी Q6 के लिए",
+        "विकल्प सी Q6 के लिए",
+        "विकल्प डी Q6 के लिए"
+      ],
+      "answer": "Option A for Q6"
+    },
+    {
+      "question": "Who is the author of 'Pride and Prejudice'?",
+      "question_hindi": "'प्राइड एंड प्रेजुडिस' की लेखिका कौन हैं?",
+      "options": [
+        "Option A for Q7",
+        "Option B for Q7",
+        "Option C for Q7",
+        "Option D for Q7"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q7 के लिए",
+        "विकल्प बी Q7 के लिए",
+        "विकल्प सी Q7 के लिए",
+        "विकल्प डी Q7 के लिए"
+      ],
+      "answer": "Option A for Q7"
+    },
+    {
+      "question": "Identify the adjective in 'The red car'",
+      "question_hindi": "'The red car' में विशेषण पहचानें",
+      "options": [
+        "Option A for Q8",
+        "Option B for Q8",
+        "Option C for Q8",
+        "Option D for Q8"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q8 के लिए",
+        "विकल्प बी Q8 के लिए",
+        "विकल्प सी Q8 के लिए",
+        "विकल्प डी Q8 के लिए"
+      ],
+      "answer": "Option A for Q8"
+    },
+    {
+      "question": "What is a metaphor? Give an example.",
+      "question_hindi": "रूपक क्या है? उदाहरण दें।",
+      "options": [
+        "Option A for Q9",
+        "Option B for Q9",
+        "Option C for Q9",
+        "Option D for Q9"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q9 के लिए",
+        "विकल्प बी Q9 के लिए",
+        "विकल्प सी Q9 के लिए",
+        "विकल्प डी Q9 के लिए"
+      ],
+      "answer": "Option A for Q9"
+    },
+    {
+      "question": "Explain the difference between 'their' and 'there'.",
+      "question_hindi": "'their' और 'there' में अंतर समझाएं।",
+      "options": [
+        "Option A for Q10",
+        "Option B for Q10",
+        "Option C for Q10",
+        "Option D for Q10"
+      ],
+      "options_hindi": [
+        "विकल्प ए Q10 के लिए",
+        "विकल्प बी Q10 के लिए",
+        "विकल्प सी Q10 के लिए",
+        "विकल्प डी Q10 के लिए"
+      ],
+      "answer": "Option A for Q10"
+    }
+  ]
+}

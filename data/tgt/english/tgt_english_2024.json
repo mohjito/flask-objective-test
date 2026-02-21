@@ -1,0 +1,176 @@
+{
+  "part2_english": {
+    "name": "English Language",
+    "category": "TGT",
+    "year": 2024,
+    "section": "PART-II : English (15 Questions)",
+    "duration": 15,
+    "questions": [
+      {
+        "serial_no": 46,
+        "question": "Complete the sentence with the correct option: Multilingual resource ________.",
+        "options": [
+          "will increase the level of learner participation",
+          "will decrease the level of learner participation",
+          "is poor compared to any standardized text-book",
+          "deprives the teacher's role as a facilitator"
+        ],
+        "answer": "will increase the level of learner participation"
+      },
+      {
+        "serial_no": 47,
+        "question": "Fill in the blank with the correct option: Multimedia materials for teaching are ________.",
+        "options": [
+          "LSRW lesson",
+          "grammar, syntax and lexicon",
+          "text, image, audio, video and animation",
+          "phonetic, phonemic lessons"
+        ],
+        "answer": "text, image, audio, video and animation"
+      },
+      {
+        "serial_no": 48,
+        "question": "Which one of the following is the first step in teaching formal grammar?",
+        "options": [
+          "comparison & generalization",
+          "collection and presentation of examples",
+          "application of rules",
+          "motivation and testing of previous knowledge"
+        ],
+        "answer": "collection and presentation of examples"
+      },
+      {
+        "serial_no": 49,
+        "question": "Fill in the blank with the correct option: Stress, intonation and rhythm can be taught through ________.",
+        "options": [
+          "skimming",
+          "scanning",
+          "drills of various types",
+          "transcription"
+        ],
+        "answer": "drills of various types"
+      },
+      {
+        "serial_no": 50,
+        "question": "Which one of the following is not a teaching aid in developing listening skills?",
+        "options": [
+          "Use of phonetic dictionary",
+          "Gramophones",
+          "Television",
+          "Film & film strips"
+        ],
+        "answer": "Use of phonetic dictionary"
+      },
+      {
+        "serial_no": 51,
+        "question": "How long did the author work in a Delhi College?",
+        "options": [
+          "long time",
+          "short time",
+          "three years",
+          "seven years"
+        ],
+        "answer": "short time"
+      },
+      {
+        "serial_no": 52,
+        "question": "What exercise did the author give the students?",
+        "options": [
+          "a comprehension passage",
+          "precis writing",
+          "expansion of a poem",
+          "a language exercise"
+        ],
+        "answer": "a language exercise"
+      },
+      {
+        "serial_no": 53,
+        "question": "Seven out of the eight students wanted to become ________.",
+        "options": [
+          "scholars",
+          "bureaucrats",
+          "clerks",
+          "scientists"
+        ],
+        "answer": "clerks"
+      },
+      {
+        "serial_no": 54,
+        "question": "What according to the author is the highest ambition of students in good colleges?",
+        "options": [
+          "to qualify for administrative services",
+          "to become leaders of opinion",
+          "to teach",
+          "to practice medicine"
+        ],
+        "answer": "to qualify for administrative services"
+      },
+      {
+        "serial_no": 55,
+        "question": "In the sentence 'And these latter understandably are a small number', what does 'these latter' refer to?",
+        "options": [
+          "clerks, doctors & engineers",
+          "bureaucrats, scholars and clerks",
+          "scholars, scientists and leaders of opinion",
+          "only administrators"
+        ],
+        "answer": "scholars, scientists and leaders of opinion"
+      },
+      {
+        "serial_no": 56,
+        "question": "Fill in the blank with the correct option: The thinking of the most ambitious and the least ambitious is ________.",
+        "options": [
+          "uncommon",
+          "alike",
+          "dissimilar",
+          "for the society"
+        ],
+        "answer": "alike"
+      },
+      {
+        "serial_no": 57,
+        "question": "Identify the statement which is true:",
+        "options": [
+          "The college where the author worked in Delhi had a reputation for its academic standards.",
+          "The students, who were asked to do the language exercise were graduates.",
+          "All colleges produce scientists, scholars and leaders of opinion.",
+          "The language exercise is stored in the author's less comfortable memories."
+        ],
+        "answer": "The college where the author worked in Delhi had a reputation for its academic standards."
+      },
+      {
+        "serial_no": 58,
+        "question": "Fill in the blank with the correct option: Another word for 'snuffed out' is ________.",
+        "options": [
+          "smelled",
+          "instilled",
+          "encouraged",
+          "killed"
+        ],
+        "answer": "killed"
+      },
+      {
+        "serial_no": 59,
+        "question": "Choose the opposite of 'former' from the passage:",
+        "options": [
+          "least",
+          "latter",
+          "already",
+          "most"
+        ],
+        "answer": "latter"
+      },
+      {
+        "serial_no": 60,
+        "question": "Fill in the blank with the correct option: 'Alumni' in the passage means ________.",
+        "options": [
+          "unsuccessful students",
+          "successful students",
+          "bureaucrats",
+          "old students"
+        ],
+        "answer": "old students"
+      }
+    ]
+  }
+}

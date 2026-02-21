@@ -1,0 +1,551 @@
+{
+  "part3_general_studies": {
+    "name": "सामान्य अध्ययन",
+    "category": "TGT",
+    "year": 2023,
+    "section": "PART-III : General Studies (Quantitative Aptitude, Reasoning Ability, G.K. & Awareness) (Questions 61-90)",
+    "duration": 30,
+    "questions": [
+      {
+        "serial_no": 61,
+        "question": "A travels 8 km from East to West and turns right and travel 2 km. Now again he turn right and travel 5 km. In which direction is he now positioned with reference to starting point?",
+        "question_hindi": "A, पूर्व दिशा से पश्चिम में 8 किमी चलता है तथा दायें मुड़कर 2 किमी चलता है पुनः दायें मुड़कर 5 किमी चलता है, तो वह शुरुआत बिन्दु के संदर्भ में अब किस दिशा में स्थित है?",
+        "options": [
+          "South-West",
+          "North-West",
+          "North-East",
+          "South-East"
+        ],
+        "options_hindi": [
+          "दक्षिण-पश्चिम",
+          "उत्तर-पश्चिम",
+          "उत्तर-पूर्व",
+          "दक्षिण-पूर्व"
+        ],
+        "answer": "North-East"
+      },
+      {
+        "serial_no": 62,
+        "question": "If 'PROJECT' is coded as 'CEOPRT' and 'PLANE' is coded as 'ELNP' then the 'ORGANISED' will be coded as:",
+        "question_hindi": "यदि किसी कूट भाषा में 'PROJECT' को 'CEOPRT' तथा 'PLANE' को 'ELNP' लिखा जाता है, तो 'ORGANISED' को उसी कूट भाषा में किस प्रकार लिखा जाएगा?",
+        "options": [
+          "ADEGIOSR",
+          "ADEGIROS",
+          "ADEGOIRS",
+          "ADEGIORS"
+        ],
+        "options_hindi": [
+          "ADEGIOSR",
+          "ADEGIROS",
+          "ADEGOIRS",
+          "ADEGIORS"
+        ],
+        "answer": "ADEGIORS"
+      },
+      {
+        "serial_no": 63,
+        "question": "In a row of boys, A is 7th from the left and B is 12th from the right. If they interchange their positions A becomes 22nd from the left. How many total boys are there in a row?",
+        "question_hindi": "लड़कों की एक पंक्ति में, A बायीं तरफ से 7वें तथा B दायीं तरफ से 12वें स्थान पर है, यदि उनके स्थानों में परस्पर परिवर्तन किया जाता है, तो A का बायीं तरफ से 22वाँ स्थान हो जाता है, तो पंक्ति में कुल लड़कों की संख्या है:",
+        "options": [
+          "27",
+          "31",
+          "33",
+          "34"
+        ],
+        "options_hindi": [
+          "27",
+          "31",
+          "33",
+          "34"
+        ],
+        "answer": "33"
+      },
+      {
+        "serial_no": 64,
+        "question": "In a family, A is the father of X, B is the mother of Y. The sister of X and Z is Y. Which of the following statement is definitely not true?",
+        "question_hindi": "एक परिवार में, A, X का पिता है, B, Y की माता है, तथा X व Z की बहन Y है, तो निम्नलिखित कथनों में से कौन-सा कथन निश्चित रूप से सही नहीं है?",
+        "options": [
+          "B is the wife of A",
+          "B has a daughter",
+          "X is the son of A",
+          "Y is the sister of Z"
+        ],
+        "options_hindi": [
+          "B, A की पत्नी है",
+          "B की एक पुत्री है",
+          "X, A का पुत्र है",
+          "Y, Z की बहन है"
+        ],
+        "answer": "X is the son of A"
+      },
+      {
+        "serial_no": 65,
+        "question": "Find the wrong number in the given series: 0, 3, 9, 12, 36, 39, 42, 120, 360",
+        "question_hindi": "दी गई शृंखला में गलत संख्या है: 0, 3, 9, 12, 36, 39, 42, 120, 360",
+        "options": [
+          "12",
+          "39",
+          "42",
+          "360"
+        ],
+        "options_hindi": [
+          "12",
+          "39",
+          "42",
+          "360"
+        ],
+        "answer": "42"
+      },
+      {
+        "serial_no": 66,
+        "question": "If A walks 8 km South then turn right and walks 6 km and again turns North-East and walks 10 km. How far is A from the starting point?",
+        "question_hindi": "यदि A दक्षिण दिशा में 8 किमी जाकर तब दाहिने तरफ मुड़कर 6 किमी चलता है तथा पुनः उत्तर-पूर्व दिशा में मुड़कर 10 किमी चलता है, तो A प्रारम्भिक बिन्दु से कितनी दूरी पर है?",
+        "options": [
+          "0 km",
+          "8 km",
+          "10 km",
+          "12 km"
+        ],
+        "options_hindi": [
+          "0 किमी",
+          "8 किमी",
+          "10 किमी",
+          "12 किमी"
+        ],
+        "answer": "0 km"
+      },
+      {
+        "serial_no": 67,
+        "question": "If 10 persons can complete (2/5)th of a work in 8 days, then how many persons are required to complete the remaining work in 12 days?",
+        "question_hindi": "यदि 10 व्यक्ति किसी कार्य का 2/5 भाग करने में 8 दिन लगाते हैं, तो उसी कार्य के शेष कार्य को 12 दिनों में पूर्ण करने के लिए कितने व्यक्तियों की आवश्यकता होगी?",
+        "options": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "options_hindi": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "answer": "8"
+      },
+      {
+        "serial_no": 68,
+        "question": "The base of a right prism is a triangle whose perimeter is 32 cm and the inradius of the triangle is 6 cm. If the volume of the prism is 576 cc, then its height is:",
+        "question_hindi": "एक लम्ब प्रिज्म का आधार एक त्रिभुज है, जिसका परिमाप 32 सेमी है और त्रिभुज की अन्तः त्रिज्या 6 सेमी है, यदि प्रिज्म का आयतन 576 घन सेमी है, तो इसकी ऊँचाई है:",
+        "options": [
+          "4 cm",
+          "5 cm",
+          "6 cm",
+          "8 cm"
+        ],
+        "options_hindi": [
+          "4 सेमी",
+          "5 सेमी",
+          "6 सेमी",
+          "8 सेमी"
+        ],
+        "answer": "6 cm"
+      },
+      {
+        "serial_no": 69,
+        "question": "If the number of diagonals of a regular polygon is 27, then the number of sides is:",
+        "question_hindi": "यदि एक नियमित बहुभुज में विकर्णों की संख्या 27 हो, तो इसकी भुजाओं की संख्या होगी:",
+        "options": [
+          "6",
+          "9",
+          "10",
+          "12"
+        ],
+        "options_hindi": [
+          "6",
+          "9",
+          "10",
+          "12"
+        ],
+        "answer": "9"
+      },
+      {
+        "serial_no": 70,
+        "question": "In two alloys A and B, the ratio of copper and zinc is 5 : 2 and 3 : 4 respectively. 7 kg of alloy A and 21 kg of the alloy B are mixed together to form a new alloy. What will be the ratio of copper and zinc in the new alloy?",
+        "question_hindi": "दो मिश्र धातुओं A तथा B में, ताँबा तथा जस्ता का अनुपात क्रमशः 5 : 2 तथा 3 : 4 है, इन मिश्र धातुओं में से A का 7 किग्रा एवं B का 21 किग्रा मिलाकर एक नई मिश्र धातु बनाई जाती है, इस नई मिश्र धातु में ताँबे तथा जस्ता का अनुपात क्या है?",
+        "options": [
+          "1 : 2",
+          "2 : 1",
+          "2 : 3",
+          "1 : 1"
+        ],
+        "options_hindi": [
+          "1 : 2",
+          "2 : 1",
+          "2 : 3",
+          "1 : 1"
+        ],
+        "answer": "1 : 1"
+      },
+      {
+        "serial_no": 71,
+        "question": "If 7 cosec θ – 3 cot θ = 7 where θ is in first quadrant, then the value of 7 cot θ – 3 cosec θ is equal to:",
+        "question_hindi": "यदि 7 cosec θ – 3 cot θ = 7 जहाँ θ प्रथम चतुर्थांश में हो, तो 7 cot θ – 3 cosec θ का मान है:",
+        "options": [
+          "3",
+          "5",
+          "3/7",
+          "5/7"
+        ],
+        "options_hindi": [
+          "3",
+          "5",
+          "3/7",
+          "5/7"
+        ],
+        "answer": "3"
+      },
+      {
+        "serial_no": 72,
+        "question": "If an equilateral triangle ABC be inscribed in a circle, then the tangents at their vertices will form another triangle is:",
+        "question_hindi": "यदि एक वृत्त में, एक समबाहु त्रिभुज ABC अंतर्निहित किया जाता है, त्रिभुज के शीर्षों से खींची गई स्पर्श रेखाओं से बनने वाला त्रिभुज होगा:",
+        "options": [
+          "Scalene triangle",
+          "Isosceles triangle",
+          "Equilateral triangle",
+          "Right angled triangle"
+        ],
+        "options_hindi": [
+          "विषमबाहु त्रिभुज",
+          "समद्विबाहु त्रिभुज",
+          "समबाहु त्रिभुज",
+          "समकोणीय त्रिभुज"
+        ],
+        "answer": "Equilateral triangle"
+      },
+      {
+        "serial_no": 73,
+        "question": "A shopkeeper sells an article at 15% gain. Had he sold it for Rs. 18 more; he would have gained 18%. The cost price (in Rs.) of the article is:",
+        "question_hindi": "एक दुकानदार, एक वस्तु 15% लाभ पर बेचता है, अगर उसने उसे 18 रुपये अधिक में बेचा होता, तो लाभ 18% हो जाता। उस वस्तु का क्रय मूल्य (रुपये में) है:",
+        "options": [
+          "600",
+          "540",
+          "350",
+          "380"
+        ],
+        "options_hindi": [
+          "600",
+          "540",
+          "350",
+          "380"
+        ],
+        "answer": "600"
+      },
+      {
+        "serial_no": 74,
+        "question": "The missing term of the following series is: DBC, KIJ, QOP, __?, ZXY",
+        "question_hindi": "निम्नलिखित श्रेणी का लुप्त पद है: DBC, KIJ, QOP, __?, ZXY",
+        "options": [
+          "VUW",
+          "USV",
+          "UTV",
+          "VTU"
+        ],
+        "options_hindi": [
+          "VUW",
+          "USV",
+          "UTV",
+          "VTU"
+        ],
+        "answer": "USV"
+      },
+      {
+        "serial_no": 75,
+        "question": "The difference between two positive numbers is 3. If the sum of their squares is 369, then sum of the numbers is:",
+        "question_hindi": "दो धनात्मक संख्याओं का अन्तर 3 है, यदि उनके वर्गों का योग 369 हो, तो उन संख्याओं का योग है:",
+        "options": [
+          "25",
+          "27",
+          "31",
+          "33"
+        ],
+        "options_hindi": [
+          "25",
+          "27",
+          "31",
+          "33"
+        ],
+        "answer": "27"
+      },
+      {
+        "serial_no": 76,
+        "question": "In a division sum, the divisor is 12 times the quotient and 5 times the remainder. If the remainder is 36, then the dividend is:",
+        "question_hindi": "विभाजन के एक प्रश्न में विभाजक, भागफल का 12 गुना तथा शेषफल का 5 गुना है, तो यदि उसमें शेषफल 36 हो, तो भाज्य है:",
+        "options": [
+          "2706",
+          "2736",
+          "2796",
+          "2766"
+        ],
+        "options_hindi": [
+          "2706",
+          "2736",
+          "2796",
+          "2766"
+        ],
+        "answer": "2736"
+      },
+      {
+        "serial_no": 77,
+        "question": "If A denotes 'divided by', B denotes 'added to', C denotes 'subtracted from' and D denotes 'multiplied by', then 20 C 12 B 8 A 2 D 6 is equal to:",
+        "question_hindi": "यदि A 'विभाजन को', B 'योग को', C 'घटाने को' तथा D 'गुणन को' प्रदर्शित करते हैं, तो 20 C 12 B 8 A 2 D 6 बराबर हैं:",
+        "options": [
+          "16",
+          "18",
+          "32",
+          "36"
+        ],
+        "options_hindi": [
+          "16",
+          "18",
+          "32",
+          "36"
+        ],
+        "answer": "32"
+      },
+      {
+        "serial_no": 78,
+        "question": "A person covers 12 km at 3 km/hr, 18 km at 9 km/hr and 24 km at 4 km/hr. The average speed in covering the whole distance is:",
+        "question_hindi": "एक व्यक्ति 12 किलोमीटर की दूरी 3 किमी प्रति घण्टा, 18 किलोमीटर की दूरी 9 किमी प्रति घण्टा तथा 24 किलोमीटर की दूरी 4 किमी प्रति घण्टा से तय करता है, तो सम्पूर्ण दूरी तय करने की औसत चाल है:",
+        "options": [
+          "4 km/hr",
+          "4.2 km/hr",
+          "4.4 km/hr",
+          "4.5 km/hr"
+        ],
+        "options_hindi": [
+          "4 किमी/घण्टा",
+          "4.2 किमी/घण्टा",
+          "4.4 किमी/घण्टा",
+          "4.5 किमी/घण्टा"
+        ],
+        "answer": "4.5 km/hr"
+      },
+      {
+        "serial_no": 79,
+        "question": "Find the odd word from the given alternatives:",
+        "question_hindi": "दिए गए विकल्पों में से विषम को ज्ञात कीजिए:",
+        "options": [
+          "Violin",
+          "Harp",
+          "Guitar",
+          "Flute"
+        ],
+        "options_hindi": [
+          "सारंगी",
+          "वीणा",
+          "गिटार",
+          "बांसुरी"
+        ],
+        "answer": "Flute"
+      },
+      {
+        "serial_no": 80,
+        "question": "If 16 – 4 = 2, 9 – 3 = 2, 81 – 3 = 4, then the value of 64 – 4 is:",
+        "question_hindi": "यदि 16 – 4 = 2, 9 – 3 = 2, 81 – 3 = 4 हो, तो 64 – 4 का मान है:",
+        "options": [
+          "3",
+          "2",
+          "4",
+          "6"
+        ],
+        "options_hindi": [
+          "3",
+          "2",
+          "4",
+          "6"
+        ],
+        "answer": "3"
+      },
+      {
+        "serial_no": 81,
+        "question": "During the revolt of 1857, who among the following attacked British establishments in Rohtak?",
+        "question_hindi": "1857 के विद्रोह के दौरान, निम्नलिखित में से किसने रोहतक में ब्रिटिश ठिकानों पर आक्रमण किया?",
+        "options": [
+          "Tafzal Husain",
+          "Imam Ali",
+          "Mohar Singh",
+          "Harsukh Rai"
+        ],
+        "options_hindi": [
+          "तफजल हुसैन",
+          "इमाम अली",
+          "मोहर सिंह",
+          "हरसुख राय"
+        ],
+        "answer": "Harsukh Rai"
+      },
+      {
+        "serial_no": 82,
+        "question": "The Morni hills of Haryana belongs to:",
+        "question_hindi": "हरियाणा की मोरनी पहाड़ियों का सम्बंध है:",
+        "options": [
+          "Aravalli range",
+          "Hindukush range",
+          "Outer range of Himalayas",
+          "Inner range of Himalayas"
+        ],
+        "options_hindi": [
+          "अरावली शृंखला से",
+          "हिंदुकुश शृंखला से",
+          "हिमालय की बाह्य शृंखला से",
+          "हिमालय की आन्तरिक शृंखला से"
+        ],
+        "answer": "Outer range of Himalayas"
+      },
+      {
+        "serial_no": 83,
+        "question": "In Haryana, where the Vulture Conservation Centre is located?",
+        "question_hindi": "हरियाणा में गिद्ध संरक्षण केन्द्र कहाँ स्थित है?",
+        "options": [
+          "Jind",
+          "Pinjore",
+          "Mahendragarh",
+          "Ambala"
+        ],
+        "options_hindi": [
+          "जींद",
+          "पिंजौर",
+          "महेन्द्रगढ़",
+          "अम्बाला"
+        ],
+        "answer": "Pinjore"
+      },
+      {
+        "serial_no": 84,
+        "question": "How many Tehsils are there in Haryana?",
+        "question_hindi": "हरियाणा में कितनी तहसीलें हैं?",
+        "options": [
+          "95",
+          "49",
+          "143",
+          "74"
+        ],
+        "options_hindi": [
+          "95",
+          "49",
+          "143",
+          "74"
+        ],
+        "answer": "143"
+      },
+      {
+        "serial_no": 85,
+        "question": "In which district of Haryana, the Khelo India Women's Archery ranking competition was organised?",
+        "question_hindi": "हरियाणा के किस जिले में, खेलो इंडिया महिला तीरंदाजी रैंकिंग प्रतियोगिता का आयोजन किया गया?",
+        "options": [
+          "Sonipat",
+          "Panipat",
+          "Karnal",
+          "Yamunanagar"
+        ],
+        "options_hindi": [
+          "सोनीपत",
+          "पानीपत",
+          "करनाल",
+          "यमुनानगर"
+        ],
+        "answer": "Yamunanagar"
+      },
+      {
+        "serial_no": 86,
+        "question": "The UPSC Chairman, who subsequently became the Governor of Haryana:",
+        "question_hindi": "यू०पी०एस०सी० के चेयरमैन, जो कालान्तर में हरियाणा के राज्यपाल बने हैं:",
+        "options": [
+          "Dr. A. R. Kidwai",
+          "Shri Muzaffar Husain Burney",
+          "Shri B. N. Chakravarti",
+          "Shri Mahabir Prasad"
+        ],
+        "options_hindi": [
+          "डॉ० ए० आर० किदवई",
+          "श्री मुजफ्फर हुसैन बर्नी",
+          "श्री बी० एन० चक्रवर्ती",
+          "श्री महाबीर प्रसाद"
+        ],
+        "answer": "Shri Muzaffar Husain Burney"
+      },
+      {
+        "serial_no": 87,
+        "question": "The Scheme, which is being run by the Haryana government to replace paddy crop with more traditional crops is:",
+        "question_hindi": "चावल की फसल को अधिक परम्परागत फसलों से प्रतिस्थापित करने हेतु हरियाणा सरकार द्वारा चलाई जा रही योजना है:",
+        "options": [
+          "Meri Fasal Mera Byora",
+          "Meri Virasat",
+          "Mera Pani Meri Virasat",
+          "Hamara Dhan"
+        ],
+        "options_hindi": [
+          "मेरी फसल मेरा ब्यौरा",
+          "मेरी विरासत",
+          "मेरा पानी मेरी विरासत",
+          "हमारा धन"
+        ],
+        "answer": "Mera Pani Meri Virasat"
+      },
+      {
+        "serial_no": 88,
+        "question": "Where in the Haryana, the National Institute of Fashion Technology is located?",
+        "question_hindi": "हरियाणा में नेशनल इन्स्टीट्यूट ऑफ फैशन टेक्नोलॉजी संस्थान कहाँ स्थित है?",
+        "options": [
+          "Panipat",
+          "Ambala",
+          "Panchkula",
+          "Kurukshetra"
+        ],
+        "options_hindi": [
+          "पानीपत",
+          "अम्बाला",
+          "पंचकुला",
+          "कुरुक्षेत्र"
+        ],
+        "answer": "Panchkula"
+      },
+      {
+        "serial_no": 89,
+        "question": "Who is the Chief Information Officer of Haryana?",
+        "question_hindi": "हरियाणा के मुख्य सूचना अधिकारी कौन हैं?",
+        "options": [
+          "Smt. Jyoti Arora",
+          "Dr. Jagbir Singh",
+          "Shri Vijay Vardhan",
+          "Smt. Kamaldeep Bhandari"
+        ],
+        "options_hindi": [
+          "श्रीमती ज्योति अरोड़ा",
+          "डॉ० जगबीर सिंह",
+          "श्री विजय वर्धन",
+          "श्रीमती कमलदीप भण्डारी"
+        ],
+        "answer": "Smt. Kamaldeep Bhandari"
+      },
+      {
+        "serial_no": 90,
+        "question": "Who among the following Sages of Haryana was popularly known as Puran Bhagat?",
+        "question_hindi": "हरियाणा के निम्नलिखित संतों में से कौन पूरण भगत के नाम से लोकप्रिय थे?",
+        "options": [
+          "Baba Mast Nath",
+          "Baba Gorakh Nath",
+          "Baba Chaurangi Nath",
+          "Baba Puran Nath"
+        ],
+        "options_hindi": [
+          "बाबा मस्त नाथ",
+          "बाबा गोरख नाथ",
+          "बाबा चौरंगी नाथ",
+          "बाबा पूरण नाथ"
+        ],
+        "answer": "Baba Chaurangi Nath"
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}My Analytics - QuizLearn{% endblock %}
+{% block title %}My Analytics - TeachingTest{% endblock %}
 
 {% block content %}
 <style>
@@ -263,7 +263,7 @@
                                     <div class="progress-pill-wrapper">
                                         <div class="pill-track">
                                             <div class="pill-fill {% if percentage >= 70 %}bg-success{% elif percentage >= 40 %}bg-warning{% else %}bg-error{% endif %}"
-                                                style="width: {{ percentage | string }}%;"></div>
+                                                style="width: {{ percentage }}%;"></div>
                                         </div>
                                         <span class="pill-label">{{ result.score }}/{{ result.total_questions }} ({{
                                             "%.0f"|format(percentage) }}%)</span>

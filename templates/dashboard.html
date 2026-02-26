@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Dashboard - QuizLearn{% endblock %}
+{% block title %}Dashboard - TeachingTest{% endblock %}
 
 {% block content %}
 <style>
@@ -82,7 +82,13 @@
 <div class="premium-card-grid">
     {% for category in categories %}
     <div class="premium-card-glass">
-        <div class="card-icon">📚</div>
+        <div class="card-icon">
+            {% if category in ['TGT', 'PRT', 'PGT'] %}
+            📚
+            {% else %}
+            📝
+            {% endif %}
+        </div>
         <h3>{{ category }}</h3>
         <p>Explore specialized tests for {{ category }}</p>
         <a href="{{ url_for('test_routes.select_year', category=category) }}" class="btn btn-primary btn-full">View

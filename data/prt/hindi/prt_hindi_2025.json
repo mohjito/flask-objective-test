@@ -1,7 +1,7 @@
 {
-  "name": "TGT Hindi Paper 2021",
-  "category": "TGT",
-  "year": 2021,
+  "name": "PRT Hindi Paper 2025",
+  "category": "PRT",
+  "year": 2025,
   "section": "Hindi",
   "duration": 30,
   "questions": [
@@ -125,8 +125,8 @@
       "answer": "Option A for Q7"
     },
     {
-      "question": "Who is a famous Hindi poet from the 2021 era?",
-      "question_hindi": "2021 के दौर के प्रसिद्ध हिंदी कवि कौन हैं?",
+      "question": "Who is a famous Hindi poet from the 2025 era?",
+      "question_hindi": "2025 के दौर के प्रसिद्ध हिंदी कवि कौन हैं?",
       "options": [
         "Option A for Q8",
         "Option B for Q8",

@@ -50,6 +50,13 @@ def ping():
     """Simple endpoint for uptime monitors to keep the app alive"""
     return "OK", 200
 
+# ===== GOOGLE SEARCH CONSOLE VERIFICATION =====
+@app.route('/googlee80d6040760454af.html')
+def google_verify():
+    """Serve the Google Search Console verification file from static directory"""
+    from flask import send_from_directory
+    return send_from_directory('static', 'googlee80d6040760454af.html')
+
 # ===== DEBUG ROUTE TO CHECK DATABASE STATUS =====
 @app.route('/debug')
 def debug_info():

@@ -57,6 +57,19 @@ def google_verify():
     from flask import send_from_directory
     return send_from_directory('static', 'googlee80d6040760454af.html')
 
+# ===== SEO ROUTES =====
+@app.route('/robots.txt')
+def robots():
+    """Serve robots.txt from static directory"""
+    from flask import send_from_directory
+    return send_from_directory('static', 'robots.txt')
+
+@app.route('/sitemap.xml')
+def sitemap():
+    """Serve sitemap.xml from static directory"""
+    from flask import send_from_directory
+    return send_from_directory('static', 'sitemap.xml')
+
 # ===== DEBUG ROUTE TO CHECK DATABASE STATUS =====
 @app.route('/debug')
 def debug_info():

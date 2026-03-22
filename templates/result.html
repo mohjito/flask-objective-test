@@ -357,13 +357,20 @@
         {% endif %}
         <div class="premium-result-item filter-item filter-{{ status_class }}" data-status="{{ status_class }}">
             <div class="item-header">
-                <span class="q-number">Question {{ loop.index }}</span>
+                <span class="q-number">Question {{ result.serial_no or loop.index }}</span>
                 {% if result.is_correct %}
                 <span class="q-status status-correct">Correct</span>
                 {% else %}
                 <span class="q-status status-incorrect">Incorrect</span>
                 {% endif %}
             </div>
+            
+            {% if result.passage %}
+            <div class="passage-display" style="background: #f1f5f9; border-left: 3px solid #6366f1; padding: 12px; margin-bottom: 15px; border-radius: 8px; font-size: 0.9rem; color: #475569; font-style: italic;">
+                <div class="result-content-en">{{ result.passage }}</div>
+                <div class="result-content-hi" style="display: none;">{{ result.passage_hindi if result.passage_hindi else result.passage }}</div>
+            </div>
+            {% endif %}
 
             <!-- English Content -->
             <div class="result-content-en">

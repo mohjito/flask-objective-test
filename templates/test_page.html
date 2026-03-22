@@ -1,4 +1,4 @@
-﻿{% extends "base.html" %}
+{% extends "base.html" %}
 
 {% block title %}Mock Test: {{ test.name }}{% endblock %}
 
@@ -815,7 +815,15 @@
                     <div class="question-card-premium">
                         <!-- Content Row -->
 
+                        {% if question.passage %}
+                        <div class="passage-box" style="background: #f8fafc; border-left: 4px solid var(--primary); padding: 15px; margin-bottom: 20px; border-radius: 8px; font-style: italic; line-height: 1.6; font-size: 0.95rem;">
+                            <div class="en-content">{{ question.passage }}</div>
+                            <div class="hi-content" style="display: none;">{{ question.passage_hindi if question.passage_hindi else question.passage }}</div>
+                        </div>
+                        {% endif %}
+
                         <div class="question-text-area">
+                            <div style="font-size: 0.8rem; color: #64748b; margin-bottom: 8px; font-weight: 800; opacity: 0.8;">QUESTION {{ question.serial_no or loop.index }}</div>
                             <div class="en-content">{{ question.question }}</div>
                             <div class="hi-content" style="display: none;">{{ question.question_hindi if
                                 question.question_hindi else question.question }}</div>
@@ -879,7 +887,7 @@
                 <button type="button" class="p-btn-new {{ 'current' if loop.first else '' }}"
                     id="p-btn-{{ loop.index }}" data-index="{{ loop.index }}"
                     onclick="jumpToQuestion(this.dataset.index)">
-                    {{ loop.index }}
+                    {{ question.serial_no or loop.index }}
                 </button>
                 {% endfor %}
             </div>

@@ -181,8 +181,11 @@ def process_json_file(file_path, stats):
                     continue
                 
                 question = Question(
+                    serial_no=q_data.get('serial_no'),
                     question=q_data['question'],
                     question_hindi=q_data.get('question_hindi', q_data['question']),
+                    passage=q_data.get('passage'),
+                    passage_hindi=q_data.get('passage_hindi', q_data.get('passage')),
                     options=q_data['options'],
                     options_hindi=q_data.get('options_hindi', q_data['options']),
                     correct_answer=q_data['answer'],

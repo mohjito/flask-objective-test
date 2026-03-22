@@ -57,8 +57,11 @@ def submit_test(test_id):
             score += 1
         
         results.append({
+            'serial_no': question.serial_no,
             'question': question.question,
             'question_hindi': question.question_hindi,
+            'passage': question.passage,
+            'passage_hindi': question.passage_hindi,
             'options': question.options,
             'options_hindi': question.options_hindi,
             'user_answer': user_answer,

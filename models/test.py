@@ -11,8 +11,11 @@ class Test(db.Model):
 
 class Question(db.Model):
     id = db.Column(db.Integer, primary_key=True)
+    serial_no = db.Column(db.Integer, nullable=True)
     question = db.Column(db.String(500), nullable=False) # English
     question_hindi = db.Column(db.String(500), nullable=True) # Hindi
+    passage = db.Column(db.Text, nullable=True) # Reading comprehension passage
+    passage_hindi = db.Column(db.Text, nullable=True)
     options = db.Column(db.JSON, nullable=False) # English options
     options_hindi = db.Column(db.JSON, nullable=True) # Hindi options
     correct_answer = db.Column(db.String(100), nullable=False)

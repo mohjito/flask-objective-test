@@ -1,0 +1,1091 @@
+{
+    "part4_mathematics": {
+        "name": "गणित (भाग-IV)",
+        "category": "TGT",
+        "year": 2025,
+        "section": "PART-IV : Mathematics (Questions 91-150)",
+        "duration": 60,
+        "questions": [
+            {
+                "serial_no": 91,
+                "question": "How many spherical bullets can be made out of solid cube of lead whose edge measures 44 cm, each bullet being 4 cm in diameter?",
+                "question_hindi": "सीसे के एक ठोस घन से कितनी गोलाकार गोलियाँ बनाई जा सकती हैं जिसका किनारा 44 सेमी है, प्रत्येक गोली का व्यास 4 सेमी है?",
+                "options": [
+                    "1500",
+                    "2541",
+                    "1161",
+                    "2270"
+                ],
+                "options_hindi": [
+                    "1500",
+                    "2541",
+                    "1161",
+                    "2270"
+                ],
+                "answer": "2541"
+            },
+            {
+                "serial_no": 92,
+                "question": "P, Q and R together can complete a work in 30 days. If the ratio of efficiency of P, Q and R is 20 : 15 : 12 respectively, then in how many days R can alone complete the same work?",
+                "question_hindi": "P, Q और R मिलकर एक कार्य को 30 दिनों में पूरा कर सकते हैं। यदि P, Q और R की दक्षता का अनुपात क्रमशः 20 : 15 : 12 है, तो R अकेले उसी कार्य को कितने दिनों में पूरा कर सकता है?",
+                "options": [
+                    "195",
+                    "235",
+                    "225",
+                    "215"
+                ],
+                "options_hindi": [
+                    "195",
+                    "235",
+                    "225",
+                    "215"
+                ],
+                "answer": "225"
+            },
+            {
+                "serial_no": 93,
+                "question": "The radius and slant height of a cone are in the ratio of 4 : 7. If its curved surface area is 702 cm², what is its radius?",
+                "question_hindi": "एक शंकु की त्रिज्या और तिर्यक ऊँचाई का अनुपात 4 : 7 है। यदि इसका वक्र पृष्ठीय क्षेत्रफल 702 सेमी² है, तो इसकी त्रिज्या क्या है?",
+                "options": [
+                    "2.6 cm",
+                    "6 cm",
+                    "11 cm",
+                    "12 cm"
+                ],
+                "options_hindi": [
+                    "2.6 सेमी",
+                    "6 सेमी",
+                    "11 सेमी",
+                    "12 सेमी"
+                ],
+                "answer": "12 cm"
+            },
+            {
+                "serial_no": 94,
+                "question": "The factors of x³ - 7x + 6 are:",
+                "question_hindi": "x³ - 7x + 6 के गुणनखंड हैं:",
+                "options": [
+                    "x(x - 6)(x - 1)",
+                    "(x² - 6)(x - 1)",
+                    "(x + 1)(x + 2)(x - 3)",
+                    "(x - 1)(x + 3)(x - 2)"
+                ],
+                "options_hindi": [
+                    "x(x - 6)(x - 1)",
+                    "(x² - 6)(x - 1)",
+                    "(x + 1)(x + 2)(x - 3)",
+                    "(x - 1)(x + 3)(x - 2)"
+                ],
+                "answer": "(x - 1)(x + 3)(x - 2)"
+            },
+            {
+                "serial_no": 95,
+                "question": "The measure of the angle between the coordinate axes is:",
+                "question_hindi": "निर्देशांक अक्षों के बीच के कोण की माप है:",
+                "options": [
+                    "0°",
+                    "90°",
+                    "180°",
+                    "360°"
+                ],
+                "options_hindi": [
+                    "0°",
+                    "90°",
+                    "180°",
+                    "360°"
+                ],
+                "answer": "90°"
+            },
+            {
+                "serial_no": 96,
+                "question": "If the mean of 6, 4, 7, P and 10 is 8, what is the value of P?",
+                "question_hindi": "यदि 6, 4, 7, P और 10 का माध्य 8 है, तो P का मान क्या है?",
+                "options": [
+                    "11",
+                    "12",
+                    "13",
+                    "14"
+                ],
+                "options_hindi": [
+                    "11",
+                    "12",
+                    "13",
+                    "14"
+                ],
+                "answer": "13"
+            },
+            {
+                "serial_no": 97,
+                "question": "If (x - 3) is a factor of x² - ax - 15, then a = ?",
+                "question_hindi": "यदि (x - 3), x² - ax - 15 का एक गुणनखंड है, तो a = ?",
+                "options": [
+                    "-2",
+                    "5",
+                    "-5",
+                    "3"
+                ],
+                "options_hindi": [
+                    "-2",
+                    "5",
+                    "-5",
+                    "3"
+                ],
+                "answer": "-2"
+            },
+            {
+                "serial_no": 98,
+                "question": "What is the median of the following data? 25, 34, 31, 23, 22, 26, 35, 28, 20, 32",
+                "question_hindi": "निम्नलिखित आँकड़ों की माध्यिका क्या है? 25, 34, 31, 23, 22, 26, 35, 28, 20, 32",
+                "options": [
+                    "22",
+                    "27",
+                    "25",
+                    "20"
+                ],
+                "options_hindi": [
+                    "22",
+                    "27",
+                    "25",
+                    "20"
+                ],
+                "answer": "27"
+            },
+            {
+                "serial_no": 99,
+                "question": "(1 - 1/5)(1 - 1/6)(1 - 1/7)...(1 - 1/100) is equal to:",
+                "question_hindi": "(1 - 1/5)(1 - 1/6)(1 - 1/7)...(1 - 1/100) बराबर है:",
+                "options": [
+                    "0",
+                    "1/125",
+                    "1/25",
+                    "1/50"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1/125",
+                    "1/25",
+                    "1/50"
+                ],
+                "answer": "1/25"
+            },
+            {
+                "serial_no": 100,
+                "question": "The area of the base of a right circular cylinder is 154 cm² and its height is 15 cm. What is the volume of the cylinder?",
+                "question_hindi": "एक लम्ब वृत्तीय बेलन के आधार का क्षेत्रफल 154 सेमी² और ऊँचाई 15 सेमी है। बेलन का आयतन क्या है?",
+                "options": [
+                    "2310 cm³",
+                    "5720 cm³",
+                    "1780 cm³",
+                    "3803 cm³"
+                ],
+                "options_hindi": [
+                    "2310 सेमी³",
+                    "5720 सेमी³",
+                    "1780 सेमी³",
+                    "3803 सेमी³"
+                ],
+                "answer": "2310 cm³"
+            },
+            {
+                "serial_no": 101,
+                "question": "If the mean of the following data is 15, find the value of P: 10, 12, 14, P, 18, 20",
+                "question_hindi": "यदि निम्नलिखित आँकड़ों का माध्य 15 है, तो P का मान ज्ञात कीजिए: 10, 12, 14, P, 18, 20",
+                "options": [
+                    "14",
+                    "15",
+                    "16",
+                    "17"
+                ],
+                "options_hindi": [
+                    "14",
+                    "15",
+                    "16",
+                    "17"
+                ],
+                "answer": "16"
+            },
+            {
+                "serial_no": 102,
+                "question": "The sum of three numbers is 98. If the ratio of the first to the second is 2 : 3 and that of the second to the third is 5 : 8, then the second number is:",
+                "question_hindi": "तीन संख्याओं का योग 98 है। यदि पहली का दूसरी से अनुपात 2 : 3 है और दूसरी का तीसरी से अनुपात 5 : 8 है, तो दूसरी संख्या है:",
+                "options": [
+                    "20",
+                    "30",
+                    "40",
+                    "50"
+                ],
+                "options_hindi": [
+                    "20",
+                    "30",
+                    "40",
+                    "50"
+                ],
+                "answer": "30"
+            },
+            {
+                "serial_no": 103,
+                "question": "A man sold an article at a loss of 20%. If he had sold it for Rs. 60 more, he would have gained 10%. The cost price of the article is:",
+                "question_hindi": "एक व्यक्ति ने एक वस्तु को 20% की हानि पर बेचा। यदि उसने इसे 60 रुपये अधिक पर बेचा होता, तो उसे 10% का लाभ होता। वस्तु का क्रय मूल्य है:",
+                "options": [
+                    "Rs. 200",
+                    "Rs. 250",
+                    "Rs. 300",
+                    "Rs. 350"
+                ],
+                "options_hindi": [
+                    "200 रुपये",
+                    "250 रुपये",
+                    "300 रुपये",
+                    "350 रुपये"
+                ],
+                "answer": "Rs. 200"
+            },
+            {
+                "serial_no": 104,
+                "question": "A train 150 m long passes a pole in 15 seconds. The speed of the train is:",
+                "question_hindi": "150 मीटर लंबी एक ट्रेन एक खंभे को 15 सेकंड में पार करती है। ट्रेन की चाल है:",
+                "options": [
+                    "36 km/hr",
+                    "40 km/hr",
+                    "45 km/hr",
+                    "50 km/hr"
+                ],
+                "options_hindi": [
+                    "36 किमी/घंटा",
+                    "40 किमी/घंटा",
+                    "45 किमी/घंटा",
+                    "50 किमी/घंटा"
+                ],
+                "answer": "36 km/hr"
+            },
+            {
+                "serial_no": 105,
+                "question": "The difference between compound interest and simple interest on a certain sum for 2 years at 10% per annum is Rs. 25. The sum is:",
+                "question_hindi": "किसी धनराशि पर 2 वर्ष के लिए 10% वार्षिक ब्याज की दर से चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर 25 रुपये है। धनराशि है:",
+                "options": [
+                    "Rs. 2000",
+                    "Rs. 2500",
+                    "Rs. 3000",
+                    "Rs. 3500"
+                ],
+                "options_hindi": [
+                    "2000 रुपये",
+                    "2500 रुपये",
+                    "3000 रुपये",
+                    "3500 रुपये"
+                ],
+                "answer": "Rs. 2500"
+            },
+            {
+                "serial_no": 106,
+                "question": "If sin θ = 3/5, then the value of cos θ is:",
+                "question_hindi": "यदि sin θ = 3/5, तो cos θ का मान है:",
+                "options": [
+                    "3/4",
+                    "4/5",
+                    "5/4",
+                    "2/5"
+                ],
+                "options_hindi": [
+                    "3/4",
+                    "4/5",
+                    "5/4",
+                    "2/5"
+                ],
+                "answer": "4/5"
+            },
+            {
+                "serial_no": 107,
+                "question": "The value of 2 tan 45° + cos 60° - sin 30° is:",
+                "question_hindi": "2 tan 45° + cos 60° - sin 30° का मान है:",
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "answer": "2"
+            },
+            {
+                "serial_no": 108,
+                "question": "If the volume of a sphere is 36π cm³, then its radius is:",
+                "question_hindi": "यदि एक गोले का आयतन 36π सेमी³ है, तो इसकी त्रिज्या है:",
+                "options": [
+                    "2 cm",
+                    "3 cm",
+                    "4 cm",
+                    "6 cm"
+                ],
+                "options_hindi": [
+                    "2 सेमी",
+                    "3 सेमी",
+                    "4 सेमी",
+                    "6 सेमी"
+                ],
+                "answer": "3 cm"
+            },
+            {
+                "serial_no": 109,
+                "question": "The diagonal of a square is 10√2 cm. Its area is:",
+                "question_hindi": "एक वर्ग का विकर्ण 10√2 सेमी है। इसका क्षेत्रफल है:",
+                "options": [
+                    "50 cm²",
+                    "100 cm²",
+                    "150 cm²",
+                    "200 cm²"
+                ],
+                "options_hindi": [
+                    "50 सेमी²",
+                    "100 सेमी²",
+                    "150 सेमी²",
+                    "200 सेमी²"
+                ],
+                "answer": "100 cm²"
+            },
+            {
+                "serial_no": 110,
+                "question": "The value of (x + y)² - (x - y)² is:",
+                "question_hindi": "(x + y)² - (x - y)² का मान है:",
+                "options": [
+                    "2xy",
+                    "4xy",
+                    "x² + y²",
+                    "x² - y²"
+                ],
+                "options_hindi": [
+                    "2xy",
+                    "4xy",
+                    "x² + y²",
+                    "x² - y²"
+                ],
+                "answer": "4xy"
+            },
+            {
+                "serial_no": 111,
+                "question": "If a + b = 7 and ab = 12, then a² + b² is:",
+                "question_hindi": "यदि a + b = 7 और ab = 12, तो a² + b² है:",
+                "options": [
+                    "25",
+                    "49",
+                    "37",
+                    "24"
+                ],
+                "options_hindi": [
+                    "25",
+                    "49",
+                    "37",
+                    "24"
+                ],
+                "answer": "25"
+            },
+            {
+                "serial_no": 112,
+                "question": "The sum of first 10 natural numbers is:",
+                "question_hindi": "प्रथम 10 प्राकृत संख्याओं का योग है:",
+                "options": [
+                    "45",
+                    "50",
+                    "55",
+                    "60"
+                ],
+                "options_hindi": [
+                    "45",
+                    "50",
+                    "55",
+                    "60"
+                ],
+                "answer": "55"
+            },
+            {
+                "serial_no": 113,
+                "question": "If the perimeter of a circle is equal to that of a square, then the ratio of their areas is:",
+                "question_hindi": "यदि एक वृत्त की परिधि एक वर्ग के परिमाप के बराबर है, तो उनके क्षेत्रफलों का अनुपात है:",
+                "options": [
+                    "22 : 7",
+                    "14 : 11",
+                    "11 : 14",
+                    "7 : 22"
+                ],
+                "options_hindi": [
+                    "22 : 7",
+                    "14 : 11",
+                    "11 : 14",
+                    "7 : 22"
+                ],
+                "answer": "14 : 11"
+            },
+            {
+                "serial_no": 114,
+                "question": "The value of 0.333... in the form of p/q is:",
+                "question_hindi": "0.333... का p/q के रूप में मान है:",
+                "options": [
+                    "1/3",
+                    "1/2",
+                    "2/3",
+                    "3/4"
+                ],
+                "options_hindi": [
+                    "1/3",
+                    "1/2",
+                    "2/3",
+                    "3/4"
+                ],
+                "answer": "1/3"
+            },
+            {
+                "serial_no": 115,
+                "question": "If 2x + 3y = 12 and 3x + 2y = 13, then x - y is:",
+                "question_hindi": "यदि 2x + 3y = 12 और 3x + 2y = 13, तो x - y है:",
+                "options": [
+                    "1",
+                    "-1",
+                    "2",
+                    "-2"
+                ],
+                "options_hindi": [
+                    "1",
+                    "-1",
+                    "2",
+                    "-2"
+                ],
+                "answer": "1"
+            },
+            {
+                "serial_no": 116,
+                "question": "The HCF of 48 and 64 is:",
+                "question_hindi": "48 और 64 का HCF है:",
+                "options": [
+                    "8",
+                    "12",
+                    "16",
+                    "24"
+                ],
+                "options_hindi": [
+                    "8",
+                    "12",
+                    "16",
+                    "24"
+                ],
+                "answer": "16"
+            },
+            {
+                "serial_no": 117,
+                "question": "The LCM of 12, 15 and 20 is:",
+                "question_hindi": "12, 15 और 20 का LCM है:",
+                "options": [
+                    "30",
+                    "45",
+                    "60",
+                    "75"
+                ],
+                "options_hindi": [
+                    "30",
+                    "45",
+                    "60",
+                    "75"
+                ],
+                "answer": "60"
+            },
+            {
+                "serial_no": 118,
+                "question": "If the sum of two numbers is 25 and their difference is 5, then the numbers are:",
+                "question_hindi": "यदि दो संख्याओं का योग 25 है और उनका अंतर 5 है, तो संख्याएँ हैं:",
+                "options": [
+                    "10 and 15",
+                    "12 and 13",
+                    "8 and 17",
+                    "5 and 20"
+                ],
+                "options_hindi": [
+                    "10 और 15",
+                    "12 और 13",
+                    "8 और 17",
+                    "5 और 20"
+                ],
+                "answer": "10 and 15"
+            },
+            {
+                "serial_no": 119,
+                "question": "A number is increased by 20% and then decreased by 20%. The net change is:",
+                "question_hindi": "एक संख्या में 20% की वृद्धि की जाती है और फिर 20% की कमी की जाती है। शुद्ध परिवर्तन है:",
+                "options": [
+                    "4% increase",
+                    "4% decrease",
+                    "0%",
+                    "2% decrease"
+                ],
+                "options_hindi": [
+                    "4% वृद्धि",
+                    "4% कमी",
+                    "0%",
+                    "2% कमी"
+                ],
+                "answer": "4% decrease"
+            },
+            {
+                "serial_no": 120,
+                "question": "The area of a triangle with base 12 cm and height 8 cm is:",
+                "question_hindi": "12 सेमी आधार और 8 सेमी ऊँचाई वाले त्रिभुज का क्षेत्रफल है:",
+                "options": [
+                    "48 cm²",
+                    "96 cm²",
+                    "24 cm²",
+                    "36 cm²"
+                ],
+                "options_hindi": [
+                    "48 सेमी²",
+                    "96 सेमी²",
+                    "24 सेमी²",
+                    "36 सेमी²"
+                ],
+                "answer": "48 cm²"
+            },
+            {
+                "serial_no": 121,
+                "question": "The value of 5 - [2 - {3 - (4 - 5)}] is:",
+                "question_hindi": "5 - [2 - {3 - (4 - 5)}] का मान है:",
+                "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "options_hindi": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "answer": "7"
+            },
+            {
+                "serial_no": 122,
+                "question": "If the cost price of 10 articles is equal to the selling price of 8 articles, the gain percent is:",
+                "question_hindi": "यदि 10 वस्तुओं का क्रय मूल्य 8 वस्तुओं के विक्रय मूल्य के बराबर है, तो लाभ प्रतिशत है:",
+                "options": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "40%"
+                ],
+                "options_hindi": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "40%"
+                ],
+                "answer": "25%"
+            },
+            {
+                "serial_no": 123,
+                "question": "The simple interest on Rs. 5000 at 8% per annum for 3 years is:",
+                "question_hindi": "5000 रुपये पर 8% वार्षिक ब्याज की दर से 3 वर्ष का साधारण ब्याज है:",
+                "options": [
+                    "Rs. 1000",
+                    "Rs. 1200",
+                    "Rs. 1500",
+                    "Rs. 1800"
+                ],
+                "options_hindi": [
+                    "1000 रुपये",
+                    "1200 रुपये",
+                    "1500 रुपये",
+                    "1800 रुपये"
+                ],
+                "answer": "Rs. 1200"
+            },
+            {
+                "serial_no": 124,
+                "question": "The angle in a semicircle is:",
+                "question_hindi": "अर्धवृत्त में कोण होता है:",
+                "options": [
+                    "60°",
+                    "90°",
+                    "120°",
+                    "180°"
+                ],
+                "options_hindi": [
+                    "60°",
+                    "90°",
+                    "120°",
+                    "180°"
+                ],
+                "answer": "90°"
+            },
+            {
+                "serial_no": 125,
+                "question": "The value of 3√8 + 2√18 is:",
+                "question_hindi": "3√8 + 2√18 का मान है:",
+                "options": [
+                    "6√2",
+                    "12√2",
+                    "15√2",
+                    "18√2"
+                ],
+                "options_hindi": [
+                    "6√2",
+                    "12√2",
+                    "15√2",
+                    "18√2"
+                ],
+                "answer": "12√2"
+            },
+            {
+                "serial_no": 126,
+                "question": "If a : b = 2 : 3 and b : c = 4 : 5, then a : c is:",
+                "question_hindi": "यदि a : b = 2 : 3 और b : c = 4 : 5, तो a : c है:",
+                "options": [
+                    "8 : 15",
+                    "15 : 8",
+                    "6 : 20",
+                    "20 : 6"
+                ],
+                "options_hindi": [
+                    "8 : 15",
+                    "15 : 8",
+                    "6 : 20",
+                    "20 : 6"
+                ],
+                "answer": "8 : 15"
+            },
+            {
+                "serial_no": 127,
+                "question": "The least number which when divided by 12, 15 and 18 leaves remainder 5 in each case is:",
+                "question_hindi": "वह सबसे छोटी संख्या जिसे 12, 15 और 18 से विभाजित करने पर प्रत्येक दशा में 5 शेष बचता है:",
+                "options": [
+                    "185",
+                    "180",
+                    "175",
+                    "190"
+                ],
+                "options_hindi": [
+                    "185",
+                    "180",
+                    "175",
+                    "190"
+                ],
+                "answer": "185"
+            },
+            {
+                "serial_no": 128,
+                "question": "If 5 men can do a piece of work in 10 days, then 10 men can do the same work in:",
+                "question_hindi": "यदि 5 आदमी किसी कार्य को 10 दिनों में कर सकते हैं, तो 10 आदमी उसी कार्य को कितने दिनों में करेंगे?",
+                "options": [
+                    "2 days",
+                    "5 days",
+                    "10 days",
+                    "20 days"
+                ],
+                "options_hindi": [
+                    "2 दिन",
+                    "5 दिन",
+                    "10 दिन",
+                    "20 दिन"
+                ],
+                "answer": "5 days"
+            },
+            {
+                "serial_no": 129,
+                "question": "The value of 2⁵ × 2⁷ ÷ 2⁸ is:",
+                "question_hindi": "2⁵ × 2⁷ ÷ 2⁸ का मान है:",
+                "options": [
+                    "2⁴",
+                    "2⁵",
+                    "2⁶",
+                    "2⁷"
+                ],
+                "options_hindi": [
+                    "2⁴",
+                    "2⁵",
+                    "2⁶",
+                    "2⁷"
+                ],
+                "answer": "2⁴"
+            },
+            {
+                "serial_no": 130,
+                "question": "The area of a circle with diameter 14 cm is:",
+                "question_hindi": "14 सेमी व्यास वाले वृत्त का क्षेत्रफल है:",
+                "options": [
+                    "154 cm²",
+                    "44 cm²",
+                    "88 cm²",
+                    "616 cm²"
+                ],
+                "options_hindi": [
+                    "154 सेमी²",
+                    "44 सेमी²",
+                    "88 सेमी²",
+                    "616 सेमी²"
+                ],
+                "answer": "154 cm²"
+            },
+            {
+                "serial_no": 131,
+                "question": "The probability of getting a head in a single toss of a coin is:",
+                "question_hindi": "एक सिक्के को एक बार उछालने पर चित आने की प्रायिकता है:",
+                "options": [
+                    "0",
+                    "1/4",
+                    "1/2",
+                    "1"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1/4",
+                    "1/2",
+                    "1"
+                ],
+                "answer": "1/2"
+            },
+            {
+                "serial_no": 132,
+                "question": "The value of (x² - y²) ÷ (x - y) is:",
+                "question_hindi": "(x² - y²) ÷ (x - y) का मान है:",
+                "options": [
+                    "x + y",
+                    "x - y",
+                    "x² + y²",
+                    "x² - y²"
+                ],
+                "options_hindi": [
+                    "x + y",
+                    "x - y",
+                    "x² + y²",
+                    "x² - y²"
+                ],
+                "answer": "x + y"
+            },
+            {
+                "serial_no": 133,
+                "question": "If the radius of a cylinder is doubled and height is halved, the volume becomes:",
+                "question_hindi": "यदि एक बेलन की त्रिज्या दोगुनी कर दी जाए और ऊँचाई आधी कर दी जाए, तो आयतन हो जाता है:",
+                "options": [
+                    "2 times",
+                    "4 times",
+                    "half",
+                    "same"
+                ],
+                "options_hindi": [
+                    "दोगुना",
+                    "चार गुना",
+                    "आधा",
+                    "समान"
+                ],
+                "answer": "2 times"
+            },
+            {
+                "serial_no": 134,
+                "question": "The mean of first 5 odd natural numbers is:",
+                "question_hindi": "प्रथम 5 विषम प्राकृत संख्याओं का माध्य है:",
+                "options": [
+                    "3",
+                    "5",
+                    "7",
+                    "9"
+                ],
+                "options_hindi": [
+                    "3",
+                    "5",
+                    "7",
+                    "9"
+                ],
+                "answer": "5"
+            },
+            {
+                "serial_no": 135,
+                "question": "If 20% of a number is 50, then the number is:",
+                "question_hindi": "यदि किसी संख्या का 20% = 50 है, तो वह संख्या है:",
+                "options": [
+                    "100",
+                    "200",
+                    "250",
+                    "300"
+                ],
+                "options_hindi": [
+                    "100",
+                    "200",
+                    "250",
+                    "300"
+                ],
+                "answer": "250"
+            },
+            {
+                "serial_no": 136,
+                "question": "The value of (5 + √5)(5 - √5) is:",
+                "question_hindi": "(5 + √5)(5 - √5) का मान है:",
+                "options": [
+                    "20",
+                    "25",
+                    "30",
+                    "35"
+                ],
+                "options_hindi": [
+                    "20",
+                    "25",
+                    "30",
+                    "35"
+                ],
+                "answer": "20"
+            },
+            {
+                "serial_no": 137,
+                "question": "The volume of a cube of side 5 cm is:",
+                "question_hindi": "5 सेमी भुजा वाले घन का आयतन है:",
+                "options": [
+                    "25 cm³",
+                    "75 cm³",
+                    "100 cm³",
+                    "125 cm³"
+                ],
+                "options_hindi": [
+                    "25 सेमी³",
+                    "75 सेमी³",
+                    "100 सेमी³",
+                    "125 सेमी³"
+                ],
+                "answer": "125 cm³"
+            },
+            {
+                "serial_no": 138,
+                "question": "The value of (x - 1/x)² is equal to:",
+                "question_hindi": "(x - 1/x)² बराबर है:",
+                "options": [
+                    "x² + 1/x² + 2",
+                    "x² + 1/x² - 2",
+                    "x² - 1/x² + 2",
+                    "x² - 1/x² - 2"
+                ],
+                "options_hindi": [
+                    "x² + 1/x² + 2",
+                    "x² + 1/x² - 2",
+                    "x² - 1/x² + 2",
+                    "x² - 1/x² - 2"
+                ],
+                "answer": "x² + 1/x² - 2"
+            },
+            {
+                "serial_no": 139,
+                "question": "If the sum of the digits of a two-digit number is 9 and the number formed by reversing the digits is 9 less than the original number, then the original number is:",
+                "question_hindi": "यदि एक दो अंकों की संख्या के अंकों का योग 9 है और अंकों को उलटने से बनी संख्या मूल संख्या से 9 कम है, तो मूल संख्या है:",
+                "options": [
+                    "54",
+                    "63",
+                    "72",
+                    "81"
+                ],
+                "options_hindi": [
+                    "54",
+                    "63",
+                    "72",
+                    "81"
+                ],
+                "answer": "54"
+            },
+            {
+                "serial_no": 140,
+                "question": "The perimeter of a square is 40 cm. Its area is:",
+                "question_hindi": "एक वर्ग का परिमाप 40 सेमी है। इसका क्षेत्रफल है:",
+                "options": [
+                    "100 cm²",
+                    "400 cm²",
+                    "160 cm²",
+                    "80 cm²"
+                ],
+                "options_hindi": [
+                    "100 सेमी²",
+                    "400 सेमी²",
+                    "160 सेमी²",
+                    "80 सेमी²"
+                ],
+                "answer": "100 cm²"
+            },
+            {
+                "serial_no": 141,
+                "question": "The value of sin² 30° + cos² 60° is:",
+                "question_hindi": "sin² 30° + cos² 60° का मान है:",
+                "options": [
+                    "0",
+                    "1/2",
+                    "1",
+                    "3/2"
+                ],
+                "options_hindi": [
+                    "0",
+                    "1/2",
+                    "1",
+                    "3/2"
+                ],
+                "answer": "1/2"
+            },
+            {
+                "serial_no": 142,
+                "question": "If the selling price of an article is Rs. 800 and the loss is 20%, then the cost price is:",
+                "question_hindi": "यदि किसी वस्तु का विक्रय मूल्य 800 रुपये है और हानि 20% है, तो क्रय मूल्य है:",
+                "options": [
+                    "Rs. 960",
+                    "Rs. 1000",
+                    "Rs. 1040",
+                    "Rs. 1200"
+                ],
+                "options_hindi": [
+                    "960 रुपये",
+                    "1000 रुपये",
+                    "1040 रुपये",
+                    "1200 रुपये"
+                ],
+                "answer": "Rs. 1000"
+            },
+            {
+                "serial_no": 143,
+                "question": "The value of 15% of 200 is:",
+                "question_hindi": "200 का 15% का मान है:",
+                "options": [
+                    "15",
+                    "20",
+                    "25",
+                    "30"
+                ],
+                "options_hindi": [
+                    "15",
+                    "20",
+                    "25",
+                    "30"
+                ],
+                "answer": "30"
+            },
+            {
+                "serial_no": 144,
+                "question": "If 3x - 5 = 7, then x is:",
+                "question_hindi": "यदि 3x - 5 = 7, तो x है:",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "options_hindi": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "answer": "4"
+            },
+            {
+                "serial_no": 145,
+                "question": "The number of diagonals in a pentagon is:",
+                "question_hindi": "पंचभुज में विकर्णों की संख्या है:",
+                "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "options_hindi": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "answer": "5"
+            },
+            {
+                "serial_no": 146,
+                "question": "The value of 0.2 × 0.2 × 0.2 is:",
+                "question_hindi": "0.2 × 0.2 × 0.2 का मान है:",
+                "options": [
+                    "0.008",
+                    "0.08",
+                    "0.8",
+                    "8"
+                ],
+                "options_hindi": [
+                    "0.008",
+                    "0.08",
+                    "0.8",
+                    "8"
+                ],
+                "answer": "0.008"
+            },
+            {
+                "serial_no": 147,
+                "question": "The next term in the sequence 2, 6, 12, 20, ... is:",
+                "question_hindi": "अनुक्रम 2, 6, 12, 20, ... में अगला पद है:",
+                "options": [
+                    "28",
+                    "30",
+                    "32",
+                    "36"
+                ],
+                "options_hindi": [
+                    "28",
+                    "30",
+                    "32",
+                    "36"
+                ],
+                "answer": "30"
+            },
+            {
+                "serial_no": 148,
+                "question": "The value of 10 ÷ 2 × 5 is:",
+                "question_hindi": "10 ÷ 2 × 5 का मान है:",
+                "options": [
+                    "1",
+                    "4",
+                    "10",
+                    "25"
+                ],
+                "options_hindi": [
+                    "1",
+                    "4",
+                    "10",
+                    "25"
+                ],
+                "answer": "25"
+            },
+            {
+                "serial_no": 149,
+                "question": "Which of the following fractions are in ascending order?",
+                "question_hindi": "निम्नलिखित में से कौन-सी भिन्नें आरोही क्रम में हैं?",
+                "options": [
+                    "7/9, 8/11, 11/14, 13/15",
+                    "9/11, 7/8, 14/15, 13/13",
+                    "8/7, 9/11, 13/11, 14/15",
+                    "7/8, 11/9, 11/13, 15/14"
+                ],
+                "options_hindi": [
+                    "7/9, 8/11, 11/14, 13/15",
+                    "9/11, 7/8, 14/15, 13/13",
+                    "8/7, 9/11, 13/11, 14/15",
+                    "7/8, 11/9, 11/13, 15/14"
+                ],
+                "answer": "7/9, 8/11, 11/14, 13/15"
+            },
+            {
+                "serial_no": 150,
+                "question": "If expression x + 8√x + a² is a perfect square, then what is the value of 'a'?",
+                "question_hindi": "यदि व्यंजक x + 8√x + a² एक पूर्ण वर्ग है, तो 'a' का मान है:",
+                "options": [
+                    "± 18",
+                    "± 8",
+                    "± 5",
+                    "± 4"
+                ],
+                "options_hindi": [
+                    "± 18",
+                    "± 8",
+                    "± 5",
+                    "± 4"
+                ],
+                "answer": "± 4"
+            }
+        ]
+    }
+}

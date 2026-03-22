@@ -1,689 +1,1091 @@
 {
-  "name": "TGT Full Length Mock Test 2025",
-  "category": "TGT",
-  "year": 2025,
-  "section": "Full Paper",
-  "duration": 120,
-  "questions": [
-    {
-      "question": "What is the primary goal of teaching Pedagogy at TGT level?",
-      "question_hindi": "TGT स्तर पर Pedagogy पढ़ाने का मुख्य उद्देश्य क्या है?",
-      "options": [
-        "Option A for Q1",
-        "Option B for Q1",
-        "Option C for Q1",
-        "Option D for Q1"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q1 के लिए",
-        "विकल्प बी Q1 के लिए",
-        "विकल्प सी Q1 के लिए",
-        "विकल्प डी Q1 के लिए"
-      ],
-      "answer": "Option A for Q1"
-    },
-    {
-      "question": "Which learning theory is most applicable for TGT students?",
-      "question_hindi": "TGT के छात्रों के लिए कौन सा अधिगम सिद्धांत सबसे उपयुक्त है?",
-      "options": [
-        "Option A for Q2",
-        "Option B for Q2",
-        "Option C for Q2",
-        "Option D for Q2"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q2 के लिए",
-        "विकल्प बी Q2 के लिए",
-        "विकल्प सी Q2 के लिए",
-        "विकल्प डी Q2 के लिए"
-      ],
-      "answer": "Option A for Q2"
-    },
-    {
-      "question": "How would you assess TGT students in Pedagogy?",
-      "question_hindi": "TGT के छात्रों का Pedagogy में मूल्यांकन कैसे करेंगे?",
-      "options": [
-        "Option A for Q3",
-        "Option B for Q3",
-        "Option C for Q3",
-        "Option D for Q3"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q3 के लिए",
-        "विकल्प बी Q3 के लिए",
-        "विकल्प सी Q3 के लिए",
-        "विकल्प डी Q3 के लिए"
-      ],
-      "answer": "Option A for Q3"
-    },
-    {
-      "question": "What teaching method works best for Pedagogy at TGT level?",
-      "question_hindi": "TGT स्तर पर Pedagogy के लिए कौन सी शिक्षण विधि सर्वोत्तम है?",
-      "options": [
-        "Option A for Q4",
-        "Option B for Q4",
-        "Option C for Q4",
-        "Option D for Q4"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q4 के लिए",
-        "विकल्प बी Q4 के लिए",
-        "विकल्प सी Q4 के लिए",
-        "विकल्प डी Q4 के लिए"
-      ],
-      "answer": "Option A for Q4"
-    },
-    {
-      "question": "Explain the concept of scaffolding in Pedagogy education.",
-      "question_hindi": "Pedagogy शिक्षा में स्कैफोल्डिंग की अवधारणा समझाएं।",
-      "options": [
-        "Option A for Q5",
-        "Option B for Q5",
-        "Option C for Q5",
-        "Option D for Q5"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q5 के लिए",
-        "विकल्प बी Q5 के लिए",
-        "विकल्प सी Q5 के लिए",
-        "विकल्प डी Q5 के लिए"
-      ],
-      "answer": "Option A for Q5"
-    },
-    {
-      "question": "What are the key principles of Pedagogy curriculum at TGT level?",
-      "question_hindi": "TGT स्तर पर Pedagogy पाठ्यक्रम के मुख्य सिद्धांत क्या हैं?",
-      "options": [
-        "Option A for Q6",
-        "Option B for Q6",
-        "Option C for Q6",
-        "Option D for Q6"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q6 के लिए",
-        "विकल्प बी Q6 के लिए",
-        "विकल्प सी Q6 के लिए",
-        "विकल्प डी Q6 के लिए"
-      ],
-      "answer": "Option A for Q6"
-    },
-    {
-      "question": "How do you handle mixed-ability classes in Pedagogy?",
-      "question_hindi": "Pedagogy में मिश्रित क्षमता वाली कक्षाओं का प्रबंधन कैसे करें?",
-      "options": [
-        "Option A for Q7",
-        "Option B for Q7",
-        "Option C for Q7",
-        "Option D for Q7"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q7 के लिए",
-        "विकल्प बी Q7 के लिए",
-        "विकल्प सी Q7 के लिए",
-        "विकल्प डी Q7 के लिए"
-      ],
-      "answer": "Option A for Q7"
-    },
-    {
-      "question": "What role does technology play in teaching Pedagogy?",
-      "question_hindi": "Pedagogy पढ़ाने में प्रौद्योगिकी की क्या भूमिका है?",
-      "options": [
-        "Option A for Q8",
-        "Option B for Q8",
-        "Option C for Q8",
-        "Option D for Q8"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q8 के लिए",
-        "विकल्प बी Q8 के लिए",
-        "विकल्प सी Q8 के लिए",
-        "विकल्प डी Q8 के लिए"
-      ],
-      "answer": "Option A for Q8"
-    },
-    {
-      "question": "Describe effective classroom management for TGT Pedagogy classes.",
-      "question_hindi": "TGT Pedagogy कक्षाओं के लिए प्रभावी कक्षा प्रबंधन बताएं।",
-      "options": [
-        "Option A for Q9",
-        "Option B for Q9",
-        "Option C for Q9",
-        "Option D for Q9"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q9 के लिए",
-        "विकल्प बी Q9 के लिए",
-        "विकल्प सी Q9 के लिए",
-        "विकल्प डी Q9 के लिए"
-      ],
-      "answer": "Option A for Q9"
-    },
-    {
-      "question": "What are the latest trends in Pedagogy education?",
-      "question_hindi": "Pedagogy शिक्षा में नवीनतम रुझान क्या हैं?",
-      "options": [
-        "Option A for Q10",
-        "Option B for Q10",
-        "Option C for Q10",
-        "Option D for Q10"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q10 के लिए",
-        "विकल्प बी Q10 के लिए",
-        "विकल्प सी Q10 के लिए",
-        "विकल्प डी Q10 के लिए"
-      ],
-      "answer": "Option A for Q10"
-    },
-    {
-      "question": "Who is the author of 'Godan'?",
-      "question_hindi": "'गोदान' के लेखक कौन हैं?",
-      "options": [
-        "Option A for Q1",
-        "Option B for Q1",
-        "Option C for Q1",
-        "Option D for Q1"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q1 के लिए",
-        "विकल्प बी Q1 के लिए",
-        "विकल्प सी Q1 के लिए",
-        "विकल्प डी Q1 के लिए"
-      ],
-      "answer": "Option A for Q1"
-    },
-    {
-      "question": "What is the synonym of 'सूर्य'?",
-      "question_hindi": "'सूर्य' का पर्यायवाची शब्द क्या है?",
-      "options": [
-        "Option A for Q2",
-        "Option B for Q2",
-        "Option C for Q2",
-        "Option D for Q2"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q2 के लिए",
-        "विकल्प बी Q2 के लिए",
-        "विकल्प सी Q2 के लिए",
-        "विकल्प डी Q2 के लिए"
-      ],
-      "answer": "Option A for Q2"
-    },
-    {
-      "question": "Identify the tense in 'राम खाना खाता है'",
-      "question_hindi": "'राम खाना खाता है' में काल पहचानें",
-      "options": [
-        "Option A for Q3",
-        "Option B for Q3",
-        "Option C for Q3",
-        "Option D for Q3"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q3 के लिए",
-        "विकल्प बी Q3 के लिए",
-        "विकल्प सी Q3 के लिए",
-        "विकल्प डी Q3 के लिए"
-      ],
-      "answer": "Option A for Q3"
-    },
-    {
-      "question": "Explain the meaning of 'आँखों का तारा'",
-      "question_hindi": "'आँखों का तारा' का अर्थ समझाएं",
-      "options": [
-        "Option A for Q4",
-        "Option B for Q4",
-        "Option C for Q4",
-        "Option D for Q4"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q4 के लिए",
-        "विकल्प बी Q4 के लिए",
-        "विकल्प सी Q4 के लिए",
-        "विकल्प डी Q4 के लिए"
-      ],
-      "answer": "Option A for Q4"
-    },
-    {
-      "question": "Who wrote 'Ramcharitmanas'?",
-      "question_hindi": "'रामचरितमानस' किसने लिखी?",
-      "options": [
-        "Option A for Q5",
-        "Option B for Q5",
-        "Option C for Q5",
-        "Option D for Q5"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q5 के लिए",
-        "विकल्प बी Q5 के लिए",
-        "विकल्प सी Q5 के लिए",
-        "विकल्प डी Q5 के लिए"
-      ],
-      "answer": "Option A for Q5"
-    },
-    {
-      "question": "What is the antonym of 'दिन'?",
-      "question_hindi": "'दिन' का विलोम शब्द क्या है?",
-      "options": [
-        "Option A for Q6",
-        "Option B for Q6",
-        "Option C for Q6",
-        "Option D for Q6"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q6 के लिए",
-        "विकल्प बी Q6 के लिए",
-        "विकल्प सी Q6 के लिए",
-        "विकल्प डी Q6 के लिए"
-      ],
-      "answer": "Option A for Q6"
-    },
-    {
-      "question": "Identify the noun in 'मोर नाचता है'",
-      "question_hindi": "'मोर नाचता है' में संज्ञा पहचानें",
-      "options": [
-        "Option A for Q7",
-        "Option B for Q7",
-        "Option C for Q7",
-        "Option D for Q7"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q7 के लिए",
-        "विकल्प बी Q7 के लिए",
-        "विकल्प सी Q7 के लिए",
-        "विकल्प डी Q7 के लिए"
-      ],
-      "answer": "Option A for Q7"
-    },
-    {
-      "question": "Who is a famous Hindi poet from the 2025 era?",
-      "question_hindi": "2025 के दौर के प्रसिद्ध हिंदी कवि कौन हैं?",
-      "options": [
-        "Option A for Q8",
-        "Option B for Q8",
-        "Option C for Q8",
-        "Option D for Q8"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q8 के लिए",
-        "विकल्प बी Q8 के लिए",
-        "विकल्प सी Q8 के लिए",
-        "विकल्प डी Q8 के लिए"
-      ],
-      "answer": "Option A for Q8"
-    },
-    {
-      "question": "What is the meaning of 'जैसी करनी वैसी भरनी'?",
-      "question_hindi": "'जैसी करनी वैसी भरनी' का क्या अर्थ है?",
-      "options": [
-        "Option A for Q9",
-        "Option B for Q9",
-        "Option C for Q9",
-        "Option D for Q9"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q9 के लिए",
-        "विकल्प बी Q9 के लिए",
-        "विकल्प सी Q9 के लिए",
-        "विकल्प डी Q9 के लिए"
-      ],
-      "answer": "Option A for Q9"
-    },
-    {
-      "question": "Explain the usage of 'ने' in Hindi grammar.",
-      "question_hindi": "हिंदी व्याकरण में 'ने' के प्रयोग की व्याख्या करें।",
-      "options": [
-        "Option A for Q10",
-        "Option B for Q10",
-        "Option C for Q10",
-        "Option D for Q10"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q10 के लिए",
-        "विकल्प बी Q10 के लिए",
-        "विकल्प सी Q10 के लिए",
-        "विकल्प डी Q10 के लिए"
-      ],
-      "answer": "Option A for Q10"
-    },
-    {
-      "question": "Who wrote 'Hamlet'?",
-      "question_hindi": "'हैमलेट' किसने लिखा?",
-      "options": [
-        "Option A for Q1",
-        "Option B for Q1",
-        "Option C for Q1",
-        "Option D for Q1"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q1 के लिए",
-        "विकल्प बी Q1 के लिए",
-        "विकल्प सी Q1 के लिए",
-        "विकल्प डी Q1 के लिए"
-      ],
-      "answer": "Option A for Q1"
-    },
-    {
-      "question": "What is the synonym of 'beautiful'?",
-      "question_hindi": "'beautiful' का पर्यायवाची शब्द क्या है?",
-      "options": [
-        "Option A for Q2",
-        "Option B for Q2",
-        "Option C for Q2",
-        "Option D for Q2"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q2 के लिए",
-        "विकल्प बी Q2 के लिए",
-        "विकल्प सी Q2 के लिए",
-        "विकल्प डी Q2 के लिए"
-      ],
-      "answer": "Option A for Q2"
-    },
-    {
-      "question": "Identify the verb in 'She runs fast'",
-      "question_hindi": "'She runs fast' में क्रिया पहचानें",
-      "options": [
-        "Option A for Q3",
-        "Option B for Q3",
-        "Option C for Q3",
-        "Option D for Q3"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q3 के लिए",
-        "विकल्प बी Q3 के लिए",
-        "विकल्प सी Q3 के लिए",
-        "विकल्प डी Q3 के लिए"
-      ],
-      "answer": "Option A for Q3"
-    },
-    {
-      "question": "Explain the use of present perfect tense.",
-      "question_hindi": "प्रेजेंट परफेक्ट टेंस के प्रयोग की व्याख्या करें।",
-      "options": [
-        "Option A for Q4",
-        "Option B for Q4",
-        "Option C for Q4",
-        "Option D for Q4"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q4 के लिए",
-        "विकल्प बी Q4 के लिए",
-        "विकल्प सी Q4 के लिए",
-        "विकल्प डी Q4 के लिए"
-      ],
-      "answer": "Option A for Q4"
-    },
-    {
-      "question": "What is an antonym for 'happy'?",
-      "question_hindi": "'happy' का विलोम शब्द क्या है?",
-      "options": [
-        "Option A for Q5",
-        "Option B for Q5",
-        "Option C for Q5",
-        "Option D for Q5"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q5 के लिए",
-        "विकल्प बी Q5 के लिए",
-        "विकल्प सी Q5 के लिए",
-        "विकल्प डी Q5 के लिए"
-      ],
-      "answer": "Option A for Q5"
-    },
-    {
-      "question": "Define 'noun' with examples.",
-      "question_hindi": "उदाहरण सहित 'संज्ञा' की परिभाषा दें।",
-      "options": [
-        "Option A for Q6",
-        "Option B for Q6",
-        "Option C for Q6",
-        "Option D for Q6"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q6 के लिए",
-        "विकल्प बी Q6 के लिए",
-        "विकल्प सी Q6 के लिए",
-        "विकल्प डी Q6 के लिए"
-      ],
-      "answer": "Option A for Q6"
-    },
-    {
-      "question": "Who is the author of 'Pride and Prejudice'?",
-      "question_hindi": "'प्राइड एंड प्रेजुडिस' की लेखिका कौन हैं?",
-      "options": [
-        "Option A for Q7",
-        "Option B for Q7",
-        "Option C for Q7",
-        "Option D for Q7"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q7 के लिए",
-        "विकल्प बी Q7 के लिए",
-        "विकल्प सी Q7 के लिए",
-        "विकल्प डी Q7 के लिए"
-      ],
-      "answer": "Option A for Q7"
-    },
-    {
-      "question": "Identify the adjective in 'The red car'",
-      "question_hindi": "'The red car' में विशेषण पहचानें",
-      "options": [
-        "Option A for Q8",
-        "Option B for Q8",
-        "Option C for Q8",
-        "Option D for Q8"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q8 के लिए",
-        "विकल्प बी Q8 के लिए",
-        "विकल्प सी Q8 के लिए",
-        "विकल्प डी Q8 के लिए"
-      ],
-      "answer": "Option A for Q8"
-    },
-    {
-      "question": "What is a metaphor? Give an example.",
-      "question_hindi": "रूपक क्या है? उदाहरण दें।",
-      "options": [
-        "Option A for Q9",
-        "Option B for Q9",
-        "Option C for Q9",
-        "Option D for Q9"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q9 के लिए",
-        "विकल्प बी Q9 के लिए",
-        "विकल्प सी Q9 के लिए",
-        "विकल्प डी Q9 के लिए"
-      ],
-      "answer": "Option A for Q9"
-    },
-    {
-      "question": "Explain the difference between 'their' and 'there'.",
-      "question_hindi": "'their' और 'there' में अंतर समझाएं।",
-      "options": [
-        "Option A for Q10",
-        "Option B for Q10",
-        "Option C for Q10",
-        "Option D for Q10"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q10 के लिए",
-        "विकल्प बी Q10 के लिए",
-        "विकल्प सी Q10 के लिए",
-        "विकल्प डी Q10 के लिए"
-      ],
-      "answer": "Option A for Q10"
-    },
-    {
-      "question": "What does CPU stand for?",
-      "question_hindi": "CPU का पूरा नाम क्या है?",
-      "options": [
-        "Option A for Q1",
-        "Option B for Q1",
-        "Option C for Q1",
-        "Option D for Q1"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q1 के लिए",
-        "विकल्प बी Q1 के लिए",
-        "विकल्प सी Q1 के लिए",
-        "विकल्प डी Q1 के लिए"
-      ],
-      "answer": "Option A for Q1"
-    },
-    {
-      "question": "Define RAM and ROM.",
-      "question_hindi": "RAM और ROM को परिभाषित करें।",
-      "options": [
-        "Option A for Q2",
-        "Option B for Q2",
-        "Option C for Q2",
-        "Option D for Q2"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q2 के लिए",
-        "विकल्प बी Q2 के लिए",
-        "विकल्प सी Q2 के लिए",
-        "विकल्प डी Q2 के लिए"
-      ],
-      "answer": "Option A for Q2"
-    },
-    {
-      "question": "What is an operating system?",
-      "question_hindi": "ऑपरेटिंग सिस्टम क्या है?",
-      "options": [
-        "Option A for Q3",
-        "Option B for Q3",
-        "Option C for Q3",
-        "Option D for Q3"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q3 के लिए",
-        "विकल्प बी Q3 के लिए",
-        "विकल्प सी Q3 के लिए",
-        "विकल्प डी Q3 के लिए"
-      ],
-      "answer": "Option A for Q3"
-    },
-    {
-      "question": "Explain the function of a motherboard.",
-      "question_hindi": "मदरबोर्ड के कार्य की व्याख्या करें।",
-      "options": [
-        "Option A for Q4",
-        "Option B for Q4",
-        "Option C for Q4",
-        "Option D for Q4"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q4 के लिए",
-        "विकल्प बी Q4 के लिए",
-        "विकल्प सी Q4 के लिए",
-        "विकल्प डी Q4 के लिए"
-      ],
-      "answer": "Option A for Q4"
-    },
-    {
-      "question": "What is HTML?",
-      "question_hindi": "HTML क्या है?",
-      "options": [
-        "Option A for Q5",
-        "Option B for Q5",
-        "Option C for Q5",
-        "Option D for Q5"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q5 के लिए",
-        "विकल्प बी Q5 के लिए",
-        "विकल्प सी Q5 के लिए",
-        "विकल्प डी Q5 के लिए"
-      ],
-      "answer": "Option A for Q5"
-    },
-    {
-      "question": "Define algorithm with example.",
-      "question_hindi": "उदाहरण सहित एल्गोरिदम को परिभाषित करें।",
-      "options": [
-        "Option A for Q6",
-        "Option B for Q6",
-        "Option C for Q6",
-        "Option D for Q6"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q6 के लिए",
-        "विकल्प बी Q6 के लिए",
-        "विकल्प सी Q6 के लिए",
-        "विकल्प डी Q6 के लिए"
-      ],
-      "answer": "Option A for Q6"
-    },
-    {
-      "question": "What is cloud computing?",
-      "question_hindi": "क्लाउड कंप्यूटिंग क्या है?",
-      "options": [
-        "Option A for Q7",
-        "Option B for Q7",
-        "Option C for Q7",
-        "Option D for Q7"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q7 के लिए",
-        "विकल्प बी Q7 के लिए",
-        "विकल्प सी Q7 के लिए",
-        "विकल्प डी Q7 के लिए"
-      ],
-      "answer": "Option A for Q7"
-    },
-    {
-      "question": "Explain the difference between software and hardware.",
-      "question_hindi": "सॉफ्टवेयर और हार्डवेयर में अंतर समझाएं।",
-      "options": [
-        "Option A for Q8",
-        "Option B for Q8",
-        "Option C for Q8",
-        "Option D for Q8"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q8 के लिए",
-        "विकल्प बी Q8 के लिए",
-        "विकल्प सी Q8 के लिए",
-        "विकल्प डी Q8 के लिए"
-      ],
-      "answer": "Option A for Q8"
-    },
-    {
-      "question": "What is a virus in computing?",
-      "question_hindi": "कंप्यूटिंग में वायरस क्या है?",
-      "options": [
-        "Option A for Q9",
-        "Option B for Q9",
-        "Option C for Q9",
-        "Option D for Q9"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q9 के लिए",
-        "विकल्प बी Q9 के लिए",
-        "विकल्प सी Q9 के लिए",
-        "विकल्प डी Q9 के लिए"
-      ],
-      "answer": "Option A for Q9"
-    },
-    {
-      "question": "Define artificial intelligence.",
-      "question_hindi": "आर्टिफिशियल इंटेलिजेंस को परिभाषित करें।",
-      "options": [
-        "Option A for Q10",
-        "Option B for Q10",
-        "Option C for Q10",
-        "Option D for Q10"
-      ],
-      "options_hindi": [
-        "विकल्प ए Q10 के लिए",
-        "विकल्प बी Q10 के लिए",
-        "विकल्प सी Q10 के लिए",
-        "विकल्प डी Q10 के लिए"
-      ],
-      "answer": "Option A for Q10"
-    }
-  ]
+  "part4_social_studies": {
+    "name": "सामाजिक अध्ययन (भाग-IV)",
+    "category": "TGT",
+    "year": 2025,
+    "section": "PART-IV : Social Studies (Questions 91-150)",
+    "duration": 60,
+    "questions": [
+      {
+        "serial_no": 91,
+        "question": "Which of the following pairs is not correctly matched?",
+        "question_hindi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "options": [
+          "Diwan-i-Arz : Iltutmish",
+          "Diwan-i-Mustakharaj : Alauddin Khalji",
+          "Diwan-i-Kohi : Muhammad bin Tughlaq",
+          "Diwan-i-Khairat : Firoz Shah Tughlaq"
+        ],
+        "options_hindi": [
+          "दीवान-ए-अर्ज : इल्तुतमिश",
+          "दीवान-ए-मुस्तखराज : अलाउद्दीन खलजी",
+          "दीवान-ए-कोही : मुहम्मद बिन तुगलक",
+          "दीवान-ए-खैरात : फिरोजशाह तुगलक"
+        ],
+        "answer": "Diwan-i-Mustakharaj : Alauddin Khalji"
+      },
+      {
+        "serial_no": 92,
+        "question": "Which of the following rulers was called 'Sarvakshatrantak' in the Puranas?",
+        "question_hindi": "निम्नलिखित में से किस शासक को पुराणों में 'सर्वक्षत्रांतक' कहा गया था?",
+        "options": [
+          "Bimbisara",
+          "Ajatashatru",
+          "Shishunaga",
+          "Mahapadma Nanda"
+        ],
+        "options_hindi": [
+          "बिम्बिसार",
+          "अजातशत्रु",
+          "शिशुनाग",
+          "महापद्मनंद"
+        ],
+        "answer": "Mahapadma Nanda"
+      },
+      {
+        "serial_no": 93,
+        "question": "If the demand function is pq = c, where c is constant, then which of the following statements are correct with respect to this demand function?",
+        "question_hindi": "यदि माँग फलन pq = c हो, जहाँ c स्थिर है, तो इस माँग वक्र के संदर्भ में निम्न में से कौन-से कथन सही हैं?",
+        "options": [
+          "only (i) is correct",
+          "only (i) and (ii) are correct",
+          "only (i), (ii) and (iii) are correct",
+          "(i), (ii), (iii) & (iv) all are correct"
+        ],
+        "options_hindi": [
+          "केवल (i) सही है",
+          "केवल (i) व (ii) सही है",
+          "केवल (i), (ii) व (iii) सही है",
+          "(i), (ii), (iii) व (iv) सभी सही है"
+        ],
+        "answer": "(i), (ii), (iii) & (iv) all are correct"
+      },
+      {
+        "serial_no": 94,
+        "question": "Which of the following pairs are correctly matched? (A) Minhaj-us-Siraj : Tabaqat-i-Nasiri (B) Ziauddin Barani : Tarikh-i-Firozshahi (C) Amir Khusrau : Futuh-us-Salatin (D) Badayuni : Muntakhab-ut-Tawarikh",
+        "question_hindi": "निम्नलिखित में से कौन-से युग्म सही सुमेलित हैं? (A) मिन्हाज-उस-सिराज : तबकात-ए-नासिरी (B) जियाउद्दीन बरनी : तारीख-ए-फिरोजशाही (C) अमीर खुसरो : फुतूह-उस-सलातिन (D) बदायूँनी : मुन्तखब-उत-तवारीख",
+        "options": [
+          "A, B, D",
+          "A, C",
+          "A, B, C",
+          "A, B"
+        ],
+        "options_hindi": [
+          "A, B, D",
+          "A, C",
+          "A, B, C",
+          "A, B"
+        ],
+        "answer": "A, B, D"
+      },
+      {
+        "serial_no": 95,
+        "question": "Match the following: Factor (i) Labour (ii) Land (iii) Capital (iv) Entrepreneurship with Return (A) Profit (B) Rent (C) Wage (D) Interest",
+        "question_hindi": "निम्नलिखित को सुमेलित कीजिए: साधन (i) श्रम (ii) भूमि (iii) पूँजी (iv) उद्यमशीलता का प्रतिफल (A) लाभ (B) लगान (C) मजदूरी (D) ब्याज से सुमेलन कीजिए।",
+        "options": [
+          "A-i, B-ii, C-iii, D-iv",
+          "A-iv, B-iii, C-ii, D-i",
+          "A-iv, B-ii, C-i, D-iii",
+          "A-i, B-iii, C-ii, D-iv"
+        ],
+        "options_hindi": [
+          "A-i, B-ii, C-iii, D-iv",
+          "A-iv, B-iii, C-ii, D-i",
+          "A-iv, B-ii, C-i, D-iii",
+          "A-i, B-iii, C-ii, D-iv"
+        ],
+        "answer": "A-iv, B-ii, C-i, D-iii"
+      },
+      {
+        "serial_no": 96,
+        "question": "In criticism of democracy, who said 'Liberal or thin democracy is contributing to growing cynicism about politics and the paralysis of public institutions'?",
+        "question_hindi": "लोकतंत्र की आलोचना में किसने कहा कि 'उदार या पतला लोकतंत्र राजनीति के बारे में बढ़ती संशय और सार्वजनिक संस्थानों की पंगुता में योगदान दे रहा है'?",
+        "options": [
+          "Benjamin Barber",
+          "C. Wright Mills",
+          "Bernard Crick",
+          "J. J. Rousseau"
+        ],
+        "options_hindi": [
+          "बेंजामिन बार्बर",
+          "सी. राइट मिल्स",
+          "बर्नार्ड क्रिक",
+          "जे. जे. रूसो"
+        ],
+        "answer": "Benjamin Barber"
+      },
+      {
+        "serial_no": 97,
+        "question": "In the 2023 Global Hunger Index, India ranked ............ out of the 125 countries.",
+        "question_hindi": "2023 के वैश्विक भूख सूचकांक में 125 देशों में भारत का स्थान था:",
+        "options": [
+          "26",
+          "37",
+          "111",
+          "125"
+        ],
+        "options_hindi": [
+          "26",
+          "37",
+          "111",
+          "125"
+        ],
+        "answer": "111"
+      },
+      {
+        "serial_no": 98,
+        "question": "Which of the following neighbouring countries had better performance in terms of human development than India in the year 2022?",
+        "question_hindi": "निम्नलिखित पड़ोसी देशों में से 2022 में मानव विकास के मामले में किस देश की स्थिति भारत से बेहतर थी?",
+        "options": [
+          "Bangladesh",
+          "Sri Lanka",
+          "Nepal",
+          "Pakistan"
+        ],
+        "options_hindi": [
+          "बांग्लादेश",
+          "श्रीलंका",
+          "नेपाल",
+          "पाकिस्तान"
+        ],
+        "answer": "Sri Lanka"
+      },
+      {
+        "serial_no": 99,
+        "question": "'Anekantavada' is related to:",
+        "question_hindi": "'अनेकांतवाद' संबंधित है:",
+        "options": [
+          "Buddhism",
+          "Charvaka Philosophy",
+          "Jainism",
+          "Ajivika Sect"
+        ],
+        "options_hindi": [
+          "बौद्ध धर्म से",
+          "चार्वाक दर्शन से",
+          "जैन धर्म से",
+          "आजीवक संप्रदाय से"
+        ],
+        "answer": "Jainism"
+      },
+      {
+        "serial_no": 100,
+        "question": "Who argued that 'God not only created Adam as the first man but also the first king, and the current king is his successor'?",
+        "question_hindi": "निम्नलिखित में से किस विद्वान ने यह तर्क दिया कि 'ईश्वर ने आदम को न केवल पहला मनुष्य बनाया बल्कि वह पहला राजा भी था, और वर्तमान राजा उसी का उत्तराधिकारी है'?",
+        "options": [
+          "John Locke",
+          "Niccolò Machiavelli",
+          "R. M. MacIver",
+          "Robert Filmer"
+        ],
+        "options_hindi": [
+          "जॉन लॉक",
+          "निकोलो मैकियावेली",
+          "आर. एम. मैकाइवर",
+          "रॉबर्ट फिल्मर"
+        ],
+        "answer": "Robert Filmer"
+      },
+      {
+        "serial_no": 101,
+        "question": "Which of the following is not a non-conventional source of energy?",
+        "question_hindi": "निम्नलिखित में से कौन-सा गैर-पारंपरिक ऊर्जा का स्रोत नहीं है?",
+        "options": [
+          "Solar Energy",
+          "Wind Energy",
+          "Thermal Energy",
+          "Tidal Energy"
+        ],
+        "options_hindi": [
+          "सौर ऊर्जा",
+          "पवन ऊर्जा",
+          "तापीय ऊर्जा",
+          "ज्वारीय ऊर्जा"
+        ],
+        "answer": "Thermal Energy"
+      },
+      {
+        "serial_no": 102,
+        "question": "Where is the headquarters of the 'United Nations Human Rights Council' located?",
+        "question_hindi": "'संयुक्त राष्ट्र मानवाधिकार परिषद' का मुख्यालय कहाँ स्थित है?",
+        "options": [
+          "New York",
+          "Geneva",
+          "Paris",
+          "Rome"
+        ],
+        "options_hindi": [
+          "न्यूयॉर्क",
+          "जिनेवा",
+          "पेरिस",
+          "रोम"
+        ],
+        "answer": "Geneva"
+      },
+      {
+        "serial_no": 103,
+        "question": "Which among the following is/are not correctly matched? (A) Equinox - only 21st March (B) Summer solstice - 21st June (C) Winter solstice - 22nd December",
+        "question_hindi": "निम्नलिखित में से कौन-सा/कौन-से सही सुमेलित नहीं है/हैं? (A) विषुव - केवल 21 मार्च (B) ग्रीष्म अयनांत - 21 जून (C) शीत अयनांत - 22 दिसंबर",
+        "options": [
+          "A, B and C",
+          "B and C",
+          "A and C",
+          "Only A"
+        ],
+        "options_hindi": [
+          "A, B और C",
+          "B और C",
+          "A और C",
+          "केवल A"
+        ],
+        "answer": "Only A"
+      },
+      {
+        "serial_no": 104,
+        "question": "Match List-I with List-II and select the correct answer using the codes given below:",
+        "question_hindi": "सूची-I को सूची-II के साथ सुमेलित कीजिए तथा सूचियों के नीचे दिए गए कूटों का प्रयोग करते हुए सही उत्तर चुनिए:",
+        "options": [
+          "(iii) (i) (iv) (ii)",
+          "(i) (iii) (iv) (ii)",
+          "(iv) (iii) (ii) (i)",
+          "(ii) (iv) (iii) (i)"
+        ],
+        "options_hindi": [
+          "(iii) (i) (iv) (ii)",
+          "(i) (iii) (iv) (ii)",
+          "(iv) (iii) (ii) (i)",
+          "(ii) (iv) (iii) (i)"
+        ],
+        "answer": "(iii) (i) (iv) (ii)"
+      },
+      {
+        "serial_no": 105,
+        "question": "Which of the following pairs is not correctly matched?",
+        "question_hindi": "निम्नलिखित में से कौन-सा युग्म सही सुमेलित नहीं है?",
+        "options": [
+          "Bronze mirror - Dholavira",
+          "Statue of Priest King - Mohenjodaro",
+          "Clay model of a plough - Banawali",
+          "Pot depicting the story of a thirsty crow - Kalibangan"
+        ],
+        "options_hindi": [
+          "ताम्र दर्पण - धौलावीरा",
+          "पुरोहित राजा की मूर्ति - मोहनजोदड़ो",
+          "मिट्टी के हल का प्रतिरूप - बनावली",
+          "प्यासे कौए की कहानी को प्रदर्शित करने वाला पात्र - कालीबंगा"
+        ],
+        "answer": "Pot depicting the story of a thirsty crow - Kalibangan"
+      },
+      {
+        "serial_no": 106,
+        "question": "Which of the following is not an intrusive volcanic landform?",
+        "question_hindi": "निम्नलिखित में से कौन-सा एक आंतरिक ज्वालामुखीय भू-आकृति नहीं है?",
+        "options": [
+          "Batholith",
+          "Caldera",
+          "Dyke",
+          "Sill"
+        ],
+        "options_hindi": [
+          "बैथोलिथ",
+          "काल्डेरा",
+          "डाइक",
+          "सिल"
+        ],
+        "answer": "Caldera"
+      },
+      {
+        "serial_no": 107,
+        "question": "Who among the following scholars is not related to the resurgence of political theory?",
+        "question_hindi": "निम्नलिखित में से कौन-सा विद्वान राजनीति-सिद्धांत के पुनरुत्थान से संबंधित नहीं है?",
+        "options": [
+          "Michael Oakeshott",
+          "John Rawls",
+          "Jürgen Habermas",
+          "Alfred Cobban"
+        ],
+        "options_hindi": [
+          "माइकल ओकशॉट",
+          "जॉन रॉल्स",
+          "जुर्गन हेबरमास",
+          "अल्फ्रेड कोबान"
+        ],
+        "answer": "Alfred Cobban"
+      },
+      {
+        "serial_no": 108,
+        "question": "The land of the 'Midnight Sun' is found at/along:",
+        "question_hindi": "'मध्यरात्रि के सूर्य की भूमि' पाई जाती है:",
+        "options": [
+          "Tropic of Cancer",
+          "Tropic of Capricorn",
+          "Equator",
+          "North of the Arctic Circle"
+        ],
+        "options_hindi": [
+          "कर्क रेखा के सहारे",
+          "मकर रेखा के सहारे",
+          "विषुवत रेखा के सहारे",
+          "आर्कटिक वृत्त से उत्तर में"
+        ],
+        "answer": "North of the Arctic Circle"
+      },
+      {
+        "serial_no": 109,
+        "question": "Which of the following features is/are true regarding Mathura Art? (a) The sculptures were made of red sandstone. (b) In this style, Buddha, Bodhisattvas, Jain Tirthankaras and Hindu gods & goddesses have been depicted. (c) A large number of Jain sculptures were found at Kankali Tila in Mathura.",
+        "question_hindi": "निम्नलिखित में से कौन-सी विशेषताएं मथुरा कला के संबंध में सत्य हैं? (a) मूर्तियों का निर्माण लाल बलुआ पत्थर से हुआ है। (b) इस शैली में बुद्ध, बोधिसत्व, जैन तीर्थंकर एवं हिंदू देवी-देवताओं का अंकन हुआ है। (c) कंकाली टीला, मथुरा से बड़ी संख्या में जैन मूर्तियां प्राप्त हुई हैं।",
+        "options": [
+          "Only (b)",
+          "Only (c)",
+          "(a) and (c)",
+          "(a), (b) and (c)"
+        ],
+        "options_hindi": [
+          "केवल (b)",
+          "केवल (c)",
+          "(a) एवं (c)",
+          "(a), (b) एवं (c)"
+        ],
+        "answer": "(a), (b) and (c)"
+      },
+      {
+        "serial_no": 110,
+        "question": "According to Alfred Wegener's Continental Drift Theory, which of the following is/are correctly matched? (A) Supercontinent - Pangaea (B) Mega Ocean - Panthalassa (C) Southern Continent - Gondwanaland (D) Northern Continent - Laurasia",
+        "question_hindi": "अल्फ्रेड वेगनर के महाद्वीपीय विस्थापन सिद्धांत के अनुसार, निम्नलिखित में से कौन-सा/कौन-से सही सुमेलित है/हैं? (A) महामहाद्वीप - पैंजिया (B) महासागर - पैंथालासा (C) दक्षिणी महाद्वीप - गोंडवानालैंड (D) उत्तरी महाद्वीप - लॉरेशिया",
+        "options": [
+          "Only A and B",
+          "Only A, B and C",
+          "Only A, B and D",
+          "A, B, C and D"
+        ],
+        "options_hindi": [
+          "केवल A और B",
+          "केवल A, B और C",
+          "केवल A, B और D",
+          "A, B, C और D"
+        ],
+        "answer": "A, B, C and D"
+      },
+      {
+        "serial_no": 111,
+        "question": "Which of the following is not a factor of production?",
+        "question_hindi": "निम्नलिखित में से कौन-सा उत्पादन का साधन नहीं है?",
+        "options": [
+          "Land",
+          "Labour",
+          "Capital",
+          "Market"
+        ],
+        "options_hindi": [
+          "भूमि",
+          "श्रम",
+          "पूंजी",
+          "बाजार"
+        ],
+        "answer": "Market"
+      },
+      {
+        "serial_no": 112,
+        "question": "Which of the following terminology is related to Nozick's theory of justice?",
+        "question_hindi": "निम्नलिखित में से कौन-सी शब्दावली नोजिक के न्याय-सिद्धांत से संबंधित है?",
+        "options": [
+          "Original Position",
+          "Veil of Ignorance",
+          "Difference Principle",
+          "Entitlement Theory of Justice"
+        ],
+        "options_hindi": [
+          "मूल स्थिति",
+          "अज्ञान का पर्दा",
+          "भेदमूलक सिद्धांत",
+          "न्याय का अधिकारिता सिद्धांत"
+        ],
+        "answer": "Entitlement Theory of Justice"
+      },
+      {
+        "serial_no": 113,
+        "question": "The nodal agency that undertakes the procurement, distribution and storage of foodgrains in India is:",
+        "question_hindi": "भारत में खाद्यान्नों की खरीद, वितरण तथा भंडारण का कार्य करने वाली नोडल एजेंसी है:",
+        "options": [
+          "State Trading Corporation",
+          "Food Corporation of India",
+          "Union Ministry of Agriculture",
+          "Respective State Governments"
+        ],
+        "options_hindi": [
+          "राज्य व्यापार निगम",
+          "भारतीय खाद्य निगम",
+          "केंद्रीय कृषि मंत्रालय",
+          "संबंधित राज्य सरकारें"
+        ],
+        "answer": "Food Corporation of India"
+      },
+      {
+        "serial_no": 114,
+        "question": "The temperature found at the upper limit of the mesosphere is:",
+        "question_hindi": "मध्यमंडल की ऊपरी सीमा पर पाया जाने वाला तापमान है:",
+        "options": [
+          "+80°C",
+          "-180°C",
+          "-100°C",
+          "+100°C"
+        ],
+        "options_hindi": [
+          "+80°C",
+          "-180°C",
+          "-100°C",
+          "+100°C"
+        ],
+        "answer": "-100°C"
+      },
+      {
+        "serial_no": 115,
+        "question": "Which layer of the Earth's interior is in a liquid state?",
+        "question_hindi": "पृथ्वी की आंतरिक संरचना में कौन-सी परत द्रव अवस्था में है?",
+        "options": [
+          "Mantle",
+          "Outer Core",
+          "Inner Core",
+          "Crust"
+        ],
+        "options_hindi": [
+          "मेंटल",
+          "बाह्य क्रोड",
+          "आंतरिक क्रोड",
+          "भूपर्पटी"
+        ],
+        "answer": "Outer Core"
+      },
+      {
+        "serial_no": 116,
+        "question": "If we move from right to left upward on a linear demand curve with a negative slope, the value of price elasticity of demand:",
+        "question_hindi": "यदि ऋणात्मक ढाल वाले सरल रेखीय माँग वक्र पर दाएँ से बाएँ ऊपर की ओर विचरण किया जाए, तो माँग की कीमत लोच का मान:",
+        "options": [
+          "remains constant",
+          "increases",
+          "decreases",
+          "first increases then decreases"
+        ],
+        "options_hindi": [
+          "स्थिर रहता है",
+          "बढ़ता है",
+          "घटता है",
+          "पहले बढ़ता है फिर घटता है"
+        ],
+        "answer": "decreases"
+      },
+      {
+        "serial_no": 117,
+        "question": "Which Article of the Constitution of India mentions the special procedure in respect of Money Bills?",
+        "question_hindi": "भारत के संविधान का कौन-सा अनुच्छेद धन विधेयकों के संबंध में विशेष प्रक्रिया का उल्लेख करता है?",
+        "options": [
+          "Article 108",
+          "Article 109",
+          "Article 111",
+          "Article 112"
+        ],
+        "options_hindi": [
+          "अनुच्छेद 108",
+          "अनुच्छेद 109",
+          "अनुच्छेद 111",
+          "अनुच्छेद 112"
+        ],
+        "answer": "Article 109"
+      },
+      {
+        "serial_no": 118,
+        "question": "Which statement is false regarding the Tripartite Struggle for control over Kannauj?",
+        "question_hindi": "कन्नौज पर नियंत्रण के लिए हुए त्रिपक्षीय संघर्ष के संबंध में कौन-सा कथन गलत है?",
+        "options": [
+          "The political-economic importance of Kannauj city was the reason for this conflict.",
+          "This conflict occurred among the Palas, Gurjara-Pratiharas and Rashtrakutas.",
+          "Vatsaraja and Dharampal were the first to initiate this conflict.",
+          "Ultimately the Pala rulers succeeded in this conflict."
+        ],
+        "options_hindi": [
+          "कन्नौज नगर का राजनीतिक-आर्थिक महत्व इस संघर्ष का कारण था।",
+          "यह संघर्ष पाल, गुर्जर-प्रतिहार तथा राष्ट्रकूट के मध्य हुआ था।",
+          "सर्वप्रथम वत्सराज एवं धर्मपाल ने इस संघर्ष को प्रारंभ किया।",
+          "इस संघर्ष में अंततः पाल शासकों को सफलता प्राप्त हुई।"
+        ],
+        "answer": "Ultimately the Pala rulers succeeded in this conflict."
+      },
+      {
+        "serial_no": 119,
+        "question": "Who can grant special leave to appeal from any judgment or matter passed by any court in the territory of India?",
+        "question_hindi": "भारत के राज्यक्षेत्र में किसी न्यायालय द्वारा पारित किसी निर्णय या मामले की अपील के लिए विशेष अनुमति कौन प्रदान कर सकता है?",
+        "options": [
+          "Parliament",
+          "The President",
+          "Union Law Minister",
+          "Supreme Court"
+        ],
+        "options_hindi": [
+          "संसद",
+          "राष्ट्रपति",
+          "केंद्रीय विधि मंत्री",
+          "उच्चतम न्यायालय"
+        ],
+        "answer": "Supreme Court"
+      },
+      {
+        "serial_no": 120,
+        "question": "Who is the Director General of the World Trade Organization?",
+        "question_hindi": "विश्व व्यापार संगठन के महानिदेशक कौन हैं?",
+        "options": [
+          "Ngozi Okonjo-Iweala",
+          "Roberto Azevêdo",
+          "Pascal Lamy",
+          "Supachai Panitchpakdi"
+        ],
+        "options_hindi": [
+          "न्गोज़ी ओकोंजो-इवेआला",
+          "रॉबर्टो अज़ेवेदो",
+          "पास्कल लामी",
+          "सुपाचाई पानिचपकड़ी"
+        ],
+        "answer": "Ngozi Okonjo-Iweala"
+      },
+      {
+        "serial_no": 121,
+        "question": "'The Sunset Law' was associated with which of the following land revenue systems?",
+        "question_hindi": "'द संसेट लॉ' किस भू-राजस्व व्यवस्था से जुड़ा था?",
+        "options": [
+          "Mahalwari System",
+          "Ryotwari System",
+          "Permanent Settlement System",
+          "Ain-i-Dahsala System"
+        ],
+        "options_hindi": [
+          "महालवाड़ी व्यवस्था",
+          "रैयतवाड़ी व्यवस्था",
+          "स्थायी बंदोबस्त व्यवस्था",
+          "आईन-ए-दहसाला व्यवस्था"
+        ],
+        "answer": "Permanent Settlement System"
+      },
+      {
+        "serial_no": 122,
+        "question": "By which treaty was the European Union established?",
+        "question_hindi": "यूरोपीय संघ का गठन किस संधि द्वारा हुआ?",
+        "options": [
+          "Dunkirk Treaty",
+          "Marrakesh Treaty",
+          "Maastricht Treaty",
+          "Bretton Woods Treaty"
+        ],
+        "options_hindi": [
+          "डनकर्क संधि",
+          "मराकेश संधि",
+          "मास्ट्रिच संधि",
+          "ब्रेटन वुड्स संधि"
+        ],
+        "answer": "Maastricht Treaty"
+      },
+      {
+        "serial_no": 123,
+        "question": "Who proposed the Collective Security System for Asia in 1969?",
+        "question_hindi": "1969 में एशिया के लिए सामूहिक सुरक्षा व्यवस्था का सुझाव किसने दिया था?",
+        "options": [
+          "Nikita Khrushchev",
+          "Leonid Brezhnev",
+          "Mikhail Gorbachev",
+          "Richard Nixon"
+        ],
+        "options_hindi": [
+          "निकिता ख्रुश्चेव",
+          "लियोनिद ब्रेजनेव",
+          "मिखाइल गोर्बाचेव",
+          "रिचर्ड निक्सन"
+        ],
+        "answer": "Leonid Brezhnev"
+      },
+      {
+        "serial_no": 124,
+        "question": "'Sargasso Sea' is located in:",
+        "question_hindi": "'सरगासो सागर' स्थित है:",
+        "options": [
+          "North Atlantic Ocean",
+          "South Atlantic Ocean",
+          "South Pacific Ocean",
+          "Arctic Ocean"
+        ],
+        "options_hindi": [
+          "उत्तरी अटलांटिक महासागर में",
+          "दक्षिणी अटलांटिक महासागर में",
+          "दक्षिणी प्रशांत महासागर में",
+          "आर्कटिक महासागर में"
+        ],
+        "answer": "North Atlantic Ocean"
+      },
+      {
+        "serial_no": 125,
+        "question": "Read the following statements about agriculture in India and select the correct answer using the codes given below. According to the Economic Survey 2023-24:",
+        "question_hindi": "भारत की कृषि के बारे में निम्न कथनों को पढ़ें और नीचे दिए गए कूटों का उपयोग करते हुए सही उत्तर चुनें। आर्थिक सर्वेक्षण 2023-24 के अनुसार:",
+        "options": [
+          "only (i) is correct",
+          "only (i) and (ii) are correct",
+          "only (i), (ii) and (iii) are correct",
+          "(i), (ii), (iii) and (iv) all are correct"
+        ],
+        "options_hindi": [
+          "केवल (i) सही है",
+          "केवल (i) और (ii) सही हैं",
+          "केवल (i), (ii) और (iii) सही हैं",
+          "(i), (ii), (iii) और (iv) सभी सही हैं"
+        ],
+        "answer": "only (i), (ii) and (iii) are correct"
+      },
+      {
+        "serial_no": 126,
+        "question": "Suppose your principal knowingly punishes you. You take the best measures to keep him happy. Despite this, he treats you like an enemy. In this situation, what will you do?",
+        "question_hindi": "माना आपके प्राचार्य जानबूझकर आपको दंडित करते हैं। आप उन्हें प्रसन्न रखने के लिए सर्वोत्तम उपाय करते हैं। फिर भी वे आपके साथ दुश्मन की तरह व्यवहार करते हैं। इस स्थिति में आप क्या करेंगे?",
+        "options": [
+          "Complain to the higher authorities",
+          "Confront the principal directly",
+          "Ignore and continue with studies",
+          "Seek help from parents and teachers"
+        ],
+        "options_hindi": [
+          "उच्च अधिकारियों से शिकायत करें",
+          "प्राचार्य से सीधे सामना करें",
+          "अनदेखा करें और पढ़ाई जारी रखें",
+          "माता-पिता और शिक्षकों से सहायता लें"
+        ],
+        "answer": "Seek help from parents and teachers"
+      },
+      {
+        "serial_no": 127,
+        "question": "Which of the following is the most important factor for sustainable development?",
+        "question_hindi": "सतत विकास के लिए निम्नलिखित में से सबसे महत्वपूर्ण कारक कौन-सा है?",
+        "options": [
+          "Economic Growth",
+          "Environmental Protection",
+          "Social Equity",
+          "All of the above"
+        ],
+        "options_hindi": [
+          "आर्थिक विकास",
+          "पर्यावरण संरक्षण",
+          "सामाजिक समानता",
+          "उपरोक्त सभी"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "serial_no": 128,
+        "question": "The Act of 1872 relating to Inter-caste and Widow Remarriage is known as:",
+        "question_hindi": "1872 का अंतर्जातीय एवं विधवा पुनर्विवाह संबंधी अधिनियम जाना जाता है:",
+        "options": [
+          "Widow Remarriage Act",
+          "Inter-caste Marriage Act",
+          "Brahma Marriage Act",
+          "The Special Marriage Act"
+        ],
+        "options_hindi": [
+          "विधवा पुनर्विवाह अधिनियम",
+          "अंतर्जातीय विवाह अधिनियम",
+          "ब्रह्म विवाह अधिनियम",
+          "विशेष विवाह अधिनियम"
+        ],
+        "answer": "The Special Marriage Act"
+      },
+      {
+        "serial_no": 129,
+        "question": "The sum of production in the three sectors within a country during a particular year is called:",
+        "question_hindi": "किसी वर्ष में देश के अंदर तीन क्षेत्रों में उत्पादन का योग कहलाता है:",
+        "options": [
+          "GNP",
+          "NNP",
+          "GDP",
+          "GNI"
+        ],
+        "options_hindi": [
+          "सकल राष्ट्रीय उत्पाद (GNP)",
+          "शुद्ध राष्ट्रीय उत्पाद (NNP)",
+          "सकल घरेलू उत्पाद (GDP)",
+          "सकल राष्ट्रीय आय (GNI)"
+        ],
+        "answer": "GDP"
+      },
+      {
+        "serial_no": 130,
+        "question": "When was the ASEAN Regional Forum (ARF) established?",
+        "question_hindi": "आसियान क्षेत्रीय मंच (ARF) की स्थापना कब की गई?",
+        "options": [
+          "1992",
+          "1993",
+          "1994",
+          "1995"
+        ],
+        "options_hindi": [
+          "1992",
+          "1993",
+          "1994",
+          "1995"
+        ],
+        "answer": "1994"
+      },
+      {
+        "serial_no": 131,
+        "question": "Arrange the following events in chronological order: (a) Poona Pact, (b) Ahmedabad Mill Satyagraha, (c) Rowlatt Satyagraha, (d) Gandhi-Irwin Pact",
+        "question_hindi": "निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए: (a) पूना समझौता, (b) अहमदाबाद मिल सत्याग्रह, (c) रॉलेट सत्याग्रह, (d) गांधी-इरविन समझौता",
+        "options": [
+          "(a), (b), (c), (d)",
+          "(b), (d), (a), (c)",
+          "(c), (d), (a), (b)",
+          "(b), (c), (d), (a)"
+        ],
+        "options_hindi": [
+          "(a), (b), (c), (d)",
+          "(b), (d), (a), (c)",
+          "(c), (d), (a), (b)",
+          "(b), (c), (d), (a)"
+        ],
+        "answer": "(b), (c), (d), (a)"
+      },
+      {
+        "serial_no": 132,
+        "question": "Who appoints the State Election Commissioner?",
+        "question_hindi": "राज्य निर्वाचन आयुक्त की नियुक्ति कौन करता है?",
+        "options": [
+          "Chief Election Commissioner of India",
+          "President of India",
+          "Governor of the concerned state",
+          "Legislative Assembly of the concerned state"
+        ],
+        "options_hindi": [
+          "भारत के मुख्य निर्वाचन आयुक्त",
+          "भारत के राष्ट्रपति",
+          "संबंधित राज्य के राज्यपाल",
+          "संबंधित राज्य की विधान सभा"
+        ],
+        "answer": "Governor of the concerned state"
+      },
+      {
+        "serial_no": 133,
+        "question": "The sectors are classified into public and private sector on the basis of:",
+        "question_hindi": "क्षेत्रों का सार्वजनिक एवं निजी क्षेत्र में वर्गीकरण किस आधार पर किया जाता है?",
+        "options": [
+          "Employment conditions",
+          "The nature of economic activity",
+          "Ownership of enterprise",
+          "Number of workers employed in the enterprise"
+        ],
+        "options_hindi": [
+          "रोजगार की स्थिति",
+          "आर्थिक क्रिया की प्रकृति",
+          "उपक्रम का स्वामित्व",
+          "उपक्रम में कार्यरत श्रमिकों की संख्या"
+        ],
+        "answer": "Ownership of enterprise"
+      },
+      {
+        "serial_no": 134,
+        "question": "Who propounded the concept of the 'Iron Law of Wages'?",
+        "question_hindi": "'मजदूरी का लौह सिद्धांत' की अवधारणा किसकी दी हुई है?",
+        "options": [
+          "Adam Smith",
+          "Ferdinand Lassalle",
+          "David Ricardo",
+          "Karl Marx"
+        ],
+        "options_hindi": [
+          "एडम स्मिथ",
+          "फर्डिनेंड लासाल",
+          "डेविड रिकार्डो",
+          "कार्ल मार्क्स"
+        ],
+        "answer": "Ferdinand Lassalle"
+      },
+      {
+        "serial_no": 135,
+        "question": "Which one of the following is not a coalfield of the Gondwana period in India?",
+        "question_hindi": "निम्नलिखित में से कौन-सा भारत का गोंडवाना काल का कोयला क्षेत्र नहीं है?",
+        "options": [
+          "Korba",
+          "Jharia",
+          "Ramgarh",
+          "Nichahom"
+        ],
+        "options_hindi": [
+          "कोरबा",
+          "झरिया",
+          "रामगढ़",
+          "निचाहोम"
+        ],
+        "answer": "Nichahom"
+      },
+      {
+        "serial_no": 136,
+        "question": "Which of the following subjects is not included in the Union List of the Indian Constitution?",
+        "question_hindi": "निम्नलिखित में से कौन-सा विषय भारत के संविधान की संघ सूची में शामिल नहीं है?",
+        "options": [
+          "Defense",
+          "Foreign Affairs",
+          "Education",
+          "Railways"
+        ],
+        "options_hindi": [
+          "रक्षा",
+          "विदेशी मामले",
+          "शिक्षा",
+          "रेलवे"
+        ],
+        "answer": "Education"
+      },
+      {
+        "serial_no": 137,
+        "question": "Which of the following is not a member of the G-20?",
+        "question_hindi": "निम्नलिखित में से कौन G-20 का सदस्य नहीं है?",
+        "options": [
+          "India",
+          "Brazil",
+          "Spain",
+          "Australia"
+        ],
+        "options_hindi": [
+          "भारत",
+          "ब्राजील",
+          "स्पेन",
+          "ऑस्ट्रेलिया"
+        ],
+        "answer": "Spain"
+      },
+      {
+        "serial_no": 138,
+        "question": "Mandovi, Zuari and Rachol are the rivers flowing in which state of India?",
+        "question_hindi": "मांडवी, जुआरी तथा राचोल भारत के किस राज्य में प्रवाहित होने वाली नदियाँ हैं?",
+        "options": [
+          "Kerala",
+          "Chhattisgarh",
+          "Goa",
+          "Maharashtra"
+        ],
+        "options_hindi": [
+          "केरल",
+          "छत्तीसगढ़",
+          "गोवा",
+          "महाराष्ट्र"
+        ],
+        "answer": "Goa"
+      },
+      {
+        "serial_no": 139,
+        "question": "Which of the following statements is not correct about the 'Ayagar System of Vijayanagara'?",
+        "question_hindi": "निम्नलिखित में से कौन-सा कथन 'विजयनगर की आयगार व्यवस्था' के संबंध में सही नहीं है?",
+        "options": [
+          "In this system, each village was an independent unit.",
+          "Ten officials were appointed in each village to govern.",
+          "These officials were called 'Ayagar'.",
+          "Ayagars could sell or mortgage their posts."
+        ],
+        "options_hindi": [
+          "इस व्यवस्था में ग्राम एक स्वतंत्र इकाई थी।",
+          "प्रत्येक ग्राम के शासन हेतु दस अधिकारियों को नियुक्त किया जाता था।",
+          "इन अधिकारियों को 'आयगार' कहा जाता था।",
+          "आयगार अपने पदों को बेच एवं गिरवी रख सकते थे।"
+        ],
+        "answer": "Ayagars could sell or mortgage their posts."
+      },
+      {
+        "serial_no": 140,
+        "question": "Match the following pairs: (A) Diwan-i-Arz - Iltutmish, (B) Diwan-i-Mustakharaj - Alauddin Khalji, (C) Diwan-i-Kohi - Muhammad bin Tughlaq, (D) Diwan-i-Khairat - Firoz Shah Tughlaq",
+        "question_hindi": "निम्नलिखित युग्मों को सुमेलित कीजिए: (A) दीवान-ए-अर्ज - इल्तुतमिश, (B) दीवान-ए-मुस्तखराज - अलाउद्दीन खलजी, (C) दीवान-ए-कोही - मुहम्मद बिन तुगलक, (D) दीवान-ए-खैरात - फिरोजशाह तुगलक",
+        "options": [
+          "A, B and C are correct",
+          "A, B and D are correct",
+          "B, C and D are correct",
+          "All are correct"
+        ],
+        "options_hindi": [
+          "A, B और C सही हैं",
+          "A, B और D सही हैं",
+          "B, C और D सही हैं",
+          "सभी सही हैं"
+        ],
+        "answer": "A, B and D are correct"
+      },
+      {
+        "serial_no": 141,
+        "question": "Arrange the following events in Akbar's reign in chronological order: (a) Establishment of Ibadat Khana, (b) Introduction of Dahsala System, (c) Beginning of the Mansabdari System",
+        "question_hindi": "अकबर के शासनकाल की निम्नलिखित घटनाओं को कालक्रमानुसार व्यवस्थित कीजिए: (a) इबादतखाना की स्थापना, (b) दहसाला प्रणाली का प्रारंभ, (c) मनसबदारी व्यवस्था का प्रारंभ",
+        "options": [
+          "(a), (b), (c)",
+          "(c), (a), (b)",
+          "(c), (b), (a)",
+          "(b), (c), (a)"
+        ],
+        "options_hindi": [
+          "(a), (b), (c)",
+          "(c), (a), (b)",
+          "(c), (b), (a)",
+          "(b), (c), (a)"
+        ],
+        "answer": "(c), (a), (b)"
+      },
+      {
+        "serial_no": 142,
+        "question": "What is India's rank in the world in milk production?",
+        "question_hindi": "दूध उत्पादन में विश्व में भारत का कौन-सा स्थान है?",
+        "options": [
+          "First",
+          "Second",
+          "Third",
+          "Fourth"
+        ],
+        "options_hindi": [
+          "पहला",
+          "दूसरा",
+          "तीसरा",
+          "चौथा"
+        ],
+        "answer": "First"
+      },
+      {
+        "serial_no": 143,
+        "question": "'Quriltais' was:",
+        "question_hindi": "'कुरिल्ताई' था:",
+        "options": [
+          "Mongol Military Contingents",
+          "A kind of tax",
+          "Unit of ten thousand soldiers",
+          "The assembly of Mongol Chieftains"
+        ],
+        "options_hindi": [
+          "मंगोल सैन्य दल",
+          "एक प्रकार का कर",
+          "दस हजार सैनिकों की टुकड़ी",
+          "मंगोल सरदारों की परिषद"
+        ],
+        "answer": "The assembly of Mongol Chieftains"
+      },
+      {
+        "serial_no": 144,
+        "question": "Which of the following is the largest delta in the world?",
+        "question_hindi": "निम्नलिखित में से विश्व का सबसे बड़ा डेल्टा कौन-सा है?",
+        "options": [
+          "Ganges-Brahmaputra Delta",
+          "Nile Delta",
+          "Mississippi Delta",
+          "Amazon Delta"
+        ],
+        "options_hindi": [
+          "गंगा-ब्रह्मपुत्र डेल्टा",
+          "नील डेल्टा",
+          "मिसिसिपी डेल्टा",
+          "अमेजन डेल्टा"
+        ],
+        "answer": "Ganges-Brahmaputra Delta"
+      },
+      {
+        "serial_no": 145,
+        "question": "Which of the following is a cold ocean current?",
+        "question_hindi": "निम्नलिखित में से कौन-सी शीतल महासागरीय धारा है?",
+        "options": [
+          "Gulf Stream",
+          "Kuroshio Current",
+          "Labrador Current",
+          "Brazil Current"
+        ],
+        "options_hindi": [
+          "गल्फ स्ट्रीम",
+          "कुरोशियो धारा",
+          "लैब्राडोर धारा",
+          "ब्राजील धारा"
+        ],
+        "answer": "Labrador Current"
+      },
+      {
+        "serial_no": 146,
+        "question": "Who is the author of the book 'Social Origins of Dictatorship and Democracy'?",
+        "question_hindi": "पुस्तक 'सोशल ओरिजिंस ऑफ डिक्टेटरशिप एंड डेमोक्रेसी' के लेखक कौन हैं?",
+        "options": [
+          "Barrington Moore Jr.",
+          "Theda Skocpol",
+          "Samuel P. Huntington",
+          "Seymour Martin Lipset"
+        ],
+        "options_hindi": [
+          "बैरिंगटन मूर जूनियर",
+          "थेडा स्कॉकपोल",
+          "सैमुअल पी. हंटिंगटन",
+          "सीमोर मार्टिन लिपसेट"
+        ],
+        "answer": "Barrington Moore Jr."
+      },
+      {
+        "serial_no": 147,
+        "question": "Which of the following mountain ranges is not associated with the Lesser Himalaya?",
+        "question_hindi": "निम्नलिखित में से कौन-सी पर्वत श्रृंखला लघु हिमालय/मध्य हिमालय से संबंधित नहीं है?",
+        "options": [
+          "Dhauladhar",
+          "Pir Panjal",
+          "Mahabharat",
+          "Zanskar"
+        ],
+        "options_hindi": [
+          "धौलाधर",
+          "पीर पंजाल",
+          "महाभारत",
+          "जांस्कर"
+        ],
+        "answer": "Zanskar"
+      },
+      {
+        "serial_no": 148,
+        "question": "When was the Mahatma Gandhi National Rural Employment Guarantee Act enacted?",
+        "question_hindi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम कब लागू किया गया?",
+        "options": [
+          "2004",
+          "2005",
+          "2014",
+          "2019"
+        ],
+        "options_hindi": [
+          "2004",
+          "2005",
+          "2014",
+          "2019"
+        ],
+        "answer": "2005"
+      },
+      {
+        "serial_no": 149,
+        "question": "Which among the following Indian states does not share an international border with Bangladesh?",
+        "question_hindi": "निम्नलिखित में से कौन-सा भारतीय राज्य बांग्लादेश के साथ अंतर्राष्ट्रीय सीमा साझा नहीं करता है?",
+        "options": [
+          "Assam",
+          "Manipur",
+          "Mizoram",
+          "Meghalaya"
+        ],
+        "options_hindi": [
+          "असम",
+          "मणिपुर",
+          "मिजोरम",
+          "मेघालय"
+        ],
+        "answer": "Manipur"
+      },
+      {
+        "serial_no": 150,
+        "question": "Which among the following is not a major tea-producing state of South India?",
+        "question_hindi": "निम्नलिखित में से कौन-सा दक्षिण भारत का प्रमुख चाय उत्पादक राज्य नहीं है?",
+        "options": [
+          "Tamil Nadu",
+          "Karnataka",
+          "Kerala",
+          "Goa"
+        ],
+        "options_hindi": [
+          "तमिलनाडु",
+          "कर्नाटक",
+          "केरल",
+          "गोवा"
+        ],
+        "answer": "Goa"
+      }
+    ]
+  }
 }

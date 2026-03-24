@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Select Year - {{ category }} - QuizLearn{% endblock %}
+{% block title %}Select Year - {{ category }} - {{ exam_type|upper }} - TeachingTest{% endblock %}
 
 {% block content %}
 <style>
@@ -75,7 +75,7 @@
     }
 </style>
 <div class="dashboard-header-premium">
-    <h2 class="text-center">{{ category }}</h2>
+    <h2 class="text-center">{{ exam_type|upper }} ({{ category }})</h2>
     <p class="text-center sub-text">Select a year to see available test papers</p>
 </div>
 
@@ -86,7 +86,7 @@
         <div class="card-icon">📅</div>
         <h3>{{ year }}</h3>
         <p>Papers from the year {{ year }}</p>
-        <a href="{{ url_for('test_routes.select_paper', category=category, year=year) }}"
+        <a href="{{ url_for('test_routes.select_paper', category=category, exam_type=exam_type, year=year) }}"
             class="btn btn-primary btn-full">Browse Papers</a>
     </div>
     {% endfor %}
@@ -99,7 +99,7 @@
 {% endif %}
 
 <div class="text-center mt-40">
-    <a href="{{ url_for('test_routes.dashboard') }}" class="btn-link-action">← Back to Categories</a>
+    <a href="{{ url_for('test_routes.select_exam_type', category=category) }}" class="btn-link-action">← Back to Exam Types</a>
 </div>
 
 {% endblock %}

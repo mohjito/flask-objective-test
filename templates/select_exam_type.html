@@ -1,0 +1,169 @@
+{% extends "base.html" %}
+
+{% block title %}Select Exam Type - TeachingTest{% endblock %}
+
+{% block content %}
+<style>
+    .selection-header-premium {
+        margin-bottom: 40px;
+        animation: slideUp 0.6s ease-out;
+    }
+
+    .sub-text {
+        color: #64748b;
+        font-size: 1.1rem;
+    }
+
+    .premium-card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 25px;
+    }
+
+    .premium-card-glass {
+        background: white;
+        padding: 40px;
+        border-radius: 28px;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+        text-align: center;
+        border: 1px solid #f1f5f9;
+        transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        cursor: pointer;
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+
+    .premium-card-glass:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 20px 50px -15px rgba(0, 0, 0, 0.1);
+        border-color: #6366f1;
+    }
+
+    .card-icon {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    .exam-label {
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 800;
+        color: #1e293b;
+    }
+
+    @keyframes slideUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .back-nav {
+        margin-bottom: 20px;
+    }
+
+    .btn-back-glass {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 20px;
+        background: rgba(255, 255, 255, 0.8);
+        border: 1px solid #f1f5f9;
+        border-radius: 12px;
+        color: #64748b;
+        text-decoration: none;
+        font-weight: 600;
+        transition: 0.2s;
+    }
+
+    .btn-back-glass:hover {
+        background: white;
+        color: #6366f1;
+        border-color: #6366f1;
+    }
+</style>
+
+<div class="back-nav">
+    <a href="{{ url_for('test_routes.dashboard') }}" class="btn-back-glass">
+        ← Back to Categories
+    </a>
+</div>
+
+<div class="selection-header-premium">
+    <h2 class="text-center">Select Exam Type</h2>
+    <p class="text-center sub-text">Showing options for <strong>{{ category }}</strong> level</p>
+</div>
+
+<div class="premium-card-grid">
+    {% for et in exam_types %}
+    {% set is_available = et.lower() in available_types %}
+    <div class="premium-card-glass {% if not is_available %}coming-soon-card{% endif %}">
+        <div class="card-icon">
+            {% if et|lower == 'htet' %}🎯{% elif et|lower == 'ctet' %}📘{% elif et|lower == 'kvs' %}🏫{% elif et|lower == 'nvs' %}🎒{% elif et|lower == 'emrs' %}🏹{% elif et|lower == 'dssb' %}🏛️{% else %}📝{% endif %}
+        </div>
+        <h3 class="exam-label">{{ et }}</h3>
+        
+        {% if is_available %}
+            <p>Explore {{ et|upper }} Previous Year Papers</p>
+            <a href="{{ url_for('test_routes.select_year', category=category, exam_type=et) }}" class="btn btn-primary btn-full">
+                View Tests
+            </a>
+        {% else %}
+            <div class="coming-soon-badge">Coming Soon</div>
+            <p class="mb-20">We are currently collecting papers for this exam.</p>
+            <form action="{{ url_for('test_routes.vote_exam_type', category=category, exam_type=et) }}" method="POST" style="width: 100%;">
+                <button type="submit" class="btn btn-outline-primary btn-full">
+                    👍 Vote to Upload Soon
+                </button>
+            </form>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
+
+<style>
+    .coming-soon-card {
+        cursor: default;
+        opacity: 0.9;
+    }
+    .coming-soon-card:hover {
+        transform: none;
+        border-color: #f1f5f9;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+    }
+    .coming-soon-badge {
+        background: #fff7ed;
+        color: #c2410c;
+        padding: 5px 12px;
+        border-radius: 8px;
+        font-size: 0.75rem;
+        font-weight: 800;
+        display: inline-block;
+        margin-bottom: 15px;
+        text-transform: uppercase;
+    }
+    .mb-20 {
+        margin-bottom: 20px;
+    }
+    .btn-outline-primary {
+        background: transparent;
+        color: #6366f1;
+        border: 2px solid #6366f1;
+        padding: 12px 20px;
+        border-radius: 12px;
+        font-weight: 700;
+        transition: 0.2s;
+    }
+    .btn-outline-primary:hover {
+        background: #fdfdff;
+        transform: translateY(-2px);
+    }
+</style>
+
+{% endblock %}

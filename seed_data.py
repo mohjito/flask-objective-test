@@ -49,6 +49,7 @@ def seed_data():
             'total_tests': 0,
             'total_questions': 0,
             'categories': set(),
+            'exam_types': set(),
             'years': set(),
             'sections': set(),
             'files_processed': 0,
@@ -116,6 +117,7 @@ def process_json_file(file_path, stats):
         
         # Validate required fields
         required_fields = ['name', 'category', 'year', 'section', 'duration', 'questions']
+        # Note: exam_type is optional in JSON, defaults to 'htet'
         
         # Collect all potential test objects
         test_objects = []
@@ -145,6 +147,7 @@ def process_json_file(file_path, stats):
             existing_test = Test.query.filter_by(
                 name=paper_data['name'],
                 category=paper_data['category'],
+                exam_type=paper_data.get('exam_type', 'htet'),
                 year=paper_data['year'],
                 section=paper_data['section']
             ).first()
@@ -158,6 +161,7 @@ def process_json_file(file_path, stats):
             test = Test(
                 name=paper_data['name'],
                 category=paper_data['category'],
+                exam_type=paper_data.get('exam_type', 'htet'),
                 year=paper_data['year'],
                 section=paper_data['section'],
                 duration=paper_data['duration']
@@ -169,6 +173,7 @@ def process_json_file(file_path, stats):
             # Update stats
             stats['total_tests'] += 1
             stats['categories'].add(paper_data['category'])
+            stats['exam_types'].add(paper_data.get('exam_type', 'htet'))
             stats['years'].add(paper_data['year'])
             stats['sections'].add(paper_data['section'])
             
@@ -225,6 +230,10 @@ def print_summary(stats):
         print(f"\n📚 Categories ({len(stats['categories'])}):")
         for category in sorted(stats['categories']):
             print(f"   • {category}")
+        
+        print(f"\n🎓 Exam Types ({len(stats['exam_types'])}):")
+        for et in sorted(stats['exam_types']):
+            print(f"   • {et}")
         
         print(f"\n📅 Years ({len(stats['years'])}):")
         for year in sorted(stats['years']):

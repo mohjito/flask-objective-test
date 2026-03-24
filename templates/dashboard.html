@@ -76,7 +76,35 @@
 <div class="dashboard-header-premium">
     <h2 class="text-center">Select Category</h2>
     <p class="text-center sub-text">Choose a domain to view available tests</p>
+    <div class="text-center mt-20">
+        <a href="{{ url_for('test_routes.view_votes') }}" class="btn-vote-link">
+            📊 View Most Requested Exams
+        </a>
+    </div>
 </div>
+
+<style>
+    .mt-20 { margin-top: 20px; }
+    .btn-vote-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        padding: 8px 16px;
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 999px;
+        color: #64748b;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 0.85rem;
+        transition: 0.2s;
+    }
+    .btn-vote-link:hover {
+        background: #f1f5f9;
+        color: #6366f1;
+        border-color: #cbd5e1;
+    }
+</style>
 
 {% if categories %}
 <div class="premium-card-grid">
@@ -91,7 +119,7 @@
         </div>
         <h3>{{ category }}</h3>
         <p>Explore specialized tests for {{ category }}</p>
-        <a href="{{ url_for('test_routes.select_year', category=category) }}" class="btn btn-primary btn-full">View
+        <a href="{{ url_for('test_routes.select_exam_type', category=category) }}" class="btn btn-primary btn-full">View
             Tests</a>
     </div>
     {% endfor %}

@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}Select Paper - {{ category }} {{ year }} - QuizLearn{% endblock %}
+{% block title %}Select Paper - {{ category }} {{ exam_type|upper }} {{ year }} - TeachingTest{% endblock %}
 
 {% block content %}
 <style>
@@ -121,7 +121,7 @@
     }
 </style>
 <div class="dashboard-header-premium">
-    <h2 class="text-center">{{ category }} - {{ year }}</h2>
+    <h2 class="text-center">{{ exam_type|upper }} - {{ category }} - {{ year }}</h2>
     <p class="text-center sub-text">Select a paper to begin your mock test</p>
 </div>
 
@@ -156,7 +156,7 @@
 {% endif %}
 
 <div class="text-center mt-40">
-    <a href="{{ url_for('test_routes.select_year', category=category) }}" class="btn-link-action">← Back to Years</a>
+    <a href="{{ url_for('test_routes.select_year', category=category, exam_type=exam_type) }}" class="btn-link-action">← Back to Years</a>
 </div>
 
 {% endblock %}

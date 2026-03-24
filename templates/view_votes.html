@@ -1,0 +1,119 @@
+{% extends "base.html" %}
+
+{% block title %}Vote Trends - TeachingTest{% endblock %}
+
+{% block content %}
+<style>
+    .votes-header-premium {
+        margin-bottom: 40px;
+        animation: slideUp 0.6s ease-out;
+    }
+
+    .sub-text {
+        color: #64748b;
+        font-size: 1.1rem;
+    }
+
+    .votes-table-glass {
+        background: white;
+        padding: 40px;
+        border-radius: 28px;
+        box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.05);
+        border: 1px solid #f1f5f9;
+        margin-bottom: 40px;
+        overflow-x: auto;
+    }
+
+    .votes-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .votes-table th {
+        text-align: left;
+        padding: 15px;
+        border-bottom: 2px solid #f1f5f9;
+        color: #64748b;
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        font-weight: 800;
+        letter-spacing: 1px;
+    }
+
+    .votes-table td {
+        padding: 15px;
+        border-bottom: 1px solid #f1f5f9;
+        font-weight: 600;
+        color: #1e293b;
+    }
+
+    .vote-count-badge {
+        background: #eef2ff;
+        color: #6366f1;
+        padding: 5px 12px;
+        border-radius: 8px;
+        display: inline-block;
+        font-weight: 800;
+    }
+
+    .exam-tag {
+        text-transform: uppercase;
+        background: #f8fafc;
+        padding: 4px 10px;
+        border-radius: 6px;
+        font-size: 0.9rem;
+    }
+
+    @keyframes slideUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+
+<div class="votes-header-premium">
+    <h2 class="text-center">Exam Demand Trends</h2>
+    <p class="text-center sub-text">See what our users are requesting the most!</p>
+</div>
+
+<div class="votes-table-glass">
+    {% if votes %}
+    <table class="votes-table">
+        <thead>
+            <tr>
+                <th>Exam Type</th>
+                <th>Category</th>
+                <th>Total Votes</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for vote in votes %}
+            <tr>
+                <td><span class="exam-tag">{{ vote.exam_type }}</span></td>
+                <td>{{ vote.category }}</td>
+                <td><span class="vote-count-badge">{{ vote.vote_count }}</span></td>
+                <td>
+                    <span style="color: #f59e0b; font-size: 0.9rem;">⏳ Planning</span>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <p class="text-center" style="color: #94a3b8; padding: 40px;">No votes recorded yet. Be the first to request an exam!</p>
+    {% endif %}
+</div>
+
+<div class="text-center mb-40">
+    <a href="{{ url_for('test_routes.dashboard') }}" class="btn btn-outline-primary">
+        ← Back to Dashboard
+    </a>
+</div>
+
+{% endblock %}

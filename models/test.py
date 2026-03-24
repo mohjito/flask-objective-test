@@ -4,6 +4,7 @@ class Test(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(100), nullable=False)
     category = db.Column(db.String(50), nullable=False, default='General') # e.g. PRT, TGT, PGT
+    exam_type = db.Column(db.String(50), nullable=True, default='htet') # e.g. htet, ctet, kvs
     year = db.Column(db.Integer, nullable=False, default=2024)
     section = db.Column(db.String(50), nullable=False, default='Full Paper') # e.g. Hindi, English, Pedagogy
     duration = db.Column(db.Integer, default=10) # Duration in minutes
@@ -20,3 +21,9 @@ class Question(db.Model):
     options_hindi = db.Column(db.JSON, nullable=True) # Hindi options
     correct_answer = db.Column(db.String(100), nullable=False)
     test_id = db.Column(db.Integer, db.ForeignKey('test.id'), nullable=False)
+
+class ExamVote(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    category = db.Column(db.String(50), nullable=False) # e.g. TGT, PRT
+    exam_type = db.Column(db.String(50), nullable=False) # e.g. ctet, kvs
+    vote_count = db.Column(db.Integer, default=1)

@@ -1,5 +1,5 @@
 from flask import Blueprint, request, render_template, redirect, url_for, flash
-from models.test import Test, Question, db
+from models.test import Test, Question, ExamVote, db
 from models.result import TestResult
 from flask_login import login_required, current_user
 
@@ -12,6 +12,42 @@ def dashboard():
     categories = db.session.query(Test.category).distinct().all()
     categories = [c[0] for c in categories if c[0]]  # Filter out None values
     return render_template('dashboard.html', categories=categories)
+    
+@test_routes.route('/select_exam_type/<category>', methods=['GET'])
+def select_exam_type(category):
+    # Options requested by user
+    exam_types = ['htet', 'ctet', 'kvs', 'nvs', 'Emrs', 'Dssb']
+    
+    # Check which exam types actually have tests in the DB for this category
+    available_types = db.session.query(Test.exam_type).filter_by(category=category).distinct().all()
+    available_types = [t[0].lower() for t in available_types if t[0]]
+    
+    return render_template('select_exam_type.html', 
+                           category=category, 
+                           exam_types=exam_types,
+                           available_types=available_types)
+
+@test_routes.route('/vote_exam_type/<category>/<exam_type>', methods=['POST'])
+def vote_exam_type(category, exam_type):
+    # Persist the vote in the database
+    vote = ExamVote.query.filter_by(category=category, exam_type=exam_type.lower()).first()
+    
+    if vote:
+        vote.vote_count += 1
+    else:
+        vote = ExamVote(category=category, exam_type=exam_type.lower(), vote_count=1)
+        db.session.add(vote)
+    
+    db.session.commit()
+    
+    flash(f'Thanks for your vote! We will prioritize uploading {exam_type.upper()} tests for {category}. (Current votes: {vote.vote_count})', 'success')
+    return redirect(url_for('test_routes.select_exam_type', category=category))
+
+@test_routes.route('/admin/votes')
+def view_votes():
+    # Only show this to admin (for now, everyone who knows the URL)
+    votes = ExamVote.query.order_by(ExamVote.vote_count.desc()).all()
+    return render_template('view_votes.html', votes=votes)
 
 @test_routes.route('/donate')
 def donate():
@@ -25,17 +61,17 @@ def profile():
         .order_by(TestResult.date_taken.desc()).all()
     return render_template('profile.html', results=results)
 
-@test_routes.route('/select_year/<category>', methods=['GET'])
-def select_year(category):
-    # Get unique years for the category
-    years = db.session.query(Test.year).filter_by(category=category).distinct().order_by(Test.year.desc()).all()
+@test_routes.route('/select_year/<category>/<exam_type>', methods=['GET'])
+def select_year(category, exam_type):
+    # Get unique years for the category and exam_type
+    years = db.session.query(Test.year).filter_by(category=category, exam_type=exam_type).distinct().order_by(Test.year.desc()).all()
     years = [y[0] for y in years if y[0]]  # Filter out None values
-    return render_template('select_year.html', category=category, years=years)
+    return render_template('select_year.html', category=category, exam_type=exam_type, years=years)
 
-@test_routes.route('/select_paper/<category>/<int:year>', methods=['GET'])
-def select_paper(category, year):
-    tests = Test.query.filter_by(category=category, year=year).all()
-    return render_template('select_paper.html', category=category, year=year, tests=tests)
+@test_routes.route('/select_paper/<category>/<exam_type>/<int:year>', methods=['GET'])
+def select_paper(category, exam_type, year):
+    tests = Test.query.filter_by(category=category, exam_type=exam_type, year=year).all()
+    return render_template('select_paper.html', category=category, exam_type=exam_type, year=year, tests=tests)
 
 @test_routes.route('/take_test/<int:test_id>', methods=['GET'])
 def take_test(test_id):
